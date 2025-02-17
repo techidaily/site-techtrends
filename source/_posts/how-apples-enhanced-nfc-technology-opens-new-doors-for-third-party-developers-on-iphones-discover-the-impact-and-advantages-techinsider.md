@@ -1,7 +1,7 @@
 ---
 title: "How Apple's Enhanced NFC Technology Opens New Doors for Third-Party Developers on iPhones: Discover the Impact and Advantages | TechInsider"
-date: 2025-01-18T17:39:42.082Z
-updated: 2025-01-25T19:54:52.657Z
+date: 2025-02-15T22:22:55.265Z
+updated: 2025-02-16T20:27:29.637Z
 tags:
   - apple
 categories:
@@ -54,10 +54,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Security and privacy implications
 
   
@@ -76,7 +72,7 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## App Store changes
@@ -90,7 +86,7 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
@@ -107,6 +103,10 @@ The changes could also lead to increased innovation and competition in markets s
 
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open standards and protocols and the increase of open-source software on Apple platforms
 
 With a requirement for sideloading and allowing third-party app stores and a need for providing more open access to APIs, the call for open standards and increased use of open-source software on Apple platforms may also gain momentum. This shift toward openness will enhance interoperability across devices and challenge Apple's long-standing paradigms of exclusivity and controlled ecosystems. 
@@ -117,7 +117,7 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -131,7 +131,7 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -170,19 +170,18 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-followers-in-motion-analyzer/"><u>[New] 2024 Approved Followers in Motion Analyzer</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-educator-elite-selective-learning-yt-channels-for-2024/"><u>[New] Educator Elite Selective Learning YT Channels for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-snapshot-surge-pro-high-quality-mobile-images-with-zero-cost/"><u>[New] Snapshot Surge Pro High-Quality Mobile Images with Zero Cost</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-affordable-action-camera-deals-top-6-for-less-than-100-only/"><u>[Updated] In 2024, Affordable Action Camera Deals Top 6 for Less Than $100 Only</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-implementing-youtube-video-automatic-start-on-facebook/"><u>[Updated] In 2024, Implementing Youtube Video Automatic Start on Facebook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-visual-tales-expertly-warping-and-twisting-in-photoshop/"><u>Crafting Visual Tales Expertly Warping & Twisting in Photoshop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-6-greatest-nintendo-mario-rpgs-for-personal-computers/"><u>Discover the 6 Greatest Nintendo Mario RPGs for Personal Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-leading-iphone-email-solutions-weve-rated-them/"><u>Discover the Leading iPhone Email Solutions - We've Rated Them!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ifying-and-accessing-your-music-picks-on-youtube/"><u>Identifying and Accessing Your Music Picks on Youtube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-crafting-prime-valorant-video-thumbnails-on-youtube/"><u>In 2024, Crafting Prime Valorant Video Thumbnails on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-look-how-lg-products-reach-consumers-through-various-channels/"><u>Inside Look: How LG Products Reach Consumers Through Various Channels</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-switching-to-a-wi-fi-mesh-network-worth-your-time-and-money/"><u>Is Switching to a Wi-Fi Mesh Network Worth Your Time and Money?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/shop-now-and-save-big-get-up-to-60-off-the-top-rated-logitech-g-pro-x-superlight-for-gamers/"><u>Shop Now and Save Big: Get Up to 60% Off the Top-Rated Logitech G Pro X Superlight for Gamers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-d-link-the-ultimate-password-list-for-july-2024/"><u>Unlocking Your D-Link: The Ultimate Password List for July 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-keeping-track-saving-insta-visuals-on-iphone/"><u>[New] 2024 Approved Keeping Track Saving Insta Visuals on iPhone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-network-nodes-sites-that-spotlight-youtube-paid-content/"><u>2024 Approved Network Nodes Sites That Spotlight YouTube Paid Content</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amazon-offers-early-exclusive-sale-iphone-m2-macbook-pro-at-a-steal-for-only-800-latest-news/"><u>Amazon Offers Early Exclusive Sale: IPhone M2 MacBook Pro at a Steal for Only $800 | Latest News</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/full-assessment-experiencing-the-world-in-360-with-samsung/"><u>Full Assessment Experiencing the World in 360° with Samsung</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-access-concealed-account-details-using-macos-built-in-features/"><u>How to Access Concealed Account Details Using macOS Built-In Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-incremental-movie-moment/"><u>In 2024, Incremental Movie Moment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-updating-printer-drivers-on-legacy-oses/"><u>Quick Guide: Updating Printer Drivers on Legacy OSes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-advancements-in-wi-fi-tech-a-guide-to-understanding-and-utilizing-80211-be-ax-ac/"><u>The Advancements in Wi-Fi Tech: A Guide to Understanding and Utilizing 802.11 Be, Ax, Ac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-4-groundbreaking-ios-16-enhancements-justifying-the-shift-from-your-older-iphone-expert-insights-by-zdnet/"><u>Top 4 Groundbreaking iOS 16 Enhancements Justifying the Shift From Your Older iPhone: Expert Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-6-gaming-solid-state-drives-ultimate-guide-for-enhanced-performance-on-your-pc-xbox-and-playstation-5/"><u>Top 6 Gaming Solid-State Drives: Ultimate Guide for Enhanced Performance on Your PC, Xbox & PlayStation 5</u></a></li>
 </ul></div>
 

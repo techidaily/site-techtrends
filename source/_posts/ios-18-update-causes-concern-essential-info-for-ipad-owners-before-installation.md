@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Update Causes Concern: Essential Info for iPad Owners Before Installation"
-date: 2025-01-16T17:14:33.932Z
-updated: 2025-01-19T18:19:23.726Z
+date: 2025-02-15T19:30:31.850Z
+updated: 2025-02-17T00:58:24.934Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,21 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-simplified-image-management-in-google-photos/"><u>[New] Simplified Image Management in Google Photos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-resolve-ipadiphone-fb-video-playback-delays-for-2024/"><u>[Updated] Resolve iPad/iPhone FB Video Playback Delays for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-your-computer-to-an-external-display-a-comprehensive-guide-for-projectors/"><u>Connecting Your Computer to an External Display: A Comprehensive Guide for Projectors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-blue-screen-of-death-a-users-manual-to-understanding-windows-errors/"><u>Decoding Blue Screen of Death: A User's Manual to Understanding Windows Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-repair-tips-for-a-malfunctioning-logitech-k520-keyboard-step-by-step-solutions/"><u>Effortless Repair Tips for a Malfunctioning Logitech K520 Keyboard | Step-by-Step Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-steps-to-restore-accidentally-deleted-documents-in-windows-11/"><u>Effortless Steps to Restore Accidentally Deleted Documents in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/eliminating-nvidia-drivers-a-complete-guide-for-windows-10-users/"><u>Eliminating NVIDIA Drivers: A Complete Guide for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s23-tactical-edition-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S23 Tactical Edition in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-cannot-open-file-error-in-windows/"><u>Immediate Fixes for Cannot Open File Error in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/inclusion-of-microtransactions-necessary-or-superfluous/"><u>Inclusion of Microtransactions: Necessary or Superfluous?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mastering-fcp-editing-audio-like-a-pro/"><u>New 2024 Approved Mastering FCP Editing Audio Like a Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y78t-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y78t Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tailoring-your-own-ai-conversational-agent-with-gpt-technology-key-steps-unveiled/"><u>Tailoring Your Own AI Conversational Agent with GPT Technology - Key Steps Unveiled</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insider-knowledge-instagrams-music-copyright-landscape-decoded/"><u>[New] In 2024, Insider Knowledge Instagram's Music Copyright Landscape Decoded</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-flipping-video-content-easily-in-android-applications-for-2024/"><u>[Updated] Flipping Video Content Easily in Android Applications for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-guide-vidma-replayer-insights-and-rivals/"><u>2024 Approved Ultimate Guide Vidma Replayer - Insights & Rivals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-music-streaming-on-a-budget-securing-spotifys-educational-offer/"><u>Affordable Music Streaming on a Budget: Securing Spotify's Educational Offer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/avi-converteren-vanaf-3gp-online-zonder-kosten-professioneel-zeer-nut-als-movavi-alternatief/"><u>AVI Converteren Vanaf 3GP Online Zonder Kosten - Professioneel Zeer Nut Als Movavi Alternatief</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-repairing-jvmdll-is-missing-or-corrupt-issues/"><u>Comprehensive Guide: Repairing 'JVM.DLL Is Missing or Corrupt' Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-where-to-watch-films-without-payment/"><u>Discover the Ultimate List: Where to Watch Films Without Payment</u></a></li>
+<li><a href="https://video-capture.techidaily.com/download-dos-and-donts-for-vrecorder/"><u>Download Dos & Don’ts for VRecorder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-built-in-extensions-uses-and-functionalities/"><u>Exploring ChatGPT's Built-In Extensions: Uses & Functionalities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-rectify-missing-d3d941dll-error-messages-on-your-pc/"><u>How to Rectify Missing D3d9_41.dll Error Messages on Your PC?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-note-30-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Note 30 to iPod | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oneplus-nord-3-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On OnePlus Nord 3 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macos-terminal-tricks-for-accessing-concealed-files-easily/"><u>MacOS Terminal Tricks for Accessing Concealed Files Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-casting-technology-connect-your-device-to-an-lg-smart-tv/"><u>Mastering Casting Technology: Connect Your Device to an LG Smart TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-no-cost-photo-editing-software-options/"><u>Top 6 No-Cost Photo Editing Software Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the Integrated Workout Tracking of Apple Watch Enough or Should You Stick with Garmin Devices?
-date: 2025-02-01T16:11:45.999Z
-updated: 2025-02-07T16:02:45.229Z
+date: 2025-02-09T18:15:21.378Z
+updated: 2025-02-17T02:31:40.079Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -31,15 +31,15 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
@@ -54,7 +54,7 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -75,6 +75,10 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -84,7 +88,7 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
@@ -104,10 +108,6 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,20 +149,16 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-expand-your-horizon-the-top-15-youtube-science-hubs-2-written-by-user/"><u>[Updated] Expand Your Horizon The Top 15 YouTube Science Hubs (2 Written By User</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-best-compact-kensun-tire-filler-for-on-the-go-use/"><u>Evaluating the Best Compact Kensun Tire Filler for On-the-Go Use</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oneplus-12-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus 12 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-visual-beats-combining-photography-and-audio/"><u>In 2024, Visual Beats Combining Photography and Audio</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-hot-30-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Hot 30 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/real-time-broadcasting-made-easy-discover-the-power-of-manycam-your-ultimate-live-streaming-and-virtual-cam-app/"><u>Real-Time Broadcasting Made Easy: Discover the Power of ManyCam - Your Ultimate Live Streaming and Virtual Cam App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionize-your-broadcasting-with-manycam-the-top-live-video-and-simulated-camera-tech/"><u>Revolutionize Your Broadcasting with ManyCam - The Top Live Video and Simulated Camera Tech</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionize-your-online-presence-with-manycam-advanced-features-for-seamless-live-video-production/"><u>Revolutionize Your Online Presence with ManyCam - Advanced Features for Seamless Live Video Production</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-webcam-experience-syncing-manycam-for-enhanced-gotomeeting-presentations-step-by-step-setup-and-support-resources/"><u>Seamless Webcam Experience: Syncing ManyCam for Enhanced GoToMeeting Presentations – Step-by-Step Setup & Support Resources</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-picks-for-virtual-webcams-and-hd-live-broadcasting-tools-beyond-manycam/"><u>Top Picks for Virtual Webcams and HD Live Broadcasting Tools Beyond ManyCam</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-accessories-comprehensive-reviews-by-tech-specialists/"><u>Top-Rated Apple Watch Accessories : Comprehensive Reviews by Tech Specialists</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-livestreams-with-manycam-advanced-video-editing-and-fake-background-capabilities/"><u>Transform Your Livestreams with ManyCam: Advanced Video Editing & Fake Background Capabilities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-online-presence-the-power-of-manycam-for-seamless-livestreams-and-virtual-cameras/"><u>Transform Your Online Presence: The Power of ManyCam for Seamless Livestreams and Virtual Cameras</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-15-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 15 Plus Passcode without a Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-power-of-meta-ai-on-instagram-techniques-for-optimization/"><u>Unveiling the Power of Meta AI on Instagram - Techniques for Optimization</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-bridging-social-spheres-transferring-tweets-to-whatsapp-directly/"><u>[New] 2024 Approved Bridging Social Spheres Transferring Tweets to WhatsApp Directly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>[New] 2024 Approved Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-rx-memory-treasure/"><u>2024 Approved RX Memory Treasure</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/boost-your-pcs-efficiency-tips-and-tricks-from-yl-computing/"><u>Boost Your PC's Efficiency: Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-motorola-moto-g84-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Motorola Moto G84 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-for-repairing-missing-or-corrupt-ac1st16dll-errors-efficiently/"><u>Expert Advice for Repairing Missing or Corrupt ac1st16.dll Errors Efficiently</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guilty-gear-strive-performance-enhanced-say-goodbye-to-lags/"><u>Guilty Gear Strive Performance Enhanced: Say Goodbye to Lags!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/maintaining-image-integrity-effective-instagram-photowatermarking/"><u>Maintaining Image Integrity Effective Instagram Photowatermarking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-newest-apple-audio-gizmo-revealed-predictions-on-price-tag-drop-date-and-specs/"><u>The Newest Apple Audio Gizmo Revealed? Predictions on Price Tag, Drop Date and Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-uk-series-streaming-on-netflix-today/"><u>Top UK Series Streaming on Netflix Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-when-your-vehicles-audio-goes-silent/"><u>What To Do When Your Vehicle's Audio Goes Silent</u></a></li>
 </ul></div>
 

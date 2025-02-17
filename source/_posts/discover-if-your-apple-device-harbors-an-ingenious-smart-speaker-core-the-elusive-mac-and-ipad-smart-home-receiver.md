@@ -1,7 +1,7 @@
 ---
 title: Discover If Your Apple Device Harbors an Ingenious Smart Speaker Core - The Elusive Mac and iPad Smart Home Receiver
-date: 2025-02-05T16:13:15.830Z
-updated: 2025-02-07T16:14:58.713Z
+date: 2025-02-11T21:47:28.140Z
+updated: 2025-02-17T01:07:05.467Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Sabrina Ortiz/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -71,7 +71,7 @@ It only weighs 6.9 ounces, so it won't weigh your work bag or suitcase down, and
 In addition to the charging station, the only other thing you need to bring with you is a high-output USB-C cable and adapter, both of which are included in the box. The Anker adapter maxes out at 40W, so anything that's the same or higher would be ideal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -108,22 +108,22 @@ If you consider yourself an Apple aficionado -- or just a big fan of wireless ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/arness-the-power-of-engagement-boosting-youtube-traffic/"><u>[New] Harness the Power of Engagement Boosting YouTube Traffic</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-instagram-videographers-manual-enhancing-quality-and-creativity/"><u>[New] In 2024, The Instagram Videographer's Manual Enhancing Quality and Creativity</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-master-the-algorithm-top-youtube-seo-tips-and-techniques/"><u>[Updated] In 2024, Master the Algorithm Top YouTube SEO Tips and Techniques</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-capture-and-convert-fb-videos-immediitsly-to-mp3/"><u>2024 Approved Capture and Convert FB Videos Immediitsly to MP3</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y100-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y100 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-a-firestick-with-your-projector-a-comprehensive-guide/"><u>Connecting a Firestick with Your Projector: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-methods-for-viewing-contents-of-rar-files-using-macos-tools/"><u>Easy Methods for Viewing Contents of RAR Files Using macOS Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-remedies-when-your-dvdbdcd-drive-stops-working-properly/"><u>Effective Remedies When Your DVD/BD/CD Drive Stops Working Properly</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/effortless-visual-content-creation-for-instagram-users/"><u>Effortless Visual Content Creation for Instagram Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-do-i-manage-multiple-youtube-accounts-effectively/"><u>How Do I Manage Multiple YouTube Accounts Effectively?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/how-to-identify-premium-hassle-free-free-srt-translator-services/"><u>How to Identify Premium, Hassle-Free Free SRT Translator Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-pick-a-winning-gaming-pc-a-buyers-guide-to-key-specifications-and-features/"><u>How to Pick a Winning Gaming PC – A Buyer’s Guide to Key Specifications and Features</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-content-essential-youtube-studio-editing-skills/"><u>In 2024, Transform Your Content Essential YouTube Studio Editing Skills</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-macbook-thermal-management-tips-for-monitoring-your-laptops-heat-levels/"><u>Mastering MacBook Thermal Management: Tips for Monitoring Your Laptop's Heat Levels</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-ios-16-a-guide-to-using-iphones-new-photo-cutouts/"><u>Mastering the Art of iOS 16: A Guide to Using iPhone's New Photo Cutouts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-5-key-questions-to-ask-when-shopping-for-the-perfect-smartwatch/"><u>The 5 Key Questions to Ask When Shopping for the Perfect Smartwatch</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-leveraging-buysellads-for-successful-blogging-monetization/"><u>The Ultimate Guide to Leveraging BuySellAds for Successful Blogging Monetization</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-end-screen-magic-free-templates-to-boost-video-appeal/"><u>[New] 2024 Approved End-Screen Magic Free Templates to Boost Video Appeal</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-dynamic-duels-and-daring-deeds-top-10-gaming-highlights-for-2024/"><u>[New] Dynamic Duels & Daring Deeds Top 10 Gaming Highlights for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-xchange-your-mind-with-non-sharex-insights/"><u>[New] XChange Your Mind with Non-ShareX Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/craft-captivating-content-with-30-video-ideas/"><u>Craft Captivating Content with 30 Video Ideas</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-twitch-disruptions-identifying-global-failures-or-local-glitches/"><u>Deciphering Twitch Disruptions: Identifying Global Failures or Local Glitches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-effective-no-cost-language-learning-tools-for-this-year/"><u>Discover the Most Effective No-Cost Language Learning Tools for This Year</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/download-gratuito-guia-passo-a-passo-para-clonar-discos-ssd-ou-hd-com-programas-livres/"><u>Download Gratuito: Guia Passo a Passo Para Clonar Discos SSD Ou HD Com Programas Livres</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-computer-speed-with-these-12-free-defrag-tools-expert-picks-of-july-2e/"><u>Enhance Computer Speed with These 12 Free Defrag Tools - Expert Picks of July 2E</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-optimize-your-android-device-stopping-apps-running-secretly/"><u>How to Optimize Your Android Device - Stopping Apps Running Secretly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-real-time-recording-battle-obs-studio-against-fraps/"><u>In 2024, Real-Time Recording Battle OBS Studio Against Fraps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-interaction-tomorrows-ai-evolution/"><u>Innovating Interaction: Tomorrow's AI Evolution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-exceptional-deals-on-ipads-before-theyre-gone/"><u>Secure Exceptional Deals on iPads Before They're Gone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ins-and-outs-of-navigating-the-bing-search-engine-efficiently/"><u>The Ins and Outs of Navigating the Bing Search Engine Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-human-resources-how-oracle-integrates-generative-ai-into-their-systems-insights-from-zdnet/"><u>Transforming Human Resources: How Oracle Integrates Generative AI Into Their Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turning-off-caption-services-during-amazon-prime-media-playback/"><u>Turning Off Caption Services During Amazon Prime Media Playback</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turning-off-safety-alerts-on-iphone-best-practices-explained/"><u>Turning Off Safety Alerts on iPhone: Best Practices Explained</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-setup-starter-kit-for-excursion-documentation/"><u>Video Setup Starter Kit for Excursion Documentation</u></a></li>
 </ul></div>
 

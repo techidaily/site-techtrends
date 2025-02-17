@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2025-01-31T16:13:38.978Z
-updated: 2025-02-07T16:05:18.471Z
+date: 2025-02-15T21:24:30.870Z
+updated: 2025-02-16T22:13:26.259Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -52,10 +52,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -69,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -81,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,19 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>[New] Transforming Scenes with Ease Your GoPro Time-Lapse Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unleashing-your-creative-potential-expert-led-audio-transition-workshops-in-audacity/"><u>[Updated] Unleashing Your Creative Potential Expert-Led Audio Transition Workshops in Audacity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/affordable-replacements-for-skype-top-picks-of-2eae-2024/"><u>Affordable Replacements for Skype: Top Picks of 2Eae 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-the-price-tag-a-deep-dive-into-why-apple-watch-series-9-is-worth-it-over-budget-models-exclusive-review-by-zdnets-senior-gadget-analyst/"><u>Beyond the Price Tag: A Deep Dive Into Why Apple Watch Series 9 Is Worth It Over Budget Models | Exclusive Review by ZDNET's Senior Gadget Analyst</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-nubia-z50s-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Nubia Z50S Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/editing-instagram-chats-efficiently-what-you-need-to-know/"><u>Editing Instagram Chats Efficiently – What You Need to Know</u></a></li>
-<li><a href="https://blog-min.techidaily.com/enhance-your-livestream-with-manycam-the-ultimate-software-and-online-camera-guide/"><u>Enhance Your Livestream with ManyCam - The Ultimate Software & Online Camera Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ditor-how-to-make-animated-gif-images-online-from-youtube-video-for-2024/"><u>GIF Editor How to Make Animated GIF Images Online From YouTube Video for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/julys-complete-list-of-netgear-default-login-details/"><u>July's Complete List of NETGEAR Default Login Details</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionary-tricks-to-juice-up-your-mobile-device-sans-charger/"><u>Revolutionary Tricks to Juice Up Your Mobile Device Sans Charger</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-must-have-mobile-applications-every-teen-needs-in-high-school/"><u>Top 10 Must-Have Mobile Applications Every Teen Needs in High School</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-12-mini-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 12 mini Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unraveling-revenue-how-much-do-creators-make-on-youtube-adverts-for-2024/"><u>Unraveling Revenue How Much Do Creators Make on Youtube Adverts for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-expect-from-meta-quest-3-lite-analyzing-future-pricing-release-windows-and-speculative-tech-specs/"><u>What to Expect From Meta Quest 3 Lite? Analyzing Future Pricing, Release Windows & Speculative Tech Specs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-the-nuances-of-professional-voice-over-workflow/"><u>[New] 2024 Approved Navigating the Nuances of Professional Voice Over Workflow</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-techniques-to-masterboard-use-during-remote-collaborations-across-various-operating-systems/"><u>[New] Expert Techniques to Masterboard Use During Remote Collaborations Across Various Operating Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-photographic-magic-the-best-grid-tools-ranked/"><u>[New] In 2024, Photographic Magic - The Best Grid Tools Ranked</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>[Updated] Getting the Most Out of Your Youtube Videos Thumbnails Extraction</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-ringtones-on-ios-a-comprehensible-process/"><u>2024 Approved Mastering Ringtones on iOS A Comprehensible Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beating-the-0x80070570-glitch-expert-troubleshooting-steps/"><u>Beating the 0X80070570 Glitch: Expert Troubleshooting Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-get-microsoft-word-without-paying-anything/"><u>Can You Get Microsoft Word Without Paying Anything?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-poco-c55-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco C55 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-how-to-enable-and-utilize-remote-access-on-a-samsung-smart-television/"><u>In Depth: How to Enable and Utilize Remote Access on a Samsung Smart Television</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-playlist-integration-on-spotify-for-a-seamless-listening-experience/"><u>Mastering the Art of Playlist Integration on Spotify for a Seamless Listening Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-d3dx933dll-file-not-detected-a-comprehensive-guide/"><u>Solving the d3dx9_33.dll File Not Detected: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streamlined-setup-connecting-multiple-bluetooth-units-to-a-single-source/"><u>Streamlined Setup: Connecting Multiple Bluetooth Units to a Single Source</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-laptop-with-effortless-dual-4k-compatible-with-non-supportive-hardware-discover-how-product-name-changes-the-game/"><u>Transform Your Laptop with Effortless Dual 4K: Compatible with Non-Supportive Hardware! Discover How [Product Name] Changes the Game</u></a></li>
 </ul></div>
 

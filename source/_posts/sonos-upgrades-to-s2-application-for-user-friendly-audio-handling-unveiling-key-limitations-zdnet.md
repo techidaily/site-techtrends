@@ -1,7 +1,7 @@
 ---
 title: Sonos Upgrades to S2 Application for User-Friendly Audio Handling - Unveiling Key Limitations | ZDNet
-date: 2025-02-05T16:23:18.548Z
-updated: 2025-02-07T16:09:30.708Z
+date: 2025-02-09T19:03:10.680Z
+updated: 2025-02-16T22:58:28.018Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ While this move towards a [more integrated software environment](https://www.zdn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Observations of the new S2 UX
@@ -61,7 +61,7 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -77,7 +77,7 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -99,7 +99,7 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -117,7 +117,7 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -158,20 +158,22 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-budget-breakdown-funding-the-art-of-song-capture/"><u>[New] In 2024, Budget Breakdown Funding The Art of Song Capture</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-most-immersive-iphone-vr-games-ever-for-2024/"><u>[New] The Most Immersive iPhone VR Games Ever for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breakthrough-in-video-production-advanced-techniques-for-uploading-360-content-on-youtube/"><u>[Updated] 2024 Approved Breakthrough in Video Production Advanced Techniques for Uploading 360° Content on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/blending-your-loved-melodies-the-guide-to-combining-spotify-plays/"><u>Blending Your Loved Melodies: The Guide to Combining Spotify Plays</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-performance-by-purging-cache-on-android-devices-a-comprehensive-guide/"><u>Boost Performance by Purging Cache on Android Devices: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-resolving-when-a-mac-refuses-to-connect-with-an-additional-screen/"><u>Expert Tips for Resolving When a Mac Refuses to Connect with an Additional Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-m6-pro-4g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco M6 Pro 4G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguarding-systems-5-key-approaches-to-fix-windows-defender-hiccup/"><u>Safeguarding Systems: 5 Key Approaches to Fix Windows Defender Hiccup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-eradicating-that-persistent-bass-hum-in-your-system/"><u>Step-by-Step Tutorial: Eradicating That Persistent Bass Hum in Your System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-consumers-guide-expert-strategies-for-finding-and-acquiring-the-best-tv-model-for-your-residence/"><u>The Consumer's Guide: Expert Strategies for Finding and Acquiring the Best TV Model for Your Residence</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-picks-complimentary-and-open-access-dns-service-providers/"><u>Top Picks: Complimentary & Open Access DNS Service Providers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-accessories-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Apple Watch Accessories : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/twitter-video-series-breakdown-area-format-duration/"><u>Twitter Video Series Breakdown Area, Format, Duration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-to-ps5s-unique-gaming-experience-with-these-titles/"><u>Unlocking the Secrets to PS5's Unique Gaming Experience with These Titles</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/be-revenue-analysis-made-simple-for-2024/"><u>YouTube Revenue Analysis Made Simple for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-dive-into-iphone-photo-magic-with-surface-mirror-tips/"><u>[Updated] 2024 Approved Dive Into iPhone Photo Magic with Surface Mirror Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-methods-for-blocking-youtube-content-on-ios-devices/"><u>Effective Methods for Blocking YouTube Content on iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-solutions-addressing-and-repairing-the-coredll-not-detected-issue-on-windows/"><u>Expert Solutions: Addressing and Repairing the 'Core.dll Not Detected' Issue on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-pova-5-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Pova 5 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-itel-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Itel Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209667349-9781547574551-meditacion-tecnicas-de-meditacion-para-relajarse-y-aliviar-la-ansiedad-meditation/"><u>Meditación: Técnicas De Meditación Para Relajarse Y Aliviar La Ansiedad ( Meditation) | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-microsoft-teams-like-a-pro-the-power-of-ai-assistant-copilot/"><u>Navigating Microsoft Teams Like a Pro: The Power of AI Assistant Copilot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/qled-vs-oled-tv-showdown-understanding-key-features-and-performance/"><u>QLED Vs. OLED TV Showdown: Understanding Key Features and Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-errors-with-missing-dsounddll-files-in-windows-systems/"><u>Resolving Errors with Missing dsound.dll Files in Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-wlpapdll-error-a-comprehensive-guide/"><u>Resolving the wlpap.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-xiaomi-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Xiaomi Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-breakdown-of-the-502-bad-gateway-problem-and-fixing-it-quickly/"><u>The Definitive Breakdown of the 502 Bad Gateway Problem and Fixing It Quickly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-modern-wallet-navigating-iphone-and-apple-watch-for-effortless-apple-pay-usage/"><u>The Modern Wallet: Navigating iPhone and Apple Watch for Effortless Apple Pay Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-permanent-removal-of-your-yahoo-mail-account/"><u>The Ultimate Tutorial for Permanent Removal of Your Yahoo! Mail Account</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oneplus-ace-2-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 OnePlus Ace 2 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unseen-disc-reader-heres-how-to-fix-in-win11/"><u>Unseen Disc Reader? Here's How to Fix in Win11</u></a></li>
 </ul></div>
 

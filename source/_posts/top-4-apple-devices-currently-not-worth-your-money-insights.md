@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices Currently Not Worth Your Money: Insights"
-date: 2025-01-20T21:04:42.066Z
-updated: 2025-01-25T16:11:42.522Z
+date: 2025-02-11T00:46:26.126Z
+updated: 2025-02-16T17:42:27.606Z
 tags:
   - apple
 categories:
@@ -57,11 +57,11 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
-## **The 'Nice' list**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## **The 'Nice' list**
 
 ### **Apple iPhone 16**
 
@@ -71,6 +71,10 @@ Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple Watch Series 10**
 
 Apple Watch Series 10
@@ -78,10 +82,6 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -98,7 +98,7 @@ Along with the updated processor, this MacBook Air can also power two external m
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
@@ -114,6 +114,10 @@ Jason Hiner/ZDNET
 It's hard to bet against Apple, but a futuristic set of goggles with a starting price of [$3,499](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) doesn't feel like the easiest thing to sell. Still, Apple is Apple, and if any company can convince consumers to part with large sums of cash (and developers [to create apps](https://www.zdnet.com/article/apples-vision-pro-will-launch-with-600-new-apps-built-just-for-the-headset/) for a new platform that could fall flat on its face), it's Apple. 
 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
 
@@ -145,10 +149,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
 Christina Darby/ZDNET
@@ -171,7 +171,7 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple AirTag**
@@ -214,14 +214,22 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-fight-or-flight-digital-duels-decoded/"><u>[Updated] Fight or Flight Digital Duels Decoded</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-record-a-video-presentation-using-adobe-captivate/"><u>[Updated] How to Record a Video Presentation Using Adobe Captivate</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-step-into-success-beginners-guide-to-hosting-tech-product-discussions-online/"><u>[Updated] Step-Into Success Beginner’s Guide to Hosting Tech Product Discussions Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-overcoming-hp-security-manager-error-1325-during-windows-7-uninstall-process/"><u>Effective Solutions for Overcoming HP Security Manager Error 1325 During Windows 7 Uninstall Process</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-the-art-of-screenshot-with-zd-software-for-2024/"><u>Mastering the Art of Screenshot with ZD Software for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-waters-of-education-securing-a-discount-with-tidal-account/"><u>Navigating the Waters of Education: Securing a Discount with Tidal Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revamp-your-streaming-experience-fix-netflix-problems-on-lg-screens-using-our-top-19-hacks/"><u>Revamp Your Streaming Experience: Fix Netflix Problems on LG Screens Using Our Top 19 Hacks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-secrets-how-to-craft-your-own-awkward-potion-in-minecraft-legacy/"><u>Unveiling Secrets: How to Craft Your Own Awkward Potion in Minecraft Legacy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/watch-for-free-these-11-legit-download-sites-offer-unlimited-flicks/"><u>Watch for Free! These 11 Legit Download Sites Offer Unlimited Flicks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-building-powerful-relationships-through-strategic-social-media-engagement/"><u>[New] In 2024, Building Powerful Relationships Through Strategic Social Media Engagement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-apex-smartphone-triad-for-ultimate-video-quality/"><u>[Updated] Apex Smartphone Triad for Ultimate Video Quality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-x-recorder-plus-professional-edition-for-2024/"><u>[Updated] X-Recorder Plus - Professional Edition for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-vision-pro-now-available-on-amazon-with-an-uncommon-200-off-deal-limited-time-offer/"><u>Apple Vision Pro Now Available on Amazon with an Uncommon $200 Off Deal – Limited Time Offer!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connect-globally-for-free-expertly-selected-top-5-calling-applications/"><u>Connect Globally for Free: Expertly Selected Top 5 Calling Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-correcting-the-absence-of-msstdfmtdll-on-your-pc/"><u>Guide: Correcting the Absence of msstdfmt.dll on Your PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlocking-ez-grabber-a-quick-guide-to-downloading-setting-up/"><u>In 2024, Unlocking EZ Grabber - A Quick Guide to Downloading, Setting Up</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-rectangular-channels-a-is-width-times-depth-and-p-is-the-sum-of-all-sides-in-contact-with-water/"><u>In Rectangular Channels, A Is Width Times Depth and P Is the Sum of All Sides in Contact with Water</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-creativity-showdown-apple-pencil-pro-vs-apple-pencil-2nd-gen-ultimate-verdict-for-artists-and-designers-techradar/"><u>IPad Creativity Showdown: Apple Pencil Pro vs Apple Pencil (2Nd Gen) – Ultimate Verdict for Artists and Designers | TechRadar</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/metaverse-comedy-the-art-and-science-of-creating-viral-online-laughs-for-2024/"><u>Metaverse Comedy The Art & Science of Creating Viral Online Laughs for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/potential-march-release-date-leaked-apple-prepares-new-macbook-air-ipad-pro-and-ipad-air/"><u>Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air</u></a></li>
+<li><a href="https://techtrends.techidaily.com/say-goodbye-to-portable-charger-issues-with-ankers-incredible-20-battery-pack-as-featured-by-zdnet/"><u>Say Goodbye to Portable Charger Issues with Anker's Incredible $20 Battery Pack, as Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-updating-your-intel-graphics-drivers-without-a-hassle/"><u>Simple Guide: Updating Your Intel Graphics Drivers Without a Hassle</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tech-reviewers-top-phone-selections-revealed-by-zdnet-team/"><u>Tech Reviewers' Top Phone Selections Revealed by ZDNet Team</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-differences-between-ar-vr-mr-and-xr-a-comprehveinsion-for-tech-enthusiasts/"><u>The Differences Between AR, VR, MR & XR: A Comprehveinsion for Tech Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upgrade-your-handling-skills-the-right-methods-to-wield-iphones-and-airpods-in-unison-smart-advice-from-zdnet/"><u>Upgrade Your Handling Skills: The Right Methods to Wield iPhones and AirPods in Unison | Smart Advice From ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-7-system-service-exception-error-solution-step-by-step-guide-to-fix-it-now/"><u>Windows 7 'System Service Exception' Error [SOLUTION]: Step-by-Step Guide to Fix It Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Email Solutions on Your iPhone
-date: 2024-08-26T07:46:22.565Z
-updated: 2024-08-27T07:46:22.565Z
+date: 2025-02-14T20:46:24.604Z
+updated: 2025-02-17T02:31:02.761Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Ultimate Email Solutions on Your iPhone
@@ -23,6 +23,11 @@ thumbnail: https://www.lifewire.com/thmb/8B555MVkqBWhYWM74yuHo1cIK0w=/400x300/fi
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 ## How to Create, Send, and Forward Email
@@ -36,6 +41,10 @@ thumbnail: https://www.lifewire.com/thmb/8B555MVkqBWhYWM74yuHo1cIK0w=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -43,9 +52,6 @@ thumbnail: https://www.lifewire.com/thmb/8B555MVkqBWhYWM74yuHo1cIK0w=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -55,26 +61,15 @@ thumbnail: https://www.lifewire.com/thmb/8B555MVkqBWhYWM74yuHo1cIK0w=/400x300/fi
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -87,8 +82,9 @@ thumbnail: https://www.lifewire.com/thmb/8B555MVkqBWhYWM74yuHo1cIK0w=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -99,9 +95,6 @@ thumbnail: https://www.lifewire.com/thmb/8B555MVkqBWhYWM74yuHo1cIK0w=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -113,8 +106,9 @@ thumbnail: https://www.lifewire.com/thmb/8B555MVkqBWhYWM74yuHo1cIK0w=/400x300/fi
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -155,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +156,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastery-over-mobile-and-desktop-recording-team-discussions/"><u>[New] In 2024, Mastery Over Mobile & Desktop Recording Team Discussions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-path-to-perfect-visuals-an-advanced-course-in-vce-22/"><u>[New] In 2024, The Path to Perfect Visuals An Advanced Course in VCE 2.2</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-compilation-the-top-5-high-fidelity-cameras/"><u>2024 Approved Ultimate Compilation The Top 5 High Fidelity Cameras</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-raw-photos-to-png-for-free-effortless-image-editing-by-movavi/"><u>Convert RAW Photos to PNG for Free - Effortless Image Editing by Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/en-ligne-convertissez-gratuitement-des-fichiers-mp4-en-format-asf-avec-movavi/"><u>En Ligne : Convertissez Gratuitement Des Fichiers MP4 en Format ASF Avec Movavi</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/event-playlist-excellence-capturing-atmosphere-through-skillful-dj-mixes-and-track-selection/"><u>Event Playlist Excellence: Capturing Atmosphere Through Skillful DJ Mixes & Track Selection</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-features-of-the-asus-bw-16d1x-u-blu-ray-player-attractive-build-but-some-eccentricities-detected/"><u>Exploring the Features of the Asus BW-16D1X-U Blu-Ray Player: Attractive Build but Some Eccentricities Detected</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ferramenta-on-line-livre-para-converter-arquivos-ogv-em-mp4-com-movavi-comandos-simples-e-rapidos/"><u>Ferramenta On-Line Livre Para Converter Arquivos OGV Em MP4 Com Movavi - Comandos Simples E Rápidos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-conversion-transform-wav-files-into-avi-format-with-ease/"><u>Free Online Conversion: Transform WAV Files Into AVI Format with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-png-konvertierung-mit-movavi-effektive-online-bildbearbeitungssoftware-fur-freigegebene-dateiubersetzungen/"><u>Gratis PNG Konvertierung Mit Movavi - Effektive Online-Bildbearbeitungssoftware Für Freigegebene Dateiübersetzungen</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-invalid-directory-name-error-message/"><u>How to Resolve the 'Invalid Directory Name' Error Message</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavis-online-service-transform-mp4-files-into-m4b-format-at-no-cost/"><u>Movavi's Online Service - Transform MP4 Files Into M4B Format at No Cost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/moveavicr2bmp/"><u>Moveaviを使ってシームレスな無料CR2ファイルBMP変換 - ウェブサイト上での操作方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4-mka-movavi/"><u>MP4 표준으로 MKA 영상 변환하기 – 무가스 Movavi 도구를 사용한다</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quickly-resolve-your-call-of-duty-warzone-directx-problem-in-just-four-steps/"><u>Quickly Resolve Your Call of Duty: Warzone DirectX Problem in Just Four Steps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-guide-to-posting-panoramas-a-step-by-step-approach/"><u>The Ultimate Guide to Posting Panoramas A Step-By Step Approach</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-free-virtual-reality-movie-downloads-ultimate-guide-and-solutions/"><u>Top Free Virtual Reality Movie Downloads: Ultimate Guide and Solutions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Complete Process of Linking AirPods and MacBook Air Devices
-date: 2025-02-02T16:17:22.037Z
-updated: 2025-02-07T16:01:17.127Z
+date: 2025-02-16T02:34:22.629Z
+updated: 2025-02-16T23:58:27.007Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Process of Linking AirPods and MacBook Air Devices
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 
 ## The Complete Process of Linking AirPods and MacBook Air Devices
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * Easiest: Turn on**Bluetooth** , press button on AirPods case > click**AirPods** in the**Bluetooth** menu >**Connect** .
@@ -27,10 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 * AirPods won't connect? Make sure they're charged and Bluetooth is enabled on MacBook Air.
 
  This article explains how to connect AirPods to a MacBook Air, to create a light, portable pair for mobile work and listening to audio.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Connect Your AirPods to a MacBook Air
 
@@ -42,24 +34,28 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![System Settings from the Apple menu in macOS.](https://www.lifewire.com/thmb/RV3WC-OSvMcKyguMtnNOLltQpxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_connect-airpods-to-macbook-air-5188769-8bd1663aa3354508b8e8efb92e8af0ad.jpg)
 2. Click**Bluetooth** . Toggle Bluetooth on or click**Turn Bluetooth On** . Keep this window open for the next few steps.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Bluetooth toggle from System Settings in macOS.](https://www.lifewire.com/thmb/xDyy0-wNQe-XeQ-GMd0y--hFjXM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_connect-airpods-to-macbook-air-5188769-7b8ab0bf74af49d7a60326f58903a997.jpg)
 3. With both AirPods in the charging case, open the lid. Press the button on the AirPods case until the status light starts to blink.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The setup button on the AirPods case](https://www.lifewire.com/thmb/UluEXY72qkp63Gp8Wqrn11pixNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_connectairpods3-aa8835d06ca5488ea04a6597909f5872-72c6445e2b43481781ff26466cef507f.jpg)
 4. The AirPods will appear in the Bluetooth preferences window. Click**Connect** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Connect button for an available set of AirPods Pro in macOS Bluetooth settings.](https://www.lifewire.com/thmb/KG0yU2YAi6Ct5NjtMCIkdfyAA7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_connect-airpods-to-macbook-air-5188769-baf578afb7944e938c59b082037e82d4.jpg)
 5. In a moment, the AirPods will be connected to your MacBook Air and you'll be ready to listen to audio.  
 
- To use the AirPods with your MacBook Air in the future, you won't need all of these steps. By default, your AirPods should connect automatically or when last connected to your Mac. If they don't, connect them from the**Control Center** \>**Bluetooth** or from the Bluetooth settings menu.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To use the AirPods with your MacBook Air in the future, you won't need all of these steps. By default, your AirPods should connect automatically or when last connected to your Mac. If they don't, connect them from the**Control Center** \>**Bluetooth** or from the Bluetooth settings menu.
 
 ## Can You Connect Two Pairs of AirPods to One MacBook Air?
 
@@ -71,6 +67,10 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![The Audio MIDI Setup app from the Utilities folder in macOS.](https://www.lifewire.com/thmb/hDuapYeU0qS6jTic9j1qPLdfWRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_connect-airpods-to-macbook-air-5188769-1ed53dd151a7494d9e1818845e825a07.jpg)
 2. Click the**\+ (Plus)** sign, then select**Create Multi-Output Device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Create Multi-Output Device option from the add menu in the Audio MIDI Setup app in macOS.](https://www.lifewire.com/thmb/MqndcghTr5gA9bPNn5_9SqqiyRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_connect-airpods-to-macbook-air-5188769-5664d35fbbc2464d80a4f714c5955221.jpg)
 3. Check the box next to the two sets of AirPods. In the**Master Device** drop-down, choose your AirPods. Check the**Drift Correction** box next to your friend's AirPods.  
 
@@ -80,7 +80,7 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![A Multi-Output Device selected from the Output tab in macOS Sound settings.](https://www.lifewire.com/thmb/WcwsnAzXRRb5xQABJalZ7xjF9eI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-connect-airpods-to-macbook-air-5188769-40b916aaa66f4d22a180b33f9422adfc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Won't My AirPods Connect to My MacBook Air?
@@ -123,24 +123,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-magix-mixcrafts-features/"><u>[Updated] 2024 Approved The Ultimate Guide to Magix Mixcraft's Features</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elite-introductory-editors-for-app-platforms/"><u>[Updated] Elite Introductory Editors for App Platforms</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-sustaining-a-day-job-while-building-your-online-presence/"><u>[Updated] Sustaining a Day Job While Building Your Online Presence</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-ditching-xsplit-ideal-splitting-software/"><u>2024 Approved Ditching XSplit Ideal Splitting Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/common-fixes-to-get-your-mozilla-thunderbird-up-and-running-again/"><u>Common Fixes to Get Your Mozilla Thunderbird Up and Running Again</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-for-correcting-the-absent-msstdfmtdll-file-error-on-your-computer/"><u>Comprehensive Solutions for Correcting the Absent Msstdfmt.dll File Error on Your Computer</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210011346-9780316535281-cosmic-health/"><u>Cosmic Health | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-correctly-handle-lameencdll-exceptions-in-audacity-lame-mp3-projects/"><u>How to Correctly Handle lame_enc.dll Exceptions in Audacity Lame MP3 Projects</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/investigating-the-current-status-of-roblox-community-wide-problem-or-personal-glitches/"><u>Investigating the Current Status of Roblox: Community-Wide Problem or Personal Glitches?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp4mp3bin/"><u>MP4やMP3への変換方法：BINファイルから始めましょう！</u></a></li>
-<li><a href="https://techtrends.techidaily.com/nintendo-switch-online-woes-deciphering-between-global-downtime-and-local-tech-troubles/"><u>Nintendo Switch Online Woes: Deciphering Between Global Downtime and Local Tech Troubles</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-integrating-excel-sheets-into-microsoft-word/"><u>Step-by-Step Guide: Integrating Excel Sheets Into Microsoft Word</u></a></li>
-<li><a href="https://discover-help.techidaily.com/troubleshooting-incorrect-color-display-on-your-screen-tips-from-yl-computing/"><u>Troubleshooting Incorrect Color Display on Your Screen - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-mobile-vpns-of-2024-expert-evaluations-and-ratings-pcmag/"><u>Ultimate Guide to the Finest Mobile VPNs of 2024 - Expert Evaluations & Ratings | PCMag</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncovering-solutions-to-correct-the-missing-or-untraceable-d3dx924dll-file-issue/"><u>Uncovering Solutions to Correct the Missing or Untraceable d3dx9_24.dll File Issue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-a-look-inside-electric-motorcycle-engines/"><u>Unveiling the Secrets: A Look Inside Electric Motorcycle Engines</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-unseen-techniques-for-confirming-text-message-delivery-and-views/"><u>Unveiling the Unseen: Techniques for Confirming Text Message Delivery and Views</u></a></li>
-<li><a href="https://techtrends.techidaily.com/waterproofing-techniques-for-apple-products-a-comprehve-guide-on-drying-out-a-wet-phone-or-ipod/"><u>Waterproofing Techniques for Apple Products: A Comprehve Guide on Drying Out a Wet Phone or iPod</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-steps-picking-your-ideal-4k-lens/"><u>[New] 2024 Approved Essential Steps Picking Your Ideal 4K Lens</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-path-iphone-file-exchange/"><u>[New] Navigating the Path IPhone File Exchange</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamline-your-youtube-experience-shareable-playlists/"><u>[New] Streamline Your YouTube Experience Shareable Playlists</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-vivavideo-uncovered-user-perspectives-and-features/"><u>[Updated] 2024 Approved VivaVideo Uncovered User Perspectives and Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-high-quality-8-cam-transformations-for-streaming/"><u>[Updated] High-Quality 8 Cam Transformations for Streaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-time-saving-hacks-for-recording-instagram-stories/"><u>[Updated] In 2024, Time-Saving Hacks for Recording Instagram Stories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-diy-movie-making-on-youtube-and-comparable-creative-tools/"><u>In 2024, DIY Movie Making on YouTube & Comparable Creative Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/max-documentary-digest-for-july-2024-your-ultimate-guide-to-the-best-picks-in-town/"><u>Max Documentary Digest for July 2024: Your Ultimate Guide to the Best Picks in Town</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-interruptions-troubleshooting-tips-for-an-uncrashing-microsoft-outlook/"><u>Say Goodbye to Interruptions: Troubleshooting Tips for an Uncrashing Microsoft Outlook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-stop-0x0000003d-blue-screen-of-death/"><u>Solutions for Resolving STOP 0X0000003D Blue Screen of Death</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streamlining-communication-the-ultimate-guide-to-sharing-your-phone-number-across-all-gadgets/"><u>Streamlining Communication: The Ultimate Guide to Sharing Your Phone Number Across All Gadgets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-9-fun-and-free-preschool-games-online/"><u>Top 9 Fun & FREE Preschool Games Online</u></a></li>
 </ul></div>
 

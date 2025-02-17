@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look Into Google's Upcoming Extravaganza - Breaking Down Rumors and Confirmed Announcements
-date: 2024-08-26T07:43:54.180Z
-updated: 2024-08-27T07:43:54.180Z
+date: 2025-02-16T00:52:24.569Z
+updated: 2025-02-17T02:28:36.675Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Look Into Google's Upcoming Extravaganza - Breaking Down Rumors and Confirmed Announcements
@@ -12,17 +12,26 @@ thumbnail: https://www.lifewire.com/thmb/pylUd4FeVZP63g10GeMvlcl2waA=/400x300/fi
 ## In-Depth Look Into Google's Upcoming Extravaganza - Breaking Down Rumors and Confirmed Announcements
  Google holds events both annually and less regularly to announce new products and functionality. Google I/O is the company's conference for developers, while Made by Google is more consumer-facing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Date for the Next Google Event?
 
  The next Made by Google event is scheduled for August 13 at 10 AM PT. The last one,[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , was on May 14.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Will Google Announce?
 
  According to the company, the next Google event will be about Pixel devices, Android, and[Gemini](https://www.lifewire.com/what-is-google-bard-7151624) . We're due for updates on the[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ,[Pixel 9 phone](https://www.lifewire.com/google-pixel-9-8630767) ,[Pixel Tablet 2](https://www.lifewire.com/google-pixel-tablet-2-8600572) , and[Pixel Watch 3.](https://www.lifewire.com/google-pixel-watch-3-8431024)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Previous Google Events
 
  At Google's last event, the keynote for[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , the company talked almost exclusively about its Gemini AI platform. They showed off features that give you summaries of email threads and spreadsheets and an "AI Teammate" that you can add to Workspace to keep track of projects.
@@ -32,8 +41,9 @@ thumbnail: https://www.lifewire.com/thmb/pylUd4FeVZP63g10GeMvlcl2waA=/400x300/fi
  You can watch the entire event below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About Google
 
  You can [get more tech news from Lifewire](https://www.lifewire.com/news-4795879) , but here are our top Google-related stories.
@@ -68,8 +78,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +85,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-social-media-comparing-igtv-and-youtube-features/"><u>[New] In 2024, Navigating Social Media Comparing IGTV and YouTube Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-from-ordinary-to-extraordinary-creating-hdr-in-lightroom/"><u>[Updated] 2024 Approved From Ordinary to Extraordinary Creating HDR in Lightroom</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-livechat-capture-suite-fb-version/"><u>[Updated] LiveChat Capture Suite FB Version</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-sealed-snap-chronicles-an-experts-guidebook/"><u>[Updated] The Sealed Snap Chronicles An Expert's Guidebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-instagram-memories-with-these-apps/"><u>[Updated] Unlocking Instagram Memories with These Apps</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-itel-a60-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-quick-remedies-for-common-youtube-short-mishaps/"><u>2024 Approved Quick Remedies for Common YouTube Short Mishaps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypass-wireless-adaptor-glitches-with-these-10-effective-strategies/"><u>Bypass Wireless Adaptor Glitches with These 10 Effective Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-for-successfully-uploading-your-instagram-story/"><u>Essential Tips for Successfully Uploading Your Instagram Story</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-overcome-a-black-screen-glitch-on-facetime/"><u>How To Overcome A Black Screen Glitch on FaceTime?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-recover-from-a-missing-propsysdll-file-expert-troubleshooting-tips/"><u>How to Recover From a Missing 'Propsys.dll' File: Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-stream-the-2024-olympic-games-a-comprehensive-guide-for-enthusiasts/"><u>How to Stream the 2024 Olympic Games: A Comprehensive Guide for Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-my-aol-mail-not-working-distinguishing-between-service-disruptions-and-user-errors/"><u>Is My AOL Mail Not Working? Distinguishing Between Service Disruptions and User Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-pokemon-go-in-tandem-a-guide-to-shared-quests-and-battles/"><u>Navigating the World of 'Pokémon Go' In Tandem: A Guide to Shared Quests and Battles</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-evolving-landscape-generative-ais-impact-on-workforce-dynamics-and-software-development-roles-tech-analysis-by-zdnet/"><u>The Evolving Landscape: Generative AI's Impact on Workforce Dynamics & Software Development Roles | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-starting-problems-in-grand-theft-auto-v/"><u>Troubleshooting Guide: Starting Problems in Grand Theft Auto V</u></a></li>
+</ul></div>
 

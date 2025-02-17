@@ -1,7 +1,7 @@
 ---
 title: Boost Your Apple Watch's Battery with These Essential Setting Tweaks!
-date: 2025-02-03T16:08:57.657Z
-updated: 2025-02-07T16:15:47.445Z
+date: 2025-02-11T16:52:00.185Z
+updated: 2025-02-16T16:23:31.057Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -54,10 +54,6 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -65,10 +61,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -88,15 +80,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -105,6 +97,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -115,7 +111,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -123,6 +119,10 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,19 +165,22 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-top-quality-hd-screen-capture-tools/"><u>[New] 2024 Approved Ultimate Top-Quality HD Screen Capture Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/our-first-youtube-journey-a-money-making-blueprint/"><u>[New] Your First Youtube Journey A Money-Making Blueprint</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-the-mechanics-perfecting-every-snaps-boomerang-effect/"><u>[Updated] 2024 Approved Mastering the Mechanics Perfecting Every Snap's Boomerang Effect</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-overcome-missing-msstdfmtdll-on-your-computer/"><u>Comprehensive Guide to Overcome 'Missing' msstdfmt.dll on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-new-samsung-galaxy-z-flip-6-find-out-about-its-features-market-price-and-upcoming-availability/"><u>Explore the New Samsung Galaxy Z Flip 6: Find Out About Its Features, Market Price & Upcoming Availability</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Without Passcode?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen/"><u>In 2024, Revealing Rays of Light The Ultimate Guide for Choosing a Premium 4K Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/pushing-boundaries-razer-basilisk-v3-pro-for-gamers/"><u>Pushing Boundaries: Razer Basilisk V3 Pro for Gamers</u></a></li>
-<li><a href="https://win11.techidaily.com/reset-and-reboot-your-way-back-into-the-ms-store-windows-11/"><u>Reset & Reboot Your Way Back Into the MS Store (Windows 11)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-motorola-moto-g-stylus-2023-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Motorola Moto G Stylus (2023) Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-no-power-issues-on-desktops-and-notebooks-with-ease/"><u>Solving No-Power Issues on Desktops and Notebooks with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-playbook-for-xbox-game-pass-ultimates-cloud-gaming-features/"><u>The Definitive Playbook for Xbox Game Pass Ultimate's Cloud Gaming Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-roadmap-for-earning-a-student-price-cut-at-microsoft-store/"><u>The Ultimate Roadmap for Earning a Student Price Cut at Microsoft Store</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-the-missing-vcompdll-error-message/"><u>Troubleshooting Steps for the Missing Vcomp.dll Error Message</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-crafting-a-compelling-video-story-with-b-roll-variety/"><u>[New] Crafting a Compelling Video Story with B-Roll Variety</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-photographic-sparkle-essential-ideas-for-inspired-posts/"><u>[Updated] 2024 Approved Photographic Sparkle Essential Ideas for Inspired Posts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-quick-focus-effortless-viewport-changes-on-iphone-for-2024/"><u>[Updated] Quick Focus Effortless Viewport Changes on iPhone for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speech-to-text-efficient-conversion-techniques-for-microsoft-word-users/"><u>2024 Approved Speech to Text Efficient Conversion Techniques for Microsoft Word Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/avoiding-shaky-drone-imagery-with-top-tier-gimbals-for-2024/"><u>Avoiding Shaky Drone Imagery with Top-Tier Gimbals for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-walkthrough-for-snapchat-use-on-personal-computer-systems/"><u>Complete Walkthrough for Snapchat Use on Personal Computer Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-switching-to-low-light-display-for-iphones/"><u>Expert Advice: Switching to Low Light Display for iPhones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-errors-with-directinputdll-in-the-microsoft-framework/"><u>Fixing Errors with DirectInput.dll in the Microsoft Framework</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/globalviewers-access-unlimited-local-tv-for-life/"><u>GlobalViewers Access Unlimited Local TV for Life</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-11-pro-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/perfect-harmony-expert-advice-for-pairing-and-enjoying-bose-soundlink-products/"><u>Perfect Harmony: Expert Advice for Pairing and Enjoying Bose Soundlink Products</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sid-meiers-civilization-vi-crash-woes-expert-fixes-to-get-you-back-in-action/"><u>Sid Meier’s Civilization VI Crash Woes? Expert Fixes to Get You Back in Action!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-rankings-of-miniature-gaming-desktops-for-gamers/"><u>The Ultimate Rankings of Miniature Gaming Desktops for Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-what-to-do-when-youtube-keeps-crashing/"><u>Troubleshooting Tips: What To Do When YouTube Keeps Crashing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-choosing-all-emails-at-once-in-gmail/"><u>Ultimate Guide: Choosing All Emails at Once in Gmail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/updated-list-of-default-credentials-for-d-link-routers-and-modems-july-update/"><u>Updated List of Default Credentials for D-Link Routers and Modems (July Update)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-guide-to-contacting-snapchat-support-for-assistance-and-repairs/"><u>Your Guide to Contacting Snapchat Support for Assistance and Repairs</u></a></li>
 </ul></div>
 

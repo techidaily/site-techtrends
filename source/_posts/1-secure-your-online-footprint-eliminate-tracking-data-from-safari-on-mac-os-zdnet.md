@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2025-02-03T16:10:14.986Z
-updated: 2025-02-07T16:01:29.201Z
+date: 2025-02-12T02:09:05.478Z
+updated: 2025-02-17T01:01:49.381Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,20 +119,21 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-motion-magic-mixtures/"><u>[New] Motion Magic Mixtures</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-capturing-life-with-iphones-dual-function-capability-for-2024/"><u>[Updated] Capturing Life with iPhone’s Dual-Function Capability for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-stand-out-as-an-elite-gamer-on-youtube-for-2024/"><u>[Updated] Stand Out as an Elite Gamer on Youtube for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/downloading-dynamite-a-tiktok-hustle-manual-for-2024/"><u>Downloading Dynamite - A TikTok Hustle Manual for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-harnessing-the-power-of-your-androids-quick-settings-menu/"><u>Expert Advice: Harnessing the Power of Your Android's Quick Settings Menu</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-clean-up-your-visual-content-by-deleting-photos-on-facebook/"><u>How To Clean Up Your Visual Content by Deleting Photos on Facebook</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-complete-overview-screenflow-v4-for-macos/"><u>In 2024, Complete Overview ScreenFlow v4 for macOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/massive-microsoft-excel-online-edition-update-transforms-functionality/"><u>Massive Microsoft Excel Online Edition Update Transforms Functionality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-ways-to-disable-mouse-acceleration-and-improve-precision-in-macos-systems/"><u>Simple Ways to Disable Mouse Acceleration and Improve Precision in macOS Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-viewing-and-sharing-2024-summer-olympics-online/"><u>Step-by-Step Instructions on Viewing and Sharing 2024 Summer Olympics Online</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-12-pro-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 12 Pro You Should Try Out</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshoot-and-enjoy-19-effective-solutions-for-netflix-problems-on-lg-tv-screens/"><u>Troubleshoot & Enjoy: 19 Effective Solutions for Netflix Problems on LG TV Screens</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/truckers-choice-in-budget-friendly-audio-gadgets-review-of-the-top-pick/"><u>Truckers’ Choice in Budget-Friendly Audio Gadgets: Review of the Top Pick</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-productivity-on-social-media-discover-five-key-methods-for-better-facebook-usage/"><u>Unlocking Productivity on Social Media: Discover Five Key Methods for Better Facebook Usage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-we-know-about-the-next-google-pixel-phone-pricing-insights-release-window-and-speculative-details/"><u>What We Know About the Next Google Pixel Phone - Pricing Insights, Release Window & Speculative Details</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-screen-saver-games-the-top-9-independent-titles-for-android-no-wi-fi/"><u>[New] 2024 Approved Screen-Saver Games The Top 9 Independent Titles for Android (No Wi-Fi)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-unusual-moisture-found-in-iphone-charging-port-what-can-be-done/"><u>1. Unusual Moisture Found in iPhone Charging Port: What Can Be Done?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-seamless-screen-effects-3-simple-shifting-methods/"><u>2024 Approved Seamless Screen Effects 3 Simple Shifting Methods</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-transforming-youtube-descriptions-leveraging-template-power/"><u>2024 Approved Transforming YouTube Descriptions Leveraging Template Power</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/begin-the-stream-an-introduction-to-instagram-lives/"><u>Begin the Stream An Introduction to Instagram Lives</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/niently-share-your-videos-youtube-shorts-mobilecomputer-tips-for-2024/"><u>Conveniently Share Your Videos YouTube Shorts Mobile/Computer Tips for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-latest-airpods-pro-4-with-cutting-edge-find-my-speaker-and-usb-c-compatibility-tech-news/"><u>Discover the Latest: AirPods Pro 4 with Cutting-Edge Find My Speaker & USB-C Compatibility | Tech News</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-elevate-your-shots-the-ultimate-action-cam-accessory-list/"><u>In 2024, Elevate Your Shots The Ultimate Action Cam Accessory List</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2065481-9781785350085-live-in-the-moment-including-zen-and-the-art-of-healing/"><u>Live in the Moment, Including Zen and the Art of Healing | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tailored-transmission-terminal-podcasters-hub/"><u>Tailored Transmission Terminal Podcaster's Hub</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-perfect-selection-of-video-game-consoles-and-toys-for-budding-gamers/"><u>The Perfect Selection of Video Game Consoles and Toys for Budding Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-free-educational-apps-perfect-for-school-beginnings/"><u>Top 7 Free Educational Apps Perfect for School Beginnings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ranking-2024-stylus-tablets-comprehensive-reviews-by-tech-specialists/"><u>Top-Ranking 2024 Stylus Tablets: Comprehensive Reviews by Tech Specialists</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-customizing-folder-and-subfolder-previews-on-macos/"><u>Ultimate Guide: Customizing Folder and Subfolder Previews on macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unpacking-the-appeal-of-affordable-apple-earpods-with-usb-c-at-prime-deals-a-zdnet-perspective/"><u>Unpacking the Appeal of Affordable Apple EarPods with USB-C at Prime Deals - A ZDNet Perspective</u></a></li>
 </ul></div>
 

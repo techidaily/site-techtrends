@@ -1,7 +1,7 @@
 ---
 title: "Apple iPhone 16 Vs. IPhone 15: Key Factors for Your Next Upgrade on TechRadar"
-date: 2025-01-31T16:16:07.824Z
-updated: 2025-02-07T16:12:59.973Z
+date: 2025-02-11T22:13:04.901Z
+updated: 2025-02-17T00:04:33.197Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -45,12 +49,16 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
@@ -61,10 +69,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -72,6 +76,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -91,10 +99,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
@@ -107,10 +111,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6418071%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6418071.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,19 +157,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-selecting-the-finest-portable-cinema-tools/"><u>[New] 2024 Approved Selecting the Finest Portable Cinema Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-craft-your-narrative-on-reddit-mastering-content-delivery/"><u>[New] Craft Your Narrative on Reddit Mastering Content Delivery</u></a></li>
-<li><a href="https://win-tips.techidaily.com/wechat/"><u>解除WeChat永久封号后获取信息技巧和指南</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-samsungs-next-big-thing-the-galaxy-s25-ultra-release-schedule-price-guesswork-and-tech-speculations/"><u>All You Need to Know About Samsung's Next Big Thing – The Galaxy S25 Ultra: Release Schedule, Price Guesswork, and Tech Speculations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/amazon-prime-day-2024-explained-your-complete-guide/"><u>Amazon Prime Day 2024 Explained: Your Complete Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-educational-apps-for-high-school-students-a-comprehvew-of-10-picks/"><u>Best Educational Apps for High School Students: A Comprehvew of 10 Picks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tips-for-handling-ftd2xxdll-error-messages-on-windows/"><u>Comprehensive Tips for Handling 'Ftd2xx.dll' Error Messages on Windows</u></a></li>
-<li><a href="https://fox-http.techidaily.com/expert-guide-to-enablingdisabling-multitasking-in-safari/"><u>Expert Guide to Enabling/Disabling Multitasking in Safari</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y78t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo Y78t Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-15-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 15 to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-best-titles-google-cardboards-most-immersive-vr-games/"><u>In 2024, Best Titles Google Cardboard's Most Immersive VR Games</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/massive-apple-m2-macbook-air-price-slide-to-799-before-the-big-tech-sales-fest-unveiled-by-zdnet/"><u>Massive Apple M2 MacBook Air Price Slide to $799 Before the Big Tech Sales Fest – Unveiled by ZDNet!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-dead-space-remake-failure-to-start/"><u>Troubleshooting Guide: Resolving 'Dead Space Remake' Failure to Start</u></a></li>
-<li><a href="https://techtrends.techidaily.com/yahoo-mail-account-termination-guide-how-to-make-it-disappear-forever/"><u>Yahoo Mail Account Termination Guide: How to Make It Disappear Forever</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-affordable-recorders-roundup-best-games-software/"><u>[New] 2024 Approved Affordable Recorders' Roundup Best Games Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-mobile-mastery-youtube-video-thumbnails-made-easy/"><u>[Updated] 2024 Approved Mobile Mastery YouTube Video Thumbnails Made Easy</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-metaverse-vs-multi-meva-understanding-their-core-differences/"><u>[Updated] Metaverse Vs. Multi-Meva Understanding Their Core Differences</u></a></li>
+<li><a href="https://techtrends.techidaily.com/breakdown-of-benefits-how-hulu-stands-out-against-hulu-plus-for-viewers/"><u>Breakdown of Benefits: How Hulu Stands Out Against Hulu + for Viewers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-to-audiovisual-integration-in-instagram-story-creations/"><u>Complete Guide to Audiovisual Integration in Instagram Story Creations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-watching-your-favorite-shows-with-these-10-free-alternatives-to-netflix/"><u>Enjoy Watching Your Favorite Shows with These 10 Free Alternatives to Netflix</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a1x-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo A1x 5G</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/how-to-construct-your-own-home-made-google-cardboard-vr-device-for-2024/"><u>How to Construct Your Own Home-Made Google Cardboard VR Device for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y55s-5g-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y55s 5G (2023) without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-proven-techniques-for-locating-luxe-pexel-pictures/"><u>In 2024, Proven Techniques for Locating Luxe Pexel Pictures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/interlinking-giants-a-comprehensible-guide-for-instra-and-tikto-for-2024/"><u>Interlinking Giants A Comprehensible Guide for Instra & Tikto for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-solutions-for-common-final-cut-pro-x-crash-problems-for-2024/"><u>New Solutions for Common Final Cut Pro X Crash Problems for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/personalize-your-email-alerts-with-unique-sounds-on-gmail/"><u>Personalize Your Email Alerts with Unique Sounds on Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/slash-battery-drain-on-your-winning-pc-with-simple-tweaks-for-longer-life/"><u>Slash Battery Drain on Your Winning PC with Simple Tweaks for Longer Life!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-retrieving-deleted-numerical-contacts-from-android-phones/"><u>The Ultimate Guide to Retrieving Deleted Numerical Contacts From Android Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-how-to-address-missing-mfc42dll-errors-on-windows/"><u>Troubleshooting Tips: How to Address Missing mfc42.dll Errors on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-instagrams-platform-features-and-usage/"><u>Understanding Instagram's Platform, Features & Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-next-unveiling-the-specifications-and-release-timeline-for-googles-latest-pixel-tablet/"><u>What's Next? Unveiling the Specifications & Release Timeline for Google's Latest Pixel Tablet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wifis-future-unveiled-the-breakdown-and-benefits-of-ieees-newest-standards-including-ax-and-bgn-series/"><u>WiFi's Future Unveiled: The Breakdown and Benefits of IEEE's Newest Standards, Including AX and B/G/N Series</u></a></li>
 </ul></div>
 

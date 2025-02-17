@@ -1,7 +1,7 @@
 ---
 title: Effortless File Transfers with MacX MediaTrans - Moving Your iPhone's Media to PC
-date: 2024-08-24 17:12:39
-updated: 2024-08-27 10:42:48
+date: 2025-02-11T01:31:38.289Z
+updated: 2025-02-16T17:26:12.448Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43fb699583edd3d2db4662000a.jpg
@@ -54,6 +54,10 @@ MacX MediaTrans is a professional iPhone file manager especially designed for Ma
 
 ![](https://www.macxdvd.com/guide/image/mt-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Options:** Simple iPhone transferring settings.   
 \* Replace existing files: check this box, and the existing file will be replaced with a new version. Otherwise, it will not overwrite the existing file but keep two duplicate files.  
 \* Auto convert video format to MP4(H.264): check this box, it will automatically detect the video formats and convert incompatible formats to iPhone supported formats when you transfer videos from Mac to iPhone. Check the Hardware Acceleration box, the iPhone manager will ensure the No.1 fast video transferring process by taking use of Intel' Quick Sync Video tech. And the Auto rotate feature will automatically rotate videos shot at different angles to fit iPhone's display.  
@@ -61,6 +65,10 @@ MacX MediaTrans is a professional iPhone file manager especially designed for Ma
 \* Convert HEIC image to JPG: check this box, and all the HEIC photos shot with iOS 11 powered devices will be exported into JPG.
 
 ![](https://www.macxdvd.com/guide/image/mt-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Top](https://tools.techidaily.com/macxdvd/products/)
 
@@ -78,11 +86,19 @@ Connect your iPhone to Mac via USB cable and launch the iPhone photo manager. Yo
 
 ![](https://www.macxdvd.com/guide/image/mt-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Transfer Photos from iPhone to Mac** 
 
 Click "Photo Transfer" and you can see the whole iPhone album immediately. Select photos you want to transfer from iPhone to Mac or click "Select All" on the top right corner to transfer the whole album. Then click "Export" and it will copy iPhone photos to Mac computers in the folder you first set in the Settings.
 
 ![](https://www.macxdvd.com/guide/image/mt-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Convert HEIC to JPG:** Since iOS 11, Apple introduced HEIC/HEIF instead of JPG for its camera. While the new picture format can save half the size, it's not as compatible as JPG. HEIC won't open on Windows & Ubuntu platforms,Windows Photos app, Adobe Photoshop, Lightroom, other photo editors or apps, and not even on Macs before High Sierra and older iOS devices like iPhone 6, 6 Plus, iPhone 5S, 5 etc. To convert HEIC into JPG: you can either preset in the setting section above and the iPhone manager will automatically export all the HEIC into JPG photos without further adjustment. Or if you haven't set in the Settings, click the down triangle icon to the right of Export and click "Export heic to jpg". 
 
@@ -171,6 +187,10 @@ You can create playlists, edit music information, delete songs, quick search and
 
 ![](https://www.macxdvd.com/guide/image/mt-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **\* How to make ringtone**
 
 The feature-rich music manager also gives easy access to make personalized ringtone for iPhone. 
@@ -239,7 +259,15 @@ When you transfer an iPhone incompatible video from Mac, the iPhone manager will
 
 ![](https://www.macxdvd.com/guide/image/mt-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Top](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to Use MacX MediaTrans to Transfer & Manage iPhone Books
 
@@ -255,12 +283,20 @@ Before you go, turn off iTunes Auto Sync in case of data loss, connect iPhone to
 
 ![](https://www.macxdvd.com/guide/image/mt-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Tips:**   
  1\. the iBook manager tool can auto convert EPUB books to PDF, TXT or HTML. In the last exporting step, you are given four options, "Export", "Export epub book to PDF", "Export epub book to TXT", "Export epub book to HTML".   
  2\. "The Delete iBook" feature allows users to simply delete iBook one by one or in batch.   
  3\. The latest version of this iBook manager supports you to remove DRM protection from audio books. After iTunes DRM protection removal, you can get your unprotected audio books in MP3 format.
 
 ![](https://www.macxdvd.com/guide/../mobile/article-image/drm-audiobook.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **\* How to move eBooks from Mac to iPhone**
 
@@ -352,6 +388,10 @@ Tips: You can save word, excel, ppt, pdf, apps, documents, music, videos, pictur
 
 [Top](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: Uninstall MacX MediaTrans
 
 Hope this iPhone manager may serve you well. But sometimes, you may want to uninstall MacX MediaTrans for certain reasons. To do this, follow the guide below: 
@@ -368,11 +408,31 @@ Step 3: Remove MacX MediTrans software from your Dock, simply drag it out of Doc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-fix-obs-full-screen-not-working-issue/"><u>[New] In 2024, How To Fix OBS Full Screen Not Working Issue?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unboxing-opportunities-the-marketing-planning-journey-for-2024/"><u>[New] Unboxing Opportunities The Marketing Planning Journey for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-deception-navigating-false-subscriber-sells/"><u>[Updated] In 2024, Deception Navigating False Subscriber Sells</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-transforming-ordinary-videos-into-viral-hits-with-innovative-thumbnails/"><u>[Updated] In 2024, Transforming Ordinary Videos Into Viral Hits with Innovative Thumbnails</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-the-potential-of-discord-streams/"><u>[Updated] Unlocking the Potential of Discord Streams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-quick-how-to-removing-subtitles-from-amazons-prime-video-platform/"><u>A Quick How-To: Removing Subtitles From Amazon's Prime Video Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bring-the-fun-of-tiktok-to-your-living-room-screen/"><u>Bring the Fun of TikTok to Your Living Room Screen!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-to-save-what-you-see-on-your-pc-as-an-image/"><u>Easy Methods to Save What You See on Your PC as an Image</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-methods-to-check-locations-on-ios-devices-securely/"><u>Explore Methods to Check Locations on iOS Devices Securely</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-lava-blaze-2-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Lava Blaze 2 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-enabling-your-brands-mobile-reach-launching-youtube-channels-with-ease/"><u>In 2024, Enabling Your Brand's Mobile Reach Launching YouTube Channels with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-budget-friendly-travel-with-advice-from-66-influential-tweeters-on-deals-and-escapades/"><u>Master the Art of Budget-Friendly Travel with Advice From 66 Influential Tweeters on Deals and Escapades</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-no-cost-split-screen-video-editing-online-and-offline-tools-compared/"><u>New No-Cost Split Screen Video Editing Online and Offline Tools Compared</u></a></li>
+<li><a href="https://techtrends.techidaily.com/privacy-hackers-techniques-for-modifying-the-geolocation-data-on-your-mobile-device/"><u>Privacy Hackers: Techniques for Modifying the Geolocation Data on Your Mobile Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-screen-images-on-your-desktop/"><u>Step-by-Step Guide: Capturing Screen Images on Your Desktop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-guide-to-freebies-top-8-mobile-music-players-available-on-iphone/"><u>Your Guide to Freebies: Top 8 Mobile Music Players Available on iPhone</u></a></li>
+</ul></div>
+

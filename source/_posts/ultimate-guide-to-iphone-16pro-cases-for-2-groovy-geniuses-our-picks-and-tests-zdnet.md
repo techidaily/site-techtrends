@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests | ZDNET
-date: 2025-01-31T16:22:43.540Z
-updated: 2025-02-07T16:04:15.316Z
+date: 2025-02-09T22:29:21.313Z
+updated: 2025-02-16T20:04:59.192Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -44,13 +44,13 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -59,14 +59,10 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -78,6 +74,10 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -85,10 +85,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -100,6 +96,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,18 +161,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-seamless-integration-of-snapchat-on-apples-laptops/"><u>[New] 2024 Approved Seamless Integration of Snapchat on Apple's Laptops</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-breaking-into-twitter-live-your-strategy/"><u>[New] Breaking Into Twitter Live Your Strategy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>2024 Approved Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
-<li><a href="https://facebook.techidaily.com/guide-to-gone-but-not-forgotten-archiving-and-eventually-removing-your-fb-page/"><u>Guide to Gone But Not Forgotten: Archiving and Eventually Removing Your FB Page</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-phantom-v-flip-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Phantom V Flip Safely | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-art-of-logitech-mouse-reception-with-alternative-methods/"><u>Master the Art of Logitech Mouse Reception with Alternative Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-jvm-dll-errors-a-comprehensive-guide/"><u>Solving JVM DLL Errors: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-fixing-stop-error-0x00000078-phase0exception/"><u>Step-by-Step Solution for Fixing STOP Error 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-viewing-guide-watch-the-matrix-trilogy-sequentially/"><u>The Ultimate Viewing Guide: Watch The Matrix Trilogy Sequentially</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-android-collage-apps-creativity-unleashed/"><u>Top 10 Android Collage Apps - Creativity Unleashed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-dsounddll-not-found-problem-on-your-pc/"><u>Troubleshooting the 'dsound.dll Not Found' Problem on Your PC</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-rated-free-3gp-video-orientation-changers/"><u>Updated 2024 Approved Top-Rated Free 3GP Video Orientation Changers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722883962064-watching-the-lord-of-the-rings-trilogy-the-right-way-and-order/"><u>Watching 'The Lord of the Rings' Trilogy – The Right Way and Order</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-stepwise-guide-switch-between-normal-and-pip-views-in-youtube-app/"><u>[New] Stepwise Guide Switch Between Normal and PIP Views in YouTube App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-above-the-clouds-unveiled-best-online-portals-for-hd-skies/"><u>[Updated] Above the Clouds Unveiled Best Online Portals for HD Skies</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-superior-text-tools-and-after-effects-for-2024/"><u>[Updated] Superior Text Tools & After Effects for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-tutorial-crafting-an-account-for-your-virtual-reality-adventures-on-oculus-quest/"><u>Beginner’s Tutorial: Crafting an Account for Your Virtual Reality Adventures on Oculus Quest</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chromebook-frozen-8-ways-to-fix-that/"><u>Chromebook Frozen? 8 Ways to Fix That</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/comment-reparer-facilement-votre-systeme-dexploitation-windows-atur-bypassant-la-restauration-du-point-de-controle/"><u>Comment Réparer Facilement Votre Système D'exploitation Windows Atur, Bypassant La Restauration Du Point De Contrôle</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-tips-how-to-pair-samsung-buds-to-your-pc-or-mac-easily/"><u>Connecting Tips: How to Pair Samsung Buds to Your PC or Mac Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-slow-connections-by-flushing-dns-in-macos/"><u>Fixing Slow Connections by Flushing DNS in macOS</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-a05s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy A05s Quickly? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-spark-go-2023-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Spark Go (2023) without App | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-process-of-sharing-srt-text-in-social-digital-spaces/"><u>In 2024, Unveiling the Process of Sharing SRT Text in Social Digital Spaces</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-possible-to-remove-pre-installed-iphone-applications/"><u>Is It Possible to Remove Pre-Installed iPhone Applications?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essential-guide-to-free-html-editors-on-windows-choose-the-right-tool/"><u>The Essential Guide to Free HTML Editors on Windows: Choose the Right Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-selection-10-delightful-kitchen-shows-for-streamers/"><u>The Ultimate Selection: 10 Delightful Kitchen Shows for Streamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-solution-for-dealing-with-and-repairing-401-unauthorized-errors-on-websites/"><u>The Ultimate Solution for Dealing With and Repairing 401 Unauthorized Errors on Websites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210136605-trace-your-lost-touchpad-to-device-master/"><u>Trace Your Lost Touchpad to Device Master</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-laptop-speakers-a-guide-to-restoring-your-sound/"><u>Troubleshooting Laptop Speakers: A Guide to Restoring Your Sound</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-to-fix-advapi32dll-could-not-be-loaded-issue/"><u>Troubleshooting Tips to Fix 'Advapi32.dll Could Not Be Loaded' Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tech-at-ces-202e-how-lg-is-falling-for-ai-and-launching-revolutionary-products-insights-from-zdnet/"><u>Unveiling the Future of Tech at CES 202E: How LG Is Falling for AI and Launching Revolutionary Products - Insights From ZDNet</u></a></li>
 </ul></div>
 

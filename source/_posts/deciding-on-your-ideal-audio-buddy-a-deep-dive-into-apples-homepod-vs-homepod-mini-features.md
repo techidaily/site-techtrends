@@ -1,7 +1,7 @@
 ---
 title: "Deciding on Your Ideal Audio Buddy: A Deep Dive Into Apple’s HomePod vs HomePod Mini Features"
-date: 2025-02-05T16:14:50.983Z
-updated: 2025-02-07T16:01:50.221Z
+date: 2025-02-11T20:27:44.788Z
+updated: 2025-02-17T02:10:50.817Z
 tags:
   - apple
 categories:
@@ -102,6 +102,10 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -115,7 +119,7 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -127,10 +131,6 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Update your Mac and iPad
 
 Before you'll have the option to turn on Universal Control, you need to update the software on your Mac and your iPad. The current versions are MacOS 12.3 and iPadOS 15.4\. 
@@ -138,6 +138,10 @@ Before you'll have the option to turn on Universal Control, you need to update t
 On a Mac, open **System Preferences**, then select **Software Update**. 
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
 
@@ -147,10 +151,6 @@ There isn't a dedicated Universal Control setting or section in iPadOS. In fact,
 
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to set up Universal Control on your Mac
 
 Screenshot by Jason Cipriani/ZDNet
@@ -158,10 +158,6 @@ Screenshot by Jason Cipriani/ZDNet
 The Mac does have a dedicated Universal Control section where you can turn the feature on or off and adjust settings. Open **System Preferences** then click on **Displays** \> **Universal Control**. 
 
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
 
@@ -178,7 +174,7 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
@@ -186,6 +182,10 @@ You can even drag and drop documents between your Mac or iPad, instead of waitin
 Screenshot by Jason Cipriani/ZDNet
 
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
 
@@ -239,20 +239,24 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-screens-that-make-a-statement-the-ultimate-4k-displays-for-macs/"><u>[Updated] 2024 Approved Screens That Make a Statement The Ultimate 4K Displays for Macs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-exploring-top-videography-apps-for-enhanced-win11-experience/"><u>[Updated] Exploring Top Videography Apps for Enhanced Win11 Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cross-device-continuity-a-step-by-step-approach-to-sharing-your-phone-number-across-all-technology/"><u>Cross-Device Continuity: A Step-by-Step Approach to Sharing Your Phone Number Across All Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-whats-ahead-for-developers-insights-from-apples-worldwide-developer-conference-2025/"><u>Discover What's Ahead for Developers: Insights From Apple's Worldwide Developer Conference 2025</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elevate-viewing-experience-top-picture-adjustments-for-your-samsung-4k-display/"><u>Elevate Viewing Experience: Top Picture Adjustments for Your Samsung 4K Display</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-pre-buy-checklist-the-5-must-know-features-for-a-new-smartwatch/"><u>Essential Pre-Buy Checklist: The 5 Must-Know Features for a New Smartwatch</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-seamless-screenshot-synergy-for-pc-users/"><u>In 2024, Seamless Screenshot Synergy for PC Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/personalize-your-desktop-experience-tutorial-for-adjusting-taskbar-hues-in-windows-10/"><u>Personalize Your Desktop Experience - Tutorial for Adjusting Taskbar Hues in Windows 10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/pushing-packaging-to-new-heights-a-consumers-dream-for-2024/"><u>Pushing Packaging to New Heights A Consumer's Dream for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-tips-how-to-use-the-timer-feature-in-your-iphones-camera-app/"><u>Quick Tips: How to Use the Timer Feature in Your iPhone's Camera App</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/reign-over-the-market-selecting-the-best-7-nft-enabling-services/"><u>Reign Over the Market Selecting the Best 7 NFT-Enabling Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-destiny-2-server-unavailability-a-step-by-step-guide/"><u>Solving Destiny 2 Server Unavailability: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-addressing-oleaut32dll-not-found-issues-effectively/"><u>Troubleshooting Tips: Addressing OleAut32.dll Not Found Issues Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unleashing-the-power-of-magsafe-technology-in-iphone-13s-protective-gear-zdnet-showcases-a-beautifully-crafted-high-quality-nomad-case/"><u>Unleashing the Power of MagSafe Technology in iPhone 13'S Protective Gear - ZDNet Showcases a Beautifully Crafted, High Quality Nomad Case!</u></a></li>
-<li><a href="https://discover-help.techidaily.com/yl-computing-wallpaper-collection-stunning-cosmic-backgrounds-high-resolution-space-themes-and-vibrant-digital-art/"><u>YL Computing Wallpaper Collection: Stunning Cosmic Backgrounds, High-Resolution Space Themes & Vibrant Digital Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-guide-to-samsung-photography-suite-2023/"><u>[New] Comprehensive Guide to Samsung Photography Suite, 2023</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-perfect-practices-in-livestreaming-athletic-competitions/"><u>[New] Perfect Practices in Livestreaming Athletic Competitions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-bring-back-the-faded-step-by-step-on-transforming-prints-to-pixels/"><u>[Updated] Bring Back the Faded Step-by-Step on Transforming Prints to Pixels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-integrating-third-party-tools-with-your-win11-zoom-setup/"><u>[Updated] Integrating Third-Party Tools with Your Win11 Zoom Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypassing-the-hurdles-of-stadia-headset-connection-troubles-with-simple-solutions/"><u>Bypassing the Hurdles of Stadia Headset Connection Troubles with Simple Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-sideload-non-apple-approved-apps-safely-on-iphone-xs-without-jailbreak-expert-analysis/"><u>Can You Sideload Non-Apple Approved Apps Safely on iPhone XS without Jailbreak? - Expert Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992271612-expert-solutions-to-stop-your-oxygen-not-included-from-crashing-now/"><u>Expert Solutions to Stop Your Oxygen Not Included From Crashing Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expertly-curated-top-visual-voicemail-software/"><u>Expertly Curated Top Visual Voicemail Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-wav-file-w64-into-mp3-format-by-movavi/"><u>Free Online Converter: Transform WAV File (W64) Into MP3 Format by Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ahead-with-the-new-apple-watch-series-10-prep-for-release-now-and-discover-top-money-saving-strategies/"><u>Get Ahead with the New Apple Watch Series 10 - Prep for Release Now and Discover Top Money-Saving Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ios-update-174-unveiled-by-apple-featuring-enhanced-podcast-support-fresh-emoji-additions-and-european-app-marketplace-tweaks/"><u>IOS Update 17.4 Unveiled by Apple Featuring Enhanced Podcast Support, Fresh Emoji Additions & European App Marketplace Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-assertion-of-an-unempty-directory-error-x80070091/"><u>Remedying Windows' Assertion of an Unempty Directory (Error X80070091)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-x3daudiodll-file-absentnot-detected-issues/"><u>Solutions for Resolving 'X3DAudio.dll' File Absent/Not Detected Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-oneplus-nord-3-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from OnePlus Nord 3 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-basics-of-ussd-understanding-unstructured-supplementary-service-data-in-mobile-communications/"><u>The Basics of USSD: Understanding Unstructured Supplementary Service Data in Mobile Communications</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-free-up-space-on-your-ipad-to-enhance-speed-and-responsiveness/"><u>The Ultimate Guide: Free Up Space on Your iPad to Enhance Speed and Responsiveness</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-ranking-of-2024s-finest-smartwatches-in-depth-analysis-and-expert-ratings-zdnet/"><u>The Ultimate Ranking of 2024'S Finest Smartwatches: In-Depth Analysis & Expert Ratings | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-enlarging-videos-without-degradation-or-company-symbols-top-10-methods-revealed/"><u>Ultimate Guide: Enlarging Videos Without Degradation or Company Symbols - Top 10 Methods Revealed!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-users-rejoice-learn-how-to-handle-imessages-with-ease-insights/"><u>Windows Users Rejoice! Learn How to Handle iMessages with Ease, Insights</u></a></li>
 </ul></div>
 

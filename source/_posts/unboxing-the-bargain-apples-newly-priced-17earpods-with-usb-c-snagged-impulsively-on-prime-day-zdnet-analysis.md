@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Bargain: Apple's Newly Priced $1^7$EarPods with USB-C, Snagged Impulsively on Prime Day | ZDNet Analysis"
-date: 2025-01-22T20:58:04.562Z
-updated: 2025-01-25T16:19:33.934Z
+date: 2025-02-09T23:00:44.385Z
+updated: 2025-02-16T23:08:07.259Z
 tags:
   - apple
 categories:
@@ -43,16 +43,12 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the AirPods 4 (entry-level) if...
 
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
@@ -64,7 +60,7 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
@@ -73,12 +69,16 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the AirPods 4 (mid-tier) if...
 
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
@@ -90,7 +90,7 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
@@ -137,20 +137,22 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-masterclass-syncing-your-social-media-with-urls/"><u>[New] In 2024, Masterclass Syncing Your Social Media with URLs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-preferred-mkv-player-choices-on-macos/"><u>[Updated] Preferred MKV Player Choices on macOS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-perfect-recording-companion-10-best-on-spotify-platforms/"><u>2024 Approved Perfect Recording Companion 10 Best on Spotify Platforms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-awaken-calm-top-copyright-free-legal-music-playlists/"><u>In 2024, Awaken Calm Top Copyright-Free, Legal Music Playlists</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-exploring-isprings-screencap-capabilities/"><u>In 2024, Exploring iSpring's Screencap Capabilities</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcp-is-capable-enough-to-merge-the-reverse-option-with-retiming-effects-so-that-something-innovative-can-be-developed-even-with-simple-editing-effor/"><u>In 2024, FCP Is Capable Enough to Merge the Reverse Option with Retiming Effects so that Something Innovative Can Be Developed Even with Simple Editing Efforts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/quick-fixes-for-privacy-concerns-in-piscart-images-for-2024/"><u>Quick Fixes for Privacy Concerns in PiscArt Images for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-nubia-red-magic-8s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rediscovering-the-classics-msn-gamespy-and-winamp-a-trip-down-memory-lane/"><u>Rediscovering the Classics: MSN, GameSpy & Winamp - A Trip Down Memory Lane</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/secure-boot-techniken-zur-kodierung-von-systemkopien-auf-heterogenen-computereinheiten/"><u>Secure Boot: Techniken Zur Kodierung Von Systemkopien Auf Heterogenen Computereinheiten</u></a></li>
-<li><a href="https://techtrends.techidaily.com/securing-your-data-a-step-by-step-guide-to-encrypting-a-usb-flash-drive-in-windows-1011/"><u>Securing Your Data: A Step-by-Step Guide to Encrypting a USB Flash Drive in Windows 10/11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-complete-restoration-of-windows-11-system/"><u>Step-by-Step Guide: Complete Restoration of Windows 11 System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-launching-windows-powershell-with-administrative-privileges-on-windows-10/"><u>Ultimate Guide: Launching Windows PowerShell with Administrative Privileges on Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncover-hidden-pixels-comprehensive-tutorial-for-finding-any-picture-saved-in-windows-10-systems/"><u>Uncover Hidden Pixels: Comprehensive Tutorial for Finding Any Picture Saved in Windows 10 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-hands-free-sound-transforming-your-android-smartphone-into-a-bluetooth-speaker-for-windows-computers/"><u>Unlocking Hands-Free Sound: Transforming Your Android Smartphone Into a Bluetooth Speaker for Windows Computers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-cross-platform-video-uploading-twittertumblr/"><u>[Updated] 2024 Approved Cross-Platform Video Uploading Twitter/Tumblr</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-learn-how-to-rewind-video-ordering-on-android-for-2024/"><u>[Updated] Learn How to Rewind Video Ordering on Android for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-alternatives-to-the-apple-vision-pro-and-meta-quest-3-discover-our-top-picks-for-cost-effective-xr-glasses-features-reviews-and-more/"><u>Affordable Alternatives to the Apple Vision Pro & Meta Quest 3: Discover Our Top Picks for Cost-Effective XR Glasses - Features, Reviews, and More</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-tablet-picks-comprehensive-reviews-and-ratings-by-gadget-professionals-zdnet/"><u>Affordable Tablet Picks : Comprehensive Reviews and Ratings by Gadget Professionals | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-card-expansion-sparks-curiosity-new-partnership-prospects-and-what-they-mean-for-users-zdnet/"><u>Apple Card Expansion Sparks Curiosity: New Partnership Prospects and What They Mean for Users | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ease-of-sonos-s2-app-advanced-sound-management-with-hidden-drawbacks/"><u>Discover the Ease of Sonos' S2 App: Advanced Sound Management with Hidden Drawbacks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/doom-eternal-stuck-in-a-loop-discover-proven-methods-to-launch-successfully/"><u>DOOM Eternal Stuck in a Loop? Discover Proven Methods to Launch Successfully</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/easy-customization-of-windows-eb-settings-tailoring-user-profiles-with-yl-computings-comprehensive-walkthrough/"><u>Easy Customization of Windows Eb Settings: Tailoring User Profiles with YL Computing's Comprehensive Walkthrough</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-nord-3-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus Nord 3 5G Lock Screen Password?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-methods-to-enhance-images-through-cropping/"><u>Innovative Methods to Enhance Images Through Cropping</u></a></li>
+<li><a href="https://win-tips.techidaily.com/is-windows-12-on-the-horizon-unveiling-insights-and-unexpected-projections-techworld/"><u>Is Windows 12 on the Horizon? Unveiling Insights & Unexpected Projections | TechWorld</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-ringers-fixing-the-silent-malfunction-on-your-iphone-device/"><u>Reviving Ringers: Fixing the Silent Malfunction on Your iPhone Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722848268262-seamless-viewing-how-to-mirror-apple-tvplus-content-on-a-chromecast-device/"><u>Seamless Viewing: How to Mirror Apple TV+ Content on a Chromecast Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sharpen-up-discover-the-best-online-photo-fixers/"><u>Sharpen Up! Discover the Best Online Photo Fixers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-s23-tactical-edition-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy S23 Tactical Edition FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-queer-series-to-binge-on-netflix-for-lgbtqplus-fans-in-july-2024/"><u>The Best Queer Series to Binge on Netflix for LGBTQ+ Fans in July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-4-reasons-why-sticking-with-iphone-14-beats-the-upgrade-to-iphone-16-pro-insights-from-zdnet/"><u>Top 4 Reasons Why Sticking with iPhone 14 Beats the Upgrade to iPhone 16 Pro - Insights From ZDNet</u></a></li>
 </ul></div>
 

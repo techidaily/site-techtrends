@@ -1,7 +1,7 @@
 ---
 title: "'80S Movie Mania: Your Definitive Selection of Timeless Cinematic Gems"
-date: 2024-08-26T07:45:30.971Z
-updated: 2024-08-27T07:45:30.971Z
+date: 2025-02-13T19:54:34.760Z
+updated: 2025-02-16T17:53:58.380Z
 categories:
   - BestProducts
 description: "This Article Describes '80S Movie Mania: Your Definitive Selection of Timeless Cinematic Gems"
@@ -19,6 +19,10 @@ _If you click on links we provide, we may receive compensation._
 01
 
 of 07
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Word Game Tournaments for iMessage: Boggle With Friends](https://www.zynga.com/games/boggle-with-friends/)
 
@@ -45,6 +49,10 @@ of 07
 ## [Best Multi-Game Compilation for iMessage: Game Pigeon](http://gamepigeonapp.com)
 
 ![Game Pigeon app for iMessage](https://www.lifewire.com/thmb/jbD4WokUSaGl5CFnj2NSV3RDNWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-imessage-games-2018-4176445-d0028c3554c14c2f89c52741e32cf15e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -89,24 +97,17 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Best iMessage Chess Game: Checkmate!](https://apps.apple.com/app/id1143204905)
 
 ![Checkmate! for iMessage](https://www.lifewire.com/thmb/YAwb50eJDF0J1xKhVVsymSlxwPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_best-imessage-games-2018-4176445-6e27040ee0334eca905354dcb59b79d6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Sync your game across multiple devices.
@@ -126,13 +127,14 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Make Your Own iMessage Slide Puzzles: WIT Puzzles](https://apps.apple.com/app/id1152446245)
 
 ![WIT Puzzles app for iMessage](https://www.lifewire.com/thmb/ao-dOdN2BASuiCO0HyeOFVteEsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010_best-imessage-games-2018-4176445-f2ecc07924ef488f9ffa1d62da8e904f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Make puzzles as simple or complex as you like.
@@ -178,8 +180,9 @@ of 07
 ![Let's Puck It! app for iMessage](https://www.lifewire.com/thmb/5vzBEYum7O1TKZFvmHqdHQRaicM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-imessage-games-2018-4176445-eef48fecf87b445f99a3a24e2a82034f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * An interesting concept with lots of possibilities.
@@ -194,9 +197,6 @@ _Let’s Puck It!_ puts an interesting spin on an old American pastime by encour
 
 [Download Let's Puck It!](https://apps.apple.com/app/lets-puck-it/id1163033961)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get iMessage Games
 
  The interface for the new iOS is slightly different from its predecessors. However, the instructions are basically the same for iOS 10 and up. Older versions of iOS don't support iMessage games.
@@ -210,9 +210,6 @@ _Let’s Puck It!_ puts an interesting spin on an old American pastime by encour
 
 ![Downloading iMessage games on an iPhone](https://www.lifewire.com/thmb/NyUyS4sS2l4N7s41wdvAWyaKIiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Download-iMessage-Game-227e0b0ecd064c8e99a78b92ae6588a8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Play iMessage Games
 
  After downloading your game of choice, it's added to the end of your apps list. To challenge your friends within iMessage:
@@ -226,10 +223,6 @@ _Let’s Puck It!_ puts an interesting spin on an old American pastime by encour
 
 ![How to play games in iMessage](https://www.lifewire.com/thmb/luvHEB4PHsSwoAHGXD1-jiuyLBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-iMessage-Games-e0a953a704da42058ab48577af3d1cdd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 [Which iPhone Is Best for Gaming?](https://www.lifewire.com/best-iphone-for-gaming-8619563)
 
  FAQ
@@ -259,8 +252,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -268,4 +259,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-step-by-step-srt-manipulation-for-mac-enthusiasts/"><u>[New] 2024 Approved Step-by-Step SRT Manipulation for Mac Enthusiasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-complete-guide-to-iphone-sound-personalization/"><u>[New] 2024 Approved The Complete Guide to iPhone Sound Personalization</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-amplify-engagement-essential-tips-for-tiktok-unbox-videos-for-2024/"><u>[New] Amplify Engagement Essential Tips for TikTok Unbox Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhance-your-shorts-appeal-with-personalized-thumbnails-for-2024/"><u>[Updated] Enhance Your Shorts' Appeal with Personalized Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-melodic-content-and-legalities-on-insta/"><u>[Updated] Melodic Content and Legalities on Insta</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726224347886-mp3mov-movavi/"><u>無料でMP3とMOVを簡単変換！ 特化したオンラインコンバーター - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-mov-in-formato-aiff-con-la-piattaforma-web-gratuitaiffy-di-movemovi/"><u>Conversione MOV in Formato AIFF Con La Piattaforma Web GratuitAiffy Di MoveMovi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/give-windows-mail-and-schedule-a-cool-vibe-with-photos/"><u>Give Window's Mail & Schedule A Cool Vibe with Photos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratuit-online-convertereen-van-tod-naar-mp4-movavi/"><u>Gratuit Online Convertereen Van TOD Naar MP4 - Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-reno-10-pro-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Oppo Reno 10 Pro 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/m4v-afbeeldingen-in-wms-kletsen-voor-zwdaarom-eenvoudig-gratis-en-betrouwbaar-met-movavi-converter/"><u>M4V-Afbeeldingen in Wms Kletsen Voor ZwDaarom - Eenvoudig, Gratis en Betrouwbaar Met Movavi Converter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-wi-fi-jpg-jpeg/"><u>Movavi의 실시간 제공 Wi-Fi 안전한 JPG 대신 JPEG 교체 서비스 - 무료</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-generate-random-faces-online-top-free-tools-and-websites/"><u>New 2024 Approved Generate Random Faces Online Top Free Tools and Websites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/shrink-your-gifs-with-ease-discover-the-best-movavi-programs-ranked-1-6-for-ultimate-image-slimming-solutions/"><u>Shrink Your GIFs with Ease! Discover the Best Movavi Programs Ranked #1-#6 for Ultimate Image Slimming Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-for-resolving-toshiba-laptop-audio-issues/"><u>Top Solutions for Resolving Toshiba Laptop Audio Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transferez-gratuitement-un-fichier-aiff-vers-format-mov-en-ligne-convertisseur-video-movavi/"><u>Transférez Gratuitement Un Fichier AIFF Vers Format MOV en Ligne - Convertisseur Vidéo Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-persistent-mouse-disconnection-problems-at-home/"><u>Understanding and Fixing Persistent Mouse Disconnection Problems at Home</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wma-movavi/"><u>WMA 아이콘을 비용 없이 웹상에서 바꾸기: Movavi 가이드</u></a></li>
+<li><a href="https://techtrends.techidaily.com/aacaiff-movavi/"><u>オンラインで免許なし、フリーのAACからAIFFへの直接変換 - Movavi</u></a></li>
+</ul></div>
 

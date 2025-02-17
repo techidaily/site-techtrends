@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2025-02-03T16:14:17.089Z
-updated: 2025-02-07T16:11:32.658Z
+date: 2025-02-10T20:55:15.645Z
+updated: 2025-02-17T00:58:54.544Z
 tags:
   - apple
 categories:
@@ -29,10 +29,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -41,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -64,10 +68,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,18 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-fast-forwards-and-flashbacks-in-creative-tiktoks/"><u>[New] 2024 Approved Fast Forwards and Flashbacks in Creative TikToks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-from-mediocre-to-marvelous-an-exhaustive-facetune-analysis/"><u>[New] 2024 Approved From Mediocre to Marvelous An Exhaustive Facetune Analysis</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-professional-edits-using-youtube-studio-editor/"><u>[Updated] 2024 Approved Creating Professional Edits Using YouTube Studio Editor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-behind-the-lens-nikon-d500s-4k-innovation/"><u>[Updated] Behind the Lens Nikon D500's 4K Innovation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conquering-the-game-of-royal-match-tips-for-new-players/"><u>Conquering the Game of Royal Match – Tips for New Players</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722882370010-grand-unveiling-of-the-latest-galaxy-smartphone-live-stream-now/"><u>Grand Unveiling of the Latest Galaxy Smartphone - Live Stream Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-pin-a-chat-in-instagram/"><u>How to Pin a Chat in Instagram</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-digital-destinations-where-to-direct-your-videos/"><u>In 2024, Digital Destinations Where to Direct Your Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-12-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus 12 Phone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-digital-landscapes-ios-app-store-versus-google-play-store-explored/"><u>Navigating the Digital Landscapes: IOS App Store Versus Google Play Store Explored</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reaching-sonic-waters-the-incredible-speed-captured-in-a-canisters-stream/"><u>Reaching Sonic Waters: The Incredible Speed Captured in a Canister's Stream</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-affordable-home-theater-setup-guides/"><u>Top-Rated Affordable Home Theater Setup Guides</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nline-platforms-embedding-video-playlists-from-youtube-for-2024/"><u>[New] Online Platforms Embedding Video Playlists From YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-gif-basics-crafting-your-first-animated-image/"><u>[Updated] In 2024, GIF Basics Crafting Your First Animated Image</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-meme-mastery-ranking-internet-cultures-favorites-for-2024/"><u>[Updated] Meme Mastery Ranking Internet Culture's Favorites for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoid-potential-damage-from-ios-18-on-ipads-key-insights-and-precautions-before-updating-digitalinsight/"><u>Avoid Potential Damage From IOS 18 on iPads: Key Insights & Precautions Before Updating | DigitalInsight</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-roundup-apple-unveils-new-lineup-with-mini-led-ipad-pro-and-enhanced-apple-pencil-zdnet/"><u>Exclusive Roundup: Apple Unveils New Lineup with Mini LED iPad Pro and Enhanced Apple Pencil | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-ultimate-gamer-smartphones-of-2n-insights-and-rankings/"><u>Exploring the Ultimate Gamer Smartphones of 2N - Insights & Rankings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-triumph-over-slow-mobile-data-unlock-expert-secrets-and-turbocharge-your-speed-in-only-n-steps/"><u>How to Triumph Over Slow Mobile Data: Unlock Expert Secrets and Turbocharge Your Speed in Only N Steps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>How-To Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-secret-behind-successful-igtv-uploads-from-h-videos/"><u>In 2024, The Secret Behind Successful IGTV Uploads From H-Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revolutionary-hacks-to-optimize-your-minecraft-experience-on-pc/"><u>Revolutionary Hacks to Optimize Your Minecraft Experience on PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-a-sweet-deal-get-a-150-gift-card-for-educational-apple-devices-learn-the-simple-purchase-trick-now-digitalscholar/"><u>Secure a Sweet Deal: Get a $150 Gift Card for Educational Apple Devices, Learn the Simple Purchase Trick Now! | DigitalScholar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-reviews-and-comparisons-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Power Solutions - Comprehensive Reviews & Comparisons by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-instructions-how-to-erase-your-yahoo-email-address-forever/"><u>Ultimate Instructions: How To Erase Your Yahoo Email Address Forever</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/worst-case-scenario-solutions-wiping-data-from-locked-iphones/"><u>Worst Case Scenario Solutions: Wiping Data From Locked iPhones</u></a></li>
 </ul></div>
 

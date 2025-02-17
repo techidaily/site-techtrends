@@ -1,7 +1,7 @@
 ---
 title: Streamlined Sound with Sonos S2? Discover the Surprising Drawbacks Revealed by Tech Experts at ZDNet
-date: 2025-01-18T17:56:50.310Z
-updated: 2025-01-25T20:00:28.848Z
+date: 2025-02-09T23:41:02.276Z
+updated: 2025-02-17T01:54:37.496Z
 tags:
   - apple
 categories:
@@ -40,15 +40,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -67,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -77,7 +77,7 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -105,7 +105,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -115,7 +115,7 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -154,22 +154,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-hashtags-todays-must-learn-tips/"><u>[Updated] Mastering #Instagram Hashtags Today's Must-Learn Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-stop-quittime-video-capture-procedures-for-2024/"><u>[Updated] Stop QuitTime Video Capture Procedures for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-finding-gratuitous-software-for-streaming-online-seminars/"><u>2024 Approved Finding Gratuitous Software for Streaming Online Seminars</u></a></li>
-<li><a href="https://techtrends.techidaily.com/an-insight-into-oneplus-10-unveiling-the-prospective-release-timeline-cost-details-and-exciting-specs/"><u>An Insight Into OnePlus 10: Unveiling the Prospective Release Timeline, Cost Details & Exciting Specs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-fixes-for-when-you-cant-find-opengl32dll-on-windows-systems/"><u>Easy Fixes for When You Can't Find OpenGL32.dll on Windows Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-the-scoop-on-sonye-upcoming-marvel-the-afeela-automobile-price-predictions-release-timeline-and-more-insights/"><u>Get the Scoop on Sony'e Upcoming Marvel – The Afeela Automobile: Price Predictions, Release Timeline & More Insights 🚗</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-free-up-space-on-your-mac-by-deleting-apps/"><u>How To Free Up Space on Your Mac by Deleting Apps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-decoding-the-essence-of-asmr-videos/"><u>In 2024, Decoding the Essence of ASMR Videos</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/installing-windows-10-a-comprehensive-tutorial-for-brand-new-drives/"><u>Installing Windows 10: A Comprehensive Tutorial for Brand New Drives</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macos-users-handbook-unlocking-secure-file-archives-with-rars/"><u>MacOS Users' Handbook: Unlocking Secure File Archives with RARs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stream-without-spending-10-alternatives-to-netflix-at-zero-cost/"><u>Stream Without Spending: 10 Alternatives to Netflix at Zero Cost</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tales-for-twilight-film-analysis-for-2024/"><u>Tales for Twilight Film Analysis for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-7-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 7 You Should Try Out</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforming-the-aesthetic-of-windows-11s-taskbar-a-comprehensive-tutorial/"><u>Transforming the Aesthetic of Windows 11'S Taskbar – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-student-only-deals-on-youtube-premium-your-ultimate-cheat-sheet/"><u>Unlocking Student-Only Deals on YouTube Premium – Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-from-novice-to-nexus-earning-the-status-as-a-validated-discord-partner-for-2024/"><u>[New] From Novice to Nexus Earning the Status as a Validated Discord Partner for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-novices-roadmap-to-youtube-traffic-success-for-2024/"><u>[Updated] A Novice's Roadmap to YouTube Traffic Success for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-top-tips-to-mastering-the-art-of-hashtag-creation-on-youtube/"><u>[Updated] Top Tips to Mastering the Art of Hashtag Creation on YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-most-recent-advancement-in-tablet-technology-a-closer-look-at-the-new-ipad-generation/"><u>Apple's Most Recent Advancement in Tablet Technology: A Closer Look at the New iPad Generation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-exceptional-qi2-universal-charging-hub-a-must-have-accessory-for-every-apple-enthusiast-explore/"><u>Discover the Exceptional Qi2 Universal Charging Hub, a Must-Have Accessory for Every Apple Enthusiast | Explore</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-the-revolutionary-trio-lens-drone-how-its-redefining-skyward-imaging-tech/"><u>Introducing the Revolutionary Trio-Lens Drone – How It's Redefining Skyward Imaging Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-ultra-high-definition-is-an-experts-guide-to-choosing-your-first-8k-tv-worth-it/"><u>Navigating the World of Ultra-High Definition: Is an Expert's Guide to Choosing Your First 8K TV Worth It?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/switching-sides-how-the-new-iphone-16s-top-features-could-convert-android-loyalists/"><u>Switching Sides: How the New iPhone 16'S Top Features Could Convert Android Loyalists</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-tutorial-on-creating-versatile-filters-in-gmail/"><u>The Complete Tutorial on Creating Versatile Filters in Gmail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-airtag-enhancements-for-2amoyue-2024-in-depth-testing-and-analysis-featuring-expert-insights-zdnet/"><u>Ultimate Guide to AirTag Enhancements for 2Amoyue 2024: In-Depth Testing and Analysis Featuring Expert Insights | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-did-apple-inform-me-about-the-multiple-floors-im-navigating-unveiling-the-mystery-behind-my-increasing-steps/"><u>Why Did Apple Inform Me About the Multiple Floors I'm Navigating? Unveiling the Mystery Behind My Increasing Steps</u></a></li>
 </ul></div>
 

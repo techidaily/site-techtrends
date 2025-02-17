@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2025-02-05T16:16:53.592Z
-updated: 2025-02-07T16:13:54.583Z
+date: 2025-02-13T16:33:27.061Z
+updated: 2025-02-16T20:25:52.450Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
@@ -37,7 +33,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -61,7 +57,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -80,6 +76,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -96,6 +96,10 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
@@ -103,7 +107,7 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -121,10 +125,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -160,20 +160,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-goovision-promax-high-res-os-capturer/"><u>[New] GooVision ProMax High-Res OS Capturer</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-foremost-video-starters-the-leading-16-youtube-openers-for-2024/"><u>[Updated] Foremost Video Starters The Leading 16 YouTube Openers for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-discover-these-27-purely-free-youtube-audio-ripper-tools/"><u>[Updated] In 2024, Discover These 27 Purely Free YouTube Audio Ripper Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-taming-figmas-backgrounds-a-comprehensive-guide-for-2024/"><u>[Updated] Taming Figma's Backgrounds A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-14-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 14 Plus in Lost Mode</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/a-treasure-trove-of-9-complete-holiday-flicks-free-streaming-for-2024/"><u>A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-humor-test-does-chatgpt-hold-a-candle-to-human-comedians-in-making-us-laugh/"><u>AI Humor Test: Does ChatGPT Hold a Candle to Human Comedians in Making Us Laugh?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-project-your-windows-computer-display-onto-a-television-via-chromecast/"><u>Easy Steps to Project Your Windows Computer Display Onto a Television via Chromecast</u></a></li>
-<li><a href="https://techtrends.techidaily.com/harnessing-facebook-5-quick-strategies-for-enhanced-usage/"><u>Harnessing Facebook: 5 Quick Strategies for Enhanced Usage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-unlocking-potential-crafting-dynamic-images-with-your-ipad/"><u>In 2024, Unlocking Potential Crafting Dynamic Images with Your iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-keyboard-issues-solutions-when-letters-fail-to-appear/"><u>Mastering Keyboard Issues: Solutions When Letters Fail to Appear</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-finding-older-reels-a-comprehensive-walkthrough-for-insta-enthusiasts/"><u>Mastering the Art of Finding Older Reels: A Comprehensive Walkthrough for Insta-Enthusiasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-digital-titans-exploring-the-elite-circle-of-the-top-10-web-destinations/"><u>Navigating Digital Titans: Exploring the Elite Circle of the Top 10 Web Destinations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/recover-deleted-files-like-a-pro-comprehensive-review-of-recuva-undelete-tool/"><u>Recover Deleted Files Like a Pro - Comprehensive Review of Recuva Undelete Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-integrating-home-theater-with-wifi-connectivity/"><u>Ultimate Guide: Integrating Home Theater with WiFi Connectivity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-engaging-ways-to-use-time-with-podcast-tracks/"><u>[New] 2024 Approved Engaging Ways to Use Time with Podcast Tracks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-harnessing-imovies-potential-for-youtube-broadcasting/"><u>[New] In 2024, Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-for-fixing-missing-haldll-error-messages-in-windows-xp/"><u>Comprehensive Solutions for Fixing 'Missing hal.dll' Error Messages in Windows XP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-for-fixing-ntdlldll-bugs-on-windows-10-8-7/"><u>Comprehensive Strategies for Fixing Ntdll.dll Bugs on Windows [10, 8, 7]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/correcting-inaccurate-activity-monitoring-in-apple-watch-tips-and-solutions/"><u>Correcting Inaccurate Activity Monitoring in Apple Watch: Tips and Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-films-on-the-house-secrets-to-finding-free-trial-offers-with-netflix/"><u>Enjoy Films on the House: Secrets to Finding Free Trial Offers with Netflix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ensuring-anonymity-learn-to-block-your-contact-details-from-showing-in-android-apps/"><u>Ensuring Anonymity: Learn to Block Your Contact Details From Showing in Android Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-mastering-the-art-of-partial-youtube-extraction/"><u>In 2024, Mastering the Art of Partial YouTube Extraction</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-tecno-camon-30-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Tecno Camon 30 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/missing-essential-files-learn-how-to-fix-physxloaderdll-not-found-problems/"><u>Missing Essential Files? Learn How to Fix 'PhysXLoader.dll' Not Found Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-hdcp-errors-with-ease-an-in-depth-look-at-troubleshooting-and-solutions/"><u>Navigating HDCP Errors with Ease: An In-Depth Look at Troubleshooting & Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-a-journey-through-sonic-elegance-top-7-unique-sounds-for-smooth-media-transitions-for-2024/"><u>New A Journey Through Sonic Elegance Top 7 Unique Sounds for Smooth Media Transitions for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-rated-free-dailymotion-video-converter/"><u>New In 2024, Top-Rated Free Dailymotion Video Converter</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/prime-selection-of-websites-for-youtube-video-intro-download-for-2024/"><u>Prime Selection of Websites for YouTube Video Intro Download for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rigorous-testing-results-for-western-digitals-data-lifeguard-software-a-detailed-examination-by-tech-experts/"><u>Rigorous Testing Results for Western Digital's Data Lifeguard Software: A Detailed Examination by Tech Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silent-speakers-ended-fix-for-computer-headphones/"><u>Silent Speakers Ended - Fix for Computer-Headphones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-why-doesnt-windows-11-turn-off/"><u>Step-by-Step Troubleshooting: Why Doesn't Windows 11 Turn Off?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-x50-gt-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor X50 GT Phone Network-Ready</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pgm-movavi/"><u>모바일/컴퓨터 사이트에서의 PGM 무료 데이터 매개 변환 기능 – Movavi</u></a></li>
 </ul></div>
 

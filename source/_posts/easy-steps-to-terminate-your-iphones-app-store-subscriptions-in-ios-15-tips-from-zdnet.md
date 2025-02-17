@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips From ZDNet!
-date: 2025-02-05T16:24:44.856Z
-updated: 2025-02-07T16:13:11.271Z
+date: 2025-02-12T23:26:57.547Z
+updated: 2025-02-16T16:22:11.018Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,6 +39,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -53,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,15 +62,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,19 +126,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-a-visual-journey-the-art-of-editing-with-snapchat-filters/"><u>[New] 2024 Approved A Visual Journey The Art of Editing with Snapchat Filters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ace-your-channel-prime-title-generators-for-2024/"><u>[New] Ace Your Channel Prime Title Generators for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-digital-deviation-expert-strategies-to-rotate-videos-on-youtube-for-2024/"><u>[Updated] Digital Deviation Expert Strategies to Rotate Videos on YouTube for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/diypc/"><u>DIY方法：新PCへ完全データ転送テクニック</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elite-selection-of-professional-scanner-models-2024-edition/"><u>Elite Selection of Professional Scanner Models - 2024 Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-intricacies-of-ray-tracing-techniques/"><u>Exploring the Intricacies of Ray Tracing Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revealing-truthgpt-police-crackdown-on-mullvad-vpn-showcase-of-top-free-gaming-titles-for-your-computer-and-what-you-need-to-know-about-mechanical-keys/"><u>Revealing TruthGPT: Police Crackdown on Mullvad VPN, Showcase of Top Free Gaming Titles for Your Computer & What You Need To Know About Mechanical Keys</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-a-consultation-with-apples-experts/"><u>Step-by-Step Guide: Setting Up a Consultation with Apple's Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-troubleshooting-tips-oddworld-soulstorm-installation-on-pc/"><u>Successful Troubleshooting Tips: Oddworld Soulstorm Installation on PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-legacy-of-yahoo-messenger-and-insights-into-what-led-to-its-closure/"><u>The Legacy of Yahoo! Messenger and Insights Into What Led to Its Closure</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-8-best-and-free-streaming-channels-on-roku/"><u>Top 8 Best & Free Streaming Channels on Roku</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722886159377-upcoming-macos-15-sequoia-unveiling-the-launch-date-and-exciting-new-updates/"><u>Upcoming MacOS 15 Sequoia: Unveiling the Launch Date & Exciting New Updates</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-14-pro-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 14 Pro i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-we-know-about-the-apple-car-so-far-exploring-projections-for-price-points-arrival-dates-and-technical-details/"><u>What We Know About the Apple Car So Far: Exploring Projections for Price Points, Arrival Dates, and Technical Details</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unbeatable-bike-sims-showcase/"><u>[New] 2024 Approved Unbeatable Bike Sims Showcase</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-from-hype-to-highlighted-the-art-of-editing-hauls/"><u>[New] In 2024, From Hype to Highlighted The Art of Editing Hauls</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-decoding-the-metrics-for-youtube-video-hierarchy/"><u>[Updated] Decoding the Metrics for YouTube Video Hierarchy</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-15-video-cameras-to-elevate-your-vlogging-game-for-2024/"><u>Best 15 Video Cameras to Elevate Your Vlogging Game for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-apple-watchs-battery-performance-transformative-tweaks-and-adjustments/"><u>Boost Your Apple Watch's Battery Performance: Transformative Tweaks & Adjustments</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/busting-the-top-4-misconceptions-in-mobile-email-campaigns-essential-insights-and-strategies-with-massmail-solutions/"><u>Busting the Top 4 Misconceptions in Mobile Email Campaigns: Essential Insights & Strategies with Massmail Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/checking-for-safe-network-connections-on-windows/"><u>Checking for Safe Network Connections on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-on-board-new-release-of-hp-projector-8710-software-windows-compatible/"><u>Get on Board - New Release of HP Projector 8710 Software (Windows Compatible)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-track-down-vanished-mobile-numbers-on-android-comprehensive-strategies-revealed/"><u>How to Track Down Vanished Mobile Numbers on Android - Comprehensive Strategies Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-35plus-unbeatable-prime-day-2024-tablet-offers-last-chance-tech-insights/"><u>Top 35+ Unbeatable Prime Day 2024 Tablet Offers - Last Chance! | Tech Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-behind-visionpro-glitches-a-comprehensive-guide-on-taking-action-insights-from-zdnet/"><u>Unraveling the Mystery Behind VisionPro Glitches: A Comprehensive Guide on Taking Action - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/update-your-desktop-zoom-meetings-windows-and-macos-compatible-instructions/"><u>Update Your Desktop Zoom Meetings – Windows & macOS Compatible Instructions</u></a></li>
 </ul></div>
 

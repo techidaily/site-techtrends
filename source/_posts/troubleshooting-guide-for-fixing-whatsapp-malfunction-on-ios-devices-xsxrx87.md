@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Fixing WhatsApp Malfunction on iOS Devices (XS/XR/X/8/7)
-date: 2024-08-26 23:21:23
-updated: 2024-08-27 10:36:27
+date: 2025-02-15T21:04:12.662Z
+updated: 2025-02-16T19:28:07.217Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/e20731976346abc5e9e51e32ccd4741e92a00f139a0758d467d321b1a71642cd.jpg
@@ -16,13 +16,13 @@ thumbnail: https://thmb.techidaily.com/e20731976346abc5e9e51e32ccd4741e92a00f139
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Online Video](https://tools.techidaily.com/macxdvd/products/) \> [Streaming Video](https://tools.techidaily.com/macxdvd/products/) \> Whatsapp not Working on iPhone
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WhatsApp Not Working on iPhone Problem Fixed!
-
-
 
 ![](https://www.macxdvd.com/mobile/../image-style/new-seo/icon6.png) By [Bertha Miller](https://www.linkedin.com/in/bertha-miller-7a324990/) ｜Last updated on March 03, 2023
 
@@ -48,6 +48,10 @@ Since one size doesn't fit all, the below post will solve WhatsApp not working o
 
 ![solve WhatsApp Crashing on iPhone issue](https://www.macxdvd.com/mobile/article-image/whatsapp-crash.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png)   **Close the app**  on iPhone and re-launch it to have a try. 
 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png)   **Disable Facebook sync** if you have recently installed Facebook with contact sync enabled to your iPhone Address Book. 
@@ -55,6 +59,10 @@ Since one size doesn't fit all, the below post will solve WhatsApp not working o
 Open Facebook app on iPhone > click "More" icon > select **General** to enter Settings page > Find **"Upload contacts"** and turn green button to grey > tap "Turn Off" on the pop-up window with "Stop continuously uploading your contacts" notification words.
 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Close **Auto Backup** in WhatsApp. Auto Backup is used to automatically backup chats to iCloud. But sometimes, it might cause your crashing on iPhone. To turn off Auto Backup, go to Settings and find Chat Backup under Chat category on WhatsApp > tap "Chat Backup" to enter Auto Backup interface > turn off Auto Backup. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) If nothing good happens after you've tried all the above methods, please uninstall WhatsApp and re-install it on your iPhone to have a shot. 
 
@@ -74,6 +82,10 @@ Sometimes, one problem results from a spate of complicated reasons and more ofte
 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Exit the proxy or VPN services on iPhone, for WhatsApp isn't designed to be used with proxy or VPN services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Shut down and reboot your iPhone X/8/Plus or iPhone 7/6s/6/Plus if the mentioned solutions don't work for you.
 
 ## 3\. Fix iOS 17 WhatsApp Notification Problem
@@ -90,7 +102,15 @@ After updating to iOS 17 on your iPhone 6s or iPhone 7, you might find that the 
 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Delete and re-install WhatsApp on iPhone. Or, update WhatsApp to latest version to check if Notification works normally.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Reset your iPhone and restore iPhone to factory settings after you [backup iPhone files to Mac](https://tools.techidaily.com/macxdvd/products/)/Windows or other cloud storage service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Fix WhatsApp Video Not Downloading Issue
 
@@ -101,6 +121,10 @@ After updating to iOS 17 on your iPhone 6s or iPhone 7, you might find that the 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Check your iPhone date and time setting. If not, adjust them to the correct settings.
 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Make sure that you have enough   **free space** on your iPhone X/8/Plus or iPhone 7/6s/6/5s/SE, especially for 16/32GB iPhone users. If there is no enough space on your iPhone, you can consider to [free download an iPhone file manager](https://tools.techidaily.com/macxdvd/products/) to backup 4K videos, movies, photos, music, iTunes purchases from iPhone to MacBook/iMac or Windows PC and then properly delete some videos or photos to free up iPhone space for [WhatsApp video downloading](https://tools.techidaily.com/macxdvd/products/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Delete unwanted files and large-sized files from iPhone and then   **unmount your iPhone as USB flash drive**  if you once mounted iPhone as USB drive to store large numbers of files (you might forget). 
 
@@ -115,6 +139,10 @@ You might be familiar with this pop-up message from WhatsApp: "this video could 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Change to another Wi-Fi hotspot or use your cellular data on iPhone to send video again.
 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Download video to your iPhone (iPhone 11/Pro/Xs/XR) first if you receive the message saying "this video has not been downloaded yet to your iPhone". Or contact the whatsapp developers and ask them to add the ability to use iCloud Drive if your video is stored in iCloud Drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Do a hard reset on your iPhone and then reboot it, which solves 90% of problems with iPhone third-party apps.
 
@@ -133,6 +161,10 @@ Let's not blame jailbreak. Whether you jailbreak your iPhone or not, actually yo
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Remove Action Menu and Action Menu Pack if you are on jailbroken iOS 9 or iOS 17\. These tweaks are known to cause the WhatsApp crashing issue on your jailbroken iPhone.
 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Update to latest iOS 17.2.5 or higher version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.macxdvd.com/mobile/../image-style/kids-dvd-movie/disc02.png) Have a check on other third-party apps on your jailbroken iPhone to see if they're in conflict with WhatsApp. If so, exit them from running on background or uninstall them.
 
@@ -153,8 +185,6 @@ ABOUT THE AUTHOR
 [Rico Rodriguez ![](https://www.macxdvd.com/mobile/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/rico-rodriguez-06815a104/) 
 
 Rico has been fascinated with mobile technology for as long as he can remember. He is keen to share his experiences to those who get stuck in data transfer for both iOS and Android users. Besides his regular passion related to mobile data management, he also enjoys reading books, playing games and occasionally watching Marvel inspired movies.
-
-
 
 Related Articles
 
@@ -182,8 +212,6 @@ Related Articles
 
 [How to Transfer Music from iPhone to Mac (MacBook Air/Pro, iMac)](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mobile/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
@@ -193,6 +221,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -210,8 +242,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -225,11 +255,29 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-your-workflow-with-the-top-5-pc-screen-grabbers-for-2024/"><u>[New] Streamline Your Workflow with the Top 5 Pc Screen Grabbers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-techniques-for-photo-based-tileworks-for-2024/"><u>[Updated] Exploring Techniques for Photo-Based Tileworks for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-innovative-box-open-strategies/"><u>[Updated] In 2024, Innovative Box-Open Strategies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-musicreactionvids10-discovering-2023s-stars/"><u>[Updated] In 2024, MusicReactionVids10 Discovering 2023'S Stars</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-finding-your-preferred-video-editor-filmora-vs-democreator-insights/"><u>2024 Approved Finding Your Preferred Video Editor Filmora Vs. Democreator Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-v30t-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on V30T.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-steps-for-setting-up-playstation-vr-on-your-desktop-system/"><u>Effortless Steps for Setting up PlayStation VR on Your Desktop System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-ig-story-engagement-by-mastering-the-art-of-caption-integration-complete-guide/"><u>Elevate Your IG Story Engagement by Mastering the Art of Caption Integration - Complete Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-craft-an-effective-email-closing-in-godaddys-online-mail-client/"><u>How to Craft an Effective Email Closing in GoDaddy's Online Mail Client</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-your-minds-library-utilize-mematic/"><u>Master Your Mind's Library - Utilize Mematic</u></a></li>
+<li><a href="https://techtrends.techidaily.com/netflix-sync-how-to-create-a-shared-viewing-party-across-distances/"><u>Netflix Sync: How to Create a Shared Viewing Party Across Distances</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-integration-crafting-timely-sms-notifications-on-your-iphone-device/"><u>Seamless Integration: Crafting Timely SMS Notifications on Your iPhone Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wireless-streaming-made-easy-setting-up-fire-stick-on-mobile-hotspot/"><u>Wireless Streaming Made Easy: Setting Up Fire Stick on Mobile Hotspot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-guide-to-the-smallest-high-performance-tablets-of-2nndig4-professional-reviews/"><u>ZDNet's Ultimate Guide to the Smallest High-Performance Tablets of 2Nndig4: Professional Reviews</u></a></li>
+</ul></div>
+

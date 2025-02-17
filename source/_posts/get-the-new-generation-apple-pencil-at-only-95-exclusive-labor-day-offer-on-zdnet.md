@@ -1,7 +1,7 @@
 ---
 title: "Get the New Generation Apple Pencil at Only $95: Exclusive Labor Day Offer on ZDNet"
-date: 2024-11-11T20:12:06.378Z
-updated: 2024-11-18T19:17:56.567Z
+date: 2025-02-10T18:10:24.687Z
+updated: 2025-02-17T02:50:47.154Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ The Apple Pencil is super responsive and has pixel-perfect precision with indust
 By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model), you'll get exclusive features like the new hover feature that makes part of the iPad's interface come to life when the tip of the Apple Pencil gets within 12mm of the iPad's display. 
 
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -67,28 +71,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-adventures-at-a-tap-androids-elite-15-game-choices/"><u>[New] Adventures at a Tap Android's Elite 15 Game Choices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-decoding-the-social-code-top-30-tips-for-marketing-mastery/"><u>[Updated] Decoding the Social Code Top 30 Tips for Marketing Mastery</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-conquer-massive-content-views-on-youtube-efficiently/"><u>[Updated] In 2024, Conquer Massive Content Views on YouTube Efficiently</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722880443186-all-you-need-to-know-about-the-upcoming-samsung-galaxy-s25-ultra-release-date-pricing-insights-and-cutting-edge-tech-speculations-revealed/"><u>All You Need to Know About the Upcoming Samsung Galaxy S25 Ultra – Release Date, Pricing Insights & Cutting-Edge Tech Speculations Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/connect-your-pc-effortlessly-to-any-bluetooth-speaker-a-step-by-step-guide/"><u>Connect Your PC Effortlessly to Any Bluetooth Speaker – A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-spine-chilling-entertainment-with-youre-next-amongst-leading-choices-in-scary-cinema/"><u>Discover Spine-Chilling Entertainment with 'You're Next', Amongst Leading Choices in Scary Cinema</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-instructional-tutorial-upgrading-playstation-5-storage-with-an-ssd/"><u>Easy Instructional Tutorial: Upgrading PlayStation 5 Storage with an SSD</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-unlimited-melodies-find-your-perfect-match-with-our-choice-of-7-freebie-audio-apps-for-mobile-users/"><u>Enjoy Unlimited Melodies: Find Your Perfect Match with Our Choice of 7 Freebie Audio Apps for Mobile Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ready-for-the-next-big-thing-comprehensive-coverage-of-samsung-unpacked-2025-dates-rumors-and-product-insights/"><u>Get Ready For The Next Big Thing: Comprehensive Coverage of Samsung Unpacked 2025 – Dates, Rumors, and Product Insights</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-lava-blaze-curve-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Lava Blaze Curve 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-wifi-with-linksys-ea9-5000-the-ultimate-intelligent-networking-solution-reviewed/"><u>Mastering WiFi with Linksys EA9 5000: The Ultimate Intelligent Networking Solution Reviewed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-coredll-error-a-step-by-step-guide/"><u>Resolving Core.dll Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-snapping-images-using-logitech-keyboards/"><u>Step-by-Step Tutorial on Snapping Images Using Logitech Keyboards</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-non-root-auto-clickers-unleashing-productivity-on-your-android-device/"><u>Top 5 Non-Root Auto Clickers: Unleashing Productivity on Your Android Device</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-15-activities-for-podcast-enthusiasts/"><u>[New] 2024 Approved Top 15 Activities for Podcast Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-tackle-missing-thumbnails-on-youtube-shorts-for-2024/"><u>[Updated] How to Tackle Missing Thumbnails on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-switch-to-picture-in-picture-for-youtube-videos-on-iphones/"><u>[Updated] In 2024, Switch to Picture-in-Picture for YouTube Videos on iPhones</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comment-copier-facilement-une-partition-de-windows-10-sur-un-ssd/"><u>Comment Copier Facilement Une Partition De Windows 10 Sur Un SSD</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-enforcement-tactics-in-xbox-games/"><u>Decoding the Enforcement Tactics in Xbox Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-places-to-get-free-downloads-of-ebooks-online/"><u>Discover the Best Places to Get Free Downloads of Ebooks Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-of-the-line-fixing-obs-latency-problems-for-perfect-livestreams-and-captures/"><u>End of the Line: Fixing OBS Latency Problems for Perfect Livestreams & Captures</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-12-proplus-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme 12 Pro+ 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-your-hands-on-hot-tech-deals-this-years-amazon-prime-day-extravaganza/"><u>Get Your Hands on Hot Tech Deals – This Year's Amazon Prime Day Extravaganza</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-copilot-in-microsoft-teams/"><u>How to Use Copilot in Microsoft Teams</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/image-guardian-safeguard-your-jpegs/"><u>Image Guardian: Safeguard Your JPEGs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-tecno-spark-10-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Tecno Spark 10 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-microsoft-teams-experiencing-downtime-or-is-your-internet-connection-at-fault/"><u>Is Microsoft Teams Experiencing Downtime - Or Is Your Internet Connection at Fault?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remedies-for-broken-gmail-synchronization/"><u>Remedies for Broken Gmail Synchronization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-oleaut32dll-file-not-found-a-step-by-step-guide/"><u>Solving oleAut32.dll File Not Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-espnplus-streams-on-your-lg-smart-tv/"><u>Step-by-Step Guide: Accessing ESPN+ Streams on Your LG Smart TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-gen-m4-mac-mini-latest-insights-on-release-timeline-costs-and-technical-specifications/"><u>The Next-Gen M4 Mac Mini - Latest Insights on Release Timeline, Costs & Technical Specifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-hierarchy-the-number-of-tiers-within-royal-match-revealed/"><u>Unveiling the Hierarchy: The Number of Tiers Within 'Royal Match' Revealed</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

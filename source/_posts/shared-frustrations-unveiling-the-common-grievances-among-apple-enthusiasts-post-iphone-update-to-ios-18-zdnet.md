@@ -1,7 +1,7 @@
 ---
 title: "Shared Frustrations: Unveiling the Common Grievances Among Apple Enthusiasts Post-iPhone Update to iOS 18 | ZDNet"
-date: 2024-12-08T16:27:33.796Z
-updated: 2024-12-13T21:35:08.235Z
+date: 2025-02-15T00:08:30.135Z
+updated: 2025-02-16T23:28:31.240Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,22 +114,19 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-transform-ideas-into-engaging-movies-using-youtube-editor/"><u>[New] 2024 Approved Transform Ideas Into Engaging Movies Using YouTube Editor</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-rise-of-the-alternative-top-3-video-sharing-websites/"><u>[New] In 2024, Rise of the Alternative Top 3 Video Sharing Websites</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-is-splitcam-the-pinnacle-of-recording-capabilities-for-2024/"><u>[Updated] Is SplitCam The Pinnacle of Recording Capabilities for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-breaking-down-the-selfie-security-on-insta/"><u>2024 Approved Breaking Down the Selfie Security on Insta</u></a></li>
-<li><a href="https://driver-download.techidaily.com/achieve-seamless-razer-device-performance-with-updated-drivers-on-windows-win11-win87xpvista/"><u>Achieve Seamless Razer Device Performance with Updated Drivers on Windows (Win11, Win8/7/XP/Vista)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoid-unwanted-amber-alerts-tips-for-android-users/"><u>Avoid Unwanted AMBER Alerts: Tips for Android Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/common-fixes-for-android-messaging-problems-and-no-text-reception/"><u>Common Fixes for Android Messaging Problems and No Text Reception</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-greatest-80s-movies-to-stream-immediately/"><u>Discover the Greatest '80S Movies to Stream Immediately</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-errors-related-to-absence-of-msvcr1-groovydll-file/"><u>Fixing Errors Related to Absence of MSVCR1 groovy.dll File</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-motorola-moto-g24-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Motorola Moto G24? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-innovation-hub-explore-over-120-creative-title-concepts-to-personalize-your-storytelling/"><u>In 2024, Snapchat Innovation Hub Explore over 120 Creative Title Concepts to Personalize Your Storytelling</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-straightforward-pathway-for-tiktok-to-facebook/"><u>In 2024, The Straightforward Pathway for TikTok to Facebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-it-possible-to-pair-airpods-with-a-nintendo-switch-device/"><u>Is It Possible To Pair AirPods With A Nintendo Switch Device?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reviving-your-amazon-prime-captions-solutions-for-non-functioning-subtitles/"><u>Reviving Your Amazon Prime Captions: Solutions for Non-Functioning Subtitles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-storage-caches-in-your-android-device/"><u>Step-by-Step Guide: Removing Storage Caches in Your Android Device</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-microphones-for-various-youtube-content-creators/"><u>Top Microphones for Various YouTube Content Creators</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-apple-devices-hidden-app-features/"><u>Unlocking Your Apple Device's Hidden App Features</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-expanding-storytelling-with-alternative-cinematography/"><u>[New] In 2024, Expanding Storytelling with Alternative Cinematography</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-secure-and-simple-the-top-10-trusted-online-transformers/"><u>[Updated] 2024 Approved Secure and Simple The Top 10 Trusted Online Transformers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-snaps-with-zooming-techniques/"><u>[Updated] Elevate Your Snaps with Zooming Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-an-impactful-podcast-intro-video/"><u>Crafting an Impactful Podcast Intro Video</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-solutions-how-to-eliminate-unwanted-stripes-from-your-tv-screen/"><u>DIY Solutions: How to Eliminate Unwanted Stripes From Your TV Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-self-expression-with-these-eboxed-highly-recommended-journal-apps/"><u>Elevate Your Self-Expression with These Eboxed Highly Recommended Journal Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminating-screen-issues-a-step-by-step-guide-to-fix-pixelation-and-fading-colors/"><u>Eliminating Screen Issues: A Step-by-Step Guide to Fix Pixelation & Fading Colors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expertise-in-capturing-high-quality-verbal-notes/"><u>Expertise in Capturing High-Quality Verbal Notes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-jpg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Free electronic signature - For JPG</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-12-pro-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 Pro 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-removing-your-likes-from-the-entire-spotify-playlist/"><u>Step-by-Step Tutorial: Removing Your Likes From the Entire Spotify Playlist</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-lowdown-on-the-rumored-meta-quest-3-light-potential-price-tag-release-expectations-and-specs-sneak-peek/"><u>The Lowdown on the Rumored Meta Quest 3 Light: Potential Price Tag, Release Expectations & Specs Sneak Peek</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-trending-british-tv-shows-on-netflix/"><u>The Ultimate List of Trending British TV Shows on Netflix</u></a></li>
 </ul></div>
 

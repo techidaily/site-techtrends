@@ -1,7 +1,7 @@
 ---
 title: Protect Your System with These 15 Free, Pre-Installed Antivirus Apps
-date: 2024-08-26T07:45:37.648Z
-updated: 2024-08-27T07:45:37.648Z
+date: 2025-02-11T21:58:09.280Z
+updated: 2025-02-16T19:50:47.096Z
 categories:
   - BestProducts
 description: This Article Describes Protect Your System with These 15 Free, Pre-Installed Antivirus Apps
@@ -54,15 +54,13 @@ of 15
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Dr.Web LiveDisk](https://free.drweb.com/aid%5Fadmin/)
 
 ![Dr.Web LiveDisk](https://www.lifewire.com/thmb/dAPOQUf61eXVl99issQLso4bUCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/drweb-livedisk-57c762f35f9b5829f4b019eb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Custom options not found in some of these other bootable AV programs
@@ -95,8 +93,9 @@ of 15
 ![Kaspersky Rescue Disk](https://www.lifewire.com/thmb/UooMMCBXkxYKds9qY2wOvaTFp0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kaspersky-rescue-tool-5ae779a0119fa80036eba261.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Lets you scan specific folders, the whole drive, and other areas
@@ -130,6 +129,10 @@ of 15
 
 ![hiren's bootcd pe running eset online scanner](https://www.lifewire.com/thmb/Ex1m-dAQFW2grnu98OKcliWumy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hirens-boot-cd-31ad354e866d40fba838620da90d62cd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Comes with four virus scanning tools
@@ -155,16 +158,10 @@ of 15
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## [ESET SysRescue Live](https://www.majorgeeks.com/files/details/eset%5Fsysrescue.html)
 
 ![ESET SysRescue Live](https://www.lifewire.com/thmb/5GrHPw51aJORafKEmZ2Hp9oI_7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/eset-sysrescue-8a0efe7ef7cd4cdb92c78303d0b28740.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Super easy to use
@@ -191,9 +188,6 @@ of 15
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [Comodo Rescue Disk](https://help.comodo.com/topic-170-1-493-5214-Downloading-Comodo-Rescue-Disk.html)
 
 ![Comodo Rescue Disk](https://www.lifewire.com/thmb/Y0OlvcpEiA5zlbMZ73gOZIpRfbc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/comodo-rescue-disk-56a6fa073df78cf772913bd9.png)
@@ -259,9 +253,6 @@ of 15
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Anvi Rescue Disk](https://www.softpedia.com/get/System/Boot-Manager-Disk/Anvi-Rescue-Disk.shtml)
 
 ![Anvi Rescue Disk](https://www.lifewire.com/thmb/LmZohBkYnOFhmIFXyL8XxOnspP0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/anvi-rescue-disk-56a6f9655f9b58b7d0e5c8c3.png)
@@ -327,16 +318,14 @@ of 15
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [AVG Rescue CD](https://www.majorgeeks.com/files/details/avg%5Frescue%5Fcd%5F%28for%5Fcd%5Fcreation%29.html)
 
 ![AVG Rescue CD bootable antivirus tool](https://www.lifewire.com/thmb/zlZ45TqbkeZB-b1esCHwBP2--BU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/avg-rescue-cd-5980c79c396e5a0011ae7509.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Scans things most bootable AV programs do not
@@ -366,6 +355,10 @@ of 15
 
 ![Trend Micro Rescue Disk](https://www.lifewire.com/thmb/tjqxff_8iggxxnCK_Snw_R8y6Rc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/trend-micro-rescue-disk-56a6f9645f9b58b7d0e5c8ba.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  © Trend Micro Incorporated
 
  What We Like
@@ -392,13 +385,14 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Panda Cloud Cleaner Rescue ISO](https://www.pandasecurity.com/en/support/card?id=1681)
 
 ![Panda Cloud Cleaner v1.1.10 in Windows XP](https://www.lifewire.com/thmb/E-1HJ6WCSR1-7PkwEM4V9BFafC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/panda-cloud-cleaner-1-1-10-5a73988e1d64040037997eec.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  What We Like
 
 * Updates automatically
@@ -427,9 +421,6 @@ of 15
 
 ![Adaware Live CD quick scan screen](https://www.lifewire.com/thmb/4yQnq7JrpCONNFe77ox0bhV6toM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/adaware-live-cd-768d4456b7644840bb17ec683957c7e2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Multiple scan types
@@ -454,8 +445,9 @@ of 15
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [F-Secure Rescue CD](https://archiveos.org/fsecure-rescue/)
 
 ![F-Secure Rescue CD](https://www.lifewire.com/thmb/t2JO8simJs_E61lPv4yt1o88D5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/f-secure-rescue-cd-5980ca6b0d327a0011b2e6b6.png)
@@ -481,6 +473,10 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [VBA32 Rescue](https://www.softpedia.com/get/Antivirus/Vba32-Rescue.shtml)
 
 ![VBA32 Rescue](https://www.lifewire.com/thmb/ItnbkWEv0bArFM9ZFOb6cCNEesg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vba32-rescue-5980d09e68e1a20011c32d02.png)
@@ -504,8 +500,9 @@ of 15
 [Download VBA32 Rescue](https://www.softpedia.com/get/Antivirus/Vba32-Rescue.shtml)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## An Alternative Method
 
  Another way to scan for viruses during the boot process is to use an antivirus tool that includes a 'rescue disk' option (some software might call it something else).[Avast Free Antivirus](https://www.avast.com/en-us/free-antivirus-download#pc) and[AVG AntiVirus Free](https://www.avg.com/en-us/free-antivirus-download#pc) are some examples.
@@ -513,8 +510,9 @@ of 15
 [The 7 Best Free Antivirus Software of 2024](https://www.lifewire.com/best-free-antivirus-software-4151895)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Do You Need a Bootable Antivirus Program?
 
  Why are these tools so important? If you've ever had such a terrible virus that your[computer won't start](https://www.lifewire.com/how-to-fix-a-computer-that-wont-turn-on-2624450) at all, it's hard to know what to do next because, well, your system won't boot up!
@@ -545,8 +543,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -554,4 +550,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/reak-down-the-essentials-of-youtube-sharing-on-facebook-for-2024/"><u>[New] Break Down The Essentials of YouTube Sharing on Facebook for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ethereal-3-clash-veil-4-arises/"><u>[Updated] 2024 Approved Ethereal 3 Clash Veil 4 Arises</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-video-host-vs-stream-pro-the-battle-of-obs-and-twitch-studio/"><u>[Updated] In 2024, Video Host Vs. Stream Pro - The Battle of OBS and Twitch Studio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-expand-your-youtube-video-footprint/"><u>2024 Approved How to Expand Your YouTube Video Footprint</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024-windows-117/"><u>2024年度推薦: Windows 11上最佳免費屏幕錄影器材7組 - 如何選?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/android-users-rejoice-how-to-enable-and-use-bings-intelligent-assistant-keyboard-app/"><u>Android Users Rejoice: How to Enable and Use Bing’s Intelligent Assistant Keyboard App</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-your-mov-files-to-avi-format-for-free-with-movavis-web-based-tool/"><u>Convert Your MOV Files to AVI Format for Free with Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-capture-high-quality-mp3-tracks-using-movavi-on-your-macbook/"><u>How to Capture High-Quality MP3 Tracks Using Movavi on Your MacBook</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-link-your-social-accounts-on-xbox/"><u>How to Link Your Social Accounts on Xbox</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-quick-snapchat-lens-creation-two-simple-techniques-for-2024/"><u>Mastering Quick Snapchat Lens Creation Two Simple Techniques for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-pef-png/"><u>Movavi 서비스로 PEF PNG에 대한 무료 온라인 변환 - 영어</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguard-windows-effortlessly-with-these-free-generators/"><u>Safeguard Windows Effortlessly with These Free Generators</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/871898-9781780994253-the-dreamer-who-dreams-you/"><u>The Dreamer Who Dreams You | Free Book</u></a></li>
+</ul></div>
 

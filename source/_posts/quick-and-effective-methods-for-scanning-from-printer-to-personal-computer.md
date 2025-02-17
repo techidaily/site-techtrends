@@ -1,7 +1,7 @@
 ---
 title: Quick & Effective Methods for Scanning From Printer to Personal Computer
-date: 2025-02-06T16:06:02.980Z
-updated: 2025-02-07T16:03:24.228Z
+date: 2025-02-12T19:31:06.905Z
+updated: 2025-02-16T18:08:11.642Z
 categories:
   - BestProducts
 description: This Article Describes Quick & Effective Methods for Scanning From Printer to Personal Computer
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 
 ## Master the Art of Transferring Printouts to Computers Without Hassle
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * In Windows, go to**Start** \>**Scan** \>**Settings** \>**Devices** \>**Printers & Scanners** .
@@ -30,10 +26,14 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 
 ![Scanning a Document Using a Flatbed Scanner](https://www.lifewire.com/thmb/4ttTzWS9kaWy0rhmgoB3ZRzAwXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-1-97c5bf309a29400a92d8ba96f4af302b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 lolostock / Getty Images
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Windows PC
@@ -51,15 +51,19 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
@@ -68,12 +72,16 @@ lolostock / Getty Images
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
@@ -84,10 +92,6 @@ lolostock / Getty Images
 12. Click**Printers & Scanners** .  
 ![The macOS System Preferences Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/kKB-VHVfmhPQBA1nK35yWTJhURw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PrintersScanners-08c144e554c34b8fb7d8712f0b93da0c.jpg)
 13. Select your printer, then click**Scan** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
@@ -102,10 +106,6 @@ lolostock / Getty Images
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
 19. Click**Scan** to start your scanning job.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  FAQ
 
@@ -145,18 +145,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-stardew-enhancements-for-maximum-farming-fun/"><u>[New] Essential Stardew Enhancements for Maximum Farming Fun</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/aster-list-of-youtube-templates-for-beginners-for-2024/"><u>[New] Master List of YouTube Templates for Beginners for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-visual-journey-in-filmmaking-insights-from-filmora-expertise/"><u>[Updated] A Visual Journey in Filmmaking Insights From Filmora Expertise</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2023s-premier-alternatives-to-samsungs-gear-360-cam-for-2024/"><u>2023'S Premier Alternatives to Samsung's Gear 360 Cam for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-sail-through-smooth-sharing-with-instagram-troubleshooting/"><u>2024 Approved Sail Through Smooth Sharing with Instagram Troubleshooting</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/como-transferir-informacion-de-una-memoria-usb-a-otra-con-facilidad-y-seguridad/"><u>Cómo Transferir Información De Una Memoria USB a Otra Con Facilidad Y Seguridad</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-whats-new-at-samsung-unpacked-2025-release-dates-announcements-and-rumored-gadgets-revealed/"><u>Discover What's New at Samsung Unpacked 2025 - Release Dates, Announcements & Rumored Gadgets Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-next-gen-connectivity-the-promise-of-verizons-5g-network/"><u>Exploring Next-Gen Connectivity: The Promise of Verizon's 5G Network</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/streamlined-search-for-personalized-song-collection-on-youtube-for-2024/"><u>Streamlined Search for Personalized Song Collection on YouTube for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-for-uninstalling-software-from-a-mac-device/"><u>The Complete Walkthrough for Uninstalling Software From a Mac Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-8-amazing-non-gmail-email-options/"><u>The Ultimate List: 8 Amazing Non-Gmail Email Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformative-tales-discover-the-worlds-most-inspirational-films/"><u>Transformative Tales: Discover the World's Most Inspirational Films</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-all-inclusive-guide-what-is-googles-podcast-service-in-2024/"><u>[New] All-Inclusive Guide What Is Google's Podcast Service, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovation-at-the-heart-the-evolution-of-magix-music-maker/"><u>[New] Innovation at the Heart The Evolution of Magix Music Maker</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screensnappers-journey-navigating-the-latest-recorders-for-2024/"><u>[New] ScreenSnapper's Journey Navigating the Latest Recorders for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unlocking-potential-creating-compelling-content-on-your-phone/"><u>2024 Approved Unlocking Potential Creating Compelling Content on Your Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-tutorial-to-access-live-fm-broadcasts-on-your-smartphone/"><u>A Comprehensive Tutorial to Access Live FM Broadcasts on Your Smartphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-forthcoming-touchscreen-macbook-price-forecasts-release-date-speculations-and-feature-deep-dive/"><u>All You Need to Know About the Forthcoming Touchscreen MacBook: Price Forecasts, Release Date Speculations & Feature Deep-Dive</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-phantom-v-flip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Phantom V Flip Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-california-drivers-can-securely-link-licenses-to-apple-and-google-wallets-a-step-by-step-guide/"><u>How California Drivers Can Securely Link Licenses to Apple and Google Wallets: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-chucklecraft-constructor/"><u>In 2024, ChuckleCraft Constructor</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-magic-v2-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor Magic V2 and Browser | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/simple-steps-for-converting-your-dvds-into-avi-files-with-ease/"><u>Simple Steps for Converting Your DVDs Into AVI Files with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-to-boost-your-playstation-5-with-a-solid-state-drive/"><u>The Ultimate Walkthrough to Boost Your PlayStation 5 With a Solid State Drive</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Power Solutions : Comprehensive Testing & Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-vpn-apps-for-apple-devices-in-depth-analysis-and-reviews-by-industry-experts-zdnet/"><u>Top-Rated VPN Apps for Apple Devices: In-Depth Analysis & Reviews by Industry Experts - ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-new-in-icloud-apple-unveils-significant-changes-and-solutions-for-windows-users-insights/"><u>What's New in iCloud? Apple Unveils Significant Changes and Solutions for Windows Users Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-woes-a-step-by-step-fix-guide-for-error-0x8024402c/"><u>Winning Against Windows Woes: A Step-by-Step Fix Guide for Error 0X8024402C</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722874147995-x-men-movie-marathon-watch-in-the-perfect-order/"><u>X-Men Movie Marathon: Watch in the Perfect Order!</u></a></li>
 </ul></div>
 

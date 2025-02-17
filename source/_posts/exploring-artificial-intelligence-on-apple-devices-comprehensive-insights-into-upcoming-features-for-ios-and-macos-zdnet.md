@@ -1,7 +1,7 @@
 ---
 title: "Exploring Artificial Intelligence on Apple Devices: Comprehensive Insights Into Upcoming Features for iOS & macOS | ZDNET"
-date: 2025-01-21T19:20:02.129Z
-updated: 2025-01-25T20:29:57.789Z
+date: 2025-02-09T22:29:44.135Z
+updated: 2025-02-16T23:45:03.328Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,6 +64,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,10 +75,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -112,10 +112,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -127,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -157,6 +153,10 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,19 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-winning-windows-10-tools-to-record-your-display/"><u>[Updated] 2024 Approved Winning Windows 10 Tools to Record Your Display</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-beatback-bungalow-recordings-downloads-and-reviews/"><u>[Updated] In 2024, Beatback Bungalow Recordings Downloads & Reviews</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-the-world-of-instagram-posts-large-imagevideo-uploads-for-2024/"><u>[Updated] Navigating the World of Instagram Posts Large Image/Video Uploads for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-10-best-inspirational-movies-that-will-make-you-feel-motivated/"><u>2024 Approved 10 Best Inspirational Movies That Will Make You Feel Motivated</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-touchpad-driver-for-acers-supported-by-windows-version-11/"><u>Download Updated Touchpad Driver for Acers - Supported by Windows Version 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-screenshots-how-to-use-your-logiteche-keyboards-features-for-image-capture/"><u>Easy Screenshots: How to Use Your Logiteche Keyboard's Features for Image Capture</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-and-tricks-to-resolve-sound-issues-with-your-chromecast-unit/"><u>Expert Tips and Tricks to Resolve Sound Issues with Your Chromecast Unit</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-itel-p55-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Itel P55 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-restoring-firestick-remote-control-functionality/"><u>Mastering the Art of Restoring Firestick Remote Control Functionality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximize-entertainment-easy-tutorial-on-how-to-hook-up-your-laptop-to-the-television-with-hdmi/"><u>Maximize Entertainment: Easy Tutorial on How to Hook Up Your Laptop to the Television with HDMI</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/stepwise-blueprint-converting-everyday-gifs-to-sticker-status-in-discord-and-other-chat-apps-for-2024/"><u>Stepwise Blueprint Converting Everyday GIFs to Sticker Status in Discord & Other Chat Apps for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-science-of-how-virtual-assistants-talk-like-us-exploring-conversation-simulation-in-ai/"><u>The Science of How Virtual Assistants Talk Like Us: Exploring Conversation Simulation in AI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tolkiens-trilogy-watch-list-a-detailed-guide-for-fans/"><u>Tolkien's Trilogy Watch List: A Detailed Guide for Fans</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-msidll-errors-effective-solutions-explored/"><u>Troubleshooting Missing MSI.DLL Errors: Effective Solutions Explored</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-explore-the-10-most-inspiring-youtube-makeup-vloggers-ever-for-2024/"><u>[New] Explore the 10 Most Inspiring YouTube Makeup Vloggers Ever for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-online-methods-to-perfect-vhs-picture-editing/"><u>[New] Mastering Online Methods to Perfect VHS Picture Editing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-perfect-patches-backgrounds-for-online-streaming/"><u>[Updated] 2024 Approved Perfect Patches Backgrounds for Online Streaming</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-insider-guide-whatsapp-audio-talks/"><u>[Updated] In 2024, The Insider Guide WhatsApp Audio Talks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-obs-playbook-for-twitch-and-youtube-streaming/"><u>2024 Approved The Ultimate OBS Playbook for Twitch & YouTube Streaming</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ace-your-macs-facetime-camera-with-apple-vision-pro-tips-screenshots-recordings-done-right-no-quirks-included-zdnet/"><u>Ace Your Mac's FaceTime Camera with Apple Vision Pro Tips: Screenshots, Recordings Done Right (No Quirks Included) | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ahead-of-the-crowd-with-apple-vision-pro-starting-pre-orders-january-19-in-store-arrival-feb-2-latest-info-via-zdnet/"><u>Get Ahead of the Crowd with Apple Vision Pro Starting Pre-Orders January 19, In-Store Arrival Feb 2 | Latest Info via ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/getting-ready-for-samsungs-newest-creation-the-galaxy-z-fold-7-insights-into-release-dates-estimated-costs-and-potential-specifications/"><u>Getting Ready for Samsung's Newest Creation: The Galaxy Z Fold 7 - Insights Into Release Dates, Estimated Costs & Potential Specifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-your-workflow-with-tailored-focus-modes-in-macos-monterey-by-avoiding-unwanted-interruptions-zdnet/"><u>Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-process-of-linking-airpods-and-macbook-air-devices/"><u>The Complete Process of Linking AirPods and MacBook Air Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-smart-move-away-from-iphone-16-why-choosing-different-tech-might-be-better/"><u>The Smart Move Away From iPhone 16 - Why Choosing Different Tech Might Be Better</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-essential-mac-optimization-tools-in-23-2022-expert-picks-for-peak-performance/"><u>Top 5 Essential Mac Optimization Tools in 2^3#%@! 2022: Expert Picks for Peak Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-iphone-16-and-16-pro-case-selection-for-202n-professional-ratings-and-comparisons/"><u>Ultimate Guide to iPhone 16 and 16 Pro Case Selection for 202N: Professional Ratings & Comparisons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-5-innovative-tools-to-generate-advanced-ai-dialogue-starters/"><u>Unveiling the Top 5 Innovative Tools to Generate Advanced AI Dialogue Starters</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-lies-ahead-as-meta-challenges-dominance-of-european-social-networking-leaders/"><u>What Lies Ahead as Meta Challenges Dominance of European Social Networking Leaders</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 </ul></div>
 

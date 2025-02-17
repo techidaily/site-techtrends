@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2025-01-31T16:24:44.179Z
-updated: 2025-02-07T16:16:45.208Z
+date: 2025-02-12T16:38:06.960Z
+updated: 2025-02-16T19:12:50.869Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
@@ -45,7 +41,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -71,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -79,10 +75,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -101,7 +93,7 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -112,11 +104,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,20 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-enhancing-digital-screens-for-up-close-focus/"><u>[New] 2024 Approved Enhancing Digital Screens for Up-Close Focus</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-revolutionize-your-video-content-with-free-intro-designers/"><u>[New] 2024 Approved Revolutionize Your Video Content with Free Intro Designers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-channels-discovering-gpodc-gold/"><u>[New] Best Channels Discovering GPodC Gold</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-streamline-and-slim-vids-instagram-tips-using-macos/"><u>[New] In 2024, Streamline and Slim Vids Instagram Tips Using macOS</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-evolution-of-drones-present-impact-and-future-prospects/"><u>[New] The Evolution of Drones Present Impact and Future Prospects</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-audio-mastery-in-visual-storytelling-vimeo-edition/"><u>[Updated] 2024 Approved Audio Mastery in Visual Storytelling Vimeo Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensively-understanding-wm6-setup/"><u>2024 Approved Comprehensively Understanding WM6 Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/book-an-expert-consultation-a-comprehensive-tutorial-on-scheduling-your-apple-genius-bar-time/"><u>Book an Expert Consultation: A Comprehensive Tutorial on Scheduling Your Apple Genius Bar Time</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparison-playstation-5-slim-vs-original-ps5-console/"><u>Comparison: PlayStation 5 Slim vs Original PS5 Console</u></a></li>
-<li><a href="https://techtrends.techidaily.com/determining-discords-status-service-interruption-or-individual-user-troubleshooting-steps/"><u>Determining Discord's Status: Service Interruption or Individual User Troubleshooting Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722893950035-discover-the-best-8-no-cost-music-apps-on-your-iphone-today/"><u>Discover the Best 8 No-Cost Music Apps on Your iPhone Today!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23with/without a PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-to-deactivate-your-facebook-on-android-what-you-need-to-know/"><u>Step-by-Step Instructions to Deactivate Your Facebook on Android: What You Need To Know</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-the-locked-issue-in-steam-games/"><u>Troubleshooting the Locked Issue in Steam Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-youtube-stardom-8-key-techniques-that-make-videos-go-viral/"><u>Unlocking YouTube Stardom: 8 Key Techniques That Make Videos Go Viral</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-catch-the-flame-ideas-for-unbroken-snapstreaks-for-2024/"><u>[New] Catch the Flame - Ideas for Unbroken Snapstreaks for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unveil-prodigious-profits-with-our-12-top-tycoon-gaming-selection/"><u>2024 Approved Unveil Prodigious Profits with Our #12 Top Tycoon Gaming Selection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-signal-and-whatsapp-key-features-and-privacy/"><u>Comparing Signal and WhatsApp: Key Features & Privacy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciding-on-minecraft-realms-a-worthwhile-investment-in-your-gaming-world/"><u>Deciding on Minecraft Realms: A Worthwhile Investment in Your Gaming World?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-new-enhancements-top-attractions-of-apples-latest-watchos-update-revealed-by-zdnet/"><u>Discover the New Enhancements: Top Attractions of Apple's Latest WatchOS Update Revealed by ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-elite-features-a-comprehensive-review-of-samsung-galaxy-s21-ultra/"><u>Exploring the Elite Features: A Comprehensive Review of Samsung Galaxy S21 Ultra</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-elevate-your-videos-advanced-recording-in-adobe-presenter/"><u>In 2024, Elevate Your Videos Advanced Recording in Adobe Presenter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/obs-full-screen-nightmare-ended/"><u>Obs Full-Screen Nightmare Ended</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/optimizing-your-macos-sierra-easy-instructions-for-2024/"><u>Optimizing Your macOS Sierra Easy Instructions for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/scorching-bargain-on-apples-latest-tech-get-the-m2-macbook-air-for-only-800-prior-to-upcoming-prime-day-find-it-on-amazon/"><u>Scorching Bargain on Apple's Latest Tech: Get the M2 MacBook Air For Only $800 Prior to Upcoming Prime Day – Find It On Amazon</u></a></li>
+<li><a href="https://techtrends.techidaily.com/score-your-ipad-deal-for-under-200-during-amazons-epic-labor-day-sale-analysis-and-tips-by-zdnet/"><u>Score Your iPad Deal for Under $200 During Amazon's Epic Labor Day Sale - Analysis & Tips by ZDNET</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-get-your-windows-11-ready-with-displaylink-driver-download/"><u>Simple Steps: Get Your Windows 11 Ready with DisplayLink Driver Download</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-league-of-legends-fastest-per-second-drop-rates-unveiled/"><u>Solved: League of Legends Fastest Per Second Drop Rates Unveiled</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-adjusting-your-computers-storage-segments/"><u>Step-by-Step Guide: Adjusting Your Computer's Storage Segments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-restoring-defaults-in-your-macos-network-preferences/"><u>Step-by-Step Guide: Restoring Defaults in Your macOS Network Preferences</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-tablets-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top Rated Tablets : Comprehensive Testing & Reviews by Tech Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-apples-latest-top-4-groundbreaking-health-innovations-revealed/"><u>Unveiling Apple's Latest: Top 4 Groundbreaking Health Innovations Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-top-7-complaints-insights-from-reddit-on-why-users-ditch-apple-vision-pro-analysis/"><u>Unveiling the Top 7 Complaints: Insights From Reddit on Why Users Ditch Apple Vision Pro Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-expert-picks-the-top-gas-grills-for-outdoor-cooking-in-202/"><u>ZDNet's Expert Picks: The Top Gas Grills for Outdoor Cooking in 202</u></a></li>
 </ul></div>
 

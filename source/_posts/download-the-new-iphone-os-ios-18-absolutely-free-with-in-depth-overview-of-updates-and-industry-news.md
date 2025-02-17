@@ -1,7 +1,7 @@
 ---
 title: Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News
-date: 2025-02-02T16:07:45.881Z
-updated: 2025-02-07T16:22:45.108Z
+date: 2025-02-14T00:13:44.397Z
+updated: 2025-02-16T19:30:34.180Z
 categories:
   - BestProducts
 description: This Article Describes Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News
@@ -24,6 +24,10 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 11 or 10
 
  There are a few ways, but using the search bar on the taskbar is one quick method for opening a command window.
@@ -36,15 +40,7 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Open Command Prompt Through the Start Menu Folder
 
@@ -59,13 +55,13 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
@@ -80,6 +76,10 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -92,7 +92,7 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Ways to Open Command Prompt
@@ -159,18 +159,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-augmented-realms-blending-tech-and-entertainment-for-2024/"><u>[New] Augmented Realms Blending Tech & Entertainment for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-amplify-engagement-unique-ig-questions-for-lives/"><u>[Updated] 2024 Approved Amplify Engagement Unique IG Questions for Lives</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-strategies-for-enhancing-footage-with-gopro-studio/"><u>2024 Approved Advanced Strategies for Enhancing Footage with GoPro Studio</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-content-propagation-on-vimeo/"><u>2024 Approved Mastering Content Propagation on Vimeo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-quintessential-collection-of-anime-intros/"><u>2024 Approved The Quintessential Collection of Anime Intros</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/compact-tp-link-tl-wr902ac-for-on-the-go-wi-fi-connectivity-ideal-for-travellers/"><u>Compact TP-Link TL-WR902AC for On-the-Go Wi-Fi Connectivity - Ideal for Travellers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-tutorial-install-fubotv-app-on-your-roku-device-or-firestick/"><u>Complete Tutorial: Install FuboTV App on Your Roku Device or Firestick</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-telegram-an-in-depth-overview-of-its-features/"><u>Discovering Telegram: An In-Depth Overview of Its Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-2024-guide-12-excellent-free-disk-defragmenter-programs-available-now/"><u>Essential 2024 Guide: 12 Excellent, Free Disk Defragmenter Programs Available Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/professional-filmmakers-pick-is-it-filmora-or-democreator/"><u>Professional Filmmakers' Pick Is It Filmora or Democreator?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-verdict-on-lgs-basic-budget-49-inch-4k-um730aster-tv-performance-test-and-value-insights/"><u>The Ultimate Verdict on LG's Basic Budget 49-Inch 4K UM730aster TV - Performance Test & Value Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-strategies-to-address-code-41-errors-a-users-handbook/"><u>Ultimate Strategies to Address Code 41 Errors: A User's Handbook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-leveraging-zoom-for-high-quality-facebook-live-streams/"><u>[New] In 2024, Leveraging Zoom for High-Quality Facebook LIVE Streams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-digital-clarity-the-1-tools-for-clearing-up-photos-on-screen/"><u>[Updated] Digital Clarity The #1 Tools for Clearing Up Photos on Screen</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-optimal-youtube-playback-adjusting-speed-settings-for-2024/"><u>[Updated] Optimal YouTube Playback Adjusting Speed Settings for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-quick-growing-yt-sources-sparking-mental-flourish/"><u>[Updated] Quick-Growing YT Sources Sparking Mental Flourish</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-simplifying-complexity-easy-gopro-4k-video-edits-for-2024/"><u>[Updated] Simplifying Complexity Easy GoPro 4K Video Edits for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-action-packed-angling-best-fishing-cameras-ranked/"><u>2024 Approved Action-Packed Angling Best Fishing Cameras Ranked</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722850749612-a-brief-history-of-netflixs-dvd-subscription-model-what-was-it-all-about/"><u>A Brief History of Netflix's DVD Subscription Model – What Was It All About?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-discovering-an-individuals-email-through-legal-means/"><u>Guide: Discovering an Individual's Email Through Legal Means</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-matches-free-and-paid-ultra-hd-playback-tools-for-windows-macos/"><u>In 2024, Ideal Matches Free & Paid Ultra HD Playback Tools for Windows, macOS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/laten-mp3-oplossingen-leggen-om-naar-format-3gp3g2-gratuite-onlinelastige-oplichters-van-movavi/"><u>Laten MP3-Oplossingen Leggen Om Naar Format 3GP/3G2: Gratuite Onlinelastige Oplichters Van Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-street-view-a-step-by-step-guide-to-using-live-view-in-google-maps/"><u>Mastering Street View: A Step-by-Step Guide to Using Live View in Google Maps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/meta-quest-3s-journey-insightful-information-on-pricing-strategies-release-dates-and-device-specs/"><u>Meta Quest 3'S Journey: Insightful Information on Pricing Strategies, Release Dates and Device Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-social-media-dialogues-a-guide-to-joining-and-contributing-to-xtwitter-chats/"><u>Navigating the World of Social Media Dialogues: A Guide to Joining and Contributing to X/Twitter Chats</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ting-for-news-show-conclusions-for-2024/"><u>Scripting for News Show Conclusions for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watch-blockbuster-3d-cinema-hitters-directly-at-your-place-a-simple-walkthrough-for-using-fandango/"><u>Watch Blockbuster 3D Cinema Hitters Directly at Your Place - A Simple Walkthrough for Using Fandango</u></a></li>
 </ul></div>
 

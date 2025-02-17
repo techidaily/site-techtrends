@@ -1,7 +1,7 @@
 ---
 title: "From Textbook Costs to Tech Savings: Claiming Your Microsoft Student Discount."
-date: 2024-08-26T07:45:02.952Z
-updated: 2024-08-27T07:45:02.952Z
+date: 2025-02-11T17:55:07.401Z
+updated: 2025-02-16T18:43:38.977Z
 categories:
   - BestProducts
 description: "This Article Describes From Textbook Costs to Tech Savings: Claiming Your Microsoft Student Discount."
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 
 ## Navigating Microsoft's Scholarly Promotions: Secure a Student Price Cut Today
  Microsoft sells a lot of software that's useful for students, and devices like the[Surface and Surface Pro](https://www.lifewire.com/microsoft-surface-series-4163521) are great for keeping productivity up while you're on the go. If you're an eligible student (or a parent of one), you can take advantage of Microsoft's student discount to gain free access to powerful software like[Office 365](https://www.lifewire.com/microsoft-office-for-students-teachers-2511861) and save on computers and other devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Get the Microsoft Student Discount
 
@@ -28,6 +32,14 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Who Is Eligible for Microsoft's Student Discount?
 
  The Microsoft student discount is available to a wide range of people, including students, faculty, and even parents. Here are the general requirements:
@@ -39,8 +51,13 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -52,9 +69,6 @@ Certain items are specifically excluded, including:
 * Personalized and customized items.
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -85,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +106,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-converting-youtube-audio-securely-master-3-proven-techniques/"><u>[Updated] In 2024, Converting YouTube Audio Securely Master 3 Proven Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-instagram-ringtone-making-solo/"><u>[Updated] In 2024, Mastering Instagram Ringtone Making Solo</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-freeze-non-picked-youtube-video-suggestions/"><u>2024 Approved Freeze Non-Picked YouTube Video Suggestions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-mp3-converter-to-itunes-ringtone-format-moveavei/"><u>Free MP3 Converter to iTunes Ringtone Format - Moveavei</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-conversion-transform-avi-files-into-mp3-audio-without-cost-moveavi/"><u>Free Online Conversion: Transform AVI Files Into MP3 Audio without Cost - MoveAVI</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-a-step-by-step-guide-to-mp4-and-beyond-vlc-conversions/"><u>In 2024, A Step-by-Step Guide to MP4 and Beyond VLC Conversions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-operasyonlari-boluyoruz-movavi-etkinlestirme-soylencekleri/"><u>Mac Operasyonlari Bölüyoruz: Movavi Etkinleştirme Söylencekleri</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp3-file-transformation-service-no-cost-instantly-on-the-web-with-movavi/"><u>MP3 File Transformation Service: No Cost, Instantly On The Web with Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/pioneering-marketing-top-20-strategies-for-impactful-fb-video-ads/"><u>Pioneering Marketing Top 20 Strategies for Impactful FB Video Ads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-file-qt-in-formato-avi-online-senza-costi-utilizzare-il-servizio-di-movavi/"><u>Trasforma I Tuoi File QT in Formato AVI Online Senza Costi: Utilizzare Il Servizio Di Movavi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/understanding-the-danger-methods-of-email-borne-malware-proliferation-and-effective-defense-strategies/"><u>Understanding the Danger: Methods of Email-Borne Malware Proliferation & Effective Defense Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-creative-potential-with-top-rated-gif-makers-for-2024/"><u>Unlocking Creative Potential with Top-Rated GIF Makers for 2024</u></a></li>
+</ul></div>
 

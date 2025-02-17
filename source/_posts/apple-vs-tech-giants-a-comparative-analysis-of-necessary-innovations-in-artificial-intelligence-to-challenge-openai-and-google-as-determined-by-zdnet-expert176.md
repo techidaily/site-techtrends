@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2025-02-06T16:10:17.167Z
-updated: 2025-02-07T16:20:16.033Z
+date: 2025-02-15T16:36:51.570Z
+updated: 2025-02-17T03:03:12.075Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -93,10 +93,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -155,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram/"><u>[New] 2024 Approved Behind the Scenes 10 Underrated Aspects of Reels on Instagram</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-navigating-the-digital-realm-uploading-with-premiere-and-youtube/"><u>[New] 2024 Approved Navigating the Digital Realm Uploading with Premiere & YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-remove-youtube-sneak-peeks-for-uninterrupted-views/"><u>[New] 2024 Approved Remove YouTube Sneak Peeks for Uninterrupted Views</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-dial-up-your-digital-influence-nine-simple-steps-on-instagram/"><u>[New] Dial Up Your Digital Influence Nine Simple Steps on Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/compare-the-leading-manycam-substitutes-advanced-video-software-with-digital-webcams/"><u>Compare the Leading ManyCam Substitutes: Advanced Video Software with Digital Webcams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-live-broadcast-tools-compete-with-manycam-using-advanced-virtual-webcams/"><u>Discover the Ultimate Live Broadcast Tools: Compete with ManyCam Using Advanced Virtual Webcams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-online-presence-the-ultimate-guide-to-using-manycam-for-remote-webcams-and-livestreaming-solutions/"><u>Enhance Online Presence: The Ultimate Guide to Using ManyCam for Remote Webcams and Livestreaming Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-broadcasts-using-manycam-top-tier-video-editing-and-virtual-webcam-solutions/"><u>Enhance Your Broadcasts Using ManyCam - Top-Tier Video Editing and Virtual Webcam Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-livestream-with-manycam-top-rated-online-video-editor-and-simulated-webcam/"><u>Enhance Your Livestream with ManyCam: Top-Rated Online Video Editor & Simulated Webcam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-livestreams-with-manycam-a-revolutionary-video-conferencing-and-virtual-webcam-solution/"><u>Enhance Your Livestreams with ManyCam: A Revolutionary Video Conferencing and Virtual Webcam Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-virtual-webcams-with-manycam-best-live-video-editing-software-solutions/"><u>Explore Virtual Webcams with ManyCam – Best Live Video Editing Software Solutions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fb-streamer-capture-and-save-videos-for-2024/"><u>FB-Streamer Capture and Save Videos for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/from-false-assumptions-to-facts-how-these-7-common-beliefs-about-linux-are-no-longer-true-for-windows-users/"><u>From False Assumptions to Facts: How These 7 Common Beliefs About Linux Are No Longer True for Windows Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-updating-and-downloading-canon-printer-drivers-for-windows-computers/"><u>Hassle-Free Guide to Updating and Downloading Canon Printer Drivers for Windows Computers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s Plus To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-mc-homestead-plans-the-top-6/"><u>In 2024, MC Homestead Plans The Top 6</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-discover-the-power-of-manycam-ultimate-virtual-webcam-and-recording-tool/"><u>Live Streaming Mastery: Discover the Power of ManyCam – Ultimate Virtual Webcam and Recording Tool</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-stability-essentials-for-youtube-videographers/"><u>[New] Professional Stability Essentials for YouTube Videographers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unmatched-clarity-the-ultimate-mic-guide/"><u>[Updated] 2024 Approved Unmatched Clarity The Ultimate Mic Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-disableremove-youtube-shorts-permanently2-for-2024/"><u>[Updated] How to Disable/Remove YouTube Shorts Permanently?2 For 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accurately-estimating-data-variability-with-microsoft-excel-techniques-and-tips/"><u>Accurately Estimating Data Variability with Microsoft Excel: Techniques & Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ev-advantages-over-conventional-vehicles-a-closer-look-at-performance-gains/"><u>EV Advantages Over Conventional Vehicles: A Closer Look at Performance Gains</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-linking-your-apple-homepod-with-your-television-set/"><u>Guide: Linking Your Apple HomePod With Your Television Set</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-access-and-interpret-your-laptops-power-meter-on-windows-11/"><u>How to Access and Interpret Your Laptop's Power Meter on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-resolve-and-prevent-stop-0x0000007b-booting-failures-in-windows/"><u>How to Resolve and Prevent STOP 0X0000007B Booting Failures in Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-magic-5-lite-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor Magic 5 Lite Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/logic-pro-guide-gradually-lowering-audio-levels-for-2024/"><u>Logic Pro Guide Gradually Lowering Audio Levels for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-air-how-to-simplifying-tasks-with-split-screen-techniques/"><u>Macbook Air How-To: Simplifying Tasks with Split Screen Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-gmail-how-to-bulk-delete-all-messages-in-the-mobile-version/"><u>Mastering Gmail: How to Bulk Delete All Messages in the Mobile Version</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-translate-live-video-making-it-possible-with-the-best-tool/"><u>New Translate Live Video Making It Possible With The Best Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimizing-your-facebook-game-easy-to-implement-techniques-for-greater-online-success/"><u>Optimizing Your Facebook Game: Easy-to-Implement Techniques for Greater Online Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/radiance-routines-pro-tips-for-video-illumination/"><u>Radiance Routines Pro Tips for Video Illumination</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-mss32dll-wheres-the-file-and-how-to-find-it/"><u>Resolving mss32.dll: Where's the File and How to Find It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-better-sleep-the-five-premier-apple-watch-apps-for-a-good-nights-rest/"><u>Unlock Better Sleep: The Five Premier Apple Watch Apps for a Good Night's Rest</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/wie-sie-ihren-windows-server-2016-schrittweise-zu-microsofts-neuestem-betriebssystem-windows-server-2019-aufrusten-konnen/"><u>Wie Sie Ihren Windows Server 2016 Schrittweise Zu Microsofts Neuestem Betriebssystem, Windows Server 2019, Aufrüsten Können</u></a></li>
+<li><a href="https://techtrends.techidaily.com/xbox-one-no-signal-issue-solved-effective-troubleshooting-steps/"><u>Xbox One 'No Signal' Issue Solved: Effective Troubleshooting Steps</u></a></li>
 </ul></div>
 

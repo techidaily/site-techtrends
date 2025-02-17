@@ -1,7 +1,7 @@
 ---
 title: Best Gratis Videoschnitt-Verminderung Programme Für Mac - 2023
-date: 2024-08-26 17:48:26
-updated: 2024-08-27 12:19:14
+date: 2025-02-11T18:23:42.741Z
+updated: 2025-02-16T20:45:49.784Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a2009d979134d6c02c0bbdb8.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Kostenlos Testen](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/icon7.png) [Startseite](https://tools.techidaily.com/macxdvd/products/) \> [Anleitungen](https://tools.techidaily.com/macxdvd/products/) \> Video komprimieren Mac
 
 ## Die besten kostenlosen Video-Kompressoren für Mac \- Verkleinern Sie Videos um bis zu 90%
-
-
 
 _Zusammenfassung: Hier wird die neueste Liste der besten kostenlosen Video-Komprimierungssoftware für das Jahr 2023 geteilt. Reduzieren Sie die Größe von Videos (einschließlich 4K) um bis zu 90%, während Sie die bestmögliche Qualität beibehalten!_
 
@@ -89,7 +85,15 @@ Wir haben einmal ein MKV-Video (1920x1080), 2 Stunden und 23 Minuten lang, zu MP
 
 ![Beste kostenlose Video-Komprimierungssoftware für den Mac](https://www.macxdvd.com/tutorial-de/../mac-video-converter-pro/step-image/4k-to-1080p-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 3.** Klicken Sie auf das ![Einstellungssymbol](https://www.macxdvd.com/tutorial-de/../mac-video-converter-pro/article-image/vcp-gear-icon.png) Symbol, um die Video-Parameter anzupassen, wie z.B. Auflösung und Bitrate, um Ihre Datei kleiner zu machen. In der Regel beeinflussen Framerate und Rahmengröße die Dateigröße nicht wesentlich.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Beste kostenlose Video-Komprimierungssoftware für den Mac](https://www.macxdvd.com/tutorial-de/../mac-video-converter-pro/step-image/compress-h264-4.jpg)
 
@@ -161,6 +165,10 @@ Wenn Sie eine vielseitigere kostenlose Videokomprimierungssoftware für den Mac 
 
 **Schritt 5.** Überprüfen Sie die endgültigen Größen für verschiedene Einstellungen auf der linken Seite unter dem Videovorschaufenster. Wenn alles in Ordnung ist, klicken Sie einfach auf "Weiter".
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Handbrake
 
 ### Zusammenfassung: Bester kostenloser Videokompressor für den Mac mit flexiblen Optionen
@@ -183,6 +191,10 @@ Videokomprimierung um: 50% | Leistung: 98%
 **Schritt 3.** Im Abschnitt darunter finden Sie eine Vielzahl von Einstellungen, um das Video auf dem Mac zu komprimieren. Wählen Sie unter "Summary" MP4 für eine größere Kompatibilität und Webm für die Verwendung im Web.
 
 ![Kostenlose Videokomprimierungssoftware für den Mac](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/handbrake-for-mac.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Schritt 4:** Unter dem Reiter "Video" können Sie den Video-Codec auf H.265 oder VP9 ändern, um eine bessere Komprimierung zu erzielen. Verringern Sie die Qualität um 1-2 RF, um ein kleineres Video ohne erkennbaren Qualitätsverlust zu erhalten.
 
@@ -254,6 +266,10 @@ FFmpeg ist eine Sammlung von kostenlosen Bibliotheken und Tools zur Verarbeitung
 * **Ändere die Bitrate:** _ffmpeg -i input -c:a copy -c:v libx265 -b:v 1M output.mp4_
 * **Komprimiere 4K-Video auf 720P:** _ffmpeg -i input -c:a copy -s 1280x720 output.mp4_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Final Cut Pro X Compressor
 
 ### Zusammenfassung: Apples Compressor für Mac, mit dem Final Cut Pro Videos in einer kleineren Größe exportiert werden können.
@@ -269,6 +285,10 @@ Der Compressor ist speziell für die Zusammenarbeit mit Final Cut Pro entwickelt
 **Schritt 2.** Wähle unter den Einstellungen die Komprimierung deines Videos für Apple-Geräte in 4K HEVC, HD, SD, YouTube & Facebook oder andere aus. Wähle dann einen Speicherort aus dem Pop-up-Menü.
 
 ![Beste Video-Komprimierungs-App für Mac](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/mac-compressor.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Schritt 3.** Falls erforderlich, passe die Videoeigenschaften wie Auflösung, Bitrate usw. an. Passe die abschließende Beschnitt-, Größen- und Seitenverhältnis-Anpassung mit den Eigenschaften für Beschnitt und Polsterung in Compressor an. Stelle den Encodertyp auf schneller für einen schnelleren Codec, Standardqualität und kleinere Größe ein.
 
@@ -294,11 +314,13 @@ Wenn du keine desktopbasierte Video-Komprimierungssoftware auf deinem Mac herunt
 
 ![Kostenloser Online-Video-Kompressor für Mac](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/clipchamp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 3.** Wähle aus, wofür du optimieren möchtest: Web, Windows, Mobilgeräte oder Animation. Du kannst auch auf "Anpassen" klicken, um Auflösung, Format und Qualität festzulegen.
 
 **Schritt 4.** Klicke auf "Start", um die Bearbeitung deines Videos zu starten.
-
-
 
 Weitere Artikel & Tipps:
 
@@ -307,6 +329,10 @@ Weitere Artikel & Tipps:
 [MP4 Videodatei komprimieren mit MP4 Compressor - Einfach & Schnell](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Video komprimieren online - So geht es kostenlos & sicher](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -324,11 +350,17 @@ Weitere Artikel & Tipps:
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [So konvertieren Sie MKV kostenlos in QuickTime MOV unter macOS](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/tutorial-de/../icon/logo.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 MacXDVD Software ist ein führender Anbieter von Multimedia-Software und bietet innovative Multimedia-Lösungen für Anwender auf der ganzen Welt.
 
@@ -349,8 +381,6 @@ MacXDVD Software ist ein führender Anbieter von Multimedia-Software und bietet 
 * [Über uns >>](https://tools.techidaily.com/macxdvd/products/)
 * [Kontakt >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [Über uns](https://tools.techidaily.com/macxdvd/products/) | [Datenschutz](https://tools.techidaily.com/macxdvd/products/) | [Nutzungsbedingungen](https://tools.techidaily.com/macxdvd/products/) | [Lizenzvereinbarung](https://tools.techidaily.com/macxdvd/products/) | [Anleitung](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Kontakt](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). Alle Rechte vorbehalten
@@ -364,11 +394,30 @@ Digiarty Software wurde nicht von Apple Inc. entwickelt oder ist mit Apple Inc. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-gamers-path-to-earnings-on-youtube/"><u>[Updated] 2024 Approved Gamer's Path to Earnings on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-8-free-and-online-facebook-link-downloaders/"><u>[Updated] 8 Free And Online Facebook Link Downloaders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-comprehensible-guide-to-integrating-zoom-with-win10/"><u>[Updated] A Comprehensible Guide to Integrating Zoom with Win10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehve-guide-to-resolving-netflix-functionality-problems-with-your-roku-stick-or-tv/"><u>A Comprehve Guide to Resolving Netflix Functionality Problems with Your Roku Stick or TV</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-sauvegarder-windows-11-en-toute-securite-utilisation-de-nas-et-du-produit-qnap-deux-solutions-recommandees/"><u>Comment Sauvegarder Windows 11 en Toute Sécurité : Utilisation De NAS Et Du Produit QNAP - Deux Solutions Recommandées</u></a></li>
+<li><a href="https://techtrends.techidaily.com/detailed-instructions-to-erase-all-data-from-your-dell-machine/"><u>Detailed Instructions to Erase All Data From Your Dell Machine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-7-exceptional-notes-management-tools-tailored-for-your-ipad-experience/"><u>Discover 7 Exceptional Notes Management Tools Tailored for Your iPad Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-factors-to-evaluate-when-purchasing-your-next-video-recorder/"><u>Essential Factors to Evaluate When Purchasing Your Next Video Recorder</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/gain-momentum-with-these-strategies-for-trending-youtubers/"><u>Gain Momentum with These Strategies for Trending YouTubers</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-redmi-13c-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi Redmi 13C 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-digital-space-expert-advice-from-toms-hardware-team/"><u>Mastering Your Digital Space - Expert Advice From Tom's Hardware Team</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-message-management-tips-for-avoiding-high-data-usage-in-texts/"><u>Maximizing Message Management: Tips for Avoiding High Data Usage in Texts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/our-choice-for-leading-ios-email-solutions/"><u>Our Choice for Leading iOS Email Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-problem-what-to-do-when-you-cant-find-msvcr80dll-file/"><u>Solving the Problem: What To Do When You Can't Find MSVCR80.DLL File</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-msi-speaker-and-headset-drivers-for-windows-users/"><u>Updated MSI Speaker and Headset Drivers for Windows Users</u></a></li>
+</ul></div>
+

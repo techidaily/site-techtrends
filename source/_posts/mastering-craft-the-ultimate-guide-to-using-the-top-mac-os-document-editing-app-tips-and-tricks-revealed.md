@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed"
-date: 2025-01-22T16:26:35.449Z
-updated: 2025-01-25T20:42:31.260Z
+date: 2025-02-16T02:23:59.248Z
+updated: 2025-02-16T21:56:48.433Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,24 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-balancing-netflix-stream-quality-and-playtime/"><u>[New] Balancing Netflix Stream Quality and Playtime</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-optimizing-close-up-views-on-google-meet/"><u>[New] In 2024, Optimizing Close-Up Views on Google Meet</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-navigating-thumbnail-sizes-for-youtube-content-excellence/"><u>[Updated] In 2024, Navigating Thumbnail Sizes for YouTube Content Excellence</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-solo-sound-waves-crafting-a-trending-podcast-series/"><u>[Updated] Solo Sound Waves Crafting a Trending Podcast Series</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciding-between-arch-linux-and-fedora-a-comprehensive-guide-to-making-the-right-choice/"><u>Deciding Between Arch Linux & Fedora: A Comprehensive Guide to Making the Right Choice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-tricks-to-successfully-upgrade-audio-controller-software-in-windows/"><u>Easy Tricks to Successfully Upgrade Audio Controller Software in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-to-resolve-notepad-wont-start-errors-on-windows-11-systems/"><u>Effective Strategies to Resolve 'Notepad Won't Start' Errors on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortlessly-change-your-gmail-password-step-by-step-instructions-for-enhanced-safety/"><u>Effortlessly Change Your Gmail Password - Step-by-Step Instructions for Enhanced Safety</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhancements-in-windows-10-faster-and-more-efficient-update-process/"><u>Enhancements in Windows 10: Faster and More Efficient Update Process</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-top-usb-wi-fi-bridges-on-the-market/"><u>Expert Picks: Top USB Wi-Fi Bridges on the Market</u></a></li>
-<li><a href="https://techtrends.techidaily.com/lenovo-thinkpad-z16-gen-2-with-amd-processor-comprehensive-expert-analysis/"><u>Lenovo ThinkPad Z16 Gen 2 with AMD Processor - Comprehensive Expert Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/microsoft-edges-disruptive-onboarding-message-in-the-recent-windows-enhancement/"><u>Microsoft Edge's Disruptive Onboarding Message in the Recent Windows Enhancement</u></a></li>
-<li><a href="https://techtrends.techidaily.com/microsoft-pauses-windows-11-rollback-functionality/"><u>Microsoft Pauses Windows 11 Rollback Functionality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcome-windows-rts-top-7-solutions-for-eliminating-the-camera-detection-error/"><u>Overcome Windows ˈrɪts: Top 7 Solutions for Eliminating the Camera Detection Error</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-windows-10-like-a-pro-with-these-10-essential-techniques/"><u>Secure Windows 10 Like a Pro with These 10 Essential Techniques</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-mastering-the-basics-of-free-psp-video-converter-factory/"><u>Step-by-Step Guide: Mastering the Basics of Free PSP Video Converter Factory</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-bluetooth-gadgets-from-your-pc-running-windows-11-or-10/"><u>Step-by-Step Guide: Removing Bluetooth Gadgets From Your PC Running Windows 11 or 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/winrewindows-11-5/"><u>WinREが必要なWindows 11ユーザーへ: 5つの開始方法をご紹介します</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-viral-visualization-top-story-filter-guide/"><u>[New] Viral Visualization Top Story Filter Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-pull-the-right-strings-increasing-likes-on-unboxed-tiktoks/"><u>[Updated] 2024 Approved Pull the Right Strings Increasing Likes on Unboxed TikToks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-maximize-impact-mastering-igtv-content-submission/"><u>[Updated] Maximize Impact Mastering IGTV Content Submission</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-8-transformative-lenses-for-virtual-conferencing/"><u>[Updated] Prime 8 Transformative Lenses for Virtual Conferencing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-topline-numbers-pewdiepies-yearly-income/"><u>[Updated] Topline Numbers PewDiePie's Yearly Income</u></a></li>
+<li><a href="https://techtrends.techidaily.com/behind-the-calm-of-apples-communication-the-reason-for-missing-excitement-symbols-zdnet-analysis/"><u>Behind the Calm of Apple's Communication: The Reason for Missing Excitement Symbols | ZDNet Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embark-on-a-detective-journey-with-4-innovative-ai-enhanced-murder-mystery-games-online/"><u>Embark on a Detective Journey with 4 Innovative, AI-Enhanced Murder Mystery Games Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-the-best-with-apple-vision-pros-enhanced-in-store-test-drives-learn-more-and-reserve-yourszdnet/"><u>Experience the Best with Apple Vision Pro's Enhanced In-Store Test Drives – Learn More & Reserve Yours![ZDNet]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-dispatching-electronic-video-game-presents-via-steam/"><u>Expert Advice on Dispatching Electronic Video Game Presents via Steam</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/les-meilleurs-outils-de-migration-de-fichiers-pour-ssd-wd-blue-avec-systeme-dexploitation-windows/"><u>Les Meilleurs Outils De Migration De Fichiers Pour SSD WD Blue Avec Système D'Exploitation Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/personalizing-your-control-experience-on-iphone-with-ios-18-expert-tips-and-tricks-by-zdnet/"><u>Personalizing Your Control Experience on iPhone with iOS 18: Expert Tips and Tricks by ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-choosing-and-using-the-right-selfie-lights/"><u>Step-by-Step Tutorial on Choosing and Using the Right Selfie Lights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-protective-covers-for-iphone-12-and-12-pro-expert-reviews/"><u>Top-Rated Protective Covers for iPhone 12 & 12 Pro : Expert Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-tips-accessing-your-ipad-without-entering-a-passcode/"><u>Unlocking Tips: Accessing Your iPad Without Entering a Passcode</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-merge-mpeg-videos-for-free-top-5-programs/"><u>Updated Merge MPEG Videos for Free Top 5 Programs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-and-how-to-keep-your-airpods-germ-free-expert-tips-on-sanitization-techniques-for-optimal-audio-health/"><u>Why & How to Keep Your AirPods Germ-Free: Expert Tips on Sanitization Techniques for Optimal Audio Health</u></a></li>
 </ul></div>
 

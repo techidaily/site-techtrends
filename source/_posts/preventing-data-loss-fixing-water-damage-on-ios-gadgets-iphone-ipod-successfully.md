@@ -1,7 +1,7 @@
 ---
 title: "Preventing Data Loss: Fixing Water Damage on iOS Gadgets (iPhone, iPod) Successfully"
-date: 2024-08-26T07:46:51.908Z
-updated: 2024-08-27T07:46:51.908Z
+date: 2025-02-14T16:06:04.409Z
+updated: 2025-02-16T20:19:58.817Z
 categories:
   - BestProducts
 description: "This Article Describes Preventing Data Loss: Fixing Water Damage on iOS Gadgets (iPhone, iPod) Successfully"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 ---
 
 ## How-To Article: Successfully Pairing Your Phone or Tablet with an LG Screen Mirroring Function
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * There are several ways to do[screen mirroring](https://www.lifewire.com/what-is-screen-mirroring-4154335) on LG TVs, including using Screen Share and casting.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 * For an iPhone, some LG Smart TVs support Apple AirPlay 2\. Tap the**AirPlay** button on your phone to find your TV.
 
  Watching videos on a smartphone or tablet is convenient. However, if you have an LG Smart TV, you can enjoy those videos on a larger screen instead of a small smartphone display.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use LG Screen Share With Android
 
@@ -58,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 
  To[use an iPhone with Chromecast](https://www.lifewire.com/cast-to-chromecast-from-iphone-5207346) , the iPhone needs to be running iOS 15 or higher.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Screen Mirroring From PC to an LG Smart TV
 
  You can also mirror a PC or laptop to an LG TV by searching for the TV from your computer.
@@ -68,38 +74,40 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 1. Open the**Screen Share** app on your TV.  
 ![LG Smart TV Screen Share Option](https://www.lifewire.com/thmb/kHtO3vP7h9ZFrngIqtX4T75_Q0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-screen-share-page-test-1500-XXX-f0f1dfe7cfce4e088e91b4dfafde5ac7.jpg)
 2. On your PC, open**Settings** and then go to**Bluetooth & devices** (Windows 11) or**Devices** (Windows 10).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Window Settings on PC – Devices Highlighted](https://www.lifewire.com/thmb/9PeiuIQccHykMbh2DA1BCdgmvlo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-settings-yellow-aaa-8de67d373ba54a53b4d8d0491d32a618.jpg)
 3. If you're on Windows 10, select**Bluetooth & other devices** \>**Add Bluetooth or other device** .  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![PC/LG TV Mirroring – Add Bluetooth or Other Devices](https://www.lifewire.com/thmb/IcQXrZnu6gn6U_DrnWZhhdf0FAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/add-bluetooth-or-other-devices-cu-dark-yellow-577fc6c576c843c181f8b73cc3c99fa5.jpg)
 4. Choose**Add device** (Windows 11) or**Add a device** (Windows 10), then select**Wireless display or dock** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![PC/LG TV Mirroring – Choose a Device](https://www.lifewire.com/thmb/1c4dzWS071ZzmcGBd7RHxKYEUJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-device-type-dark-wc-e-8d2b6aa322af4219ac846991525ea656.jpg)
 5. Select your LG TV and wait for confirmation.  
 ![PC Connecting to LG TV Screen Mirroring](https://www.lifewire.com/thmb/9lwYMBlwtr4T0jtgl0uLgQ6I9bk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-connectiing-640-dark-yellow-d-ba969575c6254a22b5009b2ee77d5d99.jpg)
 6. Once your connection is confirmed, make sure the projection mode is set to**Duplicate** so that you will get an exact mirror of your PC screen on the TV.  
 ![PC/LG TV Mirroring – Device Connection Confirmed](https://www.lifewire.com/thmb/DdqNIFKjpoJwGTVMlMB7NnRy4-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/device-ready-to-go-2-dark-yellow-3e33344164384c48b1325945f03f0406.jpg)
 7. Once the PC steps are complete, everything visible on your PC screen is mirrored on the LG Smart TV.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![PC Screen Mirroring to LG TV with Miracast](https://www.lifewire.com/thmb/olpSOMHbRQoMziI_46ZqaneUjX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pc-on-lg-tv-flowers-1500-xxx-30f2b584940b421da1c8a21fb4079ed3.jpg)
 8. To end a screen mirroring session, select the**Disconnect** prompt in the small black rectangular box on the top of the PC screen, change to a different function on the TV, or turn the TV off.
 
 [Attach your TV and computer with an HDMI cable](https://www.lifewire.com/connect-windows-pc-to-a-tv-3506883) for a wired solution to seeing your computer screen on your TV.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Cast Smartphone Content to an LG Smart TV
 
  Another way to view content from an Android phone on an LG Smart TV is via casting.
@@ -123,9 +131,6 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 ![Cast YouTube to LG Smart TV](https://www.lifewire.com/thmb/jWT5sXqTMWE8Bg-V39yWX-CCogc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cast-you-tube-to-lg-smart-tv-1-2-yellow-efd95f194cdb4908a3321b98e97bb2de.jpg)  
  If you see the cast icon but your TV isn't listed as an available device, then the content can't be cast to the LG TV without an external Chromecast device.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Content Share Option
 
  While Screen Share is the most direct way to mirror a smartphone or PC screen on your smart TV, LG provides additional options via the TV's Device Connector settings.
@@ -133,13 +138,9 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 ![LG Smart TV – Device Connector Icon on Home Screen](https://www.lifewire.com/thmb/Qw-X7F8OC8KOcavYDWXwN4HFSGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-device-connect-home-screen-app-icon1900-dark-yellow-bbb-1ddcb6818a5b4532bea7ebd0ab894c6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the Device Connector is selected from the home screen, you're taken to a menu that includes connection options for all devices, including a smartphone or PC.
 
 ![LG TV Device Connector Menu – Smartphone and PC Highlighted](https://www.lifewire.com/thmb/UcrKTZRJKkxZfNIqdbkvv8ublUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-device-connector-alt-a-31cba54fe9934fd6b86358d1f57037b6.jpg)
@@ -152,31 +153,30 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 
 ![LG TV Device Connector – Content Share with Smartphone](https://www.lifewire.com/thmb/jStMxmPgQcaxHCK4lVDAwKD2_vc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/smartphone-lg-content-share-device-connector-www-66da205e88264eeeb540a751245e2b6c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the steps are completed, you'll see a photo, music, and video file sharing menu on your LG TV screen. This allows you to play compatible files in those categories from your smartphone on your LG TV.
 
 ![LG Smart TV Content Share – HTC Media Share](https://www.lifewire.com/thmb/mhpEm7CV8AqoRFqO4BMEncu8b_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-htc-media-share-bb-1800-fb271df2b1f74df09d9c3c081fba7d66.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Device Connector PC Connection Prompt
 
  Content Share also allows an LG Smart TV to access and play compatible music, photo, and video files stored on a PC or Laptop.
 
 ![LG TV Device Connector – Content Share with PC](https://www.lifewire.com/thmb/cgEUq5sdk24ffJnIwoSHgPoZxHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pc-lg-content-share-device-connector-www-506d81421b50422ba45c569c197bc22b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  The[LG Smart Share App](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lg.com%2Fus%2Fsupport%2Fhelp-library%2Fsmart-share-downloads-CT10000018-1427120133847) needs to be installed on your computer for the Content Share feature to work with both the PC and TV.
 
  After selecting Content Share for PCs and going through prompted connection steps on your PC and TV, you'll see a photo, music, and video file sharing menu on your TV. When you select a category, you'll be able to display compatible files stored on your PC.
 
 ![PC Content Sharing on LG Smart TV](https://www.lifewire.com/thmb/5gXH5Ah7bMt6xVWsXrl9tlz67r8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PC-content-sharing-LG-TV-blur-alt-e9f52cdd15c945b2900e8896ec73e1bb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 [Streaming Devices](https://www.lifewire.com/best-devices-to-buy-for-streaming-tv-4061016)
 
  FAQ
@@ -210,8 +210,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +217,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-miniature-drones-unveiled-top-10-list-ready/"><u>[New] Miniature Drones Unveiled Top 10 List Ready</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-effortlessly-post-tiktok-videos-on-twitter/"><u>[Updated] 2024 Approved Effortlessly Post TikTok Videos on Twitter</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-step-into-the-world-of-youtube-transcription-a-comprehensive-no-fee-guide/"><u>2024 Approved Step Into the World of YouTube Transcription A Comprehensive No-Fee Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ogv-flv-movavi/"><u>免費網路解碼工具：移動到 OGV 格式的 FLV 影片 - 使用 Movavi 編譯器</u></a></li>
+<li><a href="https://techtrends.techidaily.com/answer-yes-cognitive-training-can-positively-affect-neuroplasticity-and-recovery-because-mental-activity-influences-the-brains-ability-to-reorganize-and-ada7/"><u>Answer: Yes, Cognitive Training Can Positively Affect Neuroplasticity and Recovery because Mental Activity Influences the Brain's Ability to Reorganize and Adapt After Injury.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/featured-photographer-nicola-armondi-explore-captivating-images-with-movavi/"><u>Featured Photographer Nicola Armondi - Explore Captivating Images with Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-y100-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo Y100 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-poco-x5-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Poco X5 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>In 2024, How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-navigating-legalities-in-sharing-musical-works/"><u>In 2024, Navigating Legalities in Sharing Musical Works</u></a></li>
+<li><a href="https://fox-search.techidaily.com/maintaining-pc-performance-should-you-frequently-dust-off-your-ram/"><u>Maintaining PC Performance: Should You Frequently Dust Off Your RAM?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4-gif/"><u>MP4를 원근 이미지 GIF로 전환하기: 빠른 과정에서 성공</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-ape-to-ogg-converter-vrijetijdig-and-professioneel-movavi-online-konvertierungsdienst/"><u>Online APE-to-OGG Converter - Vrijetijdig & Professioneel: Movavi Online Konvertierungsdienst</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ram-in-formato-wma-trasformare-online-e-gratuito-la-guida-completa-al-metodo-movavi/"><u>RAM in Formato WMA: Trasformare Online E Gratuito - La Guida Completa Al Metodo Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/showdown-which-is-better-apple-watch-s9-or-fitbits-charge-nventure/"><u>Showdown: Which Is Better? Apple Watch S9 or Fitbit's Charge nVenture</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/strategie-piu-semplici-per-eseguire-backup-dei-tuoi-messaggi-di-posta-elettronica-pop3-utilizzando-outlook/"><u>Strategie Più Semplici per Eseguire Backup Dei Tuoi Messaggi Di Posta Elettronica POP3 Utilizzando Outlook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforma-todos-tus-archivos-de-video-ahora-en-formato-mpeg-sin-coste-alguno-convertidor-online-sin-tarifa/"><u>Transforma Todos Tus Archivos De Vídeo Ahora en Formato MPEG Sin Coste Alguno - Convertidor Online Sin Tarifa</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-il-tuo-file-di-video-mp4-nel-formato-wmv-online-senza-costi/"><u>Trasforma Il Tuo File Di Video MP4 Nel Formato WMV Online Senza Costi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wmv/"><u>オンラインでのWMVファイル変換 - 特定非営利活動法人向け無料サービス</u></a></li>
+</ul></div>
 

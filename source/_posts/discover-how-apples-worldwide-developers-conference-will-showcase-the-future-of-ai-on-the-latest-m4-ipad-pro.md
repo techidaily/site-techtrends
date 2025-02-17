@@ -1,7 +1,7 @@
 ---
 title: Discover How Apple's Worldwide Developers Conference Will Showcase the Future of AI on the Latest M4 iPad Pro
-date: 2025-02-03T16:21:45.074Z
-updated: 2025-02-07T16:02:09.763Z
+date: 2025-02-15T16:31:24.611Z
+updated: 2025-02-16T22:37:21.358Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,22 +114,22 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-network-transmission-power-with-vlc/"><u>[New] Unlocking Network Transmission Power with VLC</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-achieving-maximum-comfort-in-vr-landscape/"><u>2024 Approved Achieving Maximum Comfort in VR Landscape</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-navigating-windows-movie-maker-for-efficient-video-projects-in-windows-8/"><u>2024 Approved Navigating Windows Movie Maker for Efficient Video Projects in Windows 8</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-for-launching-cmd-in-windows-11-10-8-and-7/"><u>Comprehensive Tutorial for Launching CMD in Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-insights-into-lg-channel-operations/"><u>Essential Insights Into LG Channel Operations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-silent-cast-what-to-do-when-chromecast-wont-play-sounds-correctly/"><u>Fixing Silent Cast: What to Do When Chromecast Won't Play Sounds Correctly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-zte-axon-40-lite-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from ZTE Axon 40 Lite Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-introduce-circular-smoothing-transition-via-adobe-photoshop/"><u>In 2024, Introduce Circular Smoothing Transition via Adobe Photoshop</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leveraging-spotifys-advertising-mechanisms-for-2024/"><u>Leveraging Spotify's Advertising Mechanisms for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/personalized-audio-endings-without-the-price-tag/"><u>Personalized Audio Endings Without the Price Tag</u></a></li>
-<li><a href="https://techtrends.techidaily.com/psvr-on-a-laptop-or-desktop-a-detailed-walkthrough-for-successful-connection/"><u>PSVR on a Laptop or Desktop: A Detailed Walkthrough for Successful Connection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/removing-you-might-like-this-recommendations-from-your-instagram-feed/"><u>Removing 'You Might Like This' Recommendations From Your Instagram Feed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-to-correct-the-missing-wlanapidll-file-problem/"><u>Step-by-Step Solutions to Correct the Missing WLanApiDll File Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-resolve-mcuicntexe-not-found-in-windows/"><u>Strategies to Resolve McUICnt.exe Not Found in Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-y200-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo Y200 FRP</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-samsung-galaxy-ring-pricing-details-launch-timeline-and-cutting-edge-features/"><u>Unveiling the Samsung Galaxy Ring: Pricing Details, Launch Timeline & Cutting-Edge Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-you-need-to-know-about-the-popular-messaging-app-telegram/"><u>What You Need to Know About the Popular Messaging App, Telegram?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-straightforward-strategies-accessing-appreciated-comments-on-youtube/"><u>[New] In 2024, Straightforward Strategies Accessing Appreciated Comments on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-visual-splendor-of-blade-cameras-in-full-hd/"><u>[Updated] The Visual Splendor of Blade Cameras in Full HD</u></a></li>
+<li><a href="https://techtrends.techidaily.com/achieve-more-with-these-5-simple-tips-effective-facebook-usage/"><u>Achieve More with These 5 Simple Tips: Effective Facebook Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-perfect-pairing-hook-up-any-computer-and-bluetooth-speaker-together/"><u>Easy Steps for Perfect Pairing: Hook Up Any Computer and Bluetooth Speaker Together</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-11-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ahead-of-the-curve-with-samsungs-galaxy-z-flip-6-insights-on-availability-costs-and-features/"><u>Get Ahead of the Curve with Samsung's Galaxy Z Flip 6 - Insights on Availability, Costs & Features</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfected-pixel-panache-packages/"><u>In 2024, Perfected Pixel Panache Packages</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1725289559736-iphone-ai/"><u>IPhoneで素早く効果的に背景を変更! AI革新を活用した写真編集ガイド</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/g-youtube-videos-come-alive-your-ultimate-guide-to-animated-gifs-for-2024/"><u>Making YouTube Videos Come Alive Your Ultimate Guide To Animated GIFs for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-linking-multiple-wireless-speakers-to-one-source/"><u>Mastering the Art of Linking Multiple Wireless Speakers to One Source</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-problems-with-rokus-caption-settings-simple-ways-to-enable-cc/"><u>Resolving Problems with Roku's Caption Settings – Simple Ways to Enable CC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-restoring-wi-fi-access-on-surface-pro-devices/"><u>Step-by-Step Guide: Restoring Wi-Fi Access on Surface Pro Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streamline-your-pinterest-gameplan-using-our-top-e-tools-for-scheduling/"><u>Streamline Your Pinterest Gameplan Using Our Top E-Tools for Scheduling</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-strategies-for-secure-data-backups/"><u>Top 5 Strategies for Secure Data Backups</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-sets-asus-apart-from-tuf-proart-and-prime-tech/"><u>What Sets Asus Apart From Tuf, ProArt & Prime Tech?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/xbox-live-success-top-four-steps-to-perfect-your-recording-for-2024/"><u>Xbox Live Success Top Four Steps to Perfect Your Recording for 2024</u></a></li>
 </ul></div>
 

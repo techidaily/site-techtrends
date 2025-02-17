@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Expert Tips for Tailoring and Optimizing Your iPhone's Control Center Features"
-date: 2025-01-15T21:51:52.931Z
-updated: 2025-01-19T21:06:47.709Z
+date: 2025-02-13T22:16:57.139Z
+updated: 2025-02-17T00:13:09.916Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
@@ -40,10 +40,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -52,6 +48,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -67,6 +67,10 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -76,10 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-best-of-breed-exceptional-cardboard-vr-gaming-experienits/"><u>[New] 2024 Approved Best of Breed Exceptional Cardboard VR Gaming Experienits</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streamline-your-vlogs-sound-with-effective-tips-for-2024/"><u>[Updated] Streamline Your Vlog's Sound with Effective Tips for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-understanding-telegram-advertising-for-new-marketing-entrants-for-2024/"><u>[Updated] Understanding Telegram Advertising For New Marketing Entrants for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-troubleshoot-alienware-command-center-issues/"><u>Fixes & Solutions: How To Troubleshoot Alienware Command Center Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723807910471-fixing-the-issue-of-sluggish-startup-on-windows-1011-solutions-inside/"><u>Fixing the Issue of Sluggish Startup on Windows 10/11 - Solutions Inside</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-earnings-in-the-virtual-playground/"><u>In 2024, Earnings in the Virtual Playground</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y36i-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y36i to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-guide-downloading-and-updating-microsoft-drivers-for-windows-10-8-and-7/"><u>Simple Guide: Downloading & Updating Microsoft Drivers for Windows 10, 8, & 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-game-sharing-via-steam-get-started-today/"><u>The Ultimate Tutorial for Game Sharing via Steam - Get Started Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-setting-up-and-resolving-issues-with-miracast-on-windows-1011/"><u>Troubleshooting Guide: Setting Up and Resolving Issues with Miracast on Windows 10/11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-resolving-cold-war-fps-issues-and-stutters-in-pc-games/"><u>Ultimate Guide to Resolving Cold War FPS Issues & Stutters in PC Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-ultimate-csgo-speed-top-strategies-for-optimizing-frames-per-second-fps/"><u>Unlock Ultimate CS:GO Speed: Top Strategies for Optimizing Frames Per Second (FPS)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-new-enhancements-a-deep-dive-into-windows-11-creators-update-build-1503/"><u>Unveiling New Enhancements: A Deep Dive Into Windows 11 Creators Update, Build 1503</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-isnt-my-logitech-mouse-working-step-by-step-fix-guide/"><u>Why Isn't My Logitech Mouse Working? Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-7-end-of-lifesupport-everything-you-need-to-know/"><u>Windows 7 End of Life/Support: Everything You Need to Know</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/your-gateway-to-success-with-a-bundle-of-50-free-adornments-for-2024/"><u>Your Gateway to Success with a Bundle of 50 FREE Adornments for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/be-creators-ultimate-playlist-the-best-free-sound-sources/"><u>YouTube Creators' Ultimate Playlist The Best Free Sound Sources</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exclusive-guide-choosing-among-top-9-free-logo-creators/"><u>[Updated] In 2024, Exclusive Guide Choosing Among Top 9 Free Logo Creators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-digital-boutiques-unique-personalized-present-boxes/"><u>2024 Approved Ultimate Digital Boutiques Unique, Personalized Present Boxes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-solutions-what-to-do-when-you-encounter-missing-shelldll-errors/"><u>Easy Solutions: What to Do When You Encounter Missing Shell.dll Errors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/etsy-listing-image-ratio-advice/"><u>Etsy Listing Image Ratio Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-contrast-between-apples-ipad-pro-and-macbook-air-devices/"><u>Exploring the Contrast Between Apple’s iPad Pro and MacBook Air Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-free-access-to-roku-channels-without-owning-a-set-top-device/"><u>Get Free Access to Roku Channels Without Owning a Set-Top Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-note-12-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi Note 12 Pro 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-turn-off-the-copilot-feature-in-windows-11-for-a-clean-user-experience/"><u>How to Turn Off the Copilot Feature in Windows 11 for a Clean User Experience</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reprogram-inkjet-and-laser-drivers-for-win10-pcs/"><u>Reprogram Inkjet & Laser Drivers for Win10 PCs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/s-top-free-video-hosting-options-for-online-publishers-for-2024/"><u>S Top Free Video Hosting Options for Online Publishers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snagging-memories-the-ultimate-technique-for-screenshots-on-your-ps4/"><u>Snagging Memories: The Ultimate Technique for Screenshots on Your PS4</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-resolve-malwarebytes-cannot-connect-to-services-issue/"><u>Step-by-Step Guide to Resolve 'Malwarebytes Cannot Connect to Services' Issue</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-making-youtube-thumbnails-on-the-go-mobile-for-2024/"><u>The Art of Making YouTube Thumbnails on the Go (Mobile) for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-safety-of-using-duckduckgo-what-you-need-to-know-about-this-private-search-service/"><u>The Safety of Using DuckDuckGo: What You Need to Know About This Private Search Service</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-nubia-red-magic-9-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Nubia Red Magic 9 Pro FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-visual-voice-message-software/"><u>Top-Rated Visual Voice Message Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-viditech-review-for-2024/"><u>Ultimate VidiTech Review for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-future-insights-on-apples-home-robot-pricing-and-availability-date/"><u>Unveiling the Future: Insights on Apple's Home Robot Pricing & Availability Date</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wireless-streaming-made-simple-fire-tv-stick-and-projector-compatibility-guide/"><u>Wireless Streaming Made Simple: Fire TV Stick and Projector Compatibility Guide</u></a></li>
 </ul></div>
 

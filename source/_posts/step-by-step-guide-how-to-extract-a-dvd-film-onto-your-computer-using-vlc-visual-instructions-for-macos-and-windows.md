@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: How to Extract a DVD Film Onto Your Computer Using VLC - Visual Instructions for macOS & Windows"
-date: 2024-08-25 11:45:53
-updated: 2024-08-27 10:24:22
+date: 2025-02-11T00:17:03.299Z
+updated: 2025-02-16T23:11:05.173Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786459d21ef8b234658302fc85.jpg
@@ -16,17 +16,17 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [DVD](https://tools.techidaily.com/macxdvd/products/) \> [Software review](https://tools.techidaily.com/macxdvd/products/) \> Rip DVD on Mac/PC with VLC 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Rip DVD on Mac/Windows with VLC \[Steps with Pictures\] 
 
 It's easy to rip DVD with VLC. Here we'll show you detailed steps. But if you fail to rip DVD with VLC or need a faster solution, you can consider MacX DVD Ripper Pro. It can rip all copy-protected DVDs and supports GPU hardware acceleration to boost DVD ripping.
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Learn More](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon6.png) By [Bella Brown](https://tools.techidaily.com/macxdvd/products/) ｜Last updated onJanuary 24, 2024 
 
@@ -50,6 +50,10 @@ _VLC can't rip protected DVDs. When VLC doesn't rip the entire DVD, the output h
 [**MacX DVD Ripper Free**](https://tools.techidaily.com/macxdvd/products/) \[**FREE & safe**\] - the free VLC alternative to rip DVDs protected by CSS, region code, UOP, RCE, Sony ARccOS, etc. Easily copy DVDs on Mac to ISO image, MKV, MPG with **100% original quality** and rip a DVD to MP4, MOV, H264, HEVC, etc. The hyper-threading tech & multi-core CPU utility help rip a full DVD **within 10 minutes**. There is no VLC DVD ripping errors such as CPU high usage/overheating, "rip DVD only one title/first chapter", or no video/audio errors.
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How to Rip DVDs with VLC on Mac? 
 
@@ -77,6 +81,10 @@ _If this doesn't work, see [how to rip protected DVDs](https://tools.techidaily.
 
 ![Select title or chapter](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/vlc-rip-mac-title.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** **Open the DVD ripping options window.** In the lower-left corner, check the **Stream output** box. Next, click the Setting button to open the ripping setting window. 
 
 **Step 4\. Set an output folder.**  Click Browse…. on the upper-right side of the VLC window. Then you can choose where you would like to save the ripped output video on Mac and give it a name. Then click Save. 
@@ -96,6 +104,10 @@ You can further adjust the video/audio codecs, bit rate, etc. in the transcoding
 
 ![Select an output format](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/vlc-rip-mac-encapsulation.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6\.** Finally, **click Open to start ripping DVD** with Mac VLC player. After a few minutes, you can get the converted file and play it on your mobile devices. 
 
 See also: [How to rip DVD with Handbrake](https://tools.techidaily.com/macxdvd/products/)
@@ -113,6 +125,14 @@ the default setting of "Video Deinterlace" is off. If you want the output DVD fi
  VLC supports hardware decoding with "Video Decode Acceleration Framework (VDA)". However, its default setting is "Automatic", which actually doesn't go into action in real DVD ripping. Though the positive influence of hardware decoding is quite limited, it still helps to quicken the DVD conversion speed. Hence, you're suggested to set up HW Accel. to VDA.
 
 ![Preferences settings](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/vlc-mac-hw.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Rip DVDs with VLC on Windows? 
 
@@ -134,6 +154,10 @@ Though the steps to rip DVDs with VLC on Windows PC are similar to these on macO
 After the converting settings, select the destination folder and give the file a name and then click Start. 
 
 ![VLC rip DVDs to MP4](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/dvd-mp4-vlc.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4\. VLC starts to rip the DVD.**  VLC will start the ripping process immediately. However, ripping DVDs using VLC doesn't work like other DVD rippers. Instead, VLC will record the DVD video and save the streams in a digital format. That means it will take quite a long time to rip DVDs with VLC on Windows or Mac. 
 
@@ -240,11 +264,17 @@ ABOUT THE AUTHOR
 
 ![author- bella](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/bella.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Bella Brown ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/bella-brown-920145104/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bella has been working with DVD digitization for over 12 years. She writes articles about everything related to DVD, from disc drive, DVD copyright protection, physical structure, burning and backup tips. The unceasing passion of DVD movies helps her build a rich DVD library and ensure a practical solution to address almost all possible DVD issues. Bella is also a crazy fan for Apple products.
-
-
 
 Related Articles
 
@@ -272,9 +302,11 @@ Related Articles
 
 [Top 5 MakeMKV Alternatives - Free Rip DVD to MKV, MP4, etc](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
@@ -300,8 +332,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -315,11 +345,29 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-eliminating-exposure-techniques-to-hide-sensitive-content/"><u>[Updated] 2024 Approved Eliminating Exposure Techniques to Hide Sensitive Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[Updated] Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-kinemasters-secret-to-meme-making-mastery/"><u>[Updated] KineMaster's Secret to Meme-Making Mastery</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ideal-audio-transformer-devices-for-youtube-experts/"><u>2024 Approved Ideal Audio Transformer Devices for YouTube Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-accessing-rar-compressed-folders-on-macos/"><u>Comprehensive Tutorial: Accessing RAR Compressed Folders on macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-your-discord-server-experience-by-adding-smart-bots/"><u>Enhancing Your Discord Server Experience by Adding Smart Bots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ergonomics-evolution-the-life-changing-impact-of-a-split-keyboard-on-my-daily-routine-zdnet/"><u>Ergonomics Evolution: The Life-Changing Impact of a Split Keyboard on My Daily Routine | ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-the-cost-of-producing-a-music-video/"><u>In 2024, Evaluating the Cost of Producing a Music Video</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Create My Pokemon Overworld Maps On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-account-setup-on-the-renamed-twitter-platform-now-x/"><u>Mastering Account Setup on the Renamed Twitter Platform, Now 'X'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-messenger-communication-tips-for-access-without-facebook-login/"><u>Mastering Messenger Communication: Tips for Access without Facebook Login</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pre-purchase-considerations-unveiling-5-important-tips-when-choosing-a-gaming-console/"><u>Pre-Purchase Considerations: Unveiling 5 Important Tips When Choosing a Gaming Console</u></a></li>
+<li><a href="https://techtrends.techidaily.com/qled-vs-oled-tvs-comparing-screen-technology-and-performance/"><u>QLED Vs. OLED TVs: Comparing Screen Technology and Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-integration-steps-for-linking-oculus-quest-2-to-smartphone-technology/"><u>Seamless Integration: Steps for Linking Oculus Quest 2 to Smartphone Technology</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-innovations-in-noise-suppression-applying-artificial-intelligence-to-improve-sound-quality/"><u>Updated In 2024, Innovations in Noise Suppression Applying Artificial Intelligence to Improve Sound Quality</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2025-02-05T16:05:59.531Z
-updated: 2025-02-07T16:16:50.001Z
+date: 2025-02-10T20:23:13.269Z
+updated: 2025-02-16T18:10:58.918Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -53,7 +53,7 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -72,15 +72,15 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -92,10 +92,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1599a1fd-b080-4e5b-ae5c-a67c38755459%7Cdtp&dtb=1). 
@@ -103,10 +99,6 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -118,6 +110,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -126,6 +122,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,19 +171,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-initiating-engagement-start-your-live-on-instagram-for-2024/"><u>[New] Initiating Engagement Start Your Live on Instagram for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-get-smart-capturing-your-screen-in-minutes/"><u>[Updated] 2024 Approved Get Smart Capturing Your Screen in Minutes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-jest-and-jibe-constructing-parody-videos-for-2024/"><u>[Updated] Jest and Jibe Constructing Parody Videos for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-ps5-consoles-backwards-compatible-with-ps4-titles/"><u>Are PS5 Consoles Backwards Compatible with PS4 Titles?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-dig-up-previous-notifications-and-uncover-old-messages-on-an-iphone/"><u>How to Dig Up Previous Notifications and Uncover Old Messages on an iPhone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-the-glamour-swipes-masterful-tinder-profile-secrets-revealed/"><u>In 2024, Get the Glamour Swipes - Masterful Tinder Profile Secrets Revealed</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/integrating-google-chromecast-into-your-firestick-smart-streaming-setup/"><u>Integrating Google Chromecast Into Your Firestick Smart Streaming Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/latest-macbook-model-whats-new/"><u>Latest MacBook Model: What's New?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-media-importer-strategies-in-windows-10/"><u>Mastering Media Importer Strategies in Windows 10</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/stop-video-buffering-during-streaming/"><u>Stop Video Buffering During Streaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-using-8-effective-tools-for-person-tracking-online/"><u>The Ultimate Guide to Using 8 Effective Tools for Person-Tracking Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-free-replacements-for-skype/"><u>Top 5 Free Replacements for Skype</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-strategy-for-top-tier-youtube-titles-and-tags/"><u>[New] The Ultimate Strategy for Top-Tier Youtube Titles & Tags</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-optimal-card-selection-for-professional-video-editing-for-2024/"><u>[Updated] Optimal Card Selection for Professional Video Editing for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-law-of-lyrics-on-instagram-platforms-for-2024/"><u>[Updated] The Law of Lyrics on Instagram Platforms for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-picks-for-integrating-frame-elements-with-images/"><u>[Updated] Top Picks for Integrating Frame Elements with Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-internet-gateway-device-choices-modems-with-routers-2024-edition/"><u>Best Internet Gateway Device Choices: Modems with Routers, 2024 Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-persistence-problems-heres-how-you-can-fix-unsaved-conversation-issues/"><u>ChatGPT Persistence Problems? Here's How You Can Fix Unsaved Conversation Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-between-building-and-purchasing-your-own-computer-the-best-option-for-you/"><u>Choosing Between Building and Purchasing Your Own Computer: The Best Option for You</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-dealing-with-the-ftd2xxdll-not-detected-problem/"><u>Expert Tips for Dealing with the Ftd2xx.dll Not Detected Problem</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-immersive-odyssey-the-most-exciting-psvr-games-on-the-way/"><u>In 2024, Immersive Odyssey The Most Exciting PSVR Games on the Way</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-zooming-through-efficient-meeting-coordination-tips/"><u>In 2024, Zooming Through Efficient Meeting Coordination Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-friendly-battles-a-guide-to-team-up-with-friends-in-pokemon-go/"><u>Mastering Friendly Battles: A Guide to Team Up with Friends in Pokémon GO</u></a></li>
+<li><a href="https://discover-community.techidaily.com/movavimp4mov/"><u>Movaviを使って、快適に無料でMP4とMOV動画をオンライン変換する方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ranking-the-top-email-platforms-to-upgrade-from-gmail/"><u>Ranking the Top Email Platforms to Upgrade From Gmail</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resident-evil-village-and-pc-lag-here-are-the-ultimate-fixes-you-need-to-try/"><u>Resident Evil Village and PC Lag? Here Are the Ultimate Fixes You Need to Try!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-evolution-from-gasoline-to-electricity-grasping-the-significance-of-modern-mobility/"><u>The Evolution From Gasoline to Electricity: Grasping the Significance of Modern Mobility</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-preparing-for-skype-interviews-top-tips-for-landing-your-dream-job/"><u>The Ultimate Guide to Preparing for Skype Interviews - Top Tips for Landing Your Dream Job</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trouble-with-yahoo-mail-heres-how-to-fix-missing-incoming-email-problems-quickly/"><u>Trouble with Yahoo Mail? Here's How to Fix Missing Incoming Email Problems Quickly</u></a></li>
 </ul></div>
 

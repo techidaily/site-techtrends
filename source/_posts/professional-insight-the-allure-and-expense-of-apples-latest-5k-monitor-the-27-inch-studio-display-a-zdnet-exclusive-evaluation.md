@@ -1,7 +1,7 @@
 ---
 title: "Professional Insight: The Allure and Expense of Apple's Latest 5K Monitor, the 27-Inch Studio Display - A ZDNet Exclusive Evaluation"
-date: 2025-01-24T20:38:53.467Z
-updated: 2025-01-25T18:00:58.081Z
+date: 2025-02-11T19:00:02.423Z
+updated: 2025-02-16T22:23:09.030Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -45,6 +41,10 @@ Now, Apple has announced that it's using machine learning to derive a left eye a
 Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+ on the Vision Pro. All the Marvel movies were filmed in 2D and digitally remastered into 3D movies. The 3D effect is pretty underwhelming. Sometimes an object seems to be pulled from the background, but otherwise, it's not much to write home about. 
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
 
@@ -61,7 +61,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -72,15 +72,15 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -92,10 +92,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -103,10 +99,6 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -118,6 +110,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -126,6 +122,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,21 +171,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-12-simple-tricks-to-make-your-youtube-videos-go-viral-for-2024/"><u>[Updated] 12 Simple Tricks to Make Your YouTube Videos Go Viral for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-premium-20-free-to-use-pubg-image-arrays-for-2024/"><u>[Updated] Premium 20 Free-to-Use PUBG Image Arrays for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamlined-steps-to-record-on-your-ipad-screen/"><u>2024 Approved Streamlined Steps to Record on Your iPad Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discord-server-hiccups-understanding-whether-its-a-downtime-event-or-personal-connectivity-issue/"><u>Discord Server Hiccups: Understanding Whether It's a Downtime Event or Personal Connectivity Issue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/external-display-woes-heres-how-to-make-your-mac-acknowledge-it/"><u>External Display Woes? Here's How to Make Your Mac Acknowledge It!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-android-text-message-reception-a-step-by-step-guide/"><u>Fixing Android Text Message Reception: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevate-your-videography-with-top-seo-gadgets/"><u>In 2024, Elevate Your Videography with Top SEO Gadgets</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-y100-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo Y100 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-top-choice-for-virtual-camera-and-software-solutions/"><u>Live Streaming with ManyCam: Top Choice for Virtual Camera and Software Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-realme-c51-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Realme C51.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pro-level-prowess-the-best-video-editors-for-your-drone-footage/"><u>Pro-Level Prowess The Best Video Editors for Your Drone Footage</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/resolving-playback-problems-with-mplayerx-on-macos-el-capitan-a-comprehensive-guide/"><u>Resolving Playback Problems with MPlayerX on macOS El Capitan - A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-kernel-paging-issue-step-by-step-guide/"><u>Resolving the Kernel Paging Issue: Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-beginners-blueprint-for-pairing-a-chromecast-remote-like-a-pro/"><u>The Beginner's Blueprint for Pairing a Chromecast Remote Like a Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-rise-and-fall-of-chat-apps-unveiling-the-story-behind-aol-instant-messenger-aim/"><u>The Rise and Fall of Chat Apps: Unveiling the Story Behind AOL Instant Messenger (AIM)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-tiktok-fame-a-list-of-10-secrets-to-going-viral-on-the-platform/"><u>Unlocking TikTok Fame: A List of 10 Secrets to Going Viral on the Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>2024 Approved Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/dv-movavi/"><u>線上無限擷取日蝕DV解決方案 – Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-steps-to-remove-windows-restore-partition/"><u>Complete Guide: Steps to Remove Windows Restore Partition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-sonys-ps5-exclusives-the-ultimate-gaming-selection/"><u>Discover Sony's PS5 Exclusives: The Ultimate Gaming Selection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965194100-download-the-driver-package-which-typically-includes-a-setup-file-along-with-necessary-software-tools/"><u>Download the Driver Package, Which Typically Includes a Setup File Along with Necessary Software Tools.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-mobile-tools-4-apps-that-revolutionize-diy-house-painting/"><u>Essential Mobile Tools: 4 Apps That Revolutionize DIY House Painting</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-tecno-spark-10-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Tecno Spark 10 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nokia-c12-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nokia C12 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-opting-for-a-wi-fi-mesh-system-a-reliable-choice/"><u>Is Opting for a Wi-Fi Mesh System a Reliable Choice?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003676446-league-of-legends-network-issues-fixing-and-preventive-measures-for-smooth-gaming/"><u>League of Legends Network Issues - Fixing and Preventive Measures for Smooth Gaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/neo-qled-and-oled-technology-compared-know-your-choices/"><u>Neo QLED and OLED Technology Compared – Know Your Choices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/outperforming-gas-how-electric-vehicles-excel-on-the-road/"><u>Outperforming Gas: How Electric Vehicles Excel on the Road</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-nspr4dll-file-is-missing-a-comprehensive-guide/"><u>Solving the 'Nspr4.dll' File Is Missing - A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/troubleshooting-common-issues-to-prevent-tales-of-arise-from-crashing/"><u>Troubleshooting Common Issues to Prevent Tales of Arise From Crashing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-ipados-16-launch-timeline-cost-free-access-and-comprehensive-feature-list/"><u>Unveiling iPadOS 16: Launch Timeline, Cost-Free Access & Comprehensive Feature List</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-checklist-for-auditioning-high-caliber-soundscape-architects/"><u>Updated In 2024, The Ultimate Checklist for Auditioning High-Caliber Soundscape Architects</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watch-dragon-ball-sagas-sequentially-a-comprehensive-tutorial/"><u>Watch Dragon Ball Sagas Sequentially - A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

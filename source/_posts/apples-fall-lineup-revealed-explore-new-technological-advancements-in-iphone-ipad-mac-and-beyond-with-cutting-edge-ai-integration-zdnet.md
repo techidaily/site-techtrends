@@ -1,7 +1,7 @@
 ---
 title: "Apple's Fall Lineup Revealed: Explore New Technological Advancements in iPhone, iPad, Mac, and Beyond with Cutting-Edge AI Integration | ZDNet"
-date: 2025-01-18T20:17:27.744Z
-updated: 2025-01-25T16:56:49.066Z
+date: 2025-02-11T21:19:32.372Z
+updated: 2025-02-16T19:13:49.281Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -63,6 +63,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -90,10 +94,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -118,10 +118,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -132,6 +128,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -151,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,18 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-unlocking-your-iphones-audio-library-with-top-podcast-strategies-for-2024/"><u>[Updated] Unlocking Your iPhone's Audio Library with Top Podcast Strategies for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-generate-funny-image-for-giphy/"><u>2024 Approved Generate Funny Image for Giphy</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/brightening-tactics-for-android-video-enthusiasts/"><u>Brightening Tactics for Android Video Enthusiasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-fix-invalid-label-alert-in-win11/"><u>Guide to Fix Invalid Label Alert in Win11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/lost-iphone-photos-discover-how-to-retrieve-them-with-proven-recovery-applications/"><u>Lost iPhone Photos? Discover How to Retrieve Them with Proven Recovery Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-to-restore-text-input-functionality-when-cursor-goes-white-on-windows-pc/"><u>Solutions to Restore Text Input Functionality When Cursor Goes White on Windows PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-boot-issues-on-your-mac-a-step-by-step-guide-to-utilizing-recovery-mode/"><u>Solving Boot Issues on Your Mac: A Step-by-Step Guide to Utilizing Recovery Mode</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speaking-without-words-cultivating-bilingual-intimacy/"><u>Speaking Without Words: Cultivating Bilingual Intimacy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-adding-applications-from-the-microsoft-store-onto-your-windows-10-system/"><u>Step-by-Step Guide: Adding Applications From the Microsoft Store Onto Your Windows 10 System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-screen-images-with-an-opaque-mouse-pointer-on-windows-10/"><u>Step-by-Step Guide: Capturing Screen Images with an Opaque Mouse Pointer on Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-creating-utilizing-and-organizing-passkeys-in-windows-11/"><u>Step-by-Step Guide: Creating, Utilizing & Organizing Passkeys in Windows 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-12-tycoons-the-ultimate-challenge-for-every-gamer-for-2024/"><u>Top 12 Tycoons - The Ultimate Challenge for Every Gamer for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-sound-problems-resolved-how-to-fix-your-speakers-now/"><u>Windows 11 Sound Problems Resolved: How to Fix Your Speakers Now</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-expert-selection-top-5-free-tools-for-extracting-pin-videos/"><u>[New] In 2024, Expert Selection Top 5 Free Tools for Extracting Pin Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-become-a-pro-in-calculating-youtube-ratio-measures/"><u>[Updated] In 2024, Become a Pro in Calculating YouTube Ratio Measures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-system-prerequisites-for-running-big-sur-on-macs/"><u>[Updated] In 2024, System Prerequisites for Running Big Sur on Macs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-virtual-frontiers-reviewed-must-have-vr-devices-for-2024/"><u>[Updated] Virtual Frontiers Reviewed Must-Have VR Devices for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-apple-watch-users-report-increasing-ghost-touch-glitch-solutions-revealed/"><u>1: 'Apple Watch Users Report Increasing Ghost Touch Glitch - Solutions Revealed '</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-stream-pioneers-top-10-sites-ranked/"><u>2024 Approved Live Stream Pioneers Top 10 Sites Ranked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/webp-moveai/"><u>最適なパフォーマンスでオンラインからWEBP画像に自由に変換 - Move.ai</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-wi-fi-game-with-the-compact-and-efficient-ourlink-u631-usb-stick-adapter/"><u>Boost Your Wi-Fi Game with the Compact and Efficient Ourlink U631 USB Stick Adapter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tips-for-correcting-msodll-errors-in-microsoft-office/"><u>Comprehensive Tips for Correcting 'mso.dll' Errors in Microsoft Office</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-the-power-of-spatial-recognition-on-the-latest-vision-pro-tablet-by-apple-unlock-and-test-now/"><u>Discovering the Power of Spatial Recognition on the Latest Vision Pro Tablet by Apple - Unlock and Test Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experts-picks-for-the-most-advanced-small-tablets-of-202e-in-depth-analysis-and-ratings/"><u>Experts' Picks for the Most Advanced Small Tablets of 202E: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-a-visual-extravaganza-detailed-examination-of-lg-ud88-uhd-tv/"><u>In 2024, A Visual Extravaganza Detailed Examination of LG UD88-UHD TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-new-iphone-16-worth-it-unpacking-apples-latest-with-a-critical-eye-at-zdnet/"><u>Is The New iPhone 16 Worth It? Unpacking Apple's Latest with a Critical Eye at ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-craft-the-ultimate-guide-to-using-macos-top-document-management-app-insights/"><u>Mastering Craft: The Ultimate Guide to Using MacOS' Top Document Management App - Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/obs-direct-live-video-feed-for-instagram/"><u>OBS Direct Live Video Feed for Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/shared-frustrations-unveiling-the-common-grievances-among-apple-enthusiasts-post-iphone-update-to-ios-18-zdnet/"><u>Shared Frustrations: Unveiling the Common Grievances Among Apple Enthusiasts Post-iPhone Update to iOS 18 | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streamline-learning-with-our-pick-of-6-premier-homework-assistance-apps-for-families/"><u>Streamline Learning with Our Pick of 6 Premier Homework Assistance Apps for Families</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eling-youtubes-vision-for-a-thriving-ecosystem-of-short-form-video-for-2024/"><u>Unraveling YouTube's Vision for a Thriving Ecosystem of Short-Form Video for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-when-instagram-stories-wont-load-find-answers-here/"><u>What To Do When Instagram Stories Won't Load? Find Answers Here!</u></a></li>
 </ul></div>
 

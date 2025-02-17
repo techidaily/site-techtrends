@@ -1,7 +1,7 @@
 ---
 title: "Amazon Offers Early Exclusive Sale: IPhone M2 MacBook Pro at a Steal for Only $800 | Latest News"
-date: 2025-02-05T16:18:33.794Z
-updated: 2025-02-07T16:18:25.951Z
+date: 2025-02-13T18:52:45.635Z
+updated: 2025-02-16T18:39:09.431Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Maria Diaz/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended:
@@ -43,7 +43,7 @@ Smarts aside, much of the beauty in the Level Lock+ lies beneath the surface. Th
 [ZDNET RECOMMENDS Level Lock+ A discrete-looking smart lock that can be unlocked with the tap of a supported iPhone or Apple Watch. View at Level](https://shareasale.com/r.cfm?b=2175388&u=4338022&m=132656&afftrack=techidaily&urllink=https%3A%2F%2Ftwopages.pxf.io%2F21em1d)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What lies within the Level Lock+?
@@ -61,7 +61,7 @@ Level
 The Level Lock+ uses Bluetooth and Wi-Fi to connect to your phone and comes in three finishes: Satin Nickel, Matte Black, and Polished Brass. It also includes two physical keys and key cards, just in case your phone dies. The latter must be set up in the Level Home app and use NFC technology so anyone using a key card can hold it up to the smart lock and wait for it to unlock.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Home Key?
@@ -95,7 +95,7 @@ Don't get me wrong, I've always used my [Yale Assure locks](https://buy.geni.us/
 There are several other smart locks that currently support Home Key: The [Schlage Encode Plus](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RS1Z1ZN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e35070a-0d67-4220-977b-807fb42e9e2c%7Cdtp&dtb=1), [Yale Assure Lock 2 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRBP2ZM%2FA%2Fyale-assure-lock-2-plus-home-key-lock&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Aqara U100](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAqara-Fingerprint-Touchscreen-Electronic-Weatherproof%2Fdp%2FB0BZSD2L1W%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e35070a-0d67-4220-977b-807fb42e9e2c%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Level app or Apple Home?
@@ -119,7 +119,7 @@ The touch-to-unlock and lock feature only works within a set timeframe of engagi
 There's also the option of buying a Level keypad, which is sold separately, to add to your Level Lock.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -158,24 +158,22 @@ The two largest advantages the Level Lock+ has over other smart locks are the Ho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-essential-blueprint-to-compiling-youtube-soundscape/"><u>[Updated] The Essential Blueprint to Compiling YouTube Soundscape</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-expert-strategies-for-live-over-the-net-broadcast-in-vlc/"><u>2024 Approved Expert Strategies for Live Over-the-Net Broadcast in VLC</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-personalized-youtube-channel-urls-simple-steps-guide/"><u>2024 Approved Mastering Personalized YouTube Channel URLs Simple Steps Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-spin-the-story-right-youtube-video-angles-demystified-guide/"><u>2024 Approved Spin the Story Right YouTube Video Angles Demystified (Guide)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/central-points-for-virtual-world-engagement-for-2024/"><u>Central Points for Virtual World Engagement for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/demystifying-connection-issues-advanced-techniques-for-leveraging-tracert-to-trace-routes-on-windows-systems/"><u>Demystifying Connection Issues: Advanced Techniques for Leveraging Tracert to Trace Routes on Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-80s-film-gems-you-shouldnt-miss-updated-list/"><u>Essential '80S Film Gems You Shouldn't Miss (Updated List)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guion-facil-y-directo-para-convertir-archivos-mp4-a-dvd-en-una-sola-sesion-con-windows-10/"><u>Guíon Fácil Y Directo Para Convertir Archivos MP4 a DVD en Una Sola Sesión Con Windows ˈ10</u></a></li>
-<li><a href="https://os-tips.techidaily.com/has-my-contact-blocked-me-understanding-imessage-communication-silence-cues/"><u>Has My Contact Blocked Me? Understanding iMessage Communication Silence Cues</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-samsung-galaxy-a05s-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on Samsung Galaxy A05s ?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oneplus-ace-2-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your OnePlus Ace 2 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mfc71dll-missing-heres-your-complete-solution-for-restoring-and-fixing-this-error/"><u>mfc71.dll Missing? Here's Your Complete Solution for Restoring and Fixing This Error!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quiet-down-that-rattling-hardware-expert-advice-on-repairing-noisy-computer-fans/"><u>Quiet Down That Rattling Hardware: Expert Advice on Repairing Noisy Computer Fans</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/ssdbios/"><u>SSDをBIOSで検出できない時の解決策とデータ復元手順</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-resolving-non-responsive-keyboards/"><u>Step-by-Step Solutions for Resolving Non-Responsive Keyboards</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-walkthrough-of-various-ipados-updates-and-features/"><u>Step-by-Step Walkthrough of Various iPadOS Updates and Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/swap-out-gmail-for-these-exceptional-email-solutions-top-8-recommended-options/"><u>Swap Out Gmail for These Exceptional Email Solutions - Top 8 Recommended Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-on-clearing-your-phones-cache-for-better-speed/"><u>The Ultimate Tutorial on Clearing Your Phone's Cache for Better Speed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-fm-radio-capabilities-on-your-iphone-or-android-device/"><u>Unlocking FM Radio Capabilities on Your iPhone or Android Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-deciphering-the-code-youtube-community-rules-explained/"><u>[New] 2024 Approved Deciphering the Code YouTube Community Rules Explained</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-action-camera-test-xs-100-i-inside-story-for-2024/"><u>[New] The Ultimate Action Camera Test - XS 100 I Inside Story for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unlocking-potential-advanced-techniques-for-slug-line-creation-for-2024/"><u>[New] Unlocking Potential Advanced Techniques for Slug Line Creation for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-compelling-videos-youtubes-best-thumbnail-practices/"><u>[Updated] In 2024, Crafting Compelling Videos YouTube's Best Thumbnail Practices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-in-pursuit-of-perfection-wincams-listed-here/"><u>2024 Approved In Pursuit of Perfection WinCams Listed Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/aligning-private-costs-with-social-costs-is-essential-for-market-efficiency-which-public-policy-aims-to-achieve-through-managing-externalities/"><u>Aligning Private Costs with Social Costs Is Essential for Market Efficiency, Which Public Policy Aims to Achieve Through Managing Externalities.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevating-your-apple-tv-strategies-for-peak-performance-and-enhanced-usage/"><u>Elevating Your Apple TV: Strategies for Peak Performance and Enhanced Usage</u></a></li>
+<li><a href="https://win-net.techidaily.com/guide-starting-windows-11-in-safe-mode-for-effective-system-restoration/"><u>Guide: Starting Windows 11 in Safe Mode for Effective System Restoration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-easily-record-and-save-your-games-on-ps4-for-youtubetwitch/"><u>How to Easily Record and Save Your Games on PS4 for YouTube/Twitch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-resolve-a-502-bad-gateway-error-in-your-website-a-step-by-step-manual/"><u>How to Resolve a 502 Bad Gateway Error in Your Website: A Step-by-Step Manual</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-enhance-filmmaking-on-iphone-top-camera-extensions-listed/"><u>In 2024, Enhance Filmmaking on iPhone Top Camera Extensions Listed</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-correcting-the-missing-d3dx928dll-error-on-your-pc/"><u>Step-by-Step Guide: Correcting the Missing d3dx9_28.dll Error on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-essentials-what-to-know-when-shopping-for-your-first-smartwatch/"><u>Top 5 Essentials: What to Know When Shopping for Your First Smartwatch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-repairing-stop-code-0x0000007b-system-crashes-on-your-pc/"><u>Troubleshooting and Repairing Stop Code 0X0000007B System Crashes on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-lg-channels-key-facts-and-information/"><u>Understanding LG Channels: Key Facts and Information</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-a-blue-screen-of-death-bsod-meaning/"><u>What Is a Blue Screen of Death? (BSOD Meaning)</u></a></li>
 </ul></div>
 
