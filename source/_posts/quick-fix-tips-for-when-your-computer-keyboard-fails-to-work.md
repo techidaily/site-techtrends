@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Tips for When Your Computer Keyboard Fails to Work
-date: 2025-02-11T23:02:55.681Z
-updated: 2025-02-16T22:55:21.500Z
+date: 2025-03-03T21:12:43.985Z
+updated: 2025-03-05T21:23:06.714Z
 categories:
   - BestProducts
 description: This Article Describes Quick Fix Tips for When Your Computer Keyboard Fails to Work
@@ -65,10 +65,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -76,10 +72,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
  If you like to know your computer intimately, purchasing a pre-built PC might not be the way to go. Since the manufacturer decides the components, you probably won't do a ton of research to know each part in the system. With this, there will be less customization. So, if you want in-depth knowledge of your computer and need to fine-tune it to your needs, a pre-made system probably won't serve you well.
 
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
 
@@ -108,10 +100,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -128,15 +116,7 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Julie Bang
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Build a Computer
 
@@ -181,17 +161,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/aximizing-viewership-with-effective-game-streaming-for-2024/"><u>[New] Maximizing Viewership with Effective Game Streaming for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-learn-screen-casting-on-macbook-air-step-by-step-for-2024/"><u>[Updated] Learn Screen Casting on Macbook Air, Step by Step for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/1-best-online-green-screen-app-manycam-your-ultimate-live-streaming-and-video-call-tool/"><u>1. Best Online Green Screen App: ManyCam - Your Ultimate Live Streaming and Video Call Tool</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-playbackquality-study/"><u>2024 Approved PlaybackQuality Study</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/advanced-steganography-in-videos-hiding-the-unseen-for-2024/"><u>Advanced Steganography in Videos Hiding the Unseen for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-mac-modification-personalize-your-file-folders-appearance/"><u>DIY Mac Modification: Personalize Your File Folders' Appearance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-lg-television-experience-exclusive-audio-enhancements-guaranteed-to-impress-apple-fans/"><u>Enhance Your LG Television Experience: Exclusive Audio Enhancements Guaranteed to Impress Apple Fans</u></a></li>
-<li><a href="https://win-community.techidaily.com/mantau-berkas-lepas-terhapus-tanpa-biayanya-panduan-detail-restore-data-pada-windows-versi-bersyarat-781011/"><u>Mantau Berkas Lepas Terhapus Tanpa Biayanya! Panduan Detail Restore Data Pada Windows Versi Bersyarat 7/8/10/11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-newbie-pitfalls-in-twitch-streaming-chats-insights-and-tips/"><u>Navigating Newbie Pitfalls in Twitch Streaming Chats: Insights & Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/path-to-power-from-bat-to-windows-exe-file-format/"><u>Path to Power: From .bat to Windows EXE File Format</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-pros-pathway-to-effective-discord-dialogue-and-reactions/"><u>The Pro's Pathway to Effective Discord Dialogue and Reactions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-apple-enthusiasts-should-switch-to-this-amazing-qi2-charging-station-all-you-need-to-know-from-zdnet/"><u>Why Apple Enthusiasts Should Switch to This Amazing Qi2 Charging Station: All You Need to Know From ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-lullaby-movies-assessment-and-overview/"><u>[New] Lullaby Movies Assessment & Overview</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-action-triumphs-the-top-games-compilation/"><u>[Updated] In 2024, Essential Action Triumphs The Top Games Compilation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-roadmap-to-enjoy-pokemon-unite-on-windows-or-macos/"><u>Beginner's Roadmap to Enjoy Pokémon Unite on Windows or macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-for-dealing-with-the-missing-mscorwksdll-problem/"><u>Comprehensive Strategies for Dealing with the Missing MSCORWKS.DLL Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-the-http-404-error-tips-for-quick-recovery-and-prevention-strategies/"><u>Demystifying the HTTP 404 Error: Tips for Quick Recovery & Prevention Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-combining-your-epic-battle-royale-profiles-fortnite/"><u>Guide: Combining Your Epic Battle Royale Profiles - Fortnite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-previous-version-of-excel-2013-file-by-stellar-guide/"><u>How to Restore Previous Version of Excel 2013 File?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagrams-best-practices-video-sizes-and-formats-for-2024/"><u>Instagram's Best Practices Video Sizes and Formats for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782608-9781594776953-seven-secrets-of-time-travel/"><u>Seven Secrets of Time Travel | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-tips-for-successfully-pairing-a-dualshock-4/"><u>Troubleshooting & Tips for Successfully Pairing a DualShock 4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-windows-system-stability-issue-error-code-19/"><u>Understanding and Fixing Windows System Stability Issue (Error Code 19)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlocking-full-hd-on-facebook-streams/"><u>Unlocking Full HD on Facebook Streams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windowsjpeg/"><u>Windows上でJPEG画像をビデオファイルに変換する手順</u></a></li>
 </ul></div>
 

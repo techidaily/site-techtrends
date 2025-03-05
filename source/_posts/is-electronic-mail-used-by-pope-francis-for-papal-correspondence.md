@@ -1,7 +1,7 @@
 ---
 title: Is Electronic Mail Used by Pope Francis for Papal Correspondence?
-date: 2024-08-26T07:40:13.548Z
-updated: 2024-08-27T07:40:13.548Z
+date: 2025-03-02T19:35:25.649Z
+updated: 2025-03-05T17:21:15.155Z
 categories:
   - BestProducts
 description: This Article Describes Is Electronic Mail Used by Pope Francis for Papal Correspondence?
@@ -36,9 +36,6 @@ thumbnail: https://www.lifewire.com/thmb/jBVYmCK8o7kU6_SXUFE-7K3qvYU=/400x300/fi
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -49,9 +46,6 @@ thumbnail: https://www.lifewire.com/thmb/jBVYmCK8o7kU6_SXUFE-7K3qvYU=/400x300/fi
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +83,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +90,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-frenzy-top-downloader-tools-that-bring-videos-to-life-on-idevices/"><u>[New] 2024 Approved Facebook Frenzy Top Downloader Tools that Bring Videos to Life on iDevices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-crafting-self-narratives-100-unique-instagram-captions/"><u>[Updated] Crafting Self-Narratives - 100 Unique Instagram Captions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-out-which-free-updater-applications-are-ahead-in-the-pack-top-11/"><u>Find Out Which Free Updater Applications Are Ahead in the Pack (Top 11)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-find-the-ideal-surge-protector-for-all-your-electrical-equipment/"><u>How To Find The Ideal Surge Protector For All Your Electrical Equipment</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-perfecting-transition-timings-in-premiere-audio/"><u>In 2024, Perfecting Transition Timings in Premiere Audio</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-s-top-rated-free-home-security-camera-apps-for-2024/"><u>New S Top-Rated Free Home Security Camera Apps for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimize-your-workflow-with-customized-finder-display-techniques-on-a-mac/"><u>Optimize Your Workflow with Customized Finder Display Techniques on a Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-dll-dilemmas-a-step-by-step-guide-to-fixing-missing-advapi32dll-issues/"><u>Overcoming DLL Dilemmas: A Step-by-Step Guide to Fixing Missing advapi32.dll Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/podcast-perfection-for-the-modern-iphone-user/"><u>Podcast Perfection for the Modern iPhone User</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-fixing-the-missing-advrcntr2dll-error-for-nero-users/"><u>Step-by-Step Guide to Fixing the Missing Advrcntr2.dll Error for Nero Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722882217875-top-5-essentials-what-to-know-before-investing-in-a-smartwatch/"><u>Top 5 Essentials: What to Know Before Investing in a Smartwatch</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y36-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y36 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-why-your-cars-audio-system-may-have-stopped-functioning/"><u>Troubleshooting Tips: Why Your Car's Audio System May Have Stopped Functioning</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-amazons-prime-savings-weekend-essential-details-and-tips-tech-insights/"><u>Unveiling Amazon's Prime Savings Weekend: Essential Details & Tips - Tech Insights</u></a></li>
+</ul></div>
 

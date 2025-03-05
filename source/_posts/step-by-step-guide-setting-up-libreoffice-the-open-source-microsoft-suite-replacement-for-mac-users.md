@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2025-02-15T21:24:30.870Z
-updated: 2025-02-16T22:13:26.259Z
+date: 2025-03-04T18:39:33.829Z
+updated: 2025-03-05T17:33:11.729Z
 tags:
   - apple
 categories:
@@ -28,15 +28,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -64,10 +56,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -76,19 +64,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,19 +106,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-the-nuances-of-professional-voice-over-workflow/"><u>[New] 2024 Approved Navigating the Nuances of Professional Voice Over Workflow</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-expert-techniques-to-masterboard-use-during-remote-collaborations-across-various-operating-systems/"><u>[New] Expert Techniques to Masterboard Use During Remote Collaborations Across Various Operating Systems</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-photographic-magic-the-best-grid-tools-ranked/"><u>[New] In 2024, Photographic Magic - The Best Grid Tools Ranked</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>[Updated] Getting the Most Out of Your Youtube Videos Thumbnails Extraction</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-ringtones-on-ios-a-comprehensible-process/"><u>2024 Approved Mastering Ringtones on iOS A Comprehensible Process</u></a></li>
-<li><a href="https://techtrends.techidaily.com/beating-the-0x80070570-glitch-expert-troubleshooting-steps/"><u>Beating the 0X80070570 Glitch: Expert Troubleshooting Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-you-get-microsoft-word-without-paying-anything/"><u>Can You Get Microsoft Word Without Paying Anything?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-poco-c55-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco C55 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-how-to-enable-and-utilize-remote-access-on-a-samsung-smart-television/"><u>In Depth: How to Enable and Utilize Remote Access on a Samsung Smart Television</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-playlist-integration-on-spotify-for-a-seamless-listening-experience/"><u>Mastering the Art of Playlist Integration on Spotify for a Seamless Listening Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-d3dx933dll-file-not-detected-a-comprehensive-guide/"><u>Solving the d3dx9_33.dll File Not Detected: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamlined-setup-connecting-multiple-bluetooth-units-to-a-single-source/"><u>Streamlined Setup: Connecting Multiple Bluetooth Units to a Single Source</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-laptop-with-effortless-dual-4k-compatible-with-non-supportive-hardware-discover-how-product-name-changes-the-game/"><u>Transform Your Laptop with Effortless Dual 4K: Compatible with Non-Supportive Hardware! Discover How [Product Name] Changes the Game</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-premier-12-screen-recording-solutions-uncapped-recording/"><u>[New] 2024 Approved Premier 12 Screen Recording Solutions - Uncapped Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-safe-sharing-safe-viewing-tips-for-hiding-online-images/"><u>[Updated] Safe Sharing, Safe Viewing Tips for Hiding Online Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>[Updated] Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-for-ending-your-paramountplus-service-agreement/"><u>Effective Strategies for Ending Your Paramount+ Service Agreement</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-communicating-with-chatgpt-for-car-customization-help/"><u>Mastering the Art of Communicating with ChatGPT for Car Customization Help</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-message-filters-in-gmail-for-better-organization/"><u>Mastering the Art of Message Filters in Gmail for Better Organization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pros-and-cons-of-switching-to-the-new-ios-17/"><u>Pros and Cons of Switching to the New iOS 17</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-issue-why-deathloop-failed-to-start/"><u>Resolving the Issue: Why Deathloop Failed to Start</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-unseen-archive-of-your-silent-chatgpt-talks/"><u>The Unseen Archive of Your Silent ChatGPT Talks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-essential-apps-every-teenager-should-have-in-their-arsenal/"><u>Top 10 Essential Apps Every Teenager Should Have in Their Arsenal</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/understanding-and-utilizing-windows-11-auto-hdr-functionality/"><u>Understanding and Utilizing Windows 11 Auto HDR Functionality</u></a></li>
 </ul></div>
 

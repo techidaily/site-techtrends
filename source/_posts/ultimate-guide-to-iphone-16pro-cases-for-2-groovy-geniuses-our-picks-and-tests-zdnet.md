@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests | ZDNET
-date: 2025-02-09T22:29:21.313Z
-updated: 2025-02-16T20:04:59.192Z
+date: 2025-03-04T19:24:43.344Z
+updated: 2025-03-05T20:01:19.613Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -43,10 +39,6 @@ Go to your iPhone's Settings and select General.
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -57,10 +49,6 @@ When you tap on Software Update, your iPhone will check for the latest version o
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -73,10 +61,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -96,10 +80,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,24 +141,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-stepwise-guide-switch-between-normal-and-pip-views-in-youtube-app/"><u>[New] Stepwise Guide Switch Between Normal and PIP Views in YouTube App</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-above-the-clouds-unveiled-best-online-portals-for-hd-skies/"><u>[Updated] Above the Clouds Unveiled Best Online Portals for HD Skies</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-superior-text-tools-and-after-effects-for-2024/"><u>[Updated] Superior Text Tools & After Effects for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/beginners-tutorial-crafting-an-account-for-your-virtual-reality-adventures-on-oculus-quest/"><u>Beginner’s Tutorial: Crafting an Account for Your Virtual Reality Adventures on Oculus Quest</u></a></li>
-<li><a href="https://techtrends.techidaily.com/chromebook-frozen-8-ways-to-fix-that/"><u>Chromebook Frozen? 8 Ways to Fix That</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/comment-reparer-facilement-votre-systeme-dexploitation-windows-atur-bypassant-la-restauration-du-point-de-controle/"><u>Comment Réparer Facilement Votre Système D'exploitation Windows Atur, Bypassant La Restauration Du Point De Contrôle</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-tips-how-to-pair-samsung-buds-to-your-pc-or-mac-easily/"><u>Connecting Tips: How to Pair Samsung Buds to Your PC or Mac Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-slow-connections-by-flushing-dns-in-macos/"><u>Fixing Slow Connections by Flushing DNS in macOS</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-a05s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy A05s Quickly? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-spark-go-2023-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Spark Go (2023) without App | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-process-of-sharing-srt-text-in-social-digital-spaces/"><u>In 2024, Unveiling the Process of Sharing SRT Text in Social Digital Spaces</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-it-possible-to-remove-pre-installed-iphone-applications/"><u>Is It Possible to Remove Pre-Installed iPhone Applications?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-essential-guide-to-free-html-editors-on-windows-choose-the-right-tool/"><u>The Essential Guide to Free HTML Editors on Windows: Choose the Right Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-selection-10-delightful-kitchen-shows-for-streamers/"><u>The Ultimate Selection: 10 Delightful Kitchen Shows for Streamers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-solution-for-dealing-with-and-repairing-401-unauthorized-errors-on-websites/"><u>The Ultimate Solution for Dealing With and Repairing 401 Unauthorized Errors on Websites</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210136605-trace-your-lost-touchpad-to-device-master/"><u>Trace Your Lost Touchpad to Device Master</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-laptop-speakers-a-guide-to-restoring-your-sound/"><u>Troubleshooting Laptop Speakers: A Guide to Restoring Your Sound</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-to-fix-advapi32dll-could-not-be-loaded-issue/"><u>Troubleshooting Tips to Fix 'Advapi32.dll Could Not Be Loaded' Issue</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tech-at-ces-202e-how-lg-is-falling-for-ai-and-launching-revolutionary-products-insights-from-zdnet/"><u>Unveiling the Future of Tech at CES 202E: How LG Is Falling for AI and Launching Revolutionary Products - Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-musical-pieces-with-cross-sound-techniques/"><u>[Updated] Harmonizing Musical Pieces with Cross-Sound Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-leading-choices-elite-android-call-alerts-for-2024/"><u>[Updated] Leading Choices Elite Android Call Alerts for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-revolutionize-video-closings-exclusive-end-screen-templates-for-2024/"><u>[Updated] Revolutionize Video Closings - Exclusive End Screen Templates for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-a1x-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo A1x 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/accessing-netflix-subscription-through-your-nintendo-switch-gaming-system/"><u>Accessing Netflix Subscription Through Your Nintendo Switch Gaming System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-safe-fitness-program-design-for-you/"><u>AI-Powered, Safe Fitness Program Design for You</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-to-access-archived-messages-and-notifications-on-iphone/"><u>Discover How to Access Archived Messages and Notifications on iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-key-finder-systems-top-products-for-peace-of-mind/"><u>Essential Key Finder Systems : Top Products for Peace of Mind</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expanding-email-horizons-effortlessly-creating-an-alternate-gmail-signal/"><u>Expanding Email Horizons: Effortlessly Creating an Alternate Gmail Signal</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-null-associated-app-error-on-windows-systems/"><u>Fixing Null Associated App Error on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-ipad-updates-an-in-depth-guide-to-the-latest-os-versions/"><u>Mastering iPad Updates: An In-Depth Guide to the Latest OS Versions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pause-autoplay-on-youtube-suggested-videos/"><u>Pause Autoplay on YouTube Suggested Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-apple-iphone-12-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for Apple iPhone 12 and Android Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-hdcp-mistakes-identifying-and-resolving-them/"><u>Understanding HDCP Mistakes: Identifying & Resolving Them</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722895616193-windows-11-performance-boosting-techniques-fix-slowdown-and-improve-efficiency-today/"><u>Windows 11 Performance Boosting Techniques: Fix Slowdown & Improve Efficiency Today!</u></a></li>
 </ul></div>
 

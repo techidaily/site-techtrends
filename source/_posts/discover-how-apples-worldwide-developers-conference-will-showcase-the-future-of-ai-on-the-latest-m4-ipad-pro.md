@@ -1,7 +1,7 @@
 ---
 title: Discover How Apple's Worldwide Developers Conference Will Showcase the Future of AI on the Latest M4 iPad Pro
-date: 2025-02-15T16:31:24.611Z
-updated: 2025-02-16T22:37:21.358Z
+date: 2025-03-01T19:28:27.305Z
+updated: 2025-03-05T18:30:10.795Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -49,10 +45,6 @@ Kerry Wan/ZDNET
 The iPhone 16 receives a substantial update to its camera system. The device possesses a 48MP Fusion lens capable of taking wide-angle photographs and far-away shots, thanks to its 2X telephoto option. But what really caught my attention was the [Camera Control button](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/).
 
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
 
@@ -65,10 +57,6 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 **Also: [Apple Intelligence will improve SIri in 2024, but don't expect most updates until 2025](https://www.zdnet.com/article/apple-intelligence-will-improve-siri-in-2024-but-dont-expect-most-updates-until-2025/)**
 
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
 
@@ -114,22 +102,21 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-straightforward-strategies-accessing-appreciated-comments-on-youtube/"><u>[New] In 2024, Straightforward Strategies Accessing Appreciated Comments on YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-visual-splendor-of-blade-cameras-in-full-hd/"><u>[Updated] The Visual Splendor of Blade Cameras in Full HD</u></a></li>
-<li><a href="https://techtrends.techidaily.com/achieve-more-with-these-5-simple-tips-effective-facebook-usage/"><u>Achieve More with These 5 Simple Tips: Effective Facebook Usage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-for-perfect-pairing-hook-up-any-computer-and-bluetooth-speaker-together/"><u>Easy Steps for Perfect Pairing: Hook Up Any Computer and Bluetooth Speaker Together</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-11-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ahead-of-the-curve-with-samsungs-galaxy-z-flip-6-insights-on-availability-costs-and-features/"><u>Get Ahead of the Curve with Samsung's Galaxy Z Flip 6 - Insights on Availability, Costs & Features</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfected-pixel-panache-packages/"><u>In 2024, Perfected Pixel Panache Packages</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1725289559736-iphone-ai/"><u>IPhoneで素早く効果的に背景を変更! AI革新を活用した写真編集ガイド</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/g-youtube-videos-come-alive-your-ultimate-guide-to-animated-gifs-for-2024/"><u>Making YouTube Videos Come Alive Your Ultimate Guide To Animated GIFs for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-linking-multiple-wireless-speakers-to-one-source/"><u>Mastering the Art of Linking Multiple Wireless Speakers to One Source</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-problems-with-rokus-caption-settings-simple-ways-to-enable-cc/"><u>Resolving Problems with Roku's Caption Settings – Simple Ways to Enable CC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-restoring-wi-fi-access-on-surface-pro-devices/"><u>Step-by-Step Guide: Restoring Wi-Fi Access on Surface Pro Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamline-your-pinterest-gameplan-using-our-top-e-tools-for-scheduling/"><u>Streamline Your Pinterest Gameplan Using Our Top E-Tools for Scheduling</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-strategies-for-secure-data-backups/"><u>Top 5 Strategies for Secure Data Backups</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-sets-asus-apart-from-tuf-proart-and-prime-tech/"><u>What Sets Asus Apart From Tuf, ProArt & Prime Tech?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/xbox-live-success-top-four-steps-to-perfect-your-recording-for-2024/"><u>Xbox Live Success Top Four Steps to Perfect Your Recording for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-sound-enthusiasts-companion-high-quality-recording-tips/"><u>[New] 2024 Approved The Sound Enthusiast's Companion High-Quality Recording Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crucial-6-platforms-propelling-corporate-engagement-strategies/"><u>[New] Crucial 6 Platforms Propelling Corporate Engagement Strategies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-in-depth-analysis-of-vlc-recorder-app/"><u>[Updated] 2024 Approved In-Depth Analysis of VLC Recorder App</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-reviving-airtunes-fixing-disrupted-transfer-between-iphone-ipad-and-mac-for-2024/"><u>[Updated] Reviving Airtunes Fixing Disrupted Transfer Between iPhone, iPad & Mac for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-translate-compressed-files-into-subtitle-format-srt/"><u>[Updated] Translate Compressed Files Into Subtitle Format (SRT)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avi-vs-mp4-analyse-detaillee-des-avantages-et-inconvenients-du-format-video-pour-la-diffusion-en-ligne/"><u>AVI Vs. MP4 - Analyse Détaillée Des Avantages Et Inconvénients Du Format Vidéo Pour La Diffusion en Ligne</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/comprehensively-tackling-the-sony-fdr-x1000-action-gear-for-2024/"><u>Comprehensively Tackling the Sony FDR-X1000 Action Gear for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-d3dx934dll-error-fixes-and-recovery/"><u>Effective Solutions for D3dx9_34.dll Error Fixes and Recovery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engage-in-dialogue-expert-tips-for-mastering-conversations-using-chatgpt/"><u>Engage in Dialogue: Expert Tips for Mastering Conversations Using ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-solve-code-39-printer-problems-in/"><u>How to Successfully Solve Code 39 Printer Problems In</u></a></li>
+<li><a href="https://techtrends.techidaily.com/recovering-lost-contacts-uncover-deleted-numbers-on-your-android-device/"><u>Recovering Lost Contacts: Uncover Deleted Numbers on Your Android Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sirius/"><u>Sirius</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-rise-and-fall-of-aim-unraveling-the-story-behind-america-onlines-chat-service/"><u>The Rise and Fall of AIM: Unraveling the Story Behind America Online's Chat Service</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-navigating-lgs-channel-strategies-crucial-points-unveiled/"><u>The Ultimate Guide to Navigating LG's Channel Strategies: Crucial Points Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-freebie-film-streaming-applications-top-12-picks/"><u>The Ultimate List of Freebie Film Streaming Applications - Top 12 Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-fixing-and-replacing-fallen-computer-keyboard-buttons/"><u>The Ultimate Tutorial: Fixing and Replacing Fallen Computer Keyboard Buttons</u></a></li>
 </ul></div>
 

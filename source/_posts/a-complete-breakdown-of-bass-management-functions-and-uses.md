@@ -1,7 +1,7 @@
 ---
 title: A Complete Breakdown of Bass Management Functions & Uses
-date: 2025-02-09T21:17:50.373Z
-updated: 2025-02-16T19:02:12.267Z
+date: 2025-02-27T16:26:18.022Z
+updated: 2025-03-05T21:10:04.053Z
 categories:
   - BestProducts
 description: This Article Describes A Complete Breakdown of Bass Management Functions & Uses
@@ -19,10 +19,6 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Surround Sound and Bass
 
  Music (especially rock, pop, and rap) may contain low-frequency information that a subwoofer can take advantage of. When movies (and some TV shows) are mixed for DVD and[Blu-ray Disc](https://www.lifewire.com/blu-ray-disc-player-information-1846364) , sounds are assigned to each channel.
@@ -33,25 +29,13 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 
 ![Example of Home Theater Speaker Setup Menu Spotlighting Bass Management](https://www.lifewire.com/thmb/EcqKOmPH0gALf98WV-BLn6H0s_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/anthem-speaker-set-menu-examples-aaa-58f8bed43df78ca159779250.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Anthem AV
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Implementing Bass Management
 
  A home theater system ([usually anchored by a home theater receiver](https://www.lifewire.com/set-up-home-theater-receiver-4119787) ) needs to distribute sound frequencies to the correct channels and speakers to replicate a cinema-like experience. Bass management provides this tool.
 
  You can perform bass management automatically or manually. Before starting,[place the speakers in the proper locations](https://www.lifewire.com/positioning-loudspeakers-and-subwoofer-1846808) , connect them to your home theater receiver, and then designate where the sound frequencies need to go.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set Your Speaker Configuration
 
@@ -82,19 +66,11 @@ Anthem AV
 
 ![Denon AVR-X2100W Subwoofer LFE Settings Menu](https://www.lifewire.com/thmb/7EpelSRkJveIXdtBvouIVTmPduQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-subwoofer-lfe-x-9632c722beac467a90cbde08657c5b66.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The LFE channel contains specific, extremely low-frequency information that can only be passed through the receiver's subwoofer preamp output. If you tell the receiver you don't have a subwoofer, you won't have access to the specific low-frequency information encoded on that channel. However, other low-frequency information not encoded specifically to the LFE channel can be routed to other speakers.
 
 Many home theater receivers provide outputs for two subwoofers.
 
 ![Onkyo TX-NR787 Dual Subwoofer Output](https://www.lifewire.com/thmb/Jo0UqJirlpMSGg-_A1SWgcKZ8nM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/onkyo-tx-nr787-dual-sub-outs-a-5c07f338c9e77c000169e852.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Onkyo USA
 
@@ -188,22 +164,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-in-pursuit-of-clarity-with-benq-sw320s-4k-screen/"><u>[New] 2024 Approved In Pursuit of Clarity with BenQ SW320's 4K Screen</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-freelancers-companion-easy-and-affordable-audio-effect-additions/"><u>[Updated] 2024 Approved The Freelancer's Companion Easy and Affordable Audio Effect Additions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-virtual-ventures-10-near-misses-to-gta-v/"><u>[Updated] Virtual Ventures 10 Near-Misses to GTA V</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apple-vs-tech-giants-a-comparative-analysis-of-necessary-innovations-in-artificial-intelligence-to-challenge-openai-and-google-as-determined-by-zdnet-expert176/"><u>Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209872268-9780996783552-conversations-with-laarkmaa/"><u>Conversations With Laarkmaa | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-everything-you-need-for-your-apple-devices-from-user-guides-to-specs-and-diy-fixes/"><u>Find Everything You Need for Your Apple Devices – From User Guides to Specs and DIY Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-rtx-enabled-graphics-cards-transform-gaming-and-vr/"><u>How RTX-Enabled Graphics Cards Transform Gaming and VR</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-10-immersive-metaverse-adventures-for-group-play/"><u>In 2024, 10 Immersive Metaverse Adventures for Group Play</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-boost-your-brand-with-snapchats-business-features/"><u>In 2024, Boost Your Brand with Snapchat's Business Features</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unwind-in-a-world-of-top-stress-busters/"><u>In 2024, Unwind in a World of Top Stress Busters</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-tech-choices-with-comprehensive-insights-from-toms-hardware-guides/"><u>Mastering Tech Choices with Comprehensive Insights From Tom's Hardware Guides</u></a></li>
-<li><a href="https://techtrends.techidaily.com/predicting-tomorrows-screen-innovations-how-apples-tandem-oled-display-on-ipad-pro-shapes-future-tech-trends-zdnet/"><u>Predicting Tomorrow’s Screen Innovations: How Apple's Tandem OLED Display on iPad Pro Shapes Future Tech Trends | ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-your-email-account-activate-gmails-dual-authentication-feature/"><u>Secure Your Email Account: Activate Gmail's Dual-Authentication Feature</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simplify-your-digital-life-declutter-your-inbox-with-a-simple-trick-no-extra-accounts-needed/"><u>Simplify Your Digital Life: Declutter Your Inbox with a Simple Trick, No Extra Accounts Needed!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stay-charged-and-cool-unveiling-the-ultimate-3-in-1-magsafe-dock-for-apple-users-exclusive-review/"><u>Stay Charged and Cool: Unveiling the Ultimate 3-in-1 MagSafe Dock for Apple Users - Exclusive Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-non-apple-rechargeable-airtags-unbeatable-deals-for-wallets-explore-the-market-zdnet/"><u>Top Non-Apple, Rechargeable AirTags: Unbeatable Deals for Wallets - Explore the Market | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-atandt-mobile-offers-in-may-2024-comprehensive-guide/"><u>Top-Rated AT&T Mobile Offers in May 2024: Comprehensive Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mememakerpro-visual-laughter-factory/"><u>[New] MemeMakerPro Visual Laughter Factory</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-brief-cinematic-story-outline/"><u>[Updated] Brief Cinematic Story Outline</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-enhancing-presence-how-to-effortlessly-eliminate-borders/"><u>[Updated] In 2024, Enhancing Presence How to Effortlessly Eliminate Borders</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-11-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 11 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-refresh-tutorial-for-dell-laptops-how-to-erase-and-reboot-efficiently/"><u>Complete Refresh Tutorial for Dell Laptops: How to Erase and Reboot Efficiently</u></a></li>
+<li><a href="https://techtrends.techidaily.com/computer-woes-heres-how-you-can-troubleshoot-a-system-that-boots-but-shows-no-display/"><u>Computer Woes? Here's How You Can Troubleshoot a System That Boots But Shows No Display</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-master-the-art-of-pokemon-unite-gaming/"><u>Expert Advice: Master the Art of Pokémon Unite Gaming</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-easy-steps-for-harvesting-free-video-frames/"><u>In 2024, Easy Steps for Harvesting Free Video Frames</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-cannot-find-procedural-programming-dll-errors-on-your-pc/"><u>Quick Fixes for 'Cannot Find Procedural Programming DLL' Errors on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-adding-fandango-to-your-firestick-entertainment-suite/"><u>Step-by-Step Tutorial for Adding Fandango to Your Firestick Entertainment Suite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-for-seamless-and-feature-rich-video-conferencing-groups/"><u>Top Picks for Seamless and Feature-Rich Video Conferencing Groups</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ultimate-guide-vimeo-video-grabs/"><u>Ultimate Guide Vimeo Video Grabs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-variances-between-cat5-and-cat6-ethernet-cables/"><u>Understanding the Variances Between Cat5 and Cat6 Ethernet Cables</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-wireless-standards-a-guide-to-80211be-ax-ac-bgn-and-a/"><u>Understanding Wireless Standards: A Guide to 802.11Be, Ax, Ac, B/G/N & A</u></a></li>
 </ul></div>
 

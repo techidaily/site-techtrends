@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Music Production on iOS and macOS with Apple's New Logic Pro Update - Introducing Smart, AI 'Band Member' Assistants
-date: 2024-10-22T17:43:12.621Z
-updated: 2024-10-27T19:48:33.191Z
+date: 2025-03-01T16:31:58.346Z
+updated: 2025-03-05T16:10:55.007Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
@@ -63,38 +56,17 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,21 +102,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-discover-the-most-reliable-android-apps-to-replay-your-favorite-ps2-games/"><u>[Updated] 2024 Approved Discover the Most Reliable Android Apps to Replay Your Favorite PS2 Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-rapid-audience-expansion-without-breaking-the-bank-for-2024/"><u>[Updated] Rapid Audience Expansion Without Breaking the Bank for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-best-practices-in-confirming-your-youtube-access/"><u>2024 Approved Best Practices in Confirming Your YouTube Access</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-snap-in-hours-stars-quick-hit-video-winners/"><u>2024 Approved Snap-in-Hours Stars Quick Hit Video Winners</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-vital-game-components-that-grab-users-attention/"><u>6 Vital Game Components that Grab Users’ Attention</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Spark 10 4G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-the-common-problem-of-a-lost-binkw32dll-file/"><u>Comprehensive Solutions to the Common Problem of a Lost binkw32.dll File</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discover-the-best-no-cost-soundtracks-for-video-production-for-2024/"><u>Discover the Best No-Cost Soundtracks for Video Production for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-fixes-for-the-missing-wlanapidll-error-in-windows/"><u>Effective Fixes for the Missing Wlanapi.dll Error in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-free-gaming-experience-correcting-call-of-duty-warzones-disc-read-mistakes-with-50-31/"><u>Error-Free Gaming Experience - Correcting Call of Duty Warzone's Disc Read Mistakes with [5.0, 3.1]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/evaluating-the-need-for-rtx-graphics-card-enhancement/"><u>Evaluating the Need for RTX Graphics Card Enhancement</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-can-you-retrieve-your-lost-email-address-a-comprehensive-guide/"><u>How Can You Retrieve Your Lost Email Address? A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-and-enhance-your-sound-experience-with-idt-hd-audio-codec-driver-on-windows-10/"><u>How to Fix and Enhance Your Sound Experience with IDT HD Audio Codec Driver on Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-malfunctioning-spell-check-in-your-email-client-outlook-edition/"><u>How to Fix Malfunctioning Spell Check in Your Email Client - Outlook Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reverse-your-snaps-on-snapchat-a-step-by-step-guide/"><u>Reverse Your Snaps on Snapchat - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-taking-off-and-replacing-your-phones-screen-safeguard/"><u>Step-by-Step Instructions for Taking Off & Replacing Your Phone's Screen Safeguard</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-practices-expert-picks-for-4k-dslr-mounts/"><u>[New] 2024 Approved Best Practices Expert Picks for 4K DSLR Mounts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maximizing-meeting-impact-with-effective-snap-usage/"><u>[New] 2024 Approved Maximizing Meeting Impact with Effective Snap Usage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-canon-camera-insights-for-stunning-time-lapse-vids/"><u>[New] Canon Camera Insights for Stunning Time-Lapse Vids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-premier-strategies-in-sport-broadcasting-technology/"><u>2024 Approved Premier Strategies in Sport Broadcasting Technology</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-hidden-gems-with-apple-musics-new-exploration-feature-a-comprehensive-review/"><u>Discover Hidden Gems with Apple Music's New Exploration Feature: A Comprehensive Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-the-black-and-white-display-on-your-windows-10-computer-step-by-step-guide/"><u>How To Fix The Black And White Display On Your Windows 10 Computer - Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-increase-download-speed-solved/"><u>How to Increase Download Speed [Solved]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-12-pro-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 12 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/instantly-swap-your-homepage-to-google-a-step-by-step-no-hassle-tutorial/"><u>Instantly Swap Your Homepage to Google - A Step-by-Step, No Hassle Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-multi-gpu-configurations-a-step-by-step-tutorial-on-nvidia-sli-setup/"><u>Mastering Multi-GPU Configurations: A Step-by-Step Tutorial on Nvidia SLI Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-screen-mirroring-with-miracast-on-windows-e7-a-complete-overview/"><u>Mastering Screen Mirroring with Miracast on Windows E7: A Complete Overview</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-free-ticking-companion-for-2024/"><u>Premium Free Ticking Companion for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
-date: 2025-02-16T03:01:50.357Z
-updated: 2025-02-16T18:17:10.655Z
+date: 2025-02-28T18:28:50.235Z
+updated: 2025-03-05T21:39:29.151Z
 categories:
   - BestProducts
 description: This Article Describes Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
@@ -27,18 +27,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -57,10 +49,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -107,10 +95,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -130,10 +114,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -164,24 +144,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-photoplusvideo-integration-with-iphone/"><u>[New] Navigating Photo+Video Integration with iPhone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-revealing-the-undisclosed-in-instagram-story-observation/"><u>[New] Revealing the Undisclosed in Instagram Story Observation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-iphone-photography-mastery-focusing-on-the-micro-and-macro/"><u>[Updated] IPhone Photography Mastery Focusing on the Micro & Macro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-z-flip-5-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy Z Flip 5 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-step-by-step-guide-to-compliant-twitter-media-posts/"><u>2024 Approved Step-by-Step Guide to Compliant Twitter Media Posts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/are-you-experiencing-problems-with-nintendo-switch-online-server-down-or-connectivity-woes/"><u>Are You Experiencing Problems with Nintendo Switch Online - Server Down or Connectivity Woes?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-the-new-iphone-os-ios-18-absolutely-free-with-in-depth-overview-of-updates-and-industry-news/"><u>Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exclusive-july-2er-2024-unmissable-laptop-bargains-curated-for-you-by-zdnet/"><u>Exclusive July 2Er 2024: Unmissable Laptop Bargains Curated for You by ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-apples-recent-strides-in-artificam-intelligence-unveiling-the-power-of-their-new-model-lineup/"><u>Exploring Apple’s Recent Strides in Artificam Intelligence: Unveiling the Power of Their New Model Lineup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-your-hands-on-the-macbook-air-m1-for-only-649-exclusive-lowest-prices-today/"><u>Get Your Hands-On the MacBook Air M1 for Only $649 – Exclusive Lowest Prices Today</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-a79-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo A79 5G FRP Without Computer</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-prime-xsplit-replacements-a-guide-to-streaming/"><u>In 2024, Prime Xsplit Replacements A Guide to Streaming</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-quicktime-stop-screen-recording-guide/"><u>In 2024, Quicktime Stop Screen Recording (Guide)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-three-ways-to-make-your-instagram-videos-pop-with-captions/"><u>In 2024, Three Ways to Make Your Instagram Videos Pop with Captions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/insights/"><u>Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-images-from-icloud-storage-without-losing-iphone-copies/"><u>Step-by-Step Guide: Removing Images From iCloud Storage Without Losing iPhone Copies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-resolving-propsysdll-not-found-system-error-issues/"><u>The Ultimate Guide to Resolving 'PropSys.dll Not Found' System Error Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unbeatable-ipad-savings-shop-the-ultimate-discounts-today/"><u>Unbeatable iPad Savings - Shop the Ultimate Discounts Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-of-aether-an-in-depth-look-at-joining-procedures/"><u>Unveiling the Secrets of Aether: An In-Depth Look at Joining Procedures</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-creating-lasting-memories-with-customized-vimeo-ends/"><u>[New] In 2024, Creating Lasting Memories with Customized Vimeo Ends</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-personalized-vocal-elements-on-instagram-for-2024/"><u>[Updated] Unlocking Personalized Vocal Elements on Instagram for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-rideshares-more-affordable-than-taxis/"><u>Are Rideshares More Affordable than Taxis?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-video-conversion-tools-for-uploading-your-avchd-content-to-an-ipad-pro-in-no-time/"><u>Best Video Conversion Tools for Uploading Your AVCHD Content to an iPad Pro in No Time!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-analytics-unlocking-data-insights/"><u>Cookiebot-Driven Analytics: Unlocking Data Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cross-device-photography-linking-your-icloud-with-ios-windows-and-android-gadgets/"><u>Cross-Device Photography: Linking Your iCloud with iOS, Windows and Android Gadgets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-led-light-codes-of-your-ps4-controller-what-they-mean-for-gaming/"><u>Decoding the LED Light Codes of Your PS4 Controller - What They Mean for Gaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/end-surface-pro-screen-shake-and-flicker-with-these-expert-tips/"><u>End Surface Pro Screen Shake & Flicker with These Expert Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-gamer-gear-selecting-the-finest-consoles-and-extras-for-childrens-fun/"><u>Essential Gamer Gear: Selecting the Finest Consoles and Extras for Children's Fun</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-elite-list-best-online-streaming-options-today/"><u>In 2024, Elite List Best Online Streaming Options Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-stellar-titling/"><u>In 2024, Expert Techniques for Stellar Titling</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-14-plus-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 14 Plus and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/photovideo-text-warping-essentials-for-2024/"><u>Photo/Video Text Warping Essentials for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rescue-techniques-for-missing-emails-in-googles-mail-service/"><u>Rescue Techniques for Missing Emails in Google's Mail Service</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-error-4201-in-genshin-impact-a-step-by-step-guide/"><u>Resolving Error 4201 in Genshin Impact: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-ceiling-sound-systems-a-comprehensive-guide/"><u>Top-Rated Ceiling Sound Systems : A Comprehensive Guide</u></a></li>
 </ul></div>
 

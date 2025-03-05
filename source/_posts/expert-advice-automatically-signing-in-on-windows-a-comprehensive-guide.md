@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Automatically Signing In on Windows - A Comprehensive Guide"
-date: 2025-02-14T23:35:33.817Z
-updated: 2025-02-16T19:55:29.840Z
+date: 2025-03-03T16:49:10.075Z
+updated: 2025-03-05T17:24:53.459Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: Automatically Signing In on Windows - A Comprehensive Guide"
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![Screenshot of the User Accounts window and Run box in Windows 10](https://www.lifewire.com/thmb/BICxKgXAn96fZ7yE5iZL8AgdlQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/user-accounts-auto-login-windows-10-5ae0f7b1a474be00365cc57e.PNG)  
  Advanced User Accounts Window (Windows 10).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A different command is used in Windows XP:  
  `control userpasswords2`  
  Technically, this program is called the_Advanced User Accounts Control Panel_ , but it's not really a Control Panel applet and you won't find it in Control Panel. To make it more confusing, the title of the windows says just_User Accounts_ .
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  Are you a Desktop lover looking to speed up your Windows 8 boot process even more? In Windows 8.1 or later, you can make Windows start directly to the Desktop, skipping the Start screen. See[How to Boot to the Desktop in Windows 8.1](https://www.lifewire.com/how-to-boot-to-the-desktop-in-windows-8-1-2626240) for instructions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the Automatic Login Checkbox Missing?
 
  Follow these registry editing steps if you don't see the automatic login option in Windows 10 or Windows 11:
@@ -67,18 +59,10 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![regedit command in Windows 10](https://www.lifewire.com/thmb/S5plzssdJfj5F_g0EWjnrY3y0y0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/regedit-command-windows-10-a994eadfb12045c0bf2f41b22e2d65b0.png)  
  While following the steps below_exactly_ should be perfectly safe, we always recommend that you[back up the registry](https://www.lifewire.com/how-to-back-up-the-windows-registry-2625146) before making changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Paste this path into the navigation bar at the top of the editor:  
  `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\PasswordLess\Device`
 3. Right-click the value called**DevicePasswordLessBuildVersion** , then choose**Delete** and confirm by pressing**Yes** . You can now repeat the above steps.  
 ![The DevicePasswordLessBuildVersion value highlighted in the Windows 11 registry editor](https://www.lifewire.com/thmb/-YZozQpXtRzfIaJbTZKstaiJLNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-passwordless-66acf1099df541fba128680eb6c4af06.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up Auto Log in for Domain Scenarios
 
@@ -90,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 2. From the[registry hive](https://www.lifewire.com/what-is-a-registry-hive-2625986) listing on the left, choose[HKEY_LOCAL_MACHINE](https://www.lifewire.com/hkey-local-machine-2625902) , followed by**Software** .  
 ![HKEY LOCAL MACHINE SOFTWARE registry editor path](https://www.lifewire.com/thmb/irNYI_pfuwf67jcRwZzYP_u5_WM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-local-machine-software-92ed659b15ae4364ae031f0464b627b4.png)  
  If you're in an entirely separate location in the Windows Registry when you open it, just scroll to the very top on the left side until you see _Computer_ , and then collapse each hive until you reach HKEY\_LOCAL\_MACHINE.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Continue drilling down through the nested[registry keys](https://www.lifewire.com/what-is-a-registry-key-2625999) , first to**Microsoft** , then**Windows NT** , then**CurrentVersion** , and then finally**Winlogon** .
 4. With**Winlogon** selected on the left, locate the[registry value](https://www.lifewire.com/what-is-a-registry-value-2626042) of**AutoAdminLogon** on the right.
@@ -112,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 3. Set the_Value data_ as your**domain** ,**user name** , and**password** , respectively.  
 ![Screenshot of the Windows 10 registry with DefaultDomainName, DefaultUserName, and DefaultPassword highlighted](https://www.lifewire.com/thmb/_9Nkxmld9oRfhRYMTPwUn6KbJoA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/default-autologin-registry-5ae0f5dfa9d4f900370a9b5b.png)
 4. Restart your computer and test to see that you can use the auto login without entering your normal Windows credentials.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is It Safe to Auto Log In to Windows?
 
@@ -173,19 +149,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-ten-skype-capture-devices-reviewed/"><u>[New] 2024 Approved Top Ten Skype Capture Devices Reviewed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-premier-pro-expertise-for-sound-switchers-for-2024/"><u>[New] Premier Pro Expertise for Sound Switchers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-electric-vehicles-built-to-last-as-many-years-as-conventional-petrol-automobiles/"><u>Are Electric Vehicles Built to Last as Many Years as Conventional Petrol Automobiles?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-between-apple-devices-unpacking-the-differences-between-ipad-pro-m4-and-macbook-air-m3/"><u>Choosing Between Apple Devices: Unpacking the Differences Between iPad Pro M4 and MacBook Air M3</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-effacer-les-backups-desuets-dans-windows-7-pour-gagner-de-lespace-disque/"><u>Comment Effacer Les Backups Désuets Dans Windows 7 Pour Gagner De L'Espace Disque</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/comparing-dailymovements-and-youtubes-income-models/"><u>Comparing DailyMovement's and Youtube's Income Models</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-the-elite-5-digital-title-specialists/"><u>Exploring the Elite 5 Digital Title Specialists</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-salvage-your-soggy-smartphone-repair-techniques-for-damaged-iphonesipods/"><u>How to Salvage Your Soggy Smartphone: Repair Techniques for Damaged iPhones/iPods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on OnePlus Nord N30 5G?</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-spending-top-gaming-motherboards-under-200/"><u>Optimal Spending: Top Gaming Motherboards Under $200</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-overcoming-hardware-errors-with-whea-fixes/"><u>Step-by-Step Solutions for Overcoming Hardware Errors with WHEA Fixes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-video-doorbell-by-remobell-budget-friendly-reviews/"><u>Top Rated Video Doorbell by RemoBell - Budget-Friendly Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-restoring-your-macs-network-connections/"><u>Ultimate Guide: Restoring Your Mac's Network Connections 🌐✨</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-pushing-boundaries-in-motion-photography/"><u>[New] In 2024, Pushing Boundaries in Motion Photography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-5-essential-techniques-to-capture-roblox-gaming-experienenas-macos-devices/"><u>[Updated] 2024 Approved 5 Essential Techniques to Capture Roblox Gaming Experienenas macOS Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-champion-video-grabbers-ranked-1-8/"><u>2024 Approved Champion Video Grabbers Ranked 1-8</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bing-the-comprehensive-guide-to-microsofts-web-search-service/"><u>Bing: The Comprehensive Guide to Microsoft's Web Search Service</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/complete-guide-restoring-deleted-information-from-your-iphone/"><u>Complete Guide: Restoring Deleted Information From Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-instructions-connecting-with-friends-via-text-on-your-ipad-device/"><u>Easy Instructions: Connecting with Friends via Text on Your iPad Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-dsounddll-is-missing-issues/"><u>Effective Solutions for 'Dsound.dll Is Missing' Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-techniques-for-revamping-your-powerpoint-slides/"><u>Effortless Techniques for Revamping Your PowerPoint Slides</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-picks-top-combo-modems-and-routers-available/"><u>Expert Picks: Top Combo Modems and Routers Available</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-13-pro-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 13 Pro Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-money-with-8-youtube-aspects/"><u>Mastering Money with 8 YouTube Aspects</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-breakdown-of-rich-communication-services-rcs/"><u>The Comprehensive Breakdown of Rich Communication Services (RCS)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-why-audio-quality-degrades-in-vehicle-speakers/"><u>Understanding Why Audio Quality Degrades in Vehicle Speakers</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-smoothly-eradicate-lags-from-star-wars-bf2-on-pc/"><u>Winning Smoothly: Eradicate Lags From Star Wars BF2 on PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Did Apple Inform Me About the Multiple Floors I'm Navigating? Unveiling the Mystery Behind My Increasing Steps
-date: 2025-02-13T19:03:21.367Z
-updated: 2025-02-16T19:03:32.829Z
+date: 2025-03-01T16:43:02.277Z
+updated: 2025-03-05T16:31:31.469Z
 tags:
   - apple
 categories:
@@ -46,10 +46,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## I succumbed to flights of fancy
 
 I confess I fell beneath the spell of my [iPhone's Health app](https://www.zdnet.com/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/).
@@ -67,10 +63,6 @@ Well, my Health app told me that "a flight of stairs is counted as approximately
 Which inspired this enthusiastic response from me: "OK and...?"
 
 Still, I'd give it a cursory glance as I cursed how few steps I'd taken -- or praised myself for breaking through the magical 10,000.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A steep climb to credibility
 
@@ -91,10 +83,6 @@ What just happened?
 Screenshot by Chris Matyszczyk/ZDNET
 
 It couldn't be that I was alone in my elevated quandary, could it?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Taking steps toward the truth
 
@@ -119,10 +107,6 @@ For this Apple devotee, there seems no end to the pain: "The bigger difference i
 Just this week, another troubled devotee offered: "My understanding is they use barometric pressure to guess that you are going up or down. That is not an extremely accurate measuring method."
 
 Still, I couldn't find any definitive answer to why this might be happening.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Numbers need an interpreter
 
@@ -168,21 +152,20 @@ And sometimes they give you ideas that you're climbing much higher than you real
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-blueprint-crafting-compelling-audio-visuals/"><u>[New] 2024 Approved The Blueprint Crafting Compelling Audio Visuals</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-effortless-mp4-conversion-from-facebook-hd-content-all-for-free-for-2024/"><u>[New] Effortless MP4 Conversion From Facebook HD Content – All For Free for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-creating-impactful-outros-top-6-free-tools/"><u>[Updated] Creating Impactful Outros Top 6 FREE Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-insiders-look-at-advanced-streamlabs-obs-techniques/"><u>[Updated] Insider's Look at Advanced Streamlabs OBS Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-best-instagram-highlight-cover-makers-online-you-should-know/"><u>2024 Approved Best Instagram Highlight Cover Makers Online You Should Know</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-nokia-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia Fingerprint Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-instructional-tutorial-upgrading-playstation-5-storage-with-an-ssd/"><u>Easy Instructional Tutorial: Upgrading PlayStation 5 Storage with an SSD</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-unlimited-melodies-find-your-perfect-match-with-our-choice-of-7-freebie-audio-apps-for-mobile-users/"><u>Enjoy Unlimited Melodies: Find Your Perfect Match with Our Choice of 7 Freebie Audio Apps for Mobile Users</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-ensure-compatibility-fresh-driver-downloads-for-the-dell-usb-c-thunderbolt-expansion-cradle-tb16/"><u>How to Ensure Compatibility: Fresh Driver Downloads for the Dell USB-C (Thunderbolt) Expansion Cradle TB16</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-the-newest-windows-enhancements-july-2024s-major-releases-and-patches/"><u>Navigating Through the Newest Windows Enhancements: July 2024'S Major Releases and Patches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/sonys-next-big-thing-afeela-electric-vehicle-rumored-price-tags-launch-windows-and-tech-insights-revealed/"><u>Sony's Next Big Thing: AFEELA Electric Vehicle - Rumored Price Tags, Launch Windows & Tech Insights Revealed!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-snapping-images-using-logitech-keyboards/"><u>Step-by-Step Tutorial on Snapping Images Using Logitech Keyboards</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-transition-from-physical-to-streaming-unveiling-netflixs-dvd-based-origins/"><u>The Transition From Physical to Streaming: Unveiling Netflix's DVD-Based Origins</u></a></li>
-<li><a href="https://techtrends.techidaily.com/twitter-growth-hacks-secrets-to-expanding-your-social-reach-and-building-a-loyal-following/"><u>Twitter Growth Hacks: Secrets to Expanding Your Social Reach and Building a Loyal Following</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-leading-air-cleaners-ranked-for-2n33/"><u>Ultimate Guide: Leading Air Cleaners Ranked for 2N33</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-flamegrab-firefox-add-ons-for-2024/"><u>[New] FlameGrab Firefox Add-Ons for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-highlighting-the-best-ways-to-convert-youtube-to-mp4/"><u>[New] In 2024, Highlighting the Best Ways to Convert YouTube to MP4</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-ultimate-guide-cropping-and-editing-music-in-canva/"><u>[New] In 2024, The Ultimate Guide Cropping & Editing Music in Canva</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-secondary-footage-for-visual-impact/"><u>[New] Leveraging Secondary Footage for Visual Impact</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-clearer-sharper-zoom-tips-for-ultimate-video-quality/"><u>2024 Approved Clearer, Sharper Zoom Tips for Ultimate Video Quality</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-to-secure-best-youtube-collaborative-pairs/"><u>2024 Approved Strategies to Secure Best YouTube Collaborative Pairs</u></a></li>
+<li><a href="https://common-error.techidaily.com/blackout-in-obs-gameplay-heres-how-you-can-solve-it-easily/"><u>Blackout in OBS Gameplay? Here's How You Can Solve It Easily!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/current-must-watch-british-tv-programs-on-netflix/"><u>Current Must-Watch British TV Programs on Netflix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-resolving-lcd-issues-fixing-screen-flicker-on-surface-devices/"><u>Guide to Resolving LCD Issues: Fixing Screen Flicker on Surface Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-methodology-incorporating-youtube-playlists-into-a-websites-structure/"><u>In 2024, Methodology Incorporating YouTube Playlists Into a Website's Structure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/integrate-email-on-the-go-how-to-add-gmail-to-apple-watch/"><u>Integrate Email on the Go: How To Add Gmail to Apple Watch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-facetime-display-errors-fixing-the-elusive-black-screen-challenge/"><u>Overcoming FaceTime Display Errors: Fixing the Elusive Black Screen Challenge</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-typical-sort-and-group-features-on-files/"><u>Reinstating Typical Sort and Group Features on Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-correcting-http-401-forbidden-errors/"><u>Step-by-Step Solution: Correcting HTTP 401 Forbidden Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-resolve-mscorwksdll-is-not-detected-or-absent-error-easily/"><u>Troubleshooting: Resolve 'mscorwks.dll' Is Not Detected or Absent Error Easily</u></a></li>
 </ul></div>
 

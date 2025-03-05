@@ -1,7 +1,7 @@
 ---
 title: "Apple's Fall Lineup Revealed: Explore New Technological Advancements in iPhone, iPad, Mac, and Beyond with Cutting-Edge AI Integration | ZDNet"
-date: 2025-02-11T21:19:32.372Z
-updated: 2025-02-16T19:13:49.281Z
+date: 2025-03-04T21:03:47.603Z
+updated: 2025-03-05T18:05:23.886Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -63,10 +59,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -129,10 +121,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -150,10 +138,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +145,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,24 +190,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-expert-selection-top-5-free-tools-for-extracting-pin-videos/"><u>[New] In 2024, Expert Selection Top 5 Free Tools for Extracting Pin Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-become-a-pro-in-calculating-youtube-ratio-measures/"><u>[Updated] In 2024, Become a Pro in Calculating YouTube Ratio Measures</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-system-prerequisites-for-running-big-sur-on-macs/"><u>[Updated] In 2024, System Prerequisites for Running Big Sur on Macs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-virtual-frontiers-reviewed-must-have-vr-devices-for-2024/"><u>[Updated] Virtual Frontiers Reviewed Must-Have VR Devices for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-apple-watch-users-report-increasing-ghost-touch-glitch-solutions-revealed/"><u>1: 'Apple Watch Users Report Increasing Ghost Touch Glitch - Solutions Revealed '</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-stream-pioneers-top-10-sites-ranked/"><u>2024 Approved Live Stream Pioneers Top 10 Sites Ranked</u></a></li>
-<li><a href="https://blog-min.techidaily.com/webp-moveai/"><u>最適なパフォーマンスでオンラインからWEBP画像に自由に変換 - Move.ai</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-wi-fi-game-with-the-compact-and-efficient-ourlink-u631-usb-stick-adapter/"><u>Boost Your Wi-Fi Game with the Compact and Efficient Ourlink U631 USB Stick Adapter</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tips-for-correcting-msodll-errors-in-microsoft-office/"><u>Comprehensive Tips for Correcting 'mso.dll' Errors in Microsoft Office</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-the-power-of-spatial-recognition-on-the-latest-vision-pro-tablet-by-apple-unlock-and-test-now/"><u>Discovering the Power of Spatial Recognition on the Latest Vision Pro Tablet by Apple - Unlock and Test Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experts-picks-for-the-most-advanced-small-tablets-of-202e-in-depth-analysis-and-ratings/"><u>Experts' Picks for the Most Advanced Small Tablets of 202E: In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-a-visual-extravaganza-detailed-examination-of-lg-ud88-uhd-tv/"><u>In 2024, A Visual Extravaganza Detailed Examination of LG UD88-UHD TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-the-new-iphone-16-worth-it-unpacking-apples-latest-with-a-critical-eye-at-zdnet/"><u>Is The New iPhone 16 Worth It? Unpacking Apple's Latest with a Critical Eye at ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-craft-the-ultimate-guide-to-using-macos-top-document-management-app-insights/"><u>Mastering Craft: The Ultimate Guide to Using MacOS' Top Document Management App - Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/obs-direct-live-video-feed-for-instagram/"><u>OBS Direct Live Video Feed for Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/shared-frustrations-unveiling-the-common-grievances-among-apple-enthusiasts-post-iphone-update-to-ios-18-zdnet/"><u>Shared Frustrations: Unveiling the Common Grievances Among Apple Enthusiasts Post-iPhone Update to iOS 18 | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamline-learning-with-our-pick-of-6-premier-homework-assistance-apps-for-families/"><u>Streamline Learning with Our Pick of 6 Premier Homework Assistance Apps for Families</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/eling-youtubes-vision-for-a-thriving-ecosystem-of-short-form-video-for-2024/"><u>Unraveling YouTube's Vision for a Thriving Ecosystem of Short-Form Video for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-do-when-instagram-stories-wont-load-find-answers-here/"><u>What To Do When Instagram Stories Won't Load? Find Answers Here!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-finding-equilibrium-between-professional-life-and-youtubing/"><u>[New] In 2024, Finding Equilibrium Between Professional Life and YouTubing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unlocking-visual-storytelling-with-ar-and-luts/"><u>[New] In 2024, Unlocking Visual Storytelling with AR & LUTs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-distinguished-choices-top-iphone-sound-artisans-for-2024/"><u>[Updated] Distinguished Choices Top iPhone Sound Artisans for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-optimized-obs-operations-on-android-platforms-for-2024/"><u>[Updated] Optimized OBS Operations on Android Platforms for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/building-bonds-and-catching-em-all-team-play-secrets-in-pokemon-go/"><u>Building Bonds and Catching 'Em All: Team-Play Secrets in Pokémon GO</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-future-of-walking-navigation-how-google-maps-live-view-transforms-travel/"><u>Discover the Future of Walking Navigation: How Google Maps Live View Transforms Travel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-techniques-to-capture-whats-on-your-pc-screen-a-how-to-guide/"><u>Easy Techniques to Capture What's on Your PC Screen - A How-To Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-work-laptop-picks-alternatives-to-dell-and-lenovo-for-optimal-office-productivity/"><u>Essential Work Laptop Picks: Alternatives to Dell & Lenovo for Optimal Office Productivity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-infuse-vibes-into-photos-via-ig-sounds/"><u>In 2024, Infuse Vibes Into Photos via IG Sounds</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-innovative-rhymes-dominating-tiktok-challenges/"><u>In 2024, Innovative Rhymes Dominating TikTok Challenges</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-something-amiss-with-aol-mail-or-is-it-user-error/"><u>Is Something Amiss With AOL Mail or Is It User Error?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-parental-controls-stop-youtube-on-your-apple-ipads/"><u>Navigating Parental Controls: Stop YouTube on Your Apple iPads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-users-handbook-to-surveillance-of-internet-usage-and-bandwidth-management/"><u>The User's Handbook to Surveillance of Internet Usage and Bandwidth Management</u></a></li>
 </ul></div>
 

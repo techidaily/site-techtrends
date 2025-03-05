@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Your Control Experience on iPhone with iOS 18: Expert Tips and Tricks by ZDNET"
-date: 2024-11-11T22:03:29.010Z
-updated: 2024-11-19T03:36:46.879Z
+date: 2025-02-27T18:44:07.924Z
+updated: 2025-03-05T19:37:58.543Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -63,13 +56,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -78,25 +64,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,24 +106,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-how-to-disable-auto-recommended-podcast-features-in-spotify-for-2024/"><u>[Updated] How to Disable Auto-Recommended Podcast Features in Spotify for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-selective-sights-best-macos-sierra-video-editors/"><u>2024 Approved Selective Sights Best macOS Sierra Video Editors</u></a></li>
-<li><a href="https://win-special.techidaily.com/4-windows-11/"><u>4 簡単な手順で Windows 11 のホーム画面のゴーストボックスを修正する</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-multiple-users-jointly-listen-on-spotify-without-issues/"><u>Can Multiple Users Jointly Listen on Spotify Without Issues?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-11-ideal-freeware-program-updates-to-enhance-your-tech-experience/"><u>Discover the 11 Ideal Freeware Program Updates to Enhance Your Tech Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-resolve-the-missing-d3d9dll-error-message/"><u>Easy Steps: Resolve The Missing d3d9.dll Error Message</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-strategies-to-get-your-sound-blaster-microphone-up-and-running-again/"><u>Effective Strategies to Get Your Sound Blaster Microphone Up and Running Again</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-strategies-to-overcome-missing-mapi-32-dll-file-errors-in-windows/"><u>Expert Strategies to Overcome Missing MAPI 32 DLL File Errors in Windows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/hands-on-tactics-for-recording-and-storing-google-voice-talks/"><u>Hands-On Tactics for Recording and Storing Google Voice Talks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-xcover-7-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy XCover 7 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-merge-fortnite-accounts/"><u>How to Merge Fortnite Accounts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-open-rar-files-on-a-mac/"><u>How to Open RAR Files on a Mac</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-audience-retention-through-reel-magic-boomers-on-ig/"><u>In 2024, Audience Retention Through Reel Magic Boomers on IG</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-a23-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy A23 5G FRP</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ingenious-ways-to-refuel-your-phones-battery-when-you-dont-have-the-right-cable/"><u>Ingenious Ways to Refuel Your Phone's Battery When You Don't Have the Right Cable</u></a></li>
-<li><a href="https://fox-links.techidaily.com/navigating-text-customization-for-video-content-with-windows-photos-for-2024/"><u>Navigating Text Customization for Video Content with Windows Photos for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reimagining-your-mouse-trail-in-winxpvista7/"><u>Reimagining Your Mouse Trail in WinXP/Vista/7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsungs-next-innovation-expected-cost-of-galaxy-z-fold-7-plus-specs-reveal-and-rumored-launch-date/"><u>Samsung's Next Innovation: Expected Cost of Galaxy Z Fold 7 + Specs Reveal and Rumored Launch Date</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-formula-for-tiktok-virality-top-10-must-try-tips/"><u>The Ultimate Formula for TikTok Virality: Top 10 Must-Try Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-easy-steps-for-posting-videos-on-facebook-from-devices/"><u>[New] In 2024, Easy Steps for Posting Videos on Facebook From Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-augmenting-gameplay-allocating-more-memory-to-minecraft-for-2024/"><u>[Updated] Augmenting Gameplay Allocating More Memory to Minecraft for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-social-media-tip-post-youtube-content-dont-twit/"><u>[Updated] In 2024, Social Media Tip Post YouTube Content, Don't Twit</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-is-sns-hdr-pro-the-gold-standard-for-hdr-editors/"><u>2024 Approved Is SNS HDR Pro the Gold Standard for HDR Editors?</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/2024-obs/"><u>2024 연도 OBS 구성 기술: 효과적인 녹화 및 방송을 위한 전문 조언</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/abbyys-live-ocr-technology-revolutionizing-your-path-towards-a-faster-smarter-digital-world/"><u>ABBYY's Live OCR Technology: Revolutionizing Your Path Towards a Faster, Smarter Digital World</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-samsung-galaxy-m14-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-motorola-moto-g04-by-drfone-android/"><u>Full Guide to Unlock Your Motorola Moto G04</u></a></li>
+<li><a href="https://techtrends.techidaily.com/full-restoration-made-simple-a-detailed-process-for-factory-resetting-an-hp-notebook/"><u>Full Restoration Made Simple: A Detailed Process for Factory Resetting an HP Notebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-mastering-splitting-your-windows-11-workspace-into-multiple-tabs/"><u>Guide: Mastering Splitting Your Windows 11 Workspace Into Multiple Tabs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-the-buffering-reduction-in-overwatch-enhance-your-gaming-experience/"><u>How Does the Buffering Reduction in Overwatch Enhance Your Gaming Experience?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-change-system-language-on-windows-11-easy-steps/"><u>How to Change System Language on Windows 11? Easy Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-delete-a-virus-on-windows-11-4-methods/"><u>How to Delete a Virus on Windows 11 - 4 Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-delete-temporary-files-on-windows-11-solved/"><u>How to Delete Temporary Files on Windows 11 [Solved]</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-all-in-one-solution-unpacking-the-features-of-apcs-be600m1-with-enhanced-battery-backup-and-usb-charging/"><u>The All-In-One Solution - Unpacking the Features of APC's BE600M1 with Enhanced Battery Backup & USB Charging</u></a></li>
 </ul></div>
 

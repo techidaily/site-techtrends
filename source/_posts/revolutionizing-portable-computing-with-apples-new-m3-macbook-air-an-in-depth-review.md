@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review
-date: 2025-02-14T21:59:41.506Z
-updated: 2025-02-16T21:53:53.739Z
+date: 2025-02-28T19:04:19.459Z
+updated: 2025-03-05T17:59:07.039Z
 tags:
   - apple
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -71,19 +67,11 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I tested the M3 MacBook Air
 
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -155,10 +143,6 @@ Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 **A USB-C port on the right side:** With the M3 MacBook Air becoming more and more of a pro-capable laptop, the biggest thing that it needs is more expansion ports. The two USB-C 4 / Thunderbolt 3 ports limit the amount of pro-level things you can do with the machine without using cumbersome expansion docks and hubs. The fact that both of the USB-C ports are on the left side can also be awkward and inconvenient at times. Apple could solve both problems by simply adding one more USB-C port to the right side of the M3 MacBook Air. 
@@ -184,10 +168,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,18 +215,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breaking-down-the-process-for-youtube-comment-highlights/"><u>[New] 2024 Approved Breaking Down the Process for YouTube Comment Highlights</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-efficiently-recording-your-xbox-adventures/"><u>[Updated] 2024 Approved Efficiently Recording Your Xbox Adventures</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagrams-hidden-gems-how-to-upload-large-amounts-of-content/"><u>[Updated] 2024 Approved Instagram's Hidden Gems How to Upload Large Amounts of Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-ai-artistry-for-free-with-dall-e-3-and-microsoft-bing/"><u>Experience AI Artistry for Free with DALL-E 3 & Microsoft Bing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-top-5-mts-video-editing-software-recommended/"><u>In 2024, Top 5 MTS Video Editing Software Recommended</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-15-pro-vs-iphone-13-pro-comparison-is-it-time-for-the-upgrade-zdnet/"><u>IPhone 15 Pro vs iPhone 13 Pro Comparison: Is It Time for the Upgrade? - ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-revolutionized-explore-the-advantages-of-extended-nfc-capabilities-through-third-party-app-support-zdnet-insights/"><u>IPhone Revolutionized: Explore the Advantages of Extended NFC Capabilities Through Third-Party App Support | ZDNet Insights</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stable-logitech-webcam-software-installation/"><u>Stable Logitech Webcam Software Installation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steer-clear-of-these-devastating-mistakes-in-using-apple-vision-pro-save-your-project-before-its-too-late-expert-advice-from-zdnet/"><u>Steer Clear of These Devastating Mistakes in Using Apple Vision Pro – Save Your Project Before It's Too Late | Expert Advice From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-apple-watch-savings-and-bargains-exclusive-offers-in-july-2024/"><u>Top Apple Watch Savings & Bargains: Exclusive Offers in July 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-energy-efficiency-activating-battery-saving-features-on-your-apple-watch-a-guide-by-zdnet/"><u>Unlocking Energy Efficiency: Activating Battery Saving Features on Your Apple Watch - A Guide by ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-upgrading-to-ios-177-could-be-wiser-than-adopting-ios-18-expert-opinions-and-predictions-digital-insight/"><u>Why Upgrading to iOs 17.7 Could Be Wiser Than Adopting iOs 18 - Expert Opinions and Predictions | Digital Insight</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-savvy-mastering-screen-recordings-on-your-phone/"><u>[New] 2024 Approved Snapchat Savvy Mastering Screen Recordings on Your Phone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-shoot-smart-comparing-gopro-models-intensively-for-2024/"><u>[New] Shoot Smart Comparing GoPro Models Intensively for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-of-photography-top-10-4k-mirrorless-cams/"><u>[Updated] Pinnacle of Photography Top 10 4K Mirrorless Cams</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-story-keepers-at-the-click-no-limits-allowed-for-2024/"><u>[Updated] Story Keepers at the Click, No Limits Allowed for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>[Updated] The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/common-problems-and-solutions-with-chatgpt-on-iphones-expert-tips-to-get-it-working-again/"><u>Common Problems & Solutions with ChatGPT on iPhones – Expert Tips to Get It Working Again</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-troubleshooting-steps-to-correct-the-mscorwksdll-not-present-problem/"><u>Comprehensive Troubleshooting Steps to Correct the Mscorwks.dll Not Present Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-signs-that-show-when-someone-reads-your-sms-essential-insights/"><u>Decoding the Signs That Show When Someone Reads Your SMS: Essential Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ordered-viewing-the-definitive-sequence-to-enjoy-the-magic-of-harry-potter-films/"><u>Ordered Viewing: The Definitive Sequence to Enjoy the Magic of Harry Potter Films</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-your-pcs-sound-difficulties-in-just-five-simple-steps-windows-11/"><u>Overcome Your PC's Sound Difficulties in Just Five Simple Steps (Windows 11)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remedying-the-error-oleaut32dll-file-not-located-on-your-pc/"><u>Remedying the Error: 'OleAut32.dll' File Not Located on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-issue-what-to-do-when-you-encounter-a-missing-user32dll-file/"><u>Resolving the Issue: What To Do When You Encounter a Missing User32.dll File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-repairing-ocidll-missing-files-a-comprehensive-guide/"><u>Understanding and Repairing 'Oci.dll' Missing Files – A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-a-408-request-timeout-diagnosis-and-repair-tips/"><u>What Is a 408 Request Timeout? Diagnosis and Repair Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Tecno Pova 5? | Dr.fone</u></a></li>
 </ul></div>
 

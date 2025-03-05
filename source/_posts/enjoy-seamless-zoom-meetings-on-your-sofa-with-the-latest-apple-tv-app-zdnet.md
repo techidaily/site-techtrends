@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2025-02-12T16:38:06.960Z
-updated: 2025-02-16T19:12:50.869Z
+date: 2025-02-27T18:16:17.350Z
+updated: 2025-03-05T21:52:05.434Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
@@ -65,10 +61,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
 
@@ -92,10 +84,6 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -104,19 +92,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,24 +134,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-catch-the-flame-ideas-for-unbroken-snapstreaks-for-2024/"><u>[New] Catch the Flame - Ideas for Unbroken Snapstreaks for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unveil-prodigious-profits-with-our-12-top-tycoon-gaming-selection/"><u>2024 Approved Unveil Prodigious Profits with Our #12 Top Tycoon Gaming Selection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-signal-and-whatsapp-key-features-and-privacy/"><u>Comparing Signal and WhatsApp: Key Features & Privacy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciding-on-minecraft-realms-a-worthwhile-investment-in-your-gaming-world/"><u>Deciding on Minecraft Realms: A Worthwhile Investment in Your Gaming World?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-new-enhancements-top-attractions-of-apples-latest-watchos-update-revealed-by-zdnet/"><u>Discover the New Enhancements: Top Attractions of Apple's Latest WatchOS Update Revealed by ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-elite-features-a-comprehensive-review-of-samsung-galaxy-s21-ultra/"><u>Exploring the Elite Features: A Comprehensive Review of Samsung Galaxy S21 Ultra</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-elevate-your-videos-advanced-recording-in-adobe-presenter/"><u>In 2024, Elevate Your Videos Advanced Recording in Adobe Presenter</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/obs-full-screen-nightmare-ended/"><u>Obs Full-Screen Nightmare Ended</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/optimizing-your-macos-sierra-easy-instructions-for-2024/"><u>Optimizing Your macOS Sierra Easy Instructions for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/scorching-bargain-on-apples-latest-tech-get-the-m2-macbook-air-for-only-800-prior-to-upcoming-prime-day-find-it-on-amazon/"><u>Scorching Bargain on Apple's Latest Tech: Get the M2 MacBook Air For Only $800 Prior to Upcoming Prime Day – Find It On Amazon</u></a></li>
-<li><a href="https://techtrends.techidaily.com/score-your-ipad-deal-for-under-200-during-amazons-epic-labor-day-sale-analysis-and-tips-by-zdnet/"><u>Score Your iPad Deal for Under $200 During Amazon's Epic Labor Day Sale - Analysis & Tips by ZDNET</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simple-steps-get-your-windows-11-ready-with-displaylink-driver-download/"><u>Simple Steps: Get Your Windows 11 Ready with DisplayLink Driver Download</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-league-of-legends-fastest-per-second-drop-rates-unveiled/"><u>Solved: League of Legends Fastest Per Second Drop Rates Unveiled</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-adjusting-your-computers-storage-segments/"><u>Step-by-Step Guide: Adjusting Your Computer's Storage Segments</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-restoring-defaults-in-your-macos-network-preferences/"><u>Step-by-Step Guide: Restoring Defaults in Your macOS Network Preferences</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-tablets-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top Rated Tablets : Comprehensive Testing & Reviews by Tech Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-apples-latest-top-4-groundbreaking-health-innovations-revealed/"><u>Unveiling Apple's Latest: Top 4 Groundbreaking Health Innovations Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-top-7-complaints-insights-from-reddit-on-why-users-ditch-apple-vision-pro-analysis/"><u>Unveiling the Top 7 Complaints: Insights From Reddit on Why Users Ditch Apple Vision Pro Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-expert-picks-the-top-gas-grills-for-outdoor-cooking-in-202/"><u>ZDNet's Expert Picks: The Top Gas Grills for Outdoor Cooking in 202</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-professional-video-production-pick-your-favorite-sounds/"><u>[New] In 2024, Professional Video Production - Pick Your Favorite Sounds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unlock-quality-video-recording-top-5-recorder-brands/"><u>[Updated] In 2024, Unlock Quality Video Recording - Top 5 Recorder Brands</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-delving-into-youtubes-functionality-after-upload/"><u>2024 Approved Delving Into YouTube's Functionality After Upload</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-g2-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo G2? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/e-and-inspire-viewers-animated-subscribers-in-filmora-explained-for-2024/"><u>Engage and Inspire Viewers - Animated Subscribers in Filmora Explained for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-correctly-handle-directinput-and-directx-dll-faults-in-windows/"><u>Expert Tips to Correctly Handle Directinput and DirectX Dll Faults in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-gpt-35-writes-journey-to-gpt-4s-innovations/"><u>From GPT-3.5' Writes: Journey to GPT-4's Innovations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-strategies-that-convert-followers-into-fortune-on-instagram/"><u>In 2024, Strategies That Convert Followers Into Fortune on Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-look-at-the-upcoming-apple-watch-ultra-2-price-forecast-specs-breakdown-and-launch-rumors/"><u>Inside Look at the Upcoming Apple Watch Ultra 2: Price Forecast, Specs Breakdown & Launch Rumors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/los-mejores-clientes-de-torrents-y-su-audiencia-una-guia-completa/"><u>Los Mejores Clientes De Torrents Y Su Audiencia: Una Guía Completa</u></a></li>
+<li><a href="https://techtrends.techidaily.com/personalizing-email-notification-sounds-on-gmail-for-a-fresh-user-experience/"><u>Personalizing Email Notification Sounds on Gmail for a Fresh User Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-address-coredll-missing-mistake/"><u>Step-by-Step Tutorial: How To Address Core.dll Missing Mistake</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essentials-of-icmp-for-monitoring-site-connectivity-online/"><u>The Essentials of ICMP for Monitoring Site Connectivity Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-no-cost-malware-scrubbers-in-2er-2024/"><u>Top 5 No-Cost Malware Scrubbers in 2Er 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unraveling-sierras-icloud-full-access-guide/"><u>Unraveling Sierra's iCloud Full Access Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-apples-newest-laptop-innovation-the-latest-macbook-edition/"><u>Unveiling Apple's Newest Laptop Innovation: The Latest MacBook Edition</u></a></li>
 </ul></div>
 

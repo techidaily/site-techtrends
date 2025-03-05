@@ -1,7 +1,7 @@
 ---
 title: "Ace Your Mac's FaceTime Camera with Apple Vision Pro Tips: Screenshots, Recordings Done Right (No Quirks Included) | ZDNet"
-date: 2025-02-12T17:03:38.761Z
-updated: 2025-02-17T00:46:19.497Z
+date: 2025-03-02T19:34:28.908Z
+updated: 2025-03-05T18:46:16.110Z
 tags:
   - apple
 categories:
@@ -28,15 +28,7 @@ In this article, I'll show you how to take both screenshots and screen recording
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take a screenshot or screen recording with your Vision Pro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
 
@@ -53,10 +45,6 @@ Screenshot by David Gewirtz/ZDNET
 I prefer the second way, which is simply to ask Siri to take the shot. All you have to do is say "Siri, take screenshot," and the AI will handle the rest. I prefer this second method because -- if I have my head and view exactly where I want it -- I don't have to move my body, arms, and potentially the display to press the buttons. Doing so could change the view from the image I wanted to take. 
 
 So that's how it's done. Now for the weird part.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
 
@@ -95,10 +83,6 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 **Also: [Could the Apple Vision Pro make you like flying economy class (or hate it a little less)?](https://www.zdnet.com/article/could-the-apple-vision-pro-make-you-like-flying-economy-class-or-hate-it-a-little-less/)**
 
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
 
@@ -147,22 +131,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-bite-sized-broadcasting-maintaining-quality-in-quick-posts-for-2024/"><u>[New] Bite-Sized Broadcasting Maintaining Quality in Quick Posts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-convert-youtube-videos-seamlessly-into-avi/"><u>[Updated] How to Convert YouTube Videos Seamlessly Into AVI</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-videos-with-these-top-12-players/"><u>[Updated] Streamline Your Videos with These Top 12 Players</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-roadmap-to-crafting-popular-vlogging-narratives-for-2024/"><u>A Roadmap to Crafting Popular Vlogging Narratives for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-c12-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia C12 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/collaborative-cinema-experience-the-ultimate-tutorial-on-screen-sharing-netflix-content-with-loved-ones/"><u>Collaborative Cinema Experience: The Ultimate Tutorial on Screen Sharing Netflix Content with Loved Ones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-solutions-restoring-color-back-to-your-androids-lockscreen/"><u>DIY Solutions: Restoring Color Back to Your Android's Lockscreen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-functionality-of-digital-video-recorders-in-home-entertainment/"><u>Exploring the Functionality of Digital Video Recorders in Home Entertainment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/google-tv-enthusiasts-buzzing-projected-price-tag-expected-arrival-and-device-specs-what-to-expect-soon/"><u>Google TV Enthusiasts Buzzing: Projected Price Tag, Expected Arrival, and Device Specs – What to Expect Soon</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-add-bots-to-a-discord-server/"><u>How to Add Bots to a Discord Server</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-6-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 6 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-p55t-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel P55T to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-video-editors-for-macos-sierra/"><u>In 2024, Top 5 Video Editors for macOS Sierra</u></a></li>
-<li><a href="https://techtrends.techidaily.com/sip-smartly/"><u>Sip Smartly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-tips-for-perfecting-image-quality-on-samsung-qled-4k-displays/"><u>Top 5 Tips for Perfecting Image Quality on Samsung QLED 4K Displays</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oneplus-nord-ce-3-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track OnePlus Nord CE 3 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unfolding-the-future-samsung-galaxy-z-fold-6s-launch-details-pricing-specifications-and-more/"><u>Unfolding the Future: Samsung Galaxy Z Fold 6'S Launch Details - Pricing, Specifications & More</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-smooth-transition-altering-snapchat-videos-tempo/"><u>[New] 2024 Approved Smooth Transition Altering Snapchat Videos' Tempo</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-your-personal-igtv-channel-guide-for-inspiration/"><u>[New] 2024 Approved Your Personal IGTV Channel Guide for Inspiration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerating-learning-in-lut-design/"><u>[New] Accelerating Learning in LUT Design</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discover-the-top-mobile-photo-tools-for-your-iphoneandroid-device/"><u>2024 Approved Discover the Top Mobile Photo Tools for Your iPhone/Android Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-eyes-on-apples-next-move-previewing-series-x-its-estimated-launch-date-and-price-point-amidst-rising-rumors/"><u>All Eyes on Apple's Next Move: Previewing Series X, Its Estimated Launch Date & Price Point Amidst Rising Rumors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-your-ac1st16dll-not-found-issues-with-these-fixes/"><u>Eliminate Your ac1st16.dll Not Found Issues With These Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-htc-u23-pro-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from HTC U23 Pro.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-8-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 8 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-2024s-handpicked-selection-of-best-gratis-hdd-and-ssd-assessment-utilities-top-13/"><u>July 2024'S Handpicked Selection of Best Gratis HDD & SSD Assessment Utilities (Top 13)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-remote-gifting-a-comprehhavable-guide-to-sending-steam-code-gifts/"><u>Mastering the Art of Remote Gifting: A Comprehhavable Guide to Sending Steam Code Gifts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/reaping-rewards-a-comprehensive-guide-to-7-14-stardew-mods/"><u>Reaping Rewards A Comprehensive Guide to #7-14 Stardew Mods</u></a></li>
+<li><a href="https://win-superb.techidaily.com/resurrecting-vanished-photos-in-windows-11-a-step-by-step-restoration-tutorial/"><u>Resurrecting Vanished Photos in Windows 11: A Step-by-Step Restoration Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/retrieve-past-alerts-a-guide-to-viewing-old-notifications-on-your-iphone/"><u>Retrieve Past Alerts: A Guide to Viewing Old Notifications on Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-stream-or-save-your-ps4-gameplays-effortlessly/"><u>Step-by-Step Tutorial: How To Stream or Save Your PS4 Gameplays Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-of-console-gaming-all-you-need-to-know-about-the-rumored-xbox-vr-headset/"><u>The Future of Console Gaming? All You Need to Know About the Rumored Xbox VR Headset</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET
-date: 2025-02-11T22:40:28.415Z
-updated: 2025-02-16T17:46:55.381Z
+date: 2025-02-26T17:00:57.085Z
+updated: 2025-03-05T20:19:18.459Z
 tags:
   - apple
 categories:
@@ -26,23 +26,11 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -52,10 +40,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -63,10 +47,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -140,20 +120,19 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-heroblack-vs-yi-4k-updates-gopro-and-yi-showcase-their-best/"><u>[New] HeroBlack Vs. Yi 4K Updates - GoPro and Yi Showcase Their Best</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-streamline-your-tv-with-youtube-video-loops/"><u>[New] In 2024, Streamline Your TV with YouTube Video Loops</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/tudy-with-stars-the-finest-historical-channels-for-students-and-enthusiasts/"><u>[New] Study with Stars The Finest Historical Channels for Students & Enthusiasts</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discords-ultimate-romance-hubs/"><u>[Updated] 2024 Approved Discord's Ultimate Romance Hubs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722880443186-all-you-need-to-know-about-the-upcoming-samsung-galaxy-s25-ultra-release-date-pricing-insights-and-cutting-edge-tech-speculations-revealed/"><u>All You Need to Know About the Upcoming Samsung Galaxy S25 Ultra – Release Date, Pricing Insights & Cutting-Edge Tech Speculations Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-electric-autos-as-green-as-they-appear-a-thorough-examination/"><u>Are Electric Autos As Green As They Appear? A Thorough Examination</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ready-for-the-next-big-thing-comprehensive-coverage-of-samsung-unpacked-2025-dates-rumors-and-product-insights/"><u>Get Ready For The Next Big Thing: Comprehensive Coverage of Samsung Unpacked 2025 – Dates, Rumors, and Product Insights</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-dance-dictates-selecting-perfect-audio-visuals/"><u>In 2024, Dance Dictates Selecting Perfect Audio-Visuals</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50s-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50S Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-mss32dll-file-is-missing-step-by-step-troubleshooting-guide/"><u>Resolving 'mss32.dll' File Is Missing: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-coredll-error-a-step-by-step-guide/"><u>Resolving Core.dll Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2212461-9780007536887-scorpio-2014-your-personal-horoscope/"><u>Scorpio 2014: Your Personal Horoscope | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-optimal-timing-when-to-consider-a-new-mobile-device-purchase/"><u>The Optimal Timing: When to Consider a New Mobile Device Purchase</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-non-root-auto-clickers-unleashing-productivity-on-your-android-device/"><u>Top 5 Non-Root Auto Clickers: Unleashing Productivity on Your Android Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-photos-with-words-how-apples-cutting-edge-artificeintelligence-interprets-text-prompts-to-revamp-images-as-detailed-by-zdnet/"><u>Transform Your Photos with Words: How Apple's Cutting-Edge ArtificeIntelligence Interprets Text Prompts to Revamp Images, as Detailed by ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-your-videos-popularity-on-youtube/"><u>[New] In 2024, Boost Your Video's Popularity on YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-duckduckgo-a-comprehvew-on-its-functionality-and-privacy-assurance/"><u>Decoding DuckDuckGo: A Comprehvew on Its Functionality & Privacy Assurance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-the-value-of-minecraft-realms-are-they-justifiable/"><u>Evaluating the Value of Minecraft Realms – Are They Justifiable?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expand-your-soundscape-simultaneously-connecting-multiple-bluetooth-audio-devices/"><u>Expand Your Soundscape: Simultaneously Connecting Multiple Bluetooth Audio Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-apple-iphone-13-by-drfone-ios/"><u>How Do I SIM Unlock My Apple iPhone 13?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-4g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M14 4G Phone without Google Account?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/join-us-for-an-exciting-showcase-of-abbyy-technologies-at-ai-pulse-developers-conference-2024/"><u>Join Us for an Exciting Showcase of ABBYY Technologies at AI Pulse Developers Conference 2024!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-watch-programs-on-discovery-plus-in-july-2pect-2024/"><u>Must-Watch Programs on Discovery Plus in July 2Pect 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-methods-to-resolve-color-inaccuracy-and-visual-distortions-in-your-pc-or-laptop-monitor/"><u>Step-by-Step Methods to Resolve Color Inaccuracy and Visual Distortions in Your PC or Laptop Monitor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-for-switching-off-subtitles-during-amazon-prime-video-viewing/"><u>Steps For Switching Off Subtitles During Amazon Prime Video Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-virtual-worlds-metaverse-versus-omniverse-explained-for-2024/"><u>Unveiling Virtual Worlds Metaverse Versus Omniverse Explained for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/winxvideo-artificial-intelligence-transform-and-speed-up-videos-and-audios-at-your-desired-rates-via-gpu-technology/"><u>Winxvideo Artificial Intelligence: Transform and Speed Up Videos & Audios at Your Desired Rates via GPU Technology</u></a></li>
 </ul></div>
 

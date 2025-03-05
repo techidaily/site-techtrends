@@ -1,7 +1,7 @@
 ---
 title: "Disconnecting Woes: Determining If the Issue Lies With Blizzard's Battle.net Server or Local Connection"
-date: 2024-10-20T16:33:55.075Z
-updated: 2024-10-27T18:10:11.096Z
+date: 2025-03-03T17:43:04.513Z
+updated: 2025-03-05T17:13:31.597Z
 categories:
   - BestProducts
 description: "This Article Describes Disconnecting Woes: Determining If the Issue Lies With Blizzard's Battle.net Server or Local Connection"
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
@@ -63,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
  If you can't open the websites from Step 1 or nothing else works, then your whole network is probably not working. Try [restarting your router](https://www.lifewire.com/how-to-properly-restart-a-router-modem-2624570) or following our[troubleshooting steps for Wi-Fi issues](https://www.lifewire.com/what-to-do-when-theres-no-wi-fi-internet-connection-2378240) .
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 4: Check Skype's Audio Settings and Permissions
 
@@ -89,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 * To check the sound in Skype to make sure that it's using the right speakers, select**Test audio** under the**Speakers** option. You should hear sound in your headset or speakers.
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
 
@@ -128,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 * Try unplugging and then reattaching the webcam if it's an external one.
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Skype for Mobile Devices
 
@@ -172,25 +144,11 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -231,18 +189,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/op-8-tactics-for-striking-youtube-thumbnails-that-perform-well/"><u>[New] Top 8 Tactics for Striking YouTube Thumbnails That Perform Well</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premiered-patterns-for-panzoid-creation/"><u>2024 Approved Premiered Patterns for Panzoid Creation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-android-screen-recorder-options-list/"><u>2024 Approved Ultimate Android Screen Recorder Options List</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-integrating-audio-into-your-instagram-videos-with-ease/"><u>Guide: Integrating Audio Into Your Instagram Videos with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-successfully-solve-code-39-printer-problems-in/"><u>How to Successfully Solve Code 39 Printer Problems In</u></a></li>
-<li><a href="https://techtrends.techidaily.com/recovering-lost-contacts-uncover-deleted-numbers-on-your-android-device/"><u>Recovering Lost Contacts: Uncover Deleted Numbers on Your Android Device</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/say-goodbye-forever-top-10-tools-you-need-to-fully-wipe-out-your-iphones-history-and-data/"><u>Say Goodbye Forever: Top 10 Tools You Need To Fully Wipe Out Your iPhone's History and Data</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-quintessential-setup-key-applications-for-every-twitch-creator/"><u>The Quintessential Setup: Key Applications for Every Twitch Creator</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-rise-of-web-connected-televisions-how-they-work-and-why-they-matter/"><u>The Rise of Web-Connected Televisions: How They Work & Why They Matter</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-fixing-and-replacing-fallen-computer-keyboard-buttons/"><u>The Ultimate Tutorial: Fixing and Replacing Fallen Computer Keyboard Buttons</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/transforming-organizational-strategy-with-digital-intelligence-insights-from-an-abbyy-expert/"><u>Transforming Organizational Strategy with Digital Intelligence: Insights From an ABBYY Expert</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-saying-goodbye-to-facebook-could-mean-a-better-you-a-top-10-list/"><u>Why Saying Goodbye to Facebook Could Mean a Better You - A Top 10 List</u></a></li>
-<li><a href="https://article-helps.techidaily.com/years-premier-picks-top-15-youtube-channels-revolutionizing-product-reviews-2024/"><u>Year's Premier Picks Top 15 YouTube Channels Revolutionizing Product Reviews, 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-seamless-video-text-illusion-with-free-tools/"><u>[New] In 2024, Seamless Video Text Illusion with Free Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-photoshop-for-beginners-essential-snapseed-techniques/"><u>[New] Photoshop for Beginners Essential Snapseed Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-crafting-a-balanced-narrative-with-b-roll-content/"><u>2024 Approved Crafting a Balanced Narrative with B-Roll Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amazingly-unexplored-aspects-the-hidden-world-of-emoji-trivia/"><u>Amazingly Unexplored Aspects: The Hidden World of Emoji Trivia</u></a></li>
+<li><a href="https://techtrends.techidaily.com/begin-again-with-confidence-windows-10-installation-tips-for-a-new-hard-disk-setup/"><u>Begin Again with Confidence: Windows 10 Installation Tips for a New Hard Disk Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-roblox-frame-rates-on-windows-systems/"><u>Boosting Roblox Frame Rates on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-2-launch-issue-resolved-conquering-the-persistent-initializing-error/"><u>Destiny 2 Launch Issue Resolved: Conquering the Persistent Initializing Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-yahoo-messenger-understanding-its-origins-and-reason-for-closure/"><u>Exploring Yahoo! Messenger: Understanding Its Origins and Reason for Closure</u></a></li>
+<li><a href="https://article-helps.techidaily.com/from-real-time-to-leisurely-iphone-methods-for-slow-motion-video-for-2024/"><u>From Real Time to Leisurely IPhone Methods for Slow Motion Video for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-androids-quick-settings-a-step-by-step-guide/"><u>Mastering Your Android's Quick Settings: A Step-by-Step Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/polish-study-strategy-for-rapid-progress/"><u>Polish Study Strategy for Rapid Progress</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-combining-music-collections-in-spotify/"><u>Step-by-Step Guide: Combining Music Collections in Spotify</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-mobile-power-solutions-comprehensive-reviews-by-industry-experts-insights-from-zdnet/"><u>Top-Rated Mobile Power Solutions : Comprehensive Reviews by Industry Experts - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncovering-contact-information-legally-on-the-internet-a-how-to-guide/"><u>Uncovering Contact Information Legally on the Internet – A How-To Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-understanding-the-true-significance-behind-bsod-errors/"><u>Unraveling the Mystery: Understanding the True Significance Behind BSOD Errors</u></a></li>
 </ul></div>
 

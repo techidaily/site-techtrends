@@ -1,7 +1,7 @@
 ---
 title: "Shared Frustrations: Unveiling the Common Grievances Among Apple Enthusiasts Post-iPhone Update to iOS 18 | ZDNet"
-date: 2025-02-15T00:08:30.135Z
-updated: 2025-02-16T23:28:31.240Z
+date: 2025-03-03T16:52:50.938Z
+updated: 2025-03-05T19:04:48.458Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -49,10 +45,6 @@ Kerry Wan/ZDNET
 The iPhone 16 receives a substantial update to its camera system. The device possesses a 48MP Fusion lens capable of taking wide-angle photographs and far-away shots, thanks to its 2X telephoto option. But what really caught my attention was the [Camera Control button](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/).
 
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
 
@@ -65,10 +57,6 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 **Also: [Apple Intelligence will improve SIri in 2024, but don't expect most updates until 2025](https://www.zdnet.com/article/apple-intelligence-will-improve-siri-in-2024-but-dont-expect-most-updates-until-2025/)**
 
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
 
@@ -114,19 +102,20 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-expanding-storytelling-with-alternative-cinematography/"><u>[New] In 2024, Expanding Storytelling with Alternative Cinematography</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-secure-and-simple-the-top-10-trusted-online-transformers/"><u>[Updated] 2024 Approved Secure and Simple The Top 10 Trusted Online Transformers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-snaps-with-zooming-techniques/"><u>[Updated] Elevate Your Snaps with Zooming Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-an-impactful-podcast-intro-video/"><u>Crafting an Impactful Podcast Intro Video</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-solutions-how-to-eliminate-unwanted-stripes-from-your-tv-screen/"><u>DIY Solutions: How to Eliminate Unwanted Stripes From Your TV Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elevate-your-self-expression-with-these-eboxed-highly-recommended-journal-apps/"><u>Elevate Your Self-Expression with These Eboxed Highly Recommended Journal Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/eliminating-screen-issues-a-step-by-step-guide-to-fix-pixelation-and-fading-colors/"><u>Eliminating Screen Issues: A Step-by-Step Guide to Fix Pixelation & Fading Colors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expertise-in-capturing-high-quality-verbal-notes/"><u>Expertise in Capturing High-Quality Verbal Notes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-jpg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Free electronic signature - For JPG</u></a></li>
-<li><a href="https://howto.techidaily.com/realme-12-pro-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 Pro 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-removing-your-likes-from-the-entire-spotify-playlist/"><u>Step-by-Step Tutorial: Removing Your Likes From the Entire Spotify Playlist</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-lowdown-on-the-rumored-meta-quest-3-light-potential-price-tag-release-expectations-and-specs-sneak-peek/"><u>The Lowdown on the Rumored Meta Quest 3 Light: Potential Price Tag, Release Expectations & Specs Sneak Peek</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-trending-british-tv-shows-on-netflix/"><u>The Ultimate List of Trending British TV Shows on Netflix</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-essential-list-of-premium-cost-free-webm-streaming-services/"><u>[New] Essential List of Premium, Cost-Free WebM Streaming Services</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-10-gopro-cases-insight-for-adventurers/"><u>[Updated] In 2024, Top 10 GoPro Cases Insight for Adventurers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-live-recording-setup-on-xbox-for-gamers/"><u>2024 Approved Live Recording Setup on Xbox for Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024s-ultimate-guide-to-the-best-m2-ssds-on-the-market-thoroughly-tested-and-evaluated-anandtech/"><u>2024'S Ultimate Guide to the Best M.2 SSDs on the Market: Thoroughly Tested and Evaluated | AnandTech</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-and-wi-fi-authentication-hiccups-strategies-to-restore-your-internet-access/"><u>Android and Wi-Fi Authentication Hiccups: Strategies to Restore Your Internet Access</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chromebook-zoom-excellence-must-know-strategies-for-2024/"><u>Chromebook Zoom Excellence Must-Know Strategies for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortlessly-share-your-computer-display-with-your-tv-via-googles-chromecast-technology/"><u>Effortlessly Share Your Computer Display with Your TV via Google's Chromecast Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-artificial-intelligence-at-meta/"><u>Exploring the World of Artificial Intelligence at Meta</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860657362-in-2024-learn-to-record-mac-display-like-a-pro/"><u>In 2024, Learn to Record MAC Display Like a Pro!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-meta-quest-mic-a-comprehensive-guide/"><u>Mastering Your Meta Quest Mic: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-windows-11-settings-to-deactivate-the-daily-headlines-feature/"><u>Navigating Through Windows 11 Settings to Deactivate the Daily Headlines Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-with-confidence-can-you-trust-duckduckgo-for-safe-searches/"><u>Navigating with Confidence: Can You Trust DuckDuckGo for Safe Searches?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-alternatives-to-facetime-androids-leading-video-calling-solutions-for-2024/"><u>New Alternatives to FaceTime Androids Leading Video Calling Solutions for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-premier-choices-for-ups-battery-backups-this-year/"><u>The Premier Choices for UPS Battery Backups This Year</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforma-gifs-en-archivos-webm-de-calidad-convertidor-en-linea-y-sin-coste-movavi/"><u>Transforma GIFs en Archivos WebM De Calidad: Convertidor En Línea Y Sin Coste - Movavi</u></a></li>
 </ul></div>
 

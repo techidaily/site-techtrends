@@ -1,7 +1,7 @@
 ---
 title: The Smart Move Away From iPhone 16 - Why Choosing Different Tech Might Be Better
-date: 2025-02-14T00:51:04.311Z
-updated: 2025-02-16T16:52:59.828Z
+date: 2025-03-03T18:24:05.608Z
+updated: 2025-03-05T18:04:57.824Z
 tags:
   - apple
 categories:
@@ -28,19 +28,11 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -85,10 +73,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 **Also: [Apple Intelligence will improve Siri in 2024, but don't expect most updates until 2025](https://www.zdnet.com/article/apple-intelligence-will-improve-siri-in-2024-but-dont-expect-most-updates-until-2025/)**
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
@@ -113,10 +97,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -158,24 +138,14 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-eco-friendly-filming-tech-mastery-guide/"><u>[New] 2024 Approved Top Eco-Friendly Filming Tech Mastery Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-building-a-professional-online-network-hub/"><u>[Updated] 2024 Approved Building a Professional Online Network Hub</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-snip-and-save-from-youtube-the-ultimate-guide-for-2024/"><u>[Updated] How to Snip and Save From YouTube The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1728487345441-youtube5/"><u>如何在YouTube上恢复已删除的视频：5个技巧与指南</u></a></li>
-<li><a href="https://win-able.techidaily.com/alan-wake-part-two-unavailable-how-to-overcome-launch-issues/"><u>Alan Wake Part Two Unavailable – How to Overcome Launch Issues</u></a></li>
-<li><a href="https://win-data.techidaily.com/das-ultimative-tutorial-wie-man-ios-15-beta-and-ipados-15-beta-vollstandig-von-seinem-iphone-oder-ipad-entfernt/"><u>Das Ultimative Tutorial: Wie Man iOS 15 Beta & iPadOS 15 Beta Vollständig Von Seinem iPhone Oder iPad Entfernt</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciphering-hulus-errorrununk13-heres-how-to-get-your-streams-flowing-smoothly-again/"><u>Deciphering Hulu's ERROR_RUNUNK13? Here’s How to Get Your Streams Flowing Smoothly Again</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enhance-viewing-pleasure-no-more-lags/"><u>Enhance Viewing Pleasure - No More Lags</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-fixes-restoring-functionality-to-a-broken-iphone-email-application/"><u>Essential Fixes: Restoring Functionality to a Broken iPhone Email Application</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-your-system-a-comprehensive-guide-to-recovering-advapi32dll-errors-on-pc/"><u>Fix Your System! A Comprehensive Guide to Recovering Advapi32.dll Errors on PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-uninstall-apps-on-the-mac/"><u>How to Uninstall Apps on the Mac</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-story-whats-not-in-public-knowledge/"><u>In 2024, Instagram Story What's Not in Public Knowledge?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-multi-tasking-using-the-split-screen-feature-on-macbook-air/"><u>Mastering Multi-Tasking: Using the Split Screen Feature on MacBook Air</u></a></li>
-<li><a href="https://extra-support.techidaily.com/precision-adjustments-correcting-iphone-video-washout-in-premiere-pro-for-2024/"><u>Precision Adjustments Correcting iPhone Video Washout in Premiere Pro for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-and-simple-guide-to-taking-perfect-screenshots-on-your-hp-laptop/"><u>Quick and Simple Guide to Taking Perfect Screenshots on Your HP Laptop</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/replicating-human-like-dialogue-with-ai/"><u>Replicating Human-Like Dialogue with AI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-updating-zoom-version-on-windows-and-macos-systems/"><u>Step-by-Step Guide: Updating Zoom Version on Windows and macOS Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-when-you-cant-find-avcodecdll/"><u>Troubleshooting Guide: When You Can't Find Avcodec.dll</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-power-of-emojis-iphone-users-complete-manual/"><u>Unlock the Power of Emojis: IPhone User's Complete Manual</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-keep-your-digital-life-streamlined-blocking-youtube-channels-smartly-for-2024/"><u>[Updated] Keep Your Digital Life Streamlined Blocking Youtube Channels Smartly for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-creation-journey-from-adobe-premiere-to-youtube/"><u>2024 Approved Video Creation Journey From Adobe Premiere to YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-troubleshooting-tips-for-missing-binkw32dll-file/"><u>Comprehensive Troubleshooting Tips for Missing binkw32.dll File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-rumors-on-tesla-automation-device-pricing-projections-release-schedule-and-performance-specifications/"><u>Decoding Rumors on Tesla Automation Device: Pricing Projections, Release Schedule, and Performance Specifications</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-x-flip-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo X Flip Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-repair-a-computer-with-power-but-no-display-a-comprehensive-guide/"><u>How to Repair a Computer with Power But No Display: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-razr-40-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Razr 40? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/paired-playback-on-spotspotify-is-concurrent-listening-a-feature/"><u>Paired Playback on Spotspotify: Is Concurrent Listening a Feature?</u></a></li>
+<li><a href="https://win-net.techidaily.com/topnofree-data-synchronization-software-of-2024-compare-and-choose-your-best-option/"><u>TopnoFree Data Synchronization Software of 2024 - Compare & Choose Your Best Option</u></a></li>
 </ul></div>
 

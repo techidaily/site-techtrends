@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Keep Your Mac Awake – Prevent Automatic Sleep Mode"
-date: 2024-08-21T17:31:39.637Z
-updated: 2024-08-22T17:31:39.637Z
+date: 2025-03-03T19:35:25.506Z
+updated: 2025-03-05T18:18:29.136Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Keep Your Mac Awake – Prevent Automatic Sleep Mode"
@@ -38,18 +38,12 @@ thumbnail: https://thmb.techidaily.com/f55b150f0a70b6f75b4f29cb771315089c12f9268
 
  If you want to use your MacBook in this configuration permanently, you can use the Mac sleep scheduler to have it sleep and night and wake up in the morning automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Does My MacBook Sleep When I Close the Lid?
 
  Your MacBook sleeps when you close the lid for several reasons, depending on whether it's plugged in. When plugged in, it sleeps to help conserve energy and allow it to charge more quickly, as it uses much less power while asleep. When running on battery power, it sleeps when you close the lid to conserve battery power. Since you typically don't need to use your MacBook when the lid is closed, the default setting is for the display to turn off and the MacBook to sleep whenever the lid is closed.
 
  The most common reason to want to keep a MacBook from sleeping when the lid is closed is if you're going to use it with an external monitor and keyboard. Apple makes that reasonably easy if you follow the instructions provided in the previous section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Can You Keep a MacBook From Sleeping With the Lid Closed Without a Monitor?
 
  Apple only provides you with one way to keep your MacBook from sleeping with the lid closed: tweak the[energy-saver settings](https://www.lifewire.com/use-energy-saver-preferences-pane-2260733) , connect the battery charger, and plug in an external monitor.
@@ -85,8 +79,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +86,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/approved-achieving-million-sub-milestone-the-youtube-guide/"><u>2024 Approved Achieving Million-Sub Milestone The YouTube Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-photos-into-masterpieces-with-top-pixlr-techniques/"><u>2024 Approved Transform Your Photos Into Masterpieces with Top Pixlr Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-places-to-watch-professional-sports-for-free-a-comprehensive-guide/"><u>Best Places to Watch Professional Sports for Free - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-productivity-with-triple-monitor-pc-setups-comprehensive-guide-and-troubleshooting-tips/"><u>Boost Productivity with Triple Monitor PC Setups - Comprehensive Guide and Troubleshooting Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-to-activate-and-navigate-your-secret-file-tracker-menu/"><u>Discover How to Activate and Navigate Your Secret File Tracker Menu</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-six-simple-methods-to-locate-individuals-on-facebook/"><u>Discover Six Simple Methods to Locate Individuals on Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effettuare-la-registrazione-di-disco-con-winxdvd-su-sistemi-windows-11-e-7-tutto-in-quattro-fasi-facili/"><u>Effettuare La Registrazione Di Disco Con WinXDVD Su Sistemi Windows 11 E 7 - Tutto in Quattro Fasi Facili</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-instagram-hashtags-for-increased-engagement-and-reach/"><u>Essential Instagram Hashtags for Increased Engagement and Reach</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unlocking-tiktok-video-potential-with-zoom/"><u>In 2024, Unlocking TikTok Video Potential with Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/straightforward-strategies-accessing-appreciated-comments-on-youtube-for-2024/"><u>Straightforward Strategies Accessing Appreciated Comments on YouTube for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-finding-a-suitable-surge-protection-device-for-personal-electronics/"><u>The Ultimate Guide to Finding a Suitable Surge Protection Device for Personal Electronics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-essential-factors-to-evaluate-when-purchasing-your-next-set-of-stereo-speakers/"><u>Top 5 Essential Factors to Evaluate When Purchasing Your Next Set of Stereo Speakers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-motorola-moto-g24-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola Moto G24 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-using-whatsapp-on-your-mac-computer/"><u>Ultimate Guide: Using WhatsApp on Your Mac Computer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-expensive-samsung-un65nu8000fxza-is-it-more-than-just-a-smart-tv/"><u>Unboxing the Expensive Samsung UN6^5NU8000FXZA: Is It More Than Just a Smart TV?</u></a></li>
+</ul></div>
 

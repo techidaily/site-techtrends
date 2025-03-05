@@ -1,7 +1,7 @@
 ---
 title: Tech Reviewers' Top Phone Selections Revealed by ZDNet Team
-date: 2025-02-11T18:10:18.791Z
-updated: 2025-02-16T20:44:15.210Z
+date: 2025-02-26T16:49:00.953Z
+updated: 2025-03-05T16:36:02.408Z
 tags:
   - apple
 categories:
@@ -22,17 +22,9 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best iPhone 16 case right now?
 
 Our pick for the best iPhone 16 case right now is the [Nomad Sport Case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNOMAD%2Fpage%2F6927BCAB-A05E-40FA-ADA7-1E37C46F23E5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C730e48aa-7757-4ae4-9113-89471887183b%7Cdtp&dtb=1) case. This brand has been a longtime ZDNET favorite for its sleek form factor, [MagSafe capabilities](https://www.zdnet.com/article/best-magsafe-wallets/), and drop protection without a bulky form factor. Keep reading for more of our iPhone 16 case picks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best iPhone 16 cases of 2024
 
@@ -102,10 +94,6 @@ Cons
 * Minimal drop protection
 * Heftier price
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pitaka Ultra Slim case
 
 ### Best thin iPhone 16 case
@@ -158,10 +146,6 @@ Pros
 Cons 
 * Pricier
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mous Limitless 6.0
 
 ### Best protective iPhone 16 case
@@ -189,15 +173,7 @@ Cons
 * Pricier
 * No camera protection
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Incase Icon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best stylish iPhone 16 case
 
@@ -253,15 +229,7 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Nomad Modern Leather Case
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best leather case for iPhone 16
 
@@ -312,19 +280,11 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations  experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What iPhone case is most protective?
 
 On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the most protective for their drop protection and protective features. 
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best phone case brand?
 
@@ -392,22 +352,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-eizo-coloredge-cg318-4k-monitor-review/"><u>[New] In 2024, EIZO ColorEdge CG318-4K Monitor Review</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-game-on-excavating-elite-escape-chamber-quests/"><u>[Updated] 2024 Approved Game On Excavating Elite Escape Chamber Quests</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-ios-movie-experience-top-8-free-plus-paid-picks/"><u>[Updated] In 2024, The Ultimate iOS Movie Experience Top 8 Free + Paid Picks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-six-online-bargain-hubs-to-slash-your-spending/"><u>Discover the Ultimate Six Online Bargain Hubs to Slash Your Spending</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-factors-to-evaluate-when-purchasing-a-video-recording-unit/"><u>Essential Factors to Evaluate When Purchasing a Video Recording Unit</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210324522-9780995755543-heal-your-home-2/"><u>Heal Your Home 2 | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-ksuserdll-not-found-or-missing-errors/"><u>How to Fix Ksuser.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-lg-27ud68-4k-freesync-monitor-review/"><u>In 2024, LG 27UD68 4K FreeSync Monitor Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unveiling-the-concealed-cause-for-non-video-alerts-on-fb/"><u>In 2024, Unveiling the Concealed Cause for Non-Video Alerts on FB</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-twitch-currently-offline-how-to-tell-if-its-just-your-streaming/"><u>Is Twitch Currently Offline? How to Tell If It's Just Your Streaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-your-options-crucial-questions-about-smartwatches-answered/"><u>Navigating Your Options: Crucial Questions About Smartwatches Answered</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-send-your-text-messages-forward-from-an-android-device/"><u>Step-by-Step Guide: How to Send Your Text Messages Forward From an Android Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steps-to-end-your-paramountplus-membership/"><u>Steps to End Your Paramount+ Membership</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tech-savvy-tricks-for-bluetooth-compatibility-between-computers-and-speakers/"><u>Tech-Savvy Tricks for Bluetooth Compatibility Between Computers and Speakers</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/which-tablet-models-from-apple-come-with-built-in-location-services/"><u>Which Tablet Models From Apple Come With Built-In Location Services?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/winning-hearts-with-these-6-compelling-videos-for-2024/"><u>Winning Hearts with These 6 Compelling Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-logitech-webcam-basics-video-recording-made-easy-for-2024/"><u>[New] Logitech Webcam Basics Video Recording Made Easy for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-say-hello-to-banner-creativity-with-our-curated-set-of-50-free-youtube-pieces/"><u>[Updated] In 2024, Say Hello to Banner Creativity with Our Curated Set of 50 Free YouTube Pieces</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-multimedia-strategies-for-gamers-on-youtube/"><u>[Updated] Mastering Multimedia Strategies for Gamers on Youtube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-the-copyright-symphony-of-instagrams-sounds-for-2024/"><u>[Updated] Navigating the Copyright Symphony of Instagram's Sounds for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-infinix-smart-8-pro-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719575207853-championing-the-best-3-sites-master-a-new-language-today/"><u>Championing the Best 3 Sites: Master a New Language Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-cannot-complete-the-search-error-code-0x80070570-expert-tips-and-advice/"><u>Fixing the 'Cannot Complete the Search' Error (Code 0X80070570): Expert Tips and Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hdcp-failures-decoded-diagnosis-and-remedies-for-secure-content-transmission-issues/"><u>HDCP Failures Decoded: Diagnosis and Remedies for Secure Content Transmission Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/large-hard-drives-little-computational-thrill/"><u>Large Hard Drives, Little Computational Thrill</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pre-purchase-guide-9-crucial-points-for-selecting-the-perfect-dash-cam/"><u>Pre-Purchase Guide: 9 Crucial Points for Selecting the Perfect Dash Cam</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-installation-setup-windows-compatible-epson-printer/"><u>Seamless Installation Setup: Windows Compatible Epson Printer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-issue-of-an-unresponsive-touch-screen-on-your-apple-watch/"><u>Solving the Issue of an Unresponsive Touch Screen on Your Apple Watch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-casting-disneyplus-shows-on-your-smart-tv-with-chromecast/"><u>Step-by-Step Guide: Casting Disney+ Shows on Your Smart TV with Chromecast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-completely-reboot-your-ipad-across-all-versions/"><u>Step-by-Step Instructions: Completely Reboot Your iPad Across All Versions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tcl-launches-19-innovative-models-expanding-their-q-and-s-series-of-smart-televisions/"><u>TCL Launches 19 Innovative Models, Expanding Their Q & S Series of Smart Televisions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-must-have-reading-apps-of-2024-you-cant-miss/"><u>Top 8 Must-Have Reading Apps of 2024 You Can't Miss</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlock-the-full-potential-of-your-reels-with-these-6-essentials-for-2024/"><u>Unlock the Full Potential of Your Reels with These 6 Essentials for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-tomorrows-innovations-a-preview-of-googles-next-big-reveal/"><u>Unveiling Tomorrow's Innovations: A Preview of Google's Next Big Reveal</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721440409025-yellow-tint-problem-on-iphones-try-these-9-fixing-strategies/"><u>Yellow Tint Problem on iPhones? Try These 9 Fixing Strategies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2025-02-10T20:55:15.645Z
-updated: 2025-02-17T00:58:54.544Z
+date: 2025-02-27T21:46:48.703Z
+updated: 2025-03-05T21:32:11.270Z
 tags:
   - apple
 categories:
@@ -28,25 +28,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -76,19 +64,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,19 +106,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nline-platforms-embedding-video-playlists-from-youtube-for-2024/"><u>[New] Online Platforms Embedding Video Playlists From YouTube for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-gif-basics-crafting-your-first-animated-image/"><u>[Updated] In 2024, GIF Basics Crafting Your First Animated Image</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-meme-mastery-ranking-internet-cultures-favorites-for-2024/"><u>[Updated] Meme Mastery Ranking Internet Culture's Favorites for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoid-potential-damage-from-ios-18-on-ipads-key-insights-and-precautions-before-updating-digitalinsight/"><u>Avoid Potential Damage From IOS 18 on iPads: Key Insights & Precautions Before Updating | DigitalInsight</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exclusive-roundup-apple-unveils-new-lineup-with-mini-led-ipad-pro-and-enhanced-apple-pencil-zdnet/"><u>Exclusive Roundup: Apple Unveils New Lineup with Mini LED iPad Pro and Enhanced Apple Pencil | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-ultimate-gamer-smartphones-of-2n-insights-and-rankings/"><u>Exploring the Ultimate Gamer Smartphones of 2N - Insights & Rankings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-triumph-over-slow-mobile-data-unlock-expert-secrets-and-turbocharge-your-speed-in-only-n-steps/"><u>How to Triumph Over Slow Mobile Data: Unlock Expert Secrets and Turbocharge Your Speed in Only N Steps</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>How-To Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-secret-behind-successful-igtv-uploads-from-h-videos/"><u>In 2024, The Secret Behind Successful IGTV Uploads From H-Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revolutionary-hacks-to-optimize-your-minecraft-experience-on-pc/"><u>Revolutionary Hacks to Optimize Your Minecraft Experience on PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-a-sweet-deal-get-a-150-gift-card-for-educational-apple-devices-learn-the-simple-purchase-trick-now-digitalscholar/"><u>Secure a Sweet Deal: Get a $150 Gift Card for Educational Apple Devices, Learn the Simple Purchase Trick Now! | DigitalScholar</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-reviews-and-comparisons-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Power Solutions - Comprehensive Reviews & Comparisons by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-instructions-how-to-erase-your-yahoo-email-address-forever/"><u>Ultimate Instructions: How To Erase Your Yahoo Email Address Forever</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/worst-case-scenario-solutions-wiping-data-from-locked-iphones/"><u>Worst Case Scenario Solutions: Wiping Data From Locked iPhones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-streamlining-presentations-in-microsoft-teams-through-snap-capture-for-2024/"><u>[New] Streamlining Presentations in Microsoft Teams Through Snap Capture for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-five-iphone-podcast-services-to-streaming-for-2024/"><u>[Updated] Five iPhone Podcast Services to Streaming for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-snap-edit-share-your-initial-guide-to-lunapic-for-2024/"><u>[Updated] Snap, Edit, Share Your Initial Guide to LunaPic for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/client-and-server-error-resolution-tackling-vpn-error-800-successfully/"><u>Client and Server Error Resolution: Tackling VPN Error 800 Successfully</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-best-12-favorite-voip-calls-apps-to-download-for-free/"><u>Explore The Best - 12 Favorite VoIP Calls Apps to Download for Free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-20c-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 20C to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screenshots-a-step-by-step-method-for-logitech-keyboard-users/"><u>Mastering the Art of Screenshots: A Step-by-Step Method for Logitech Keyboard Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-no-service-area-issue-a-step-by-step-guide/"><u>Resolve Your iPhone’s ‘No Service Area’ Issue – A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-resolving-issues-with-non-ejecting-audio-and-video-drives/"><u>Step-by-Step Tutorial: Resolving Issues with Non-Ejecting Audio and Video Drives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-visionarys-manual-selecting-the-most-compelling-4k-displays-today/"><u>The Visionary's Manual Selecting the Most Compelling 4K Displays Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-hdcp-issues-identification-and-remedies-explained/"><u>Troubleshooting HDCP Issues: Identification & Remedies Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-power-of-wrist-technology-understanding-smartwatches-and-their-functions/"><u>Unveiling the Power of Wrist Technology: Understanding Smartwatches & Their Functions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-launch-of-google-pixel-tablet-full-details-on-specifications-and-announcement-timeline/"><u>Upcoming Launch of Google Pixel Tablet: Full Details on Specifications & Announcement Timeline</u></a></li>
+<li><a href="https://win-blog.techidaily.com/upgrading-guide-making-sure-your-pc-is-equipped-to-run-vanguard-smoothly/"><u>Upgrading Guide: Making Sure Your PC Is Equipped to Run Vanguard Smoothly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/video-editing-101-preparing-for-instagram-excellence-for-2024/"><u>Video Editing 101 Preparing for Instagram Excellence for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watch-all-james-bond-films-in-chronological-order-a-comprehensive-list/"><u>Watch All James Bond Films in Chronological Order - A Comprehensive List</u></a></li>
 </ul></div>
 

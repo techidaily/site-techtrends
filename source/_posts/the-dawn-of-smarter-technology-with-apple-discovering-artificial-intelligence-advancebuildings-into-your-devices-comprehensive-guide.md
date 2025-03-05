@@ -1,7 +1,7 @@
 ---
 title: "The Dawn of Smarter Technology with Apple: Discovering Artificial Intelligence Advancebuildings Into Your Devices Comprehensive Guide"
-date: 2024-11-16T19:07:38.739Z
-updated: 2024-11-18T17:32:49.702Z
+date: 2025-03-01T19:42:20.659Z
+updated: 2025-03-05T17:39:44.583Z
 tags:
   - apple
 categories:
@@ -71,13 +71,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -89,19 +82,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -139,13 +119,6 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -176,19 +149,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -230,22 +190,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-speed-up-video-on-tiktok/"><u>[New] 2024 Approved How to Speed Up Video on TikTok?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-how-often-should-you-upload-videos-to-youtube-to-get-more-views/"><u>[Updated] How Often Should You Upload Videos to YouTube to Get More Views</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-guide-to-starting-a-successful-youtube-gaming-channel/"><u>[Updated] In 2024, The Guide to Starting a Successful YouTube Gaming Channel</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-solutions-for-common-glitches-in-apple-tv-remote-on-iphone/"><u>Easy Solutions for Common Glitches in Apple TV Remote on iPhone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-converter-change-ogm-files-into-mkv-format-movavi/"><u>Free Online Converter: Change OGM Files Into MKV Format - Movavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-spark-20-by-drfone-android/"><u>How to Bypass FRP from Tecno Spark 20?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-techniques-for-seamless-youtube-subtitling-and-captions/"><u>In 2024, Step-by-Step Techniques for Seamless YouTube Subtitling & Captions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/launchpad-to-efficiency-crucial-beginnings-for-your-recently-acquired-pc/"><u>Launchpad to Efficiency: Crucial Beginnings for Your Recently Acquired PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macbook-air-users-handbook-a-comprehensive-walkthrough-of-dividing-your-display/"><u>MacBook Air Users' Handbook: A Comprehensive Walkthrough of Dividing Your Display</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mastering-zooms-filters-for-clear-premium-calls/"><u>Mastering Zoom's Filters for Clear, Premium Calls</u></a></li>
-<li><a href="https://techtrends.techidaily.com/protecting-your-privacy-easy-methods-for-modifying-facebook-password/"><u>Protecting Your Privacy: Easy Methods for Modifying Facebook Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revamping-your-chromecast-screen-how-to-update-the-background-scenery/"><u>Revamping Your Chromecast Screen: How to Update the Background Scenery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/silencing-the-noise-a-step-by-nstep-solution-to-cracking-speakers-on-pcs-with-windows-710/"><u>Silencing the Noise: A Step-by-nStep Solution to Cracking Speakers on PCs with Windows 7/10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-updating-the-zoom-app-for-windows-and-macos-users/"><u>Step-by-Step Guide: Updating the Zoom App for Windows and macOS Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-contenders-who-will-lead-the-autonomous-vehicle-market/"><u>Top Contenders: Who Will Lead the Autonomous Vehicle Market ?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-actual-computing-velocity-how-quick-is-your-pc-in-practice/"><u>Unveiling Actual Computing Velocity: How Quick Is Your PC in Practice?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-avoiding-instagrams-pitfalls-crafting-perfect-puzzle-posts/"><u>[New] In 2024, Avoiding Instagram's Pitfalls Crafting Perfect Puzzle Posts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-navigating-board-usage-a-universal-guide-for-ios-android-and-windows-platforms/"><u>[New] In 2024, Navigating Board Usage A Universal Guide for iOS, Android & Windows Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solved-bluetooth-keyboard-stop-working-in-windows-11/"><u>[Solved] Bluetooth Keyboard Stop Working in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-precision-in-visuals-how-to-blur-backgrounds-on-teamblend-for-2024/"><u>[Updated] Precision in Visuals How to Blur Backgrounds on Teamblend for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/checklist-confirming-your-computer-meets-the-baseline-for-vanguard-gameplay/"><u>Checklist: Confirming Your Computer Meets the Baseline for Vanguard Gameplay</u></a></li>
+<li><a href="https://win-tips.techidaily.com/movavi-converter-review-aiff-vs-wav-an-in-depth-guide-to-selecting-the-best-audio-format/"><u>Movavi Converter Review: AIFF vs WAV - An In-Depth Guide to Selecting the Best Audio Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prompt-engineers-real-job-or-ai-driven-hype/"><u>Prompt Engineers: Real Job or AI-Driven Hype?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-start-how-to-get-your-chromecast-ready-for-streaming/"><u>Quick Start: How to Get Your Chromecast Ready for Streaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-windows-issues-steps-to-remove-amd-drivers-successfully/"><u>Resolving Windows Issues: Steps to Remove AMD Drivers Successfully</u></a></li>
+<li><a href="https://techtrends.techidaily.com/restoring-optimal-performance-a-tutorial-to-restart-your-pcs-graphic-card-on-different-windows-versions/"><u>Restoring Optimal Performance: A Tutorial to Restart Your PC's Graphic Card on Different Windows Versions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamlessly-integrate-an-external-monitor-with-your-laptop-expert-advice/"><u>Seamlessly Integrate an External Monitor With Your Laptop: Expert Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-downloads-get-safety-and-speed-with-a-global-vpn-download-tool/"><u>Secure Your Downloads: Get Safety & Speed with a Global VPN Download Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-to-correct-the-error-0x80248007-on-your-windows-10-system/"><u>Step-by-Step Fixes to Correct the Error 0X80248007 on Your Windows 10 System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-the-bios-in-windows-11-and-windows-7/"><u>Step-by-Step Guide: Accessing the BIOS in Windows 11 and Windows 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-value-proposition-of-the-apple-watch-se-a-comprehensive-analysis/"><u>The Value Proposition of the Apple Watch SE: A Comprehensive Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-av1-your-initial-compre-point-for-2024/"><u>Understanding AV1 Your Initial Compre Point for 2024</u></a></li>
 </ul></div>
 

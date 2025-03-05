@@ -1,7 +1,7 @@
 ---
 title: "Legally Recording Calls with iOS: A Step-by-Step Guide & State Laws Overview"
-date: 2025-02-14T20:18:30.873Z
-updated: 2025-02-16T23:01:24.146Z
+date: 2025-03-04T18:27:31.526Z
+updated: 2025-03-05T18:42:15.760Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Once you've begun the recording, you'll see a notification alerting all parties,
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. End recording and view transcript
 
 Once you're finished and end the call, you'll see a notification from the Notes app at the top of your screen directing you to the audio file and transcript of the recording. Click on it to open in Notes. 
@@ -88,10 +84,6 @@ This first method is considered the most accessible for most iPhone users who wa
 
 * One [iPhone](https://www.zdnet.com/article/best-iphone/) to host the call, which we recommend putting on speakerphone
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an [Android](https://www.zdnet.com/article/best-android-phone/) device) using Voice Memos or another recording app to record the call
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Test your Voice Memos app
 
@@ -120,10 +112,6 @@ Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-s
 **Also:** [**Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)**](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-new-ios-18-public-beta-and-which-ones-cant/)
 
 One-party states require only one person on the call -- which would be you -- to consent. An all-party state requires both the person recording and the person(s) being recorded to consent. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Start recording
 
@@ -165,10 +153,6 @@ Following the steps above is the easiest, most efficient, and most discreet way 
 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Rev Voice Recorder
 
 Rev has a few options depending on what you need. If you want to record phone calls, try their [Call Recorder](https://apps.apple.com/us/app/rev-call-recorder/id1314427915?mt=8) app -- it's free, with no limits on recording lengths, and even has in-app legal guidance. For recording other conversations, Rev's [Voice Recorder](https://apps.apple.com/us/app/rev-record-transcribe/id598332111) app is also free and has an easy-to-use interface. 
@@ -187,10 +171,6 @@ You can select the device from which you want to initiate a call via the app. Fo
 
 Once everyone is on the call, press the number four (4) on the keypad to start and end the recording. The call will end up in the record menu option after it ends. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Easy Voice Recorder
 
 [Easy Voice Recorder](https://apps.apple.com/us/app/easy-voice-recorder/id1222784166) is another free app that allows you to record high-quality voice memos or recordings to PCM, MP4, or ACC files -- which can then be saved to your iCloud account. The app can't record phone calls hosted by the same device, but it does have quick and easy built-in transcription capability for no extra cost. 
@@ -199,15 +179,7 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it illegal to record phone calls?
 
@@ -265,19 +237,24 @@ The Voice Memos app can record for an unlimited amount of time, as long as you h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-engaging-audiences-perfecting-the-art-of-igtv-titles-and-summaries-for-2024/"><u>[New] Engaging Audiences Perfecting the Art of IGTV Titles & Summaries for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-visual-storytelling-enhanced-by-these-top-7-graders-flair-for-2024/"><u>[New] Visual Storytelling Enhanced by These Top 7 Graders' Flair for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-golden-5-premier-macsierra-dvd-makers/"><u>[Updated] Golden 5 Premier MacSierra Dvd Makers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-simplify-your-edits-mastering-the-art-of-vimeo-video-snipping-in-5-ways-for-2024/"><u>[Updated] Simplify Your Edits Mastering the Art of Vimeo Video Snipping in 5 Ways for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/chronological-x-men-film-series-viewing-a-detailed-walkthrough/"><u>Chronological X-Men Film Series Viewing: A Detailed Walkthrough</u></a></li>
-<li><a href="https://games-able.techidaily.com/expand-horizons-minecraft-bedrock-server-conversion-to-java-on-geysermc/"><u>Expand Horizons: Minecraft Bedrock Server Conversion to Java on GeyserMC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-note-50-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme Note 50</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-d3dx940dll-file-not-detected-issues/"><u>Solutions for Resolving d3dx9_40.dll File Not Detected Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steps-to-correctly-address-missing-coredll-error-messages/"><u>Steps to Correctly Address Missing core.dll Error Messages</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-motivations-powering-the-growth-of-evs-on-our-roads/"><u>The Motivations Powering the Growth of EVs on Our Roads</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-11-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme 11 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-iphones-why-arent-my-calls-ringing-and-how-to-fix-it/"><u>Troubleshooting iPhones: Why Aren't My Calls Ringing and How to Fix It</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-connecting-your-bose-soundlink-speaker/"><u>Ultimate Guide to Connecting Your Bose SoundLink Speaker</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-skyrocketing-popularity-on-igtv-with-powerful-targeted-hash-tags/"><u>2024 Approved Skyrocketing Popularity on IGTV with Powerful, Targeted Hash Tags</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-path-forward-on-youtube-self-publishing-vs-major-label-partnership/"><u>2024 Approved Your Path Forward on YouTube Self-Publishing vs Major Label Partnership</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amazon-echo-dot-configuration-a-comprehensive-walkthrough/"><u>Amazon Echo Dot Configuration: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/are-reviews-on-goods-and-services-for-cash/"><u>Are Reviews on Goods & Services for Cash?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722865781259-best-15-free-anti-malware-programs-for-a-safer-pc-experience-try-them-today/"><u>Best 15 Free Anti-Malware Programs for a Safer PC Experience, Try Them Today!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-orbi-wi-fi-6-mesh-network-test-ensuring-speedy-connection-everywhere-in-the-home/"><u>Comprehensive Orbi Wi-Fi 6 Mesh Network Test: Ensuring Speedy Connection Everywhere in the Home</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-the-503-service-down-message-and-steps-for-recovery/"><u>Deciphering the 503 Service Down Message and Steps for Recovery</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y100a-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/incorporating-zoom-for-video-conferencing-a-guide-for-gmail-professionals-for-2024/"><u>Incorporating Zoom for Video Conferencing A Guide for Gmail Professionals for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insider-tips-and-tricks-for-effective-at-home-charge-your-ev-systems/"><u>Insider Tips and Tricks for Effective At-Home Charge Your EV Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722843287770-keep-your-valuable-data-intact-a-guide-to-5-reliable-backup-solutions/"><u>Keep Your Valuable Data Intact: A Guide to 5 Reliable Backup Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategizing-together-best-practices-for-friend-battles-in-pokemon-go/"><u>Strategizing Together: Best Practices for Friend Battles in Pokemon Go</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-syncing-up-multiple-bluetooth-speakers-with-just-one-device/"><u>The Ultimate Guide to Syncing Up Multiple Bluetooth Speakers with Just One Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-typing-one-week-on-a-split-ergo-keyboard-proves-irresistible-featured/"><u>Transforming Typing: One Week on a Split Ergo-Keyboard Proves Irresistible | Featured</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trick-your-trackers-steps-to-change-where-google-maps-says-you-are/"><u>Trick Your Trackers: Steps to Change Where Google Maps Says You Are</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-error-code-0x80070570-a-comprehensive-guide/"><u>Understanding Error Code 0X80070570: A Comprehensive Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/x-recorder-download-for-pc-for-2024/"><u>X-Recorder Download for PC for 2024</u></a></li>
 </ul></div>
 

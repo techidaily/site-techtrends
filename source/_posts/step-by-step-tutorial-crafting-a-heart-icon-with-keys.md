@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Crafting a Heart Icon with Keys"
-date: 2024-08-21T17:32:00.611Z
-updated: 2024-08-22T17:32:00.611Z
+date: 2025-03-02T16:32:46.859Z
+updated: 2025-03-05T19:56:57.196Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Crafting a Heart Icon with Keys"
@@ -33,9 +33,6 @@ These instructions apply to PCs running Windows 10 and up.
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Type a Heart on a Mac Keyboard
 
  Here's how it works on a Mac:
@@ -48,18 +45,9 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the Alt Code for a Heart?
 
  You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.
@@ -68,9 +56,6 @@ These instructions apply to PCs running Windows 10 and up.
 
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Do You Make a Heart Without a Number Pad?
 
  Unfortunately, alt codes on Windows only work with the numeric keypad. You can't use the numbers across the top of your keyboard.
@@ -84,9 +69,6 @@ These instructions apply to PCs running Windows 10 and up.
 4. Click the**NumLock button** to bring up the number pad.  
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
@@ -126,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +115,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/approved-unlocking-youtubes-potential-subscriber-triumph-tactics/"><u>2024 Approved Unlocking YouTube's Potential Subscriber Triumph Tactics</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/developing-a-successful-strategy-crafting-a-mobile-dj-service-blueprint-video-series-lesson-three/"><u>Developing a Successful Strategy: Crafting a Mobile DJ Service Blueprint - Video Series, Lesson Three</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-methods-to-restore-missing-mfc4-42ddll-library-in-your-pc/"><u>Effective Methods to Restore Missing Mfc4 42d.dll Library in Your PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-conversion-of-wma-files-to-aac-format-easy-and-fast-with-movavi/"><u>Free Online Conversion of WMA Files to AAC Format - Easy and Fast with Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/getting-paramountplus-up-and-running-again-on-your-firestick-a-step-by-step-guide/"><u>Getting Paramount+ Up and Running Again on Your Firestick - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-the-entity-behind-chatgpts-creation/"><u>Identifying the Entity Behind ChatGPT's Creation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-iphone-15-the-ultimate-guide-to-a-successful-reboot/"><u>Reviving Your iPhone 15: The Ultimate Guide to a Successful Reboot</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-pros-pathway-to-professional-video-conferencing-with-slack-and-filmora-for-2024/"><u>The Pro's Pathway to Professional Video Conferencing with Slack & Filmora for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-productivity-with-apples-top-18-ios-shortcuts-guides/"><u>Transform Productivity with Apple's Top 18 iOS Shortcuts Guides</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Hilarious Tricks You Can Play Using Your iPhone or iPad on Buddies
-date: 2024-08-21T17:32:31.491Z
-updated: 2024-08-22T17:32:31.491Z
+date: 2025-02-27T16:40:33.035Z
+updated: 2025-03-05T19:59:14.277Z
 categories:
   - BestProducts
 description: This Article Describes Hilarious Tricks You Can Play Using Your iPhone or iPad on Buddies
@@ -54,9 +54,6 @@ of 06
 
 ![A woman is using a mobile phone](https://www.lifewire.com/thmb/jjAY5RfCf0bXbyTAiGQR8Hch-IY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1024775444-046154f6b201485c8e1e9159c420b6d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Karl Tapales/Getty Images
 
  This one is similar to the screenshot background.
@@ -72,16 +69,10 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [The Blue Screen of Death](https://www.lifewire.com/blue-screen-of-death-bsod-2625816)
 
 ![blue-screen-of-death-trick.jpg](https://www.lifewire.com/thmb/_gxotYS62h_k3CB3IJcw8XjirCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-trick-56a532a05f9b58b7d0db708b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  This one is funnier if you're targeting an IT professional or anyone that knows a bit about computers. The famed "Blue Screen of Death" is the error screen Windows gives when the operating system crashes.
 
  Having the Blue Screen of Death appear on an Apple device may or may not trick someone who knows a thing or two about computers. But, at the very least, it should draw a good laugh.
@@ -96,9 +87,6 @@ of 06
 
 ![Computer graphic of a human eye (negative-image)](https://www.lifewire.com/thmb/_a_kXKBXJhuHJ1QPW0N00LOavkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680799841-653726185c454bf29f730cce93fcb45a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 [iOS's accessibility options](https://www.lifewire.com/ipad-accessibility-guide-1994516) can be a goldmine for pranksters. Inverting the colors can make the iPad look all out of whack with no easy way to put it back to normal. Unless your target has really experimented with all the iPad settings, they probably won't figure it out.
@@ -111,20 +99,10 @@ MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## [Put the Device in Zoom Mode](https://www.lifewire.com/zoom-in-and-out-on-ipad-4103821)
 
 ![Ladybird on girl's hand under magnifying glass](https://www.lifewire.com/thmb/ly93teq_5dn-YxKk4JmXf6WLY7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-588494079-6d7dfd09ac874928924cdc745685e929.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Westend61 / Getty Images
 
  The iPhone and iPad's accessibility options also have a zoom mode, which is great for those with vision problems and those who want to have a laugh at a friend's expense.
@@ -153,8 +131,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +138,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-demystifying-youtube-shorts-content-strategy-guide/"><u>[New] 2024 Approved Demystifying YouTube Shorts Content Strategy Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-fast-forwards-and-flashbacks-in-creative-tiktoks/"><u>[New] 2024 Approved Fast Forwards and Flashbacks in Creative TikToks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-glacial-glory-pinnacle-sports-achievements-for-2024/"><u>[New] Glacial Glory Pinnacle Sports Achievements for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-pro-video-gear-the-ultimate-stabilizers-selection/"><u>[Updated] 2024 Approved Pro Video Gear – The Ultimate Stabilizers Selection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>[Updated] Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypassing-fees-a-comprehensive-guide-to-free-netflix-access/"><u>Bypassing Fees: A Comprehensive Guide to FREE Netflix Access</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-finest-tv-streaming-subscriptions-of-2024-our-top-picks/"><u>Discover the Finest TV Streaming Subscriptions of 2024: Our Top Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-resolve-frequent-tv-malfunctions-at-home/"><u>Easy Steps to Resolve Frequent TV Malfunctions at Home</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/facile-migration-3-strategies-pour-transferer-vos-donnees-dune-nas-synology-vers-une-nas-qnap/"><u>Facile Migration: 3 Stratégies Pour Transférer Vos Données D'une NAS Synology Vers Une NAS QNAP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-google-gemini-a-comprehensive-guide/"><u>Mastering Google Gemini: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-lenovo-thunderbolt-3-universal-docking-station-updates/"><u>New Release: Lenovo Thunderbolt 3 Universal Docking Station Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-youtube-barriers-a-step-by-step-solution-to-show-hidden-comments/"><u>Overcoming YouTube Barriers: A Step-by-Step Solution to Show Hidden Comments</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/setting-up-time-lapse-photography-a-guide-to-using-the-iphone-camera-timers/"><u>Setting Up Time-Lapse Photography: A Guide to Using the iPhone Camera Timers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-transferring-documents-via-printer-scanning/"><u>Step-by-Step Guide: Transferring Documents via Printer Scanning</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turning-off-the-built-in-news-feed-in-windows-11-comprehensive-instructions/"><u>Turning Off the Built-In News Feed in Windows 11: Comprehensive Instructions</u></a></li>
+</ul></div>
 

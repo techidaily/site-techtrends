@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights"
-date: 2024-10-23T16:09:41.533Z
-updated: 2024-10-27T16:33:04.291Z
+date: 2025-03-02T18:10:41.609Z
+updated: 2025-03-05T17:39:58.998Z
 tags:
   - apple
 categories:
@@ -67,13 +67,6 @@ Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Apple Watch Series 10**
 
 Apple Watch Series 10
@@ -81,13 +74,6 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -102,13 +88,6 @@ Apple's MacBook Air has an M3 chip -- more oomph to tackle heavier-duty AI tasks
 Along with the updated processor, this MacBook Air can also power two external monitors with the lid closed, making it a great desktop replacement -- just add two screens! 
 
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
 
@@ -175,13 +154,6 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Apple AirTag**
 
 CNET
@@ -222,19 +194,22 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-quick-guide-extract-vimeo-videos-as-mp4s-for-2024/"><u>[Updated] Quick Guide Extract Vimeo Videos as MP4s for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-swiftrecorder-plus-soundtrack-guided-screen-recording-for-2024/"><u>[Updated] SwiftRecorder Plus - Soundtrack Guided Screen Recording for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-lava-storm-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Lava Storm 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cracking-the-code-of-snaps-the-essential-glossary-for-snapchat-emojis/"><u>Cracking the Code of Snaps: The Essential Glossary for Snapchat Emojis</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/enhancing-viewing-experience-by-modifying-video-aspect-ratios-a-step-by-step-tutorial/"><u>Enhancing Viewing Experience by Modifying Video Aspect Ratios – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-lost-keys-fast-with-our-2024-guide-to-premium-key-locator-gadgets/"><u>Find Lost Keys Fast with Our 2024 Guide to Premium Key Locator Gadgets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/1716270675890-how-to-add-crop-and-edit-music-to-canva-video/"><u>How To Add, Crop And Edit Music To Canva Video?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-11-pro-max-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 11 Pro Max Without Apple ID Password?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/innovative-strategies-for-merging-multiple-column-entries-into-one-in-microsoft-excel-spreadsheets/"><u>Innovative Strategies for Merging Multiple Column Entries Into One in Microsoft Excel Spreadsheets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-windows-11-on-your-brand-new-hardware/"><u>Step-by-Step Guide: Setting Up Windows 11 on Your Brand New Hardware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-installing-auto-gpt-on-ubuntu/"><u>The Ultimate Guide to Installing Auto-GPT on Ubuntu</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-26-free-pc-optimization-tools-finding-the-best-registry-cleaners/"><u>Top 26 Free PC Optimization Tools : Finding the Best Registry Cleaners</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-14-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 14 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-new-wave-of-coding-excellence-av1-vs-vp9-face-off/"><u>[New] In 2024, The New Wave of Coding Excellence AV1 vs VP9 Face-Off</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solved-what-is-my-mac-address/"><u>[SOLVED] What Is My MAC Address ?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-troubleshooting-iphone-camera-failing-to-autofocus/"><u>[Updated] 2024 Approved Troubleshooting iPhone Camera Failing to Autofocus</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-drone-giants-crafting-the-future-of-heavy-hauls/"><u>[Updated] Drone Giants Crafting the Future of Heavy Hauls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-facebook-analytics-simplified/"><u>2024 Approved Navigating Facebook Analytics Simplified</u></a></li>
+<li><a href="https://discover-great.techidaily.com/best-methods-to-safeguard-and-recover-data-on-your-iphone-15-top-3-tips/"><u>Best Methods to Safeguard & Recover Data on Your iPhone 15: Top 3 Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/flip-shift-and-merge-videos-for-professional-android-results-for-2024/"><u>Flip, Shift & Merge Videos for Professional Android Results for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s24plus-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-audio-extraction-from-youtube-two-proven-techniques-for-hassle-free-downloads/"><u>Seamless Audio Extraction From YouTube - Two Proven Techniques for Hassle-Free Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-to-restore-accidentally-deleted-photos-from-your-sd-card-guide-with-visuals/"><u>Simple Steps to Restore Accidentally Deleted Photos From Your SD Card [Guide with Visuals]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solution-guide-successfully-repairing-your-ps4-wi-fi-connection-issues-june-2021-update/"><u>Solution Guide: Successfully Repairing Your PS4 Wi-Fi Connection Issues - June 2021 Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-screenshots-and-recording-your-screen-on-both-windows-10-and-mac-os/"><u>Step-by-Step Guide: Capturing Screenshots and Recording Your Screen on Both Windows 10 and Mac OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-system-restore-on-windows-881/"><u>Step-by-Step Guide: Setting Up System Restore on Windows 8/8.1</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-your-printer-with-windows-1/"><u>Step-by-Step Guide: Setting Up Your Printer with Windows 1</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-sharing-your-favorite-titles-on-the-steam-platform/"><u>Step-by-Step Guide: Sharing Your Favorite Titles on the Steam Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/taking-a-deep-dive-into-the-tesla-robotaxi-projections-on-pricing-arrival-timetable-vehicle-specs-and-latest-chatter/"><u>Taking a Deep Dive Into the Tesla Robotaxi: Projections on Pricing, Arrival Timetable, Vehicle Specs, and Latest Chatter</u></a></li>
 </ul></div>
 

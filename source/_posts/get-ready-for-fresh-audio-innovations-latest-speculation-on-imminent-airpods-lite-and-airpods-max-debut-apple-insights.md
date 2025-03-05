@@ -1,7 +1,7 @@
 ---
 title: "Get Ready for Fresh Audio Innovations: Latest Speculation on Imminent AirPods Lite and AirPods Max Debut | Apple Insights"
-date: 2024-11-11T20:59:50.503Z
-updated: 2024-11-19T01:46:33.499Z
+date: 2025-02-26T16:56:43.708Z
+updated: 2025-03-05T17:31:50.147Z
 tags:
   - apple
 categories:
@@ -44,23 +44,9 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -76,31 +62,11 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -136,22 +102,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-average-income-derived-from-each-video-watcher/"><u>[New] 2024 Approved The Average Income Derived From Each Video Watcher</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-digital-transit-how-to-route-files-to-your-computer-for-2024/"><u>[New] Digital Transit How to Route Files to Your Computer for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-the-apple-podcast-platform/"><u>2024 Approved Navigating the Apple Podcast Platform</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/demystifying-ai-game-generators-from-definition-to-distinction-for-2024/"><u>Demystifying AI Game Generators From Definition to Distinction for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-most-effective-no-cost-language-learning-tools-for-this-year/"><u>Discover the Most Effective No-Cost Language Learning Tools for This Year</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-your-game-crashes-with-d3dx923dll-file-issues-a-comprehensive-guide/"><u>Fix Your Game Crashes with d3dx9_2‌3.dll File Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-an-economical-power-station-transformed-my-cross-country-journey-insights-from-zdnet-testing/"><u>How an Economical Power Station Transformed My Cross-Country Journey - Insights From ZDNet Testing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-optimize-your-android-device-stopping-apps-running-secretly/"><u>How to Optimize Your Android Device - Stopping Apps Running Secretly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-maximize-your-impact-with-snapchat-spotlight/"><u>In 2024, How to Maximize Your Impact with Snapchat Spotlight</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/insider-info-on-apples-upcoming-release-timelines-rumored-details-and-more-factors-for-anticipation/"><u>Insider Info on Apple's Upcoming Release: Timelines, Rumored Details & More Factors for Anticipation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/july-2024-highlight-reel-a-selection-of-the-finest-max-documentaries-available-now/"><u>July 2024 Highlight Reel: A Selection of the Finest Max Documentaries Available Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/must-watch-disneyplus-movie-selection-currently-streaming/"><u>Must-Watch Disney+ Movie Selection Currently Streaming</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sync-hp-envy-5530-driver-with-windows-10-pcs/"><u>Sync HP Envy 5530 Driver with Windows 10 PCs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-captivating-teen-dramas-and-comedies-on-netflix/"><u>The Ultimate List of Captivating Teen Dramas and Comedies on Netflix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turning-off-safety-alerts-on-iphone-best-practices-explained/"><u>Turning Off Safety Alerts on iPhone: Best Practices Explained</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/understanding-and-controlling-safaris-pip-feature/"><u>Understanding and Controlling Safari's PIP Feature</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-auditory-appeal-infusing-music-into-instagram-stories/"><u>[New] 2024 Approved Auditory Appeal Infusing Music Into Instagram Stories</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-tactics-for-youtube-success-in-25-ways/"><u>[New] 2024 Approved Essential Tactics for YouTube Success in 25 Ways</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/arket-maven-tutorials-top-15-online-stock-streams/"><u>[New] Market Maven Tutorials Top 15 Online Stock Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/como-convertir-archivos-ppm-a-imagenes-bmp-sin-costo-utilizando-la-plataforma-movavi/"><u>Cómo Convertir Archivos PPM a Imágenes BMP Sin Costo Utilizando La Plataforma Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-cpu-performance-intel-updater/"><u>Enhance CPU Performance: Intel Updater</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-itel-a60s-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Itel A60s Phone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-key-elements-in-achieving-proficient-interview-performance/"><u>In 2024, The Key Elements in Achieving Proficient Interview Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-accessing-the-windows-8-control-panel-with-ease/"><u>Simple Steps: Accessing the Windows 8 Control Panel with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-a-screenshot-on-your-dell-notebook/"><u>Step-by-Step Guide: Capturing a Screenshot on Your Dell Notebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essentials-of-random-password-tools-discovering-their-functions-and-applications/"><u>The Essentials of Random Password Tools: Discovering Their Functions & Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-touchpad-scroll-issues-in-windows-11/"><u>Troubleshooting Unresponsive Touchpad Scroll Issues in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-walkthrough-to-enjoy-fallout-3-on-your-new-windows-nx-pc/"><u>Ultimate Walkthrough to Enjoy Fallout 3 on Your New Windows nX PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncover-your-digital-footprint-get-a-free-ip-location-tool-now/"><u>Uncover Your Digital Footprint: Get a Free IP Location Tool Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-professional-techniques-how-to-refine-your-published-videos-on-youtube-for-2024/"><u>Unveiling Professional Techniques How to Refine Your Published Videos on YouTube for 2024</u></a></li>
 </ul></div>
 

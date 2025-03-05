@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2025-02-13T16:01:58.864Z
-updated: 2025-02-16T18:00:14.269Z
+date: 2025-02-27T21:22:10.748Z
+updated: 2025-03-05T19:45:03.692Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -63,10 +59,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -93,10 +85,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -133,10 +121,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -153,10 +137,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,24 +190,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastering-linkedin-messaging-etiquette/"><u>[New] In 2024, Mastering LinkedIn Messaging Etiquette</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-harnessing-your-creative-potential-an-exhaustive-tutorial-for-youtube-video-submission/"><u>[Updated] In 2024, Harnessing Your Creative Potential An Exhaustive Tutorial for YouTube Video Submission</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-gain-popularity-on-youtube-11-powerful-seo-techniques-for-video-content/"><u>2024 Approved Gain Popularity on YouTube 11 Powerful SEO Techniques for Video Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoid-public-disruption-mastering-the-art-of-airpods-and-quest/"><u>Avoid Public Disruption: Mastering the Art of AirPods and Quest 지킷 연결</u></a></li>
-<li><a href="https://techtrends.techidaily.com/be-their-advocate/"><u>Be Their Advocate</u></a></li>
-<li><a href="https://techtrends.techidaily.com/challenging-apples-upgrade-push-my-iphone-replacement-experiment-revealed-surprising-insights/"><u>Challenging Apple's Upgrade Push: My iPhone Replacement Experiment Revealed Surprising Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-the-giants-pixel-xl-vs-iphone-15-pros-photography-face-off-uncovers-a-major-upset-insights-from-zdnet/"><u>Comparing the Giants: Pixel 지대성 XL vs iPhone 15 Pro's Photography Face-Off Uncovers a Major Upset - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-http.techidaily.com/from-youtube-to-high-definition-prime-downloader-choices/"><u>From YouTube to High Definition Prime Downloader Choices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-quickly-secure-sound-blaster-z-drivers-compatible-with-windows-11/"><u>How to Quickly Secure Sound Blaster Z Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/immediate-insta-friendship-status-check-for-2024/"><u>Immediate Insta Friendship Status Check for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-itel-p55-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Itel P55 5G Unlock Without Password</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-earths-highest-paid-online-video-personality/"><u>In 2024, Earth's Highest-Paid Online Video Personality</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-16-and-iphone-15-as-apples-foundational-model-zdnet/"><u>IPhone 16 and iPhone 15 as Apple's Foundational Model | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/memorial-day-sale-save-60-on-the-apple-watch-se-why-its-a-top-pick-zdnet/"><u>Memorial Day Sale: Save $60 on the Apple Watch SE - Why It’s a Top Pick ! | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/shutting-down-iphone-15-pro-and-pro-max-essential-instructions-for-users/"><u>Shutting Down iPhone 15 Pro and Pro Max: Essential Instructions for Users</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-ultimate-metaverse-advertising-playbook/"><u>The Ultimate Metaverse Advertising Playbook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-on-rejuvenating-your-apple-watchs-functionality-expert-advice-by-zdnet/"><u>The Ultimate Walkthrough on Rejuvenating Your Apple Watch's Functionality - Expert Advice by ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-your-imessages-were-undelivered-recently-a-breakdown-of-yesterdays-issues-insights-from-zdnet/"><u>Why Your iMessages Were Undelivered Recently: A Breakdown of Yesterday's Issues - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-farm-friendship-quest-the-ultimate-agritainment-guide-for-2024/"><u>[New] Farm Friendship Quest The Ultimate Agritainment Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/addressing-web-browser-errors-a-guide-to-rectifying-not-secured-notifications/"><u>Addressing Web Browser Errors: A Guide to Rectifying 'Not Secured' Notifications</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/best-8-ios-text-message-retrieval-tools-a-complete-guide/"><u>Best 8 iOS Text Message Retrieval Tools: A Complete Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discount-alert-grab-your-newly-upgraded-airpods-pro-plus-built-in-hearing-aid-at-an-unbelievable-price-save-24-today/"><u>Discount Alert: Grab Your Newly Upgraded AirPods Pro + Built-In Hearing Aid at an Unbelievable Price - Save 24% Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ideal-films-to-binge-watch-according-to-lifewires-latest-guide/"><u>Discover the Ideal Films to Binge-Watch According to Lifewire's Latest Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-missing-libcurldll-error-fixes/"><u>Effective Solutions for Missing Libcurl.dll Error Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-solutions-for-dealing-with-missing-or-corrupt-user32dll-files/"><u>Expert Solutions for Dealing with Missing or Corrupt User32.dll Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-fixing-the-error-when-d3dx933dll-is-nowhere-to-be-found/"><u>Expert Tips: Fixing the Error When d3dx9_33.dll Is Nowhere to Be Found</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-deletion-a-step-by-step-guide-using-windows-10-command-prompt/"><u>Mastering File Deletion: A Step-by-Step Guide Using Windows 10 Command Prompt</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pixeled-up-transform-your-shots-for-free/"><u>Pixeled-Up Transform Your Shots for Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-flip3-exciting-revelations-on-pricing-release-plans-and-technical-details-awaiting/"><u>Samsung Galaxy Z Flip3: Exciting Revelations on Pricing, Release Plans, and Technical Details Awaiting!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-finest-active-sports-movies-that-will-inspire-you-tonight/"><u>The Finest Active Sports Movies That Will Inspire You Tonight!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-checklist-for-establishing-a-distinctive-online-self/"><u>The Ultimate Checklist for Establishing a Distinctive Online Self</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncover-the-top-underrated-iphone-music-feature-you-need-to-know/"><u>Uncover the Top Underrated iPhone Music Feature You Need to Know</u></a></li>
 </ul></div>
 

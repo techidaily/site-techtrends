@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed"
-date: 2025-02-16T02:23:59.248Z
-updated: 2025-02-16T21:56:48.433Z
+date: 2025-03-04T21:39:38.927Z
+updated: 2025-03-05T19:32:52.316Z
 tags:
   - apple
 categories:
@@ -20,10 +20,6 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -38,10 +34,6 @@ Needless to say, Craft is quite impressive. The only problem with Craft is that 
 To help you out, I'm going to walk you through the creation of a document in Craft. Before you do that, you'll need to first install Craft, which can be found in the App Store. Craft is free and can be installed with just a couple of quick clicks. 
 
 Once you have Craft installed, you're ready to start building your first document.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create a document in Craft
 
@@ -63,10 +55,6 @@ Below the cover image, type the title of the page and then start typing addition
 
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adding external sources
 
 Let's say you want to add links to external sources. Maybe you're writing a resume or an About Me page and you want to add your Twitter, Amazon, and ZDNet profiles to the document. For that, go to one of those external sites, copy the link to your profile, and then paste it into the document. The link will then appear as its own block (**Figure 3**).
@@ -76,10 +64,6 @@ Adding my ZDNet profile link to my document.
 Image: Jack Wallen
 
 Now we're getting somewhere. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Link a document to another
 
@@ -129,22 +113,16 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-viral-visualization-top-story-filter-guide/"><u>[New] Viral Visualization Top Story Filter Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-pull-the-right-strings-increasing-likes-on-unboxed-tiktoks/"><u>[Updated] 2024 Approved Pull the Right Strings Increasing Likes on Unboxed TikToks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-maximize-impact-mastering-igtv-content-submission/"><u>[Updated] Maximize Impact Mastering IGTV Content Submission</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-8-transformative-lenses-for-virtual-conferencing/"><u>[Updated] Prime 8 Transformative Lenses for Virtual Conferencing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-topline-numbers-pewdiepies-yearly-income/"><u>[Updated] Topline Numbers PewDiePie's Yearly Income</u></a></li>
-<li><a href="https://techtrends.techidaily.com/behind-the-calm-of-apples-communication-the-reason-for-missing-excitement-symbols-zdnet-analysis/"><u>Behind the Calm of Apple's Communication: The Reason for Missing Excitement Symbols | ZDNet Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embark-on-a-detective-journey-with-4-innovative-ai-enhanced-murder-mystery-games-online/"><u>Embark on a Detective Journey with 4 Innovative, AI-Enhanced Murder Mystery Games Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experience-the-best-with-apple-vision-pros-enhanced-in-store-test-drives-learn-more-and-reserve-yourszdnet/"><u>Experience the Best with Apple Vision Pro's Enhanced In-Store Test Drives – Learn More & Reserve Yours![ZDNet]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-on-dispatching-electronic-video-game-presents-via-steam/"><u>Expert Advice on Dispatching Electronic Video Game Presents via Steam</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/les-meilleurs-outils-de-migration-de-fichiers-pour-ssd-wd-blue-avec-systeme-dexploitation-windows/"><u>Les Meilleurs Outils De Migration De Fichiers Pour SSD WD Blue Avec Système D'Exploitation Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/personalizing-your-control-experience-on-iphone-with-ios-18-expert-tips-and-tricks-by-zdnet/"><u>Personalizing Your Control Experience on iPhone with iOS 18: Expert Tips and Tricks by ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-choosing-and-using-the-right-selfie-lights/"><u>Step-by-Step Tutorial on Choosing and Using the Right Selfie Lights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-protective-covers-for-iphone-12-and-12-pro-expert-reviews/"><u>Top-Rated Protective Covers for iPhone 12 & 12 Pro : Expert Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-tips-accessing-your-ipad-without-entering-a-passcode/"><u>Unlocking Tips: Accessing Your iPad Without Entering a Passcode</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-merge-mpeg-videos-for-free-top-5-programs/"><u>Updated Merge MPEG Videos for Free Top 5 Programs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-and-how-to-keep-your-airpods-germ-free-expert-tips-on-sanitization-techniques-for-optimal-audio-health/"><u>Why & How to Keep Your AirPods Germ-Free: Expert Tips on Sanitization Techniques for Optimal Audio Health</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-prime-visual-backdrops-for-efficient-collaboration/"><u>[New] Prime Visual Backdrops for Efficient Collaboration</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-transform-your-fb-advertising-simplify-with-a-free-toolkit/"><u>[Updated] 2024 Approved Transform Your FB Advertising Simplify with a Free Toolkit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonizing-visuals-and-soundtracks-with-youtubes-video-editor-for-2024/"><u>[Updated] Harmonizing Visuals & Soundtracks with YouTube's Video Editor for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bonding-with-007-the-perfect-order-for-screening-all-movies/"><u>Bonding with 007: The Perfect Order for Screening All Movies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-zte-blade-a3y-unlocking-exceptional-capabilities/"><u>Budget-Friendly ZTE Blade A3Y: Unlocking Exceptional Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-10-steps-every-beginner-should-know-about-the-once-called-twitter-platform/"><u>Essential 10 Steps Every Beginner Should Know About the Once-Called Twitter Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-overcome-the-ui-800-3-error-and-restore-your-netflix-viewing-experience/"><u>How to Overcome the UI-800-3 Error and Restore Your Netflix Viewing Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-through-vivas-video-content-for-2024/"><u>Navigating Through Viva's Video Content for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-tecno-pova-6-pro-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-choices-for-enhancing-drone-functionality-and-flexibility/"><u>Top Choices for Enhancing Drone Functionality and Flexibility</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-taking-screenshots-on-your-hp-laptop-with-ease/"><u>Ultimate Guide: Taking Screenshots on Your HP Laptop with Ease</u></a></li>
 </ul></div>
 

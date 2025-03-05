@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2025-02-15T16:36:51.570Z
-updated: 2025-02-17T03:03:12.075Z
+date: 2025-02-28T16:59:50.175Z
+updated: 2025-03-05T20:20:48.860Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -71,10 +67,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -118,10 +110,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -150,10 +138,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +145,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,24 +190,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-professional-stability-essentials-for-youtube-videographers/"><u>[New] Professional Stability Essentials for YouTube Videographers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unmatched-clarity-the-ultimate-mic-guide/"><u>[Updated] 2024 Approved Unmatched Clarity The Ultimate Mic Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-disableremove-youtube-shorts-permanently2-for-2024/"><u>[Updated] How to Disable/Remove YouTube Shorts Permanently?2 For 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accurately-estimating-data-variability-with-microsoft-excel-techniques-and-tips/"><u>Accurately Estimating Data Variability with Microsoft Excel: Techniques & Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ev-advantages-over-conventional-vehicles-a-closer-look-at-performance-gains/"><u>EV Advantages Over Conventional Vehicles: A Closer Look at Performance Gains</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-linking-your-apple-homepod-with-your-television-set/"><u>Guide: Linking Your Apple HomePod With Your Television Set</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-access-and-interpret-your-laptops-power-meter-on-windows-11/"><u>How to Access and Interpret Your Laptop's Power Meter on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-resolve-and-prevent-stop-0x0000007b-booting-failures-in-windows/"><u>How to Resolve and Prevent STOP 0X0000007B Booting Failures in Windows</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-magic-5-lite-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor Magic 5 Lite Location Settings | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/logic-pro-guide-gradually-lowering-audio-levels-for-2024/"><u>Logic Pro Guide Gradually Lowering Audio Levels for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/macbook-air-how-to-simplifying-tasks-with-split-screen-techniques/"><u>Macbook Air How-To: Simplifying Tasks with Split Screen Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-gmail-how-to-bulk-delete-all-messages-in-the-mobile-version/"><u>Mastering Gmail: How to Bulk Delete All Messages in the Mobile Version</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-translate-live-video-making-it-possible-with-the-best-tool/"><u>New Translate Live Video Making It Possible With The Best Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimizing-your-facebook-game-easy-to-implement-techniques-for-greater-online-success/"><u>Optimizing Your Facebook Game: Easy-to-Implement Techniques for Greater Online Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/radiance-routines-pro-tips-for-video-illumination/"><u>Radiance Routines Pro Tips for Video Illumination</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-mss32dll-wheres-the-file-and-how-to-find-it/"><u>Resolving mss32.dll: Where's the File and How to Find It</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-better-sleep-the-five-premier-apple-watch-apps-for-a-good-nights-rest/"><u>Unlock Better Sleep: The Five Premier Apple Watch Apps for a Good Night's Rest</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/wie-sie-ihren-windows-server-2016-schrittweise-zu-microsofts-neuestem-betriebssystem-windows-server-2019-aufrusten-konnen/"><u>Wie Sie Ihren Windows Server 2016 Schrittweise Zu Microsofts Neuestem Betriebssystem, Windows Server 2019, Aufrüsten Können</u></a></li>
-<li><a href="https://techtrends.techidaily.com/xbox-one-no-signal-issue-solved-effective-troubleshooting-steps/"><u>Xbox One 'No Signal' Issue Solved: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-vivid-twitter-visuals-the-journey-to-full-hd-viewing/"><u>[Updated] In 2024, Vivid Twitter Visuals The Journey to Full HD Viewing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-transform-videos-on-vimeo-using-zero-dollar-resources-for-2024/"><u>[Updated] Transform Videos on Vimeo Using Zero-Dollar Resources for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-elusive-mfc71dll-troubleshooting-and-tips-for-success/"><u>Fixing the Elusive Mfc71.dll: Troubleshooting and Tips for Success</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hone-your-image-by-removing-surroundings/"><u>In 2024, Hone Your Image by Removing Surroundings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-note-taking-tools-to-revolutionize-your-organization-skills/"><u>Leading Note-Taking Tools to Revolutionize Your Organization Skills</u></a></li>
+<li><a href="https://techtrends.techidaily.com/legal-ways-to-keep-netflix-content-for-offline-viewing/"><u>Legal Ways to Keep Netflix Content for Offline Viewing</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-words-into-worlds-the-essential-guide-to-using-chatgpt-in-rpgs/"><u>Transforming Words Into Worlds: The Essential Guide to Using ChatGPT in RPGs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722859799894-unveiling-the-samsung-galaxy-z-flip-6-launch-details-and-cutting-edge-specs/"><u>Unveiling the Samsung Galaxy Z Flip 6 - Launch Details & Cutting-Edge Specs!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-oneplus-model-10-forecasting-price-points-release-window-feature-set-and-rumored-details/"><u>Upcoming OnePlus Model 10 - Forecasting Price Points, Release Window, Feature Set & Rumored Details</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-when-you-encounter-a-missing-msvcrt10dll-file/"><u>What to Do When You Encounter a Missing 'Msvcrt10.dll' File</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/wie-sie-mit-einem-asus-notebook-den-wiederherstellungsmodus-in-windows-11-nutzen-konnen-eine-praktische-anleitung/"><u>Wie Sie Mit Einem Asus-Notebook Den Wiederherstellungsmodus in Windows 11 Nutzen Können: Eine Praktische Anleitung</u></a></li>
 </ul></div>
 

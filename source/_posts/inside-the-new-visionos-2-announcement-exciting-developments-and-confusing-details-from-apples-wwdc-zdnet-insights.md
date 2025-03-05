@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2025-02-10T20:23:13.269Z
-updated: 2025-02-16T18:10:58.918Z
+date: 2025-03-04T16:06:58.941Z
+updated: 2025-03-05T20:58:17.567Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -52,10 +48,6 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -71,10 +63,6 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -110,10 +98,6 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -122,10 +106,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,22 +151,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-ultimate-strategy-for-top-tier-youtube-titles-and-tags/"><u>[New] The Ultimate Strategy for Top-Tier Youtube Titles & Tags</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-optimal-card-selection-for-professional-video-editing-for-2024/"><u>[Updated] Optimal Card Selection for Professional Video Editing for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-law-of-lyrics-on-instagram-platforms-for-2024/"><u>[Updated] The Law of Lyrics on Instagram Platforms for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-picks-for-integrating-frame-elements-with-images/"><u>[Updated] Top Picks for Integrating Frame Elements with Images</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-internet-gateway-device-choices-modems-with-routers-2024-edition/"><u>Best Internet Gateway Device Choices: Modems with Routers, 2024 Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-persistence-problems-heres-how-you-can-fix-unsaved-conversation-issues/"><u>ChatGPT Persistence Problems? Here's How You Can Fix Unsaved Conversation Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-between-building-and-purchasing-your-own-computer-the-best-option-for-you/"><u>Choosing Between Building and Purchasing Your Own Computer: The Best Option for You</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-dealing-with-the-ftd2xxdll-not-detected-problem/"><u>Expert Tips for Dealing with the Ftd2xx.dll Not Detected Problem</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-immersive-odyssey-the-most-exciting-psvr-games-on-the-way/"><u>In 2024, Immersive Odyssey The Most Exciting PSVR Games on the Way</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-zooming-through-efficient-meeting-coordination-tips/"><u>In 2024, Zooming Through Efficient Meeting Coordination Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-friendly-battles-a-guide-to-team-up-with-friends-in-pokemon-go/"><u>Mastering Friendly Battles: A Guide to Team Up with Friends in Pokémon GO</u></a></li>
-<li><a href="https://discover-community.techidaily.com/movavimp4mov/"><u>Movaviを使って、快適に無料でMP4とMOV動画をオンライン変換する方法</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ranking-the-top-email-platforms-to-upgrade-from-gmail/"><u>Ranking the Top Email Platforms to Upgrade From Gmail</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resident-evil-village-and-pc-lag-here-are-the-ultimate-fixes-you-need-to-try/"><u>Resident Evil Village and PC Lag? Here Are the Ultimate Fixes You Need to Try!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-evolution-from-gasoline-to-electricity-grasping-the-significance-of-modern-mobility/"><u>The Evolution From Gasoline to Electricity: Grasping the Significance of Modern Mobility</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-preparing-for-skype-interviews-top-tips-for-landing-your-dream-job/"><u>The Ultimate Guide to Preparing for Skype Interviews - Top Tips for Landing Your Dream Job</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trouble-with-yahoo-mail-heres-how-to-fix-missing-incoming-email-problems-quickly/"><u>Trouble with Yahoo Mail? Here's How to Fix Missing Incoming Email Problems Quickly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-explore-the-world-of-drawing-on-your-chromebook-today/"><u>[New] 2024 Approved Explore the World of Drawing on Your Chromebook Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-integrated-sound-and-vision-workspace/"><u>[New] Integrated Sound & Vision Workspace</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unlocking-the-secrets-of-silent-video-suggestions-in-feed/"><u>[Updated] In 2024, Unlocking the Secrets of Silent Video Suggestions in Feed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-off-switch-for-instagrams-igtv/"><u>[Updated] Off Switch for Instagram's IGTV</u></a></li>
+<li><a href="https://solve-news.techidaily.com/boost-your-tiktok-success-with-effective-video-cropping-strategies-for-trending-content/"><u>Boost Your TikTok Success with Effective Video Cropping Strategies for Trending Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-setting-up-windows-11-on-your-brand-new-ssd/"><u>Complete Guide: Setting Up Windows 11 on Your Brand-New SSD</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-eliminating-screen-burn-in-across-all-displays/"><u>Effective Solutions: Eliminating Screen Burn-In Across All Displays</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-every-aspect-of-the-revolutionary-netflix-online-platform/"><u>Exploring Every Aspect of the Revolutionary Netflix Online Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-screenshotting-in-windows-11-four-essential-strategies/"><u>Guide: Screenshotting in Windows 11 - Four Essential Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-problems-that-occur-during-the-post/"><u>How to Fix Problems that Occur During the POST</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-transfer-video-from-youtube-to-dailymotion-for-2024/"><u>How to Transfer Video From YouTube to Dailymotion for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-site-construction-with-these-4-chatgpt-powered-solutions/"><u>Streamline Your Site Construction with These 4 ChatGPT-Powered Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-new-in-ipados-v17-unlock-the-release-schedule-gratis-access-top-features-and-latest-news-highlights/"><u>What's New in iPadOS v17? Unlock the Release Schedule, Gratis Access, Top Features & Latest News Highlights</u></a></li>
 </ul></div>
 

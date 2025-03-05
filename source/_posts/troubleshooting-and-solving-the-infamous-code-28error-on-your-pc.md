@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solving the Infamous Code ^[[2][8]Error on Your PC
-date: 2024-08-21T17:30:30.181Z
-updated: 2024-08-22T17:30:30.181Z
+date: 2025-03-04T17:18:47.285Z
+updated: 2025-03-05T17:57:38.979Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting and Solving the Infamous Code ^[[2][8]Error on Your PC
@@ -38,9 +38,6 @@ thumbnail: https://www.lifewire.com/thmb/OOagm-4DmIpTxLJl8bFQcpaaNCg=/540x405/fi
  It's also possible that the device is not compatible with this version of Windows. You can check the[Windows HCL](https://www.lifewire.com/what-is-the-windows-hardware-compatibility-list-2625914) to be sure.  
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Causes of a Code 28 Error
 
  The Code 28 error is one of several possible [Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) you could see for a piece of hardware. As mentioned above, it's almost always caused by a missing driver for that particular piece of hardware.
@@ -55,9 +52,6 @@ thumbnail: https://www.lifewire.com/thmb/OOagm-4DmIpTxLJl8bFQcpaaNCg=/540x405/fi
 
 ![Device error Code 28 on Windows 10 desktop](https://www.lifewire.com/thmb/nu2GconMBW2tTuJo6e9kYszSKe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-28-device-manager-error-3d84945a44e0467080dc5a77005500e2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) . If you see the Code 28 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) that you should not troubleshoot as a Device Manager problem.
 
  FAQ
@@ -89,8 +83,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +90,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unleash-the-power-of-split-window-on-netflix-platform/"><u>[New] 2024 Approved Unleash the Power of Split Window on Netflix Platform</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver/"><u>[New] From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-seamless-fb-content-to-mp3-transfer/"><u>[Updated] In 2024, Seamless FB Content-to-MP3 Transfer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-dealing-with-missing-or-lost-mapi3dll-components-on-your-computer/"><u>Effective Fixes for Dealing With Missing or Lost Mapi3#.dll Components on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-running-your-favorite-android-apps-on-a-windows-10-pc/"><u>Guide: Running Your Favorite Android Apps on a Windows 10 PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-laptop-keyboard-troubles-heres-how-to-make-it-work-again/"><u>HP Laptop Keyboard Troubles? Here's How to Make It Work Again</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-pro-vs-macbook-air-understanding-their-unique-features-and-uses/"><u>IPad Pro Vs. MacBook Air - Understanding Their Unique Features And Uses</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-youtube-ultimate-guide-to-live-360-degree-streams/"><u>Mastering YouTube Ultimate Guide to Live 360-Degree Streams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-tricks-to-take-perfect-captures-from-your-xbox-one-screen/"><u>Simple Tricks to Take Perfect Captures From Your Xbox One Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/spotting-faux-friends-a-step-by-step-approach-to-handling-misleading-connection-requests/"><u>Spotting Faux Friends: A Step-by-Step Approach to Handling Misleading Connection Requests</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-secret-formula-become-an-insta-sensation-with-these-10-viral-techniques/"><u>The Secret Formula: Become an Insta-Sensation with These 10 Viral Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-the-key-differences-between-augmented-reality-and-virtual-reality/"><u>Unraveling the Mystery: The Key Differences Between Augmented Reality and Virtual Reality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/hevcmkvmp4/"><u>スムーズな視聴体験を実現! HEVC、MKV、MP4 といったフォーマットの高解像度ビデオに対する高速再生テクニック</u></a></li>
+</ul></div>
 

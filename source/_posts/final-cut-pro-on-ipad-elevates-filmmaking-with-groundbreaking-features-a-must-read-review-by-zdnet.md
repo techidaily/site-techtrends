@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro on iPad Elevates Filmmaking with Groundbreaking Features - A Must-Read Review by ZDNet!
-date: 2024-10-20T19:15:45.722Z
-updated: 2024-10-27T19:10:25.345Z
+date: 2025-02-28T21:00:05.672Z
+updated: 2025-03-05T16:51:11.503Z
 tags:
   - apple
 categories:
@@ -50,31 +50,11 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Serious customization
 
 One of the hallmarks of Apple's design philosophy over the years has centered on not allowing you to customize its operating system experience all that much. That's now changing.
 
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. RCS
 
@@ -84,31 +64,11 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. An Apple Maps boost
 
 According to several reports, Apple is planning a pretty big update to Apple Maps in iOS 18, and I'm all for it.
 
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
 
@@ -148,20 +108,17 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-insight-into-watermark-functionality-for-fb-media/"><u>[New] 2024 Approved Insight Into Watermark Functionality for Fb Media</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-creating-engaging-content-through-discord-streams/"><u>[New] In 2024, Creating Engaging Content Through Discord Streams</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-key-principles-to-write-captivating-vlog-dialogues/"><u>[Updated] 2024 Approved Key Principles to Write Captivating Vlog Dialogues</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-premium-5-noise-canceling-gaming-mics/"><u>[Updated] Premium 5 Noise-Canceling Gaming Mics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-adding-subtitles-to-your-instagram-story-content/"><u>A Step-by-Step Guide: Adding Subtitles to Your Instagram Story Content</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-spark-20-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Spark 20</u></a></li>
-<li><a href="https://techtrends.techidaily.com/immerse-yourself-in-middle-earth-watching-lord-of-the-rings-in-correct-progression/"><u>Immerse Yourself in Middle-Earth: Watching ‘Lord of the Rings’ In Correct Progression</u></a></li>
-<li><a href="https://techtrends.techidaily.com/masterclass-view-and-modify-mac-pages-documents-using-microsoft-office-suite/"><u>Masterclass: View and Modify Mac Pages Documents Using Microsoft Office Suite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-troubleshooting-how-to-fix-persistent-hyper-scape-disruptions-and-crashes/"><u>PC Gaming Troubleshooting: How to Fix Persistent Hyper Scape Disruptions and Crashes</u></a></li>
-<li><a href="https://facebook.techidaily.com/securing-your-account-preventing-social-media-scams/"><u>Securing Your Account: Preventing Social Media Scams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-9-essential-gadgets-and-tools-for-students-in-the-classroom/"><u>Top 9 Essential Gadgets and Tools for Students in the Classroom</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-issues-with-non-functional-xbox-series-x-and-s-headsets/"><u>Troubleshooting Guide: Resolving Issues with Non-Functional Xbox Series X & S Headsets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-the-mysterious-black-display-in-windows-11/"><u>Ultimate Guide: Resolving the Mysterious Black Display in Windows 11</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-kinemaster-for-mac-download-guide-for-you/"><u>Updated In 2024, KineMaster for Mac Download Guide for You</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/vdq-video-snatcher-assessment-comprehensive-analysis/"><u>VDQ Video Snatcher Assessment Comprehensive Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ixed-youtube-shorts-just-watch-and-enjoy-for-2024/"><u>[New] Fixed YouTube Shorts - Just Watch and Enjoy for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-affordable-methods-to-craft-your-own-youtube-intros/"><u>[New] In 2024, Affordable Methods to Craft Your Own YouTube Intros</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-latest-techniques-for-ios-iphoneipad-screen-capture-2023-update/"><u>[New] Latest Techniques for iOS (iPhone/iPad) Screen Capture - 2023 Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/delving-into-the-world-of-rtx-graphics-cards-everything-you-need-to-know/"><u>Delving Into the World of RTX Graphics Cards – Everything You Need to Know</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-mbox-2-drives-on-windows-comprehensive-guide/"><u>Download & Update MBox 2 Drives on Windows: Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-these-top-ranking-no-cost-language-learning-apps/"><u>Explore These Top-Ranking No-Cost Language Learning Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-12-mini-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 12 mini? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-hang-how-to-fix-dxgierrordevicehunk/"><u>Overcoming Device Hang: How to Fix DXGI_ERROR_DEVICE_HUNK</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-zlibdll-is-absentmissing-mistakes/"><u>Solutions for Resolving 'zlib.dll' Is Absent/Missing Mistakes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-power-of-pause-effectively-responding-to-comments-for-2024/"><u>The Power of Pause Effectively Responding to Comments for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-unsecured-internet-connections-and-safety-warnings/"><u>Troubleshooting Unsecured Internet Connections & Safety Warnings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-missing-zlibdll-errors-on-your-pc-expert-tips/"><u>Understanding and Fixing Missing zlib.dll Errors on Your PC - Expert Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Overpriced for What Apple Intelligence Offers? Expert Analysis by ZDNet Revealed!
-date: 2025-02-14T21:24:04.077Z
-updated: 2025-02-16T23:19:38.954Z
+date: 2025-02-27T16:14:46.523Z
+updated: 2025-03-05T21:35:14.852Z
 tags:
   - apple
 categories:
@@ -28,19 +28,11 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -86,10 +74,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +81,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -158,24 +138,18 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-20-visionary-metaverse-projects-with-educational-value/"><u>[New] 20 Visionary Metaverse Projects with Educational Value</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-depth-analysis-of-premium-apps-to-boost-vtuber-audibility/"><u>[New] In-Depth Analysis of Premium Apps to Boost Vtuber Audibility</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-minecrafts-oriental-elegance-6-top-ideas-for-2024/"><u>[New] Minecraft's Oriental Elegance 6 Top Ideas for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-intro-magic-crafting-irresistible-podcast-openers/"><u>[Updated] In 2024, Intro Magic Crafting Irresistible Podcast Openers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-laughter-and-tears-connected-10-memes-that-resonate-on-ig/"><u>[Updated] In 2024, Laughter and Tears Connected 10 Memes That Resonate On IG</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-5-superior-recording-gear-options-for-ipad-and-mac-owners/"><u>2024 Approved 5 Superior Recording Gear Options for iPad & Mac Owners</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-how-to-properly-initialize-your-brand-new-ipad-insights-from-zdnet/"><u>Complete Guide: How to Properly Initialize Your Brand-New iPad - Insights From ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-a34-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy A34 5G Phones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/insiders-review-on-aphaca-bt69-streaming-your-tunes-as-a-wireless-bluetooth-fm-signal-in-cars/"><u>Insider's Review on Aphaca BT69: Streaming Your Tunes as a Wireless Bluetooth FM Signal in Cars</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-13-and-15-pro-discontinued-expert-advice-on-your-next-smartphone-purchase/"><u>IPhone 13 & 15 Pro Discontinued: Expert Advice on Your Next Smartphone Purchase</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-mobile-excellence-with-the-new-iphone-15-why-professionals-choose-it-expert-review/"><u>Mastering Mobile Excellence with the New iPhone 15: Why Professionals Choose It | Expert Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/protect-your-iphone-privacy-settings-hide-your-device-with-easy-tips-to-deactivate-find-my-friends-tech-advisor/"><u>Protect Your iPhone Privacy Settings: Hide Your Device with Easy Tips to Deactivate Find My Friends | Tech Advisor</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/quick-and-easy-steps-for-photos-in-your-instagram-gallery-for-2024/"><u>Quick and Easy Steps for Photos in Your Instagram Gallery for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-your-apple-watch-series-10-today-from-just-99-by-preordering-on-bestbuy-exclusive-guide-zdnet/"><u>Secure Your Apple Watch Series 10 Today From Just $99 by Preordering on BestBuy - Exclusive Guide | ZDNet</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ark-side-of-digital-content-profitability/"><u>The Dark Side of Digital Content Profitability</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-choosing-the-ideal-apple-watch-band-expert-reviews-and-comparisons-zdnet/"><u>Ultimate Guide to Choosing the Ideal Apple Watch Band : Expert Reviews and Comparisons | ZDNet</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ultimate-online-destinations-for-3d-shimmering-letters/"><u>Ultimate Online Destinations for 3D Shimmering Letters</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-small-tablet-guide-for-2hren-expert-opinions-and-rankings/"><u>Ultimate Small Tablet Guide for 2Hren: Expert Opinions and Rankings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-truth-are-you-underestimating-your-apple-watchs-battery-health/"><u>Unveiling the Truth: Are You Underestimating Your Apple Watch's Battery Health?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-depth-review-screen-capture-with-vlc-player-for-2024/"><u>[New] In-Depth Review Screen Capture with VLC Player for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-swift-shutter-speed-iphone-tricks-for-blur-magic/"><u>[New] Swift Shutter Speed IPhone Tricks for Blur Magic</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-why-watch-hd-switch-to-av1-codec-on-youtube/"><u>[Updated] Why Watch HD? - Switch to AV1 Codec on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-top-tier-smartphone-and-dslr-camera-gimbals-compared/"><u>10 Top-Tier Smartphone & DSLR Camera Gimbals Compared</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/confirmation-of-setting-resource-reluctant-to-respond/"><u>Confirmation of Setting: Resource Reluctant to Respond</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-everscape-ii-from-crashing-on-your-windows-computer/"><u>Fixes & Solutions: How to Stop Everscape II From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-xiaomi-mix-fold-3-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Xiaomi Mix Fold 3 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-techniques-for-professional-voice-capture/"><u>In 2024, Top Techniques for Professional Voice Capture</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-to-whatsapp-sharing-videos-simplified/"><u>In 2024, Twitter to WhatsApp Sharing Videos Simplified</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-2024-netgear-device-passwords-your-comprehensive-guide/"><u>July 2024 Netgear Device Passwords: Your Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-to-uncover-your-specific-macbook-series-and-id-numbers/"><u>Simple Steps to Uncover Your Specific MacBook Series and ID Numbers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-applications-from-your-mac/"><u>Step-by-Step Guide: Removing Applications From Your Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-guide-to-the-hottest-max-streaming-originals-of-the-week/"><u>Your Guide to the Hottest Max Streaming Originals of the Week</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple AirPlay Now Available in Top-Tier Hotels: A Complete Guide on Usage & Setup!"
-date: 2024-10-26T17:00:04.100Z
-updated: 2024-10-27T19:17:11.168Z
+date: 2025-03-03T19:07:21.686Z
+updated: 2025-03-05T21:09:50.378Z
 tags:
   - apple
 categories:
@@ -56,19 +56,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Multiple cores can increase performance considerably for problems that can be split into parallel processes. Many modern processes work well in parallel, especially graphics, data crunching, AI, ML, and AR-related tasks. 
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  CPU vs. SoC
 
 OK, to review: A computer consists of many components, most of which are integrated circuits (also called chips). Many computers also have many processors. So far, I mentioned the CPU (the central processing unit) and the GPU (the graphics processor). 
@@ -90,13 +77,6 @@ Unlike the motherboard/CPU/memory model common inside most PCs, iPhones and the 
 SoCs have enormous performance benefits because all the electrical impulses have to travel far shorter distances. Because the distance is shorter, the current used can be considerably less. And because the current is lower, there's less power used. Less power used means less heat and longer battery life. 
 
 It wasn't until SoCs could be successfully fabricated with tens of billions of transistors that they were suitable for high-performance personal computers. They can be now, so now they are. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Apple Silicon
 
@@ -160,13 +140,6 @@ It's a win for both developers and users when code is compiled for Apple Silicon
 
 I found, for example, that Rosetta-translated Chrome was OK but a bit sluggish. When I replaced that with the Apple Silicon version of Chrome, it was far faster. For help finding out which of your applications are Native, Intel, or "Universal" (meaning the application contains native code for both Intel and Apple Silicon), read "[Sluggish apps on your M1 Mac? Check this first for a possible fix](https://www.zdnet.com/article/the-first-thing-to-check-if-an-app-seems-sluggish-on-your-m1-mac/)." 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  M1, M2, M3, Pro, Max, and Ultra
 
 M1 was the first Apple Silicon processor model that Apple used inside its computers. As of this writing, Apple has shipped an M2 generation of processors, and [just announced the M3 generation](https://www.zdnet.com/article/m3-apple-silicon-is-here-and-theres-more-to-it-than-new-laptops-and-all-in-ones/). In addition to the base-model processors, Apple has created higher performance versions, which are labeled Pro, Max, and -- for the M1 and M2 -- Ultra. We haven't seen the Ultra on the M3 family, at least yet.
@@ -188,13 +161,6 @@ David Gewirtz/ZDNET
 The M-series processors are SoCs, so memory and storage come right on the chip. Depending on the chip, you can go from 8GB RAM up to 192GB RAM and 256GB of flash storage up to a whopping 8TB on the 16-inch MacBook Pro with M3 Max. That additional storage will cost you, to the tune of a few thousand bucks more. But if you need it, you need it.
 
 The sizes of the chips differ considerably. The base chip is about a quarter the size of the Max model. This makes sense because the Max crams a lot more onto its die. It got smaller between the M2 and M3 generations when the die-production process went from 5-nanometer to 3-nanometer components. But for now, it's just interesting to note that the M3 Max has 92 billion transistors, while the double-chip M2 Ultra has 134 billion transistors -- all in the space of about the size of a fingernail. 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Final thoughts
 
@@ -236,22 +202,16 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-continuous-rotation-vs-3d-image-construction/"><u>[Updated] In 2024, Continuous Rotation vs 3D Image Construction</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-non-rooting-methods-to-record-android-sounds-for-2024/"><u>[Updated] Non-Rooting Methods to Record Android Sounds for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-high-performance-laptops-why-acer-aspire-e-15-stands-out/"><u>Affordable High-Performance Laptops: Why Acer Aspire E 15 Stands Out</u></a></li>
-<li><a href="https://techtrends.techidaily.com/chronological-viewing-of-how-to-train-your-dragon-movies-for-an-enhanced-experience/"><u>Chronological Viewing of How to Train Your Dragon Movies for an Enhanced Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-future-with-apples-new-earwear-gadget-insider-rumors-release-schedule-and-tech-specs-uncovered/"><u>Discover the Future with Apple's New Earwear Gadget – Insider Rumors, Release Schedule & Tech Specs Uncovered!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/easy-mp4wmv-format-transformation-online-change-video-codecs-instantly/"><u>Easy MP4/WMV Format Transformation Online - Change Video Codecs Instantly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-for-when-cygwin1dll-is-unavailable-or-absent/"><u>Effective Solutions for When Cygwin1.dll Is Unavailable or Absent</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elevate-morning-routines-with-miraris-childrens-alarm-clock-top-reviews-and-insights/"><u>Elevate Morning Routines with Mirari's Children’s Alarm Clock: Top Reviews & Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-restoring-function-to-computers-showing-no-signals-on-monitors-after-startup/"><u>Expert Tips for Restoring Function to Computers Showing No Signals on Monitors After Startup</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-11-pro-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your 11 Pro lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722890290958-get-ready-for-macos-15-sequoia-coming-soon-with-exciting-new-features/"><u>Get Ready for MacOS 15 Sequoia: Coming Soon with Exciting New Features!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-12plus-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme 12+ 5G FRP Without Computer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-gloves-revolutionizing-vr-interaction/"><u>In 2024, Top 10 Gloves Revolutionizing VR Interaction</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/secure-your-media-collection-reliable-dvd-duplication-and-iso-creation-with-winx-dvd-copy-pro-software/"><u>Secure Your Media Collection: Reliable DVD Duplication & ISO Creation with WinX DVD Copy Pro Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-fix-wininetdll-not-found-errors/"><u>Step-by-Step Guide to Fix 'wininet.dll Not Found' Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-achieving-official-verification-status-on-instagram/"><u>Step-by-Step Guide: Achieving Official Verification Status on Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-no-call-response-on-your-samsung-galaxy-watch-tips-and-solutions/"><u>Troubleshooting No-Call Response on Your Samsung Galaxy Watch – Tips & Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/roject-management-fees-for-2024/"><u>[New] Project Management Fees for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-v30-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo V30 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photo-cartoony-kick-cross-platform-windows-and-mac-software/"><u>In 2024, Photo Cartoony Kick Cross-Platform Windows & Mac Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/offline-gaming-success-how-to-play-minecraft-solo-on-windows-11-systems/"><u>Offline Gaming Success: How to Play Minecraft Solo on Windows 11 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pc-gamers-ultimate-trick-for-xbox-one-controller-connection-expert-tips-and-guidance/"><u>PC Gamers' Ultimate Trick for Xbox One Controller Connection: Expert Tips and Guidance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/playing-minecraft-solo-a-guide-to-enjoying-the-game-without-an-internet-connection-on-windows-11/"><u>Playing Minecraft Solo: A Guide to Enjoying the Game Without an Internet Connection on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-solutions-for-exiting-playstation/"><u>Quick Solutions for Exiting PlayStation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-windows-10-compatibility-problems-with-your-hp-deskjet-printer/"><u>Resolve Windows 10 Compatibility Problems with Your HP Deskjet Printer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secure-your-place-in-the-metaverse-essential-devices-list-for-2024/"><u>Secure Your Place in the Metaverse Essential Devices List for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-image-display-problems-in-windows-1011-systems/"><u>Troubleshooting Image Display Problems in Windows 10/11 Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-asus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Asus Phones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Artificial Intelligence on Apple Devices: Comprehensive Insights Into Upcoming Features for iOS & macOS | ZDNET"
-date: 2025-02-09T22:29:44.135Z
-updated: 2025-02-16T23:45:03.328Z
+date: 2025-03-03T17:56:20.584Z
+updated: 2025-03-05T18:33:58.101Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -63,10 +59,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -94,10 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -121,10 +109,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -153,10 +137,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,22 +190,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-explore-the-10-most-inspiring-youtube-makeup-vloggers-ever-for-2024/"><u>[New] Explore the 10 Most Inspiring YouTube Makeup Vloggers Ever for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-online-methods-to-perfect-vhs-picture-editing/"><u>[New] Mastering Online Methods to Perfect VHS Picture Editing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-perfect-patches-backgrounds-for-online-streaming/"><u>[Updated] 2024 Approved Perfect Patches Backgrounds for Online Streaming</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-insider-guide-whatsapp-audio-talks/"><u>[Updated] In 2024, The Insider Guide WhatsApp Audio Talks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-obs-playbook-for-twitch-and-youtube-streaming/"><u>2024 Approved The Ultimate OBS Playbook for Twitch & YouTube Streaming</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ace-your-macs-facetime-camera-with-apple-vision-pro-tips-screenshots-recordings-done-right-no-quirks-included-zdnet/"><u>Ace Your Mac's FaceTime Camera with Apple Vision Pro Tips: Screenshots, Recordings Done Right (No Quirks Included) | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ahead-of-the-crowd-with-apple-vision-pro-starting-pre-orders-january-19-in-store-arrival-feb-2-latest-info-via-zdnet/"><u>Get Ahead of the Crowd with Apple Vision Pro Starting Pre-Orders January 19, In-Store Arrival Feb 2 | Latest Info via ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/getting-ready-for-samsungs-newest-creation-the-galaxy-z-fold-7-insights-into-release-dates-estimated-costs-and-potential-specifications/"><u>Getting Ready for Samsung's Newest Creation: The Galaxy Z Fold 7 - Insights Into Release Dates, Estimated Costs & Potential Specifications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-your-workflow-with-tailored-focus-modes-in-macos-monterey-by-avoiding-unwanted-interruptions-zdnet/"><u>Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-process-of-linking-airpods-and-macbook-air-devices/"><u>The Complete Process of Linking AirPods and MacBook Air Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-smart-move-away-from-iphone-16-why-choosing-different-tech-might-be-better/"><u>The Smart Move Away From iPhone 16 - Why Choosing Different Tech Might Be Better</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-essential-mac-optimization-tools-in-23-2022-expert-picks-for-peak-performance/"><u>Top 5 Essential Mac Optimization Tools in 2^3#%@! 2022: Expert Picks for Peak Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-iphone-16-and-16-pro-case-selection-for-202n-professional-ratings-and-comparisons/"><u>Ultimate Guide to iPhone 16 and 16 Pro Case Selection for 202N: Professional Ratings & Comparisons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-5-innovative-tools-to-generate-advanced-ai-dialogue-starters/"><u>Unveiling the Top 5 Innovative Tools to Generate Advanced AI Dialogue Starters</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-lies-ahead-as-meta-challenges-dominance-of-european-social-networking-leaders/"><u>What Lies Ahead as Meta Challenges Dominance of European Social Networking Leaders</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-giroptics-virtual-sphere-breakdown/"><u>[New] 2024 Approved Giroptic's Virtual Sphere Breakdown</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-elevate-everyday-youtubes-finest-yoga-influencers-for-2024/"><u>[Updated] Elevate Everyday - YouTube's Finest Yoga Influencers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/10-free-netflix-alternatives-to-try/"><u>10 Free Netflix Alternatives to Try</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-entertainment-platforms-similar-to-netflix-top-10-picks/"><u>Best Free Entertainment Platforms Similar to Netflix (Top 10 Picks)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-android-launch-a-new-era-begins/"><u>ChatGPT's Android Launch - A New Era Begins</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/evaluating-the-value-of-sns-hdr-in-a-crowded-market-for-2024/"><u>Evaluating the Value of SNS HDR in a Crowded Market for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-gionee-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Gionee Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-to-correct-microsoft-visual-cplusplus-redistributable-missing-errors/"><u>Quick Fixes to Correct Microsoft Visual C++ Redistributable Missing Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-shaky-and-fluttering-screens-on-surface-pro-expert-tips/"><u>Resolve Shaky and Fluttering Screens on Surface Pro - Expert Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-indicating-emails-have-been-read-in-googles-mail-service/"><u>Step-by-Step: Indicating Emails Have Been Read in Google's Mail Service</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tricks-to-turn-off-youtube-videos-without-compromise-for-2024/"><u>Tricks to Turn Off YouTube Videos Without Compromise for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-roku-express-and-stick-key-contrasts-explored/"><u>Unveiling Roku Express and Stick: Key Contrasts Explored</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wireless-entertainment-setting-up-amazon-firestick-with-a-home-theater-projector/"><u>Wireless Entertainment: Setting up Amazon Firestick with a Home Theater Projector</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44or44k944kz44oz5lik44gn44gu44ot44oh44kq5zue6lui5oqa6kgtic0g54sh5paz44ks44kk44oj/"><u>パソコン上でのビデオ回転技術 - 無料ガイド</u></a></li>
 </ul></div>
 

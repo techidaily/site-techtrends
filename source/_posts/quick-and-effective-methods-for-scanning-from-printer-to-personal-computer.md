@@ -1,7 +1,7 @@
 ---
 title: Quick & Effective Methods for Scanning From Printer to Personal Computer
-date: 2025-02-12T19:31:06.905Z
-updated: 2025-02-16T18:08:11.642Z
+date: 2025-03-04T18:40:47.351Z
+updated: 2025-03-05T16:59:43.344Z
 categories:
   - BestProducts
 description: This Article Describes Quick & Effective Methods for Scanning From Printer to Personal Computer
@@ -26,15 +26,7 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 
 ![Scanning a Document Using a Flatbed Scanner](https://www.lifewire.com/thmb/4ttTzWS9kaWy0rhmgoB3ZRzAwXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-1-97c5bf309a29400a92d8ba96f4af302b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 lolostock / Getty Images
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Windows PC
 
@@ -54,16 +46,8 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
@@ -71,17 +55,9 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
@@ -145,22 +121,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-all-inclusive-guide-what-is-googles-podcast-service-in-2024/"><u>[New] All-Inclusive Guide What Is Google's Podcast Service, In 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovation-at-the-heart-the-evolution-of-magix-music-maker/"><u>[New] Innovation at the Heart The Evolution of Magix Music Maker</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-screensnappers-journey-navigating-the-latest-recorders-for-2024/"><u>[New] ScreenSnapper's Journey Navigating the Latest Recorders for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-unlocking-potential-creating-compelling-content-on-your-phone/"><u>2024 Approved Unlocking Potential Creating Compelling Content on Your Phone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehensive-tutorial-to-access-live-fm-broadcasts-on-your-smartphone/"><u>A Comprehensive Tutorial to Access Live FM Broadcasts on Your Smartphone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-forthcoming-touchscreen-macbook-price-forecasts-release-date-speculations-and-feature-deep-dive/"><u>All You Need to Know About the Forthcoming Touchscreen MacBook: Price Forecasts, Release Date Speculations & Feature Deep-Dive</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-phantom-v-flip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Phantom V Flip Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-california-drivers-can-securely-link-licenses-to-apple-and-google-wallets-a-step-by-step-guide/"><u>How California Drivers Can Securely Link Licenses to Apple and Google Wallets: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-chucklecraft-constructor/"><u>In 2024, ChuckleCraft Constructor</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-magic-v2-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor Magic V2 and Browser | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/simple-steps-for-converting-your-dvds-into-avi-files-with-ease/"><u>Simple Steps for Converting Your DVDs Into AVI Files with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-to-boost-your-playstation-5-with-a-solid-state-drive/"><u>The Ultimate Walkthrough to Boost Your PlayStation 5 With a Solid State Drive</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Power Solutions : Comprehensive Testing & Reviews by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-vpn-apps-for-apple-devices-in-depth-analysis-and-reviews-by-industry-experts-zdnet/"><u>Top-Rated VPN Apps for Apple Devices: In-Depth Analysis & Reviews by Industry Experts - ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whats-new-in-icloud-apple-unveils-significant-changes-and-solutions-for-windows-users-insights/"><u>What's New in iCloud? Apple Unveils Significant Changes and Solutions for Windows Users Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-windows-woes-a-step-by-step-fix-guide-for-error-0x8024402c/"><u>Winning Against Windows Woes: A Step-by-Step Fix Guide for Error 0X8024402C</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722874147995-x-men-movie-marathon-watch-in-the-perfect-order/"><u>X-Men Movie Marathon: Watch in the Perfect Order!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-effortlessly-integrating-obs-into-your-mac-step-by-step-guide-for-2024/"><u>[Updated] Effortlessly Integrating OBS Into Your Mac Step by Step Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-glow-up-the-best-three-highlight-ideas/"><u>[Updated] In 2024, Instagram Glow Up The Best Three Highlight Ideas</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-critical-error-the-disappearance-of-comctl32dll/"><u>Fixing the Critical Error: The Disappearance of Comctl32.dll</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-interactive-realities-face-off-metaverse-and-omniverse-guide/"><u>In 2024, Interactive Realities Face-Off Metaverse & Omniverse Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-tips-on-making-a-reservation-at-the-genius-bar-in-any-apple-store/"><u>Inside Tips on Making a Reservation at the Genius Bar in Any Apple Store</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-marvel-avengers-saga-simply-superb-or-subpar-spectacle/"><u>Reviewing the Marvel Avengers Saga: Simply Superb, or Subpar Spectacle?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-on-reversion-from-windows-11-to-windows-10-with-a-twist-zdnet/"><u>Step-by-Step Guide on Reversion: From Windows 11 to Windows 10 with a Twist | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-on-wheels-teslas-autonomous-taxi-its-prospective-pricing-launch-details-uncovered/"><u>The Future on Wheels: Tesla's Autonomous Taxi, Its Prospective Pricing, Launch Details Uncovered</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722027061255-twitters-cleared-of-smileys-linuss-uncovering-trojans-breakdown-and-ai-gpt-issues-displayed/"><u>Twitters Cleared of Smileys, Linus's Uncovering, Trojans Breakdown, & AI GPT Issues Displayed.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-shell32dll-missing-and-not-detected-issues-on-your-computer/"><u>Ultimate Guide: Resolving 'Shell32.dll Missing' And 'Not Detected' Issues on Your Computer</u></a></li>
 </ul></div>
 

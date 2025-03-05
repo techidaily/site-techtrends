@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Electric Vehicles: Diving Into the Nuances Between BEVs, PHEVs, FCEVs and Hybrids"
-date: 2024-08-21T17:30:05.250Z
-updated: 2024-08-22T17:30:05.250Z
+date: 2025-03-04T21:16:48.784Z
+updated: 2025-03-05T17:52:57.564Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Guide to Electric Vehicles: Diving Into the Nuances Between BEVs, PHEVs, FCEVs and Hybrids"
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -58,9 +51,6 @@ No advertising on the website.
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -78,9 +68,6 @@ No advertising on the website.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -101,9 +88,6 @@ No advertising on the website.
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -116,9 +100,6 @@ No advertising on the website.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -127,9 +108,6 @@ No advertising on the website.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -150,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +135,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-recordings-techniques-for-your-phone/"><u>[New] Snapchat Recordings Techniques for Your Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-your-own-chatai-with-gpt-foundations/"><u>Building Your Own ChatAI with GPT Foundations</u></a></li>
+<li><a href="https://discover-data.techidaily.com/efficiently-setting-up-page-segments-for-pdf-conversion-in-flipbook-flipbuildercom/"><u>Efficiently Setting Up Page Segments for PDF Conversion in FlipBook (FlipBuilder.com)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elite-cloud-computing-solutions-industry-experts-selections-and-testing-results-pcmag/"><u>Elite Cloud Computing Solutions: Industry Experts' Selections & Testing Results | PCMag</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722856478933-enhancing-security-with-twitchs-dual-authentication-setup-and-usage-guide/"><u>Enhancing Security with Twitch's Dual Authentication: Setup and Usage Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-educational-technology-the-9-key-electronics-for-academic-success/"><u>Essential Educational Technology: The 9 Key Electronics for Academic Success</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-correcting-the-advrcntr2dll-error-within-nero-suite/"><u>Expert Advice: Correcting the Advrcntr2.dll Error Within Nero Suite</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-a38-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo A38 FRP Without Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-best-mobile-apps-tailored-for-high-school-students/"><u>The Ultimate List: Best Mobile Apps Tailored for High School Students</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-7-ultimate-car-video-editors-master-the-craft-of-autonomous-video-production/"><u>Top 7 Ultimate Car Video Editors - Master the Craft of Autonomous Video Production</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-power-of-live-view-enhance-your-google-maps-experience/"><u>Unlock the Power of Live View: Enhance Your Google Maps Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-most-recent-ipad-release-and-features/"><u>Unveiling the Most Recent iPad Release and Features</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-samsung-galaxy-note-9-reigns-supreme-in-phablet-territory/"><u>Why the Samsung Galaxy Note 9 Reigns Supreme in Phablet Territory</u></a></li>
+</ul></div>
 

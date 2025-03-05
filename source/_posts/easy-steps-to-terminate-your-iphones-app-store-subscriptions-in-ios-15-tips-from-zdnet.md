@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips From ZDNet!
-date: 2025-02-12T23:26:57.547Z
-updated: 2025-02-16T16:22:11.018Z
+date: 2025-02-28T18:13:57.286Z
+updated: 2025-03-05T18:55:35.047Z
 tags:
   - apple
 categories:
@@ -30,19 +30,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,19 +44,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -85,10 +69,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,17 +106,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unbeatable-bike-sims-showcase/"><u>[New] 2024 Approved Unbeatable Bike Sims Showcase</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-from-hype-to-highlighted-the-art-of-editing-hauls/"><u>[New] In 2024, From Hype to Highlighted The Art of Editing Hauls</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-decoding-the-metrics-for-youtube-video-hierarchy/"><u>[Updated] Decoding the Metrics for YouTube Video Hierarchy</u></a></li>
-<li><a href="https://article-files.techidaily.com/best-15-video-cameras-to-elevate-your-vlogging-game-for-2024/"><u>Best 15 Video Cameras to Elevate Your Vlogging Game for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-apple-watchs-battery-performance-transformative-tweaks-and-adjustments/"><u>Boost Your Apple Watch's Battery Performance: Transformative Tweaks & Adjustments</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/busting-the-top-4-misconceptions-in-mobile-email-campaigns-essential-insights-and-strategies-with-massmail-solutions/"><u>Busting the Top 4 Misconceptions in Mobile Email Campaigns: Essential Insights & Strategies with Massmail Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/checking-for-safe-network-connections-on-windows/"><u>Checking for Safe Network Connections on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-on-board-new-release-of-hp-projector-8710-software-windows-compatible/"><u>Get on Board - New Release of HP Projector 8710 Software (Windows Compatible)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-track-down-vanished-mobile-numbers-on-android-comprehensive-strategies-revealed/"><u>How to Track Down Vanished Mobile Numbers on Android - Comprehensive Strategies Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-35plus-unbeatable-prime-day-2024-tablet-offers-last-chance-tech-insights/"><u>Top 35+ Unbeatable Prime Day 2024 Tablet Offers - Last Chance! | Tech Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-behind-visionpro-glitches-a-comprehensive-guide-on-taking-action-insights-from-zdnet/"><u>Unraveling the Mystery Behind VisionPro Glitches: A Comprehensive Guide on Taking Action - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/update-your-desktop-zoom-meetings-windows-and-macos-compatible-instructions/"><u>Update Your Desktop Zoom Meetings – Windows & macOS Compatible Instructions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-above-and-beyond-the-ultimate-guide-to-mavic-pro/"><u>[New] Above and Beyond - The Ultimate Guide to Mavic Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-snippet-grabber-fb-to-mp3/"><u>[New] Snippet Grabber FB to Mp3</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-luminary-collage-conceptions-aesthetic-illumination-ideas/"><u>[Updated] 2024 Approved Luminary Collage Conceptions Aesthetic Illumination Ideas</u></a></li>
+<li><a href="https://video-capture.techidaily.com/4-outstanding-conversion-methods-secure-your-music-files-from-bandcamp-in-various-audio-formats-at-no-cost/"><u>4 Outstanding Conversion Methods: Secure Your Music Files From Bandcamp in Various Audio Formats at No Cost!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-504-gateway-timeouts-comprehensive-approaches-for-swift-resolution-and-recovery/"><u>Decoding 504 Gateway Timeouts: Comprehensive Approaches for Swift Resolution and Recovery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/email-safety-first-a-complete-guide-on-the-process-of-whitelist-submission/"><u>Email Safety First: A Complete Guide on the Process of Whitelist Submission</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-discs-to-digital-tracing-the-journey-of-netflixs-dvd-rental-program/"><u>From Discs to Digital: Tracing the Journey of Netflix's DVD Rental Program</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/laptop-guide-downloading-popular-movies-from-netflix-safely/"><u>Laptop Guide: Downloading Popular Movies From Netflix Safely</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-repairing-your-androids-call-capabilities-a-step-by-step-guide/"><u>Master Repairing Your Android's Call Capabilities - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-espn-plus-viewing-expert-tips-for-connecting-with-lg-smart-television-systems/"><u>Mastering ESPN Plus Viewing: Expert Tips for Connecting with LG SMART Television Systems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-vlogging-nuances-with-confidence-and-clarity/"><u>Navigating Vlogging Nuances with Confidence and Clarity</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlisted-geforce-gpu-on-pc/"><u>Unlisted GeForce GPU on PC</u></a></li>
 </ul></div>
 

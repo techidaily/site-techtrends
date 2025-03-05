@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Perfecting the Print Screen Command on Logitech Keyboards
-date: 2024-08-21T17:29:59.543Z
-updated: 2024-08-22T17:29:59.543Z
+date: 2025-02-27T20:03:58.743Z
+updated: 2025-03-05T17:26:02.621Z
 categories:
   - BestProducts
 description: This Article Describes Tips and Tricks for Perfecting the Print Screen Command on Logitech Keyboards
@@ -32,9 +32,6 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
@@ -43,12 +40,6 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Where Are My Screenshots Saved?
 
  On Windows, open the File Explorer and go to**This PC** \>**Pictures** \>**Screenshots** to see your screenshots. On Mac, screenshots are saved to the desktop.
@@ -86,8 +77,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +84,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-stepwise-approach-implementing-luts-in-adobes-premiere-suite/"><u>[New] 2024 Approved Stepwise Approach Implementing LUTs in Adobe's Premiere Suite</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-total-earning-summary-for-pewdiepie-star/"><u>[New] 2024 Approved Total Earning Summary for PewDiePie Star</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-decoding-inshot-the-ultimate-video-editing-tool-for-2024/"><u>[New] Decoding InShot The Ultimate Video Editing Tool for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-harness-the-power-of-yt-green-screens-for-imaginative-projects/"><u>[Updated] 2024 Approved Harness the Power of YT Green Screens for Imaginative Projects</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-selecting-the-perfect-drone-stabilizer-a-guide/"><u>[Updated] Selecting the Perfect Drone Stabilizer A Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ceased-epson-standby-error/"><u>Ceased Epson Standby Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deactivating-transcript-features-for-a-silent-movie-experience-in-prime-video/"><u>Deactivating Transcript Features for a Silent Movie Experience in Prime Video</u></a></li>
+<li><a href="https://driver-install.techidaily.com/digital-absence-in-third-party-info-confirmed/"><u>Digital Absence in Third-Party Info Confirmed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/emergency-tips-keeping-your-smartphone-charged-without-usual-charging-equipment/"><u>Emergency Tips: Keeping Your Smartphone Charged without Usual Charging Equipment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-horror-chronologically-watching-the-conjuring-franchise-correctly/"><u>Experience Horror Chronologically: Watching 'The Conjuring' Franchise Correctly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-on-fixing-the-notorious-code-19-error-in-windows-os/"><u>Expert Tips on Fixing the Notorious Code 19 Error in Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-finding-email-information-on-internet-platforms/"><u>Mastering the Art of Finding Email Information on Internet Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/network-discovery-settings-toggle-steps-for-windows-11-operating-system/"><u>Network Discovery Settings Toggle: Steps for Windows 11 Operating System</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/recording-google-voice-a-comprehensive-tutorial/"><u>Recording Google Voice A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-professional-5-the-ultimate-software-removal-tool/"><u>Revo Uninstaller Professional 5: The Ultimate Software Removal Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-enable-quick-login-features-in-windows-os/"><u>Step-by-Step Tutorial: Enable Quick Login Features in Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-quick-fix-how-to-optimize-and-hasten-your-computers-operation/"><u>The Quick Fix: How to Optimize and Hasten Your Computer's Operation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-tv-into-a-virtual-meeting-hub-a-tutorial-on-using-zoom/"><u>Transform Your TV Into a Virtual Meeting Hub: A Tutorial on Using Zoom</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-top-6-must-have-usage-trackers-on-windows-machines/"><u>Uncover Top 6 Must-Have Usage Trackers on Windows Machines</u></a></li>
+</ul></div>
 

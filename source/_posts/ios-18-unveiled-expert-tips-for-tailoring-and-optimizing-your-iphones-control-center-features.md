@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Expert Tips for Tailoring and Optimizing Your iPhone's Control Center Features"
-date: 2025-02-13T22:16:57.139Z
-updated: 2025-02-17T00:13:09.916Z
+date: 2025-03-04T18:32:10.968Z
+updated: 2025-03-05T16:03:36.037Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -48,29 +44,17 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,10 +69,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +106,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exclusive-guide-choosing-among-top-9-free-logo-creators/"><u>[Updated] In 2024, Exclusive Guide Choosing Among Top 9 Free Logo Creators</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-digital-boutiques-unique-personalized-present-boxes/"><u>2024 Approved Ultimate Digital Boutiques Unique, Personalized Present Boxes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-solutions-what-to-do-when-you-encounter-missing-shelldll-errors/"><u>Easy Solutions: What to Do When You Encounter Missing Shell.dll Errors</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/etsy-listing-image-ratio-advice/"><u>Etsy Listing Image Ratio Advice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-contrast-between-apples-ipad-pro-and-macbook-air-devices/"><u>Exploring the Contrast Between Apple’s iPad Pro and MacBook Air Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-free-access-to-roku-channels-without-owning-a-set-top-device/"><u>Get Free Access to Roku Channels Without Owning a Set-Top Device</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-note-12-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi Note 12 Pro 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-turn-off-the-copilot-feature-in-windows-11-for-a-clean-user-experience/"><u>How to Turn Off the Copilot Feature in Windows 11 for a Clean User Experience</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reprogram-inkjet-and-laser-drivers-for-win10-pcs/"><u>Reprogram Inkjet & Laser Drivers for Win10 PCs</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/s-top-free-video-hosting-options-for-online-publishers-for-2024/"><u>S Top Free Video Hosting Options for Online Publishers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/snagging-memories-the-ultimate-technique-for-screenshots-on-your-ps4/"><u>Snagging Memories: The Ultimate Technique for Screenshots on Your PS4</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-resolve-malwarebytes-cannot-connect-to-services-issue/"><u>Step-by-Step Guide to Resolve 'Malwarebytes Cannot Connect to Services' Issue</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-making-youtube-thumbnails-on-the-go-mobile-for-2024/"><u>The Art of Making YouTube Thumbnails on the Go (Mobile) for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-safety-of-using-duckduckgo-what-you-need-to-know-about-this-private-search-service/"><u>The Safety of Using DuckDuckGo: What You Need to Know About This Private Search Service</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-nubia-red-magic-9-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Nubia Red Magic 9 Pro FRP</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-visual-voice-message-software/"><u>Top-Rated Visual Voice Message Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ultimate-viditech-review-for-2024/"><u>Ultimate VidiTech Review for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-future-insights-on-apples-home-robot-pricing-and-availability-date/"><u>Unveiling the Future: Insights on Apple's Home Robot Pricing & Availability Date</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wireless-streaming-made-simple-fire-tv-stick-and-projector-compatibility-guide/"><u>Wireless Streaming Made Simple: Fire TV Stick and Projector Compatibility Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-trailblazers-of-the-cinematic-visual-and-auditory-fusion/"><u>[New] 2024 Approved Trailblazers of the Cinematic, Visual & Auditory Fusion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-ultimate-2023-tweet-video-roundup/"><u>[Updated] In 2024, Ultimate 2023 Tweet Video Roundup</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unveiling-5-strategies-for-fb-story-access-on-pctablet-and-phone-for-2024/"><u>[Updated] Unveiling 5 Strategies for FB Story Access on PC/Tablet and Phone for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-se-2020-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone SE (2020) Activity | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-google-pixel-fold-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Google Pixel Fold to Roku | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/amd-radeon-hd-6670-driver-download-easily/"><u>AMD Radeon HD 6670 Driver Download Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-when-you-cant-locate-opengl32dll-file/"><u>Effective Solutions for When You Can't Locate OpenGL32.dll File</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-windows-10-auditory-output-via-drivers-reinstallation/"><u>Enhance Windows 10 Auditory Output via Drivers Reinstallation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-top-10-alternatives-to-chatgpt-that-will-amaze-you/"><u>Exploring the Top 10 Alternatives to ChatGPT That Will Amaze You</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nokia-c12-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nokia C12 Lock Screen Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-tecno-spark-20-proplus-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Tecno Spark 20 Pro+? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-missing-libxml2dll-file-a-comprehensive-guide/"><u>Resolving the Missing libxml2.dll File: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sonys-roadmap-to-innovation-key-releases-news-highlights-and-expert-analysis/"><u>Sony's Roadmap to Innovation – Key Releases, News Highlights, and Expert Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-your-playstation-4-gaming-sessions/"><u>Step-by-Step Guide: Capturing Your PlayStation 4 Gaming Sessions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-restoring-wi-fi-access-for-surface-booktablet-users/"><u>Step-by-Step Guide: Restoring Wi-Fi Access for Surface Book/Tablet Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-xlive-dll-file-not-found-issues-easily/"><u>Understanding and Fixing XLive DLL File Not Found Issues Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-difference-do-tweets-get-shared-as-retweets-or-re-tweets/"><u>Understanding the Difference: Do Tweets Get Shared as 'Retweets' Or 'Re-Tweets'?</u></a></li>
 </ul></div>
 

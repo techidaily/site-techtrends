@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2025-02-13T16:33:27.061Z
-updated: 2025-02-16T20:25:52.450Z
+date: 2025-02-28T19:41:08.950Z
+updated: 2025-03-05T20:49:39.131Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -56,10 +52,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -75,10 +67,6 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -96,19 +84,11 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
@@ -160,24 +140,21 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-engaging-ways-to-use-time-with-podcast-tracks/"><u>[New] 2024 Approved Engaging Ways to Use Time with Podcast Tracks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-harnessing-imovies-potential-for-youtube-broadcasting/"><u>[New] In 2024, Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-for-fixing-missing-haldll-error-messages-in-windows-xp/"><u>Comprehensive Solutions for Fixing 'Missing hal.dll' Error Messages in Windows XP</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-for-fixing-ntdlldll-bugs-on-windows-10-8-7/"><u>Comprehensive Strategies for Fixing Ntdll.dll Bugs on Windows [10, 8, 7]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/correcting-inaccurate-activity-monitoring-in-apple-watch-tips-and-solutions/"><u>Correcting Inaccurate Activity Monitoring in Apple Watch: Tips and Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-films-on-the-house-secrets-to-finding-free-trial-offers-with-netflix/"><u>Enjoy Films on the House: Secrets to Finding Free Trial Offers with Netflix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ensuring-anonymity-learn-to-block-your-contact-details-from-showing-in-android-apps/"><u>Ensuring Anonymity: Learn to Block Your Contact Details From Showing in Android Apps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-mastering-the-art-of-partial-youtube-extraction/"><u>In 2024, Mastering the Art of Partial YouTube Extraction</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-tecno-camon-30-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Tecno Camon 30 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/missing-essential-files-learn-how-to-fix-physxloaderdll-not-found-problems/"><u>Missing Essential Files? Learn How to Fix 'PhysXLoader.dll' Not Found Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-hdcp-errors-with-ease-an-in-depth-look-at-troubleshooting-and-solutions/"><u>Navigating HDCP Errors with Ease: An In-Depth Look at Troubleshooting & Solutions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-a-journey-through-sonic-elegance-top-7-unique-sounds-for-smooth-media-transitions-for-2024/"><u>New A Journey Through Sonic Elegance Top 7 Unique Sounds for Smooth Media Transitions for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-rated-free-dailymotion-video-converter/"><u>New In 2024, Top-Rated Free Dailymotion Video Converter</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/prime-selection-of-websites-for-youtube-video-intro-download-for-2024/"><u>Prime Selection of Websites for YouTube Video Intro Download for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rigorous-testing-results-for-western-digitals-data-lifeguard-software-a-detailed-examination-by-tech-experts/"><u>Rigorous Testing Results for Western Digital's Data Lifeguard Software: A Detailed Examination by Tech Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/silent-speakers-ended-fix-for-computer-headphones/"><u>Silent Speakers Ended - Fix for Computer-Headphones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-why-doesnt-windows-11-turn-off/"><u>Step-by-Step Troubleshooting: Why Doesn't Windows 11 Turn Off?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-x50-gt-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor X50 GT Phone Network-Ready</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pgm-movavi/"><u>모바일/컴퓨터 사이트에서의 PGM 무료 데이터 매개 변환 기능 – Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-boosting-budgets-with-effective-youtube-marketing/"><u>[New] Boosting Budgets with Effective YouTube Marketing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-premier-selection-of-moving-typefaces/"><u>[New] In 2024, Premier Selection of Moving Typefaces</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-most-advanced-iphone-videography-apps/"><u>[New] Most Advanced iPhone Videography Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-freshest-beats-newly-trending-music-for-youtube-short-videos/"><u>[Updated] Freshest Beats Newly Trending Music for YouTube Short Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-nw-1-19-on-netflix-diagnosis-and-fixing-techniques/"><u>Error NW-#1-19 on Netflix: Diagnosis and Fixing Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/facebook-groups-and-pages-how-to-add-many-images-simultaneously/"><u>Facebook Groups and Pages: How To Add Many Images Simultaneously</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-se-2022-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone SE (2022) Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-mastering-the-art-of-securing-your-email-on-whois-databases/"><u>Guide: Mastering the Art of Securing Your Email on Whois Databases</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-backup-partitions-as-images-on-windows-11-8-and-7-two-effective-methods/"><u>How to Backup Partitions as Images on Windows 11, 8 & 7 – Two Effective Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-screen-burn-on-any-screen/"><u>How to Fix Screen Burn on Any Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-the-rumored-google-pixel-buds-pro-2-price-forecast-teaser-details-and-launch-info/"><u>Inside the Rumored Google Pixel Buds Pro 2 - Price Forecast, Teaser Details & Launch Info</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-reviving-all-ipad-versions-with-these-simple-restart-techniques/"><u>Master the Art of Reviving All iPad Versions with These Simple Restart Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/meet-microsoft-the-tech-giant-that-brought-you-chatgpt/"><u>Meet Microsoft: The Tech Giant That Brought You ChatGPT</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-essential-guide-to-earning-money-on-youtube-shorts-quickly/"><u>The Essential Guide to Earning Money on YouTube Shorts Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-palworld-overcoming-eos-account-login-issues-with-top-6-solutions/"><u>Troubleshooting PalWorld: Overcoming EOS Account Login Issues with Top 6 Solutions</u></a></li>
 </ul></div>
 

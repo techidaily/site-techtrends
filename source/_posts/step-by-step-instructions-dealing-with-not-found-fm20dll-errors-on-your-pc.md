@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
-date: 2025-02-10T21:47:42.175Z
-updated: 2025-02-16T17:52:19.319Z
+date: 2025-02-28T16:05:08.130Z
+updated: 2025-03-05T19:59:06.171Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 
 ## Creating Personalized Notification Tones in Gmail – Step by Step
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -27,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 * Change the sound in the drop-down menu and exit.
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
 
@@ -44,16 +36,8 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
@@ -65,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
@@ -116,14 +96,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-perfecting-yt-aesthetics-in-depth-guide-to-banner-and-art-sizing/"><u>[New] 2024 Approved Perfecting YT Aesthetics In-Depth Guide to Banner & Art Sizing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-creating-a-virtual-office-space-with-google-meet/"><u>[New] Creating a Virtual Office Space with Google Meet</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-all-round-kinetics-examination-2023/"><u>[Updated] All-Round Kinetics Examination 2023</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/bouncie-driving-connected-review-a-simple-and-affordable-gps-tracker/"><u>Bouncie Driving Connected Review: A Simple and Affordable GPS Tracker</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-setting-up-fubotv-streaming-on-your-amazon-fire-tv/"><u>Complete Guide: Setting Up FuboTV Streaming on Your Amazon Fire TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-quick-fixes-for-zoom-camera-not-working/"><u>Mastering Quick Fixes for Zoom Camera Not Working</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-market-understanding-pre-purchase-considerations-for-smartwatches-5-tips/"><u>Navigating the Market: Understanding Pre-Purchase Considerations for Smartwatches (5 Tips)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-locating-and-restoring-the-missing-ac1st16dll/"><u>Step-by-Step Guide: Locating and Restoring The Missing ac1st16.dll</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/bes-secrets-to-efficient-frame-viewing-free/"><u>YouTube's Secrets to Efficient Frame Viewing (FREE!)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ediamasher-deluxe-for-2024/"><u>[New] MediaMasher Deluxe for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sonic-shadows-the-art-of-sound-and-image-blending/"><u>[Updated] 2024 Approved Sonic Shadows The Art of Sound and Image Blending</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-google-and-apple-a-comprehensive-guide-to-their-new-smartwatches-deciding-which-one-gets-your-attention/"><u>Choosing Between Google and Apple: A Comprehensive Guide to Their New Smartwatches | Deciding Which One Gets Your Attention</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-collection-8-best-free-music-apps-for-your-iphone/"><u>Discover the Ultimate Collection: 8 Best Free Music Apps for Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-create-and-share-voicemail-memos-using-your-iphone/"><u>Easy Ways to Create and Share Voicemail Memos Using Your iPhone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-electronics-from-toms-gear-hub/"><u>Expert Insights on Electronics From Tom's Gear Hub</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-achieving-a-fresh-start-on-your-ipad-across-different-generations/"><u>Expert Tips: Achieving a Fresh Start on Your iPad Across Different Generations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-13-top-true-crime-stories-in-podcast-format/"><u>Explore 13 Top True Crime Stories in Podcast Format</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-exceptional-replacements-for-microsoft-office-the-definitive-guide-year-2024/"><u>Exploring Exceptional Replacements for Microsoft Office: The Definitive Guide (Year 2024)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-microphones-ranked-perfect-companions-for-4k-cinematography/"><u>In 2024, Best Microphones Ranked Perfect Companions for 4K Cinematography</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-look-at-tesla-robotaxi-anticipated-pricing-release-schedule-and-features-rumors-to-follow/"><u>Inside Look at Tesla Robotaxi: Anticipated Pricing, Release Schedule & Features; Rumors to Follow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-the-revolutionary-self-design-feature-customizing-your-own-moto-x-smartphone/"><u>Introducing the Revolutionary Self-Design Feature: Customizing Your Own Moto X Smartphone!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-atheros-qca61x4a-problems-on-windows-11/"><u>Resolve Atheros QCA61x4A Problems on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-for-turning-the-on-screen-keyboard-on-or-off-in-windows-10/"><u>The Ultimate Tutorial for Turning the On-Screen Keyboard On or Off in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watching-espn-plus-on-lg-smart-tvs-a-comprehensive-tutorial/"><u>Watching ESPN + on LG Smart TVs - A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

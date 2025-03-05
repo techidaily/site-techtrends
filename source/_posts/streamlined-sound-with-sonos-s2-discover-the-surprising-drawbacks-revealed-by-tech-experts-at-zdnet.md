@@ -1,7 +1,7 @@
 ---
 title: Streamlined Sound with Sonos S2? Discover the Surprising Drawbacks Revealed by Tech Experts at ZDNet
-date: 2025-02-09T23:41:02.276Z
-updated: 2025-02-17T01:54:37.496Z
+date: 2025-03-02T18:27:52.938Z
+updated: 2025-03-05T18:25:35.104Z
 tags:
   - apple
 categories:
@@ -46,10 +46,6 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. View the initial Check In notification
 
 The recipient receives a notification alerting them that you sent them a Check In with a specific time. After tapping OK, the recipient is asked if they want to allow critical alerts, which they should do. A text message then displays the time when they'll receive the alert that you reached your destination.
@@ -66,19 +62,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -104,19 +92,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,19 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-from-novice-to-nexus-earning-the-status-as-a-validated-discord-partner-for-2024/"><u>[New] From Novice to Nexus Earning the Status as a Validated Discord Partner for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-a-novices-roadmap-to-youtube-traffic-success-for-2024/"><u>[Updated] A Novice's Roadmap to YouTube Traffic Success for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-top-tips-to-mastering-the-art-of-hashtag-creation-on-youtube/"><u>[Updated] Top Tips to Mastering the Art of Hashtag Creation on YouTube</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-most-recent-advancement-in-tablet-technology-a-closer-look-at-the-new-ipad-generation/"><u>Apple's Most Recent Advancement in Tablet Technology: A Closer Look at the New iPad Generation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-exceptional-qi2-universal-charging-hub-a-must-have-accessory-for-every-apple-enthusiast-explore/"><u>Discover the Exceptional Qi2 Universal Charging Hub, a Must-Have Accessory for Every Apple Enthusiast | Explore</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/introducing-the-revolutionary-trio-lens-drone-how-its-redefining-skyward-imaging-tech/"><u>Introducing the Revolutionary Trio-Lens Drone – How It's Redefining Skyward Imaging Tech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-ultra-high-definition-is-an-experts-guide-to-choosing-your-first-8k-tv-worth-it/"><u>Navigating the World of Ultra-High Definition: Is an Expert's Guide to Choosing Your First 8K TV Worth It?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/switching-sides-how-the-new-iphone-16s-top-features-could-convert-android-loyalists/"><u>Switching Sides: How the New iPhone 16'S Top Features Could Convert Android Loyalists</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-tutorial-on-creating-versatile-filters-in-gmail/"><u>The Complete Tutorial on Creating Versatile Filters in Gmail</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-airtag-enhancements-for-2amoyue-2024-in-depth-testing-and-analysis-featuring-expert-insights-zdnet/"><u>Ultimate Guide to AirTag Enhancements for 2Amoyue 2024: In-Depth Testing and Analysis Featuring Expert Insights | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-did-apple-inform-me-about-the-multiple-floors-im-navigating-unveiling-the-mystery-behind-my-increasing-steps/"><u>Why Did Apple Inform Me About the Multiple Floors I'm Navigating? Unveiling the Mystery Behind My Increasing Steps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-expedition-manual-launching-a-career-in-travel-blogging/"><u>[New] In 2024, The Ultimate Expedition Manual Launching a Career in Travel Blogging</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ps5-visual-mastery-premium-21-hdmi-monitors-for-gamers-for-2024/"><u>[New] PS5 Visual Mastery Premium 2.1 HDMI Monitors for Gamers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-angle-arsenal-samsung-vs-lg-comparison/"><u>[New] The Ultimate Angle Arsenal Samsung Vs LG Comparison</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-10-proven-techniques-for-mastering-the-art-of-tiktok-marketing-for-2024/"><u>[Updated] 10 Proven Techniques for Mastering the Art of TikTok Marketing for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-affordable-options-selecting-the-right-cam-for-your-needs/"><u>[Updated] In 2024, Affordable Options Selecting the Right Cam for Your Needs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-others-facing-nintendo-switch-online-disruption-too-or-is-it-an-individual-glitch/"><u>Are Others Facing Nintendo Switch Online Disruption Too, or Is It an Individual Glitch?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-flash-video-player-apps-for-macos-top-picks-and-features-compared/"><u>Best Flash Video Player Apps for macOS: Top Picks & Features Compared</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-in-computer-hardware-through-toms-expert-reviews/"><u>Discover the Latest in Computer Hardware Through Tom's Expert Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-opaque-or-darkened-mobile-screens-on-your-android-smartphone/"><u>Effective Fixes for Opaque or Darkened Mobile Screens on Your Android Smartphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-resolve-haldll-error-issues-on-windows-11108vista/"><u>Effective Solutions to Resolve hal.dll Error Issues on Windows 11/10/8/Vista</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-facebook-game-discover-5-productivity-hacks-for-social-media-success/"><u>Elevate Your Facebook Game: Discover 5 Productivity Hacks for Social Media Success</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-resolving-launchdll-cannot-be-found-problems-quickly-and-effectively/"><u>Expert Advice: Resolving 'Launch.dll Cannot Be Found' Problems Quickly and Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-an-online-compatible-tv-work-understanding-the-basics-and-benefits/"><u>How Does an Online-Compatible TV Work? Understanding the Basics and Benefits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-factory-reset-a-lenovo-laptop/"><u>How to Factory Reset a Lenovo Laptop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-smartphone-snaps-guide-for-ios-devices/"><u>Maximizing Smartphone Snaps: Guide for iOS Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/polishing-zoom-picture-quality-simple-solutions/"><u>Polishing Zoom Picture Quality Simple Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-javascript-file-jsksriptdll-absence-issues/"><u>Solving JavaScript File 'jsksript.dll' Absence Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-effective-management-of-your-tweets-with-a-content-calendar/"><u>Step-by-Step Tutorial: Effective Management of Your Tweets with a Content Calendar</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-apple-ipad-air-2019-a-game-changer-in-media-consumption/"><u>The Ultimate Guide to Apple iPad Air (2019) - A Game Changer in Media Consumption</u></a></li>
 </ul></div>
 

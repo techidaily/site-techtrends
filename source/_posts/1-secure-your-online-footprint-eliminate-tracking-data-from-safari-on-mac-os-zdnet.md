@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2025-02-12T02:09:05.478Z
-updated: 2025-02-17T01:01:49.381Z
+date: 2025-03-03T17:25:07.395Z
+updated: 2025-03-05T16:24:02.188Z
 tags:
   - apple
 categories:
@@ -46,17 +46,9 @@ Let me show you how to enable this feature.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to remove tracking information in MacOS Safari
 
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
 
@@ -65,10 +57,6 @@ The first thing to do is open the Safari browser. Once it's open, click the Safa
 You can also access Safari settings with the Cmd+, key combination.
 
 Jack Wallen/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
 
@@ -119,21 +107,16 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-screen-saver-games-the-top-9-independent-titles-for-android-no-wi-fi/"><u>[New] 2024 Approved Screen-Saver Games The Top 9 Independent Titles for Android (No Wi-Fi)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-unusual-moisture-found-in-iphone-charging-port-what-can-be-done/"><u>1. Unusual Moisture Found in iPhone Charging Port: What Can Be Done?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-seamless-screen-effects-3-simple-shifting-methods/"><u>2024 Approved Seamless Screen Effects 3 Simple Shifting Methods</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-transforming-youtube-descriptions-leveraging-template-power/"><u>2024 Approved Transforming YouTube Descriptions Leveraging Template Power</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/begin-the-stream-an-introduction-to-instagram-lives/"><u>Begin the Stream An Introduction to Instagram Lives</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/niently-share-your-videos-youtube-shorts-mobilecomputer-tips-for-2024/"><u>Conveniently Share Your Videos YouTube Shorts Mobile/Computer Tips for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-latest-airpods-pro-4-with-cutting-edge-find-my-speaker-and-usb-c-compatibility-tech-news/"><u>Discover the Latest: AirPods Pro 4 with Cutting-Edge Find My Speaker & USB-C Compatibility | Tech News</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-elevate-your-shots-the-ultimate-action-cam-accessory-list/"><u>In 2024, Elevate Your Shots The Ultimate Action Cam Accessory List</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2065481-9781785350085-live-in-the-moment-including-zen-and-the-art-of-healing/"><u>Live in the Moment, Including Zen and the Art of Healing | Free Book</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tailored-transmission-terminal-podcasters-hub/"><u>Tailored Transmission Terminal Podcaster's Hub</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-perfect-selection-of-video-game-consoles-and-toys-for-budding-gamers/"><u>The Perfect Selection of Video Game Consoles and Toys for Budding Gamers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-7-free-educational-apps-perfect-for-school-beginnings/"><u>Top 7 Free Educational Apps Perfect for School Beginnings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-ranking-2024-stylus-tablets-comprehensive-reviews-by-tech-specialists/"><u>Top-Ranking 2024 Stylus Tablets: Comprehensive Reviews by Tech Specialists</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-customizing-folder-and-subfolder-previews-on-macos/"><u>Ultimate Guide: Customizing Folder and Subfolder Previews on macOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unpacking-the-appeal-of-affordable-apple-earpods-with-usb-c-at-prime-deals-a-zdnet-perspective/"><u>Unpacking the Appeal of Affordable Apple EarPods with USB-C at Prime Deals - A ZDNet Perspective</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-mobile-screen-recording-in-snapchat/"><u>[New] 2024 Approved Mastering Mobile Screen Recording in Snapchat</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-obs-and-shadowplay-which-streams-better/"><u>[Updated] In 2024, Obs and ShadowPlay - Which Streams Better?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-poco-c51-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Poco C51 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-insights-resetting-bios-settings-through-the-cmos-method-explained/"><u>Expert Insights: Resetting BIOS Settings Through the CMOS Method Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-pitch-to-peak-steps-for-effective-adobe-audition-fades-for-2024/"><u>From Pitch to Peak Steps for Effective Adobe Audition Fades for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/future-of-driving-with-apple-in-depth-look-at-the-expected-release-schedule-car-specs-and-market-prices/"><u>Future of Driving with Apple: In-Depth Look at the Expected Release Schedule, Car Specs & Market Prices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2023-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2023 | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-set-up-browser-cookies-to-enhance-online-experience-and-security/"><u>How To Set Up Browser Cookies to Enhance Online Experience and Security</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-choosing-between-tiktok-and-youtube-shorts-a-users-guide/"><u>In 2024, Choosing Between TikTok and YouTube Shorts A User's Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722850084484-mastering-online-content-with-expertly-chosen-html-editors-no-costs-involved/"><u>Mastering Online Content with Expertly Chosen HTML Editors, No Costs Involved</u></a></li>
+<li><a href="https://techtrends.techidaily.com/playing-pokemon-unite-on-pc-a-comprehensive-beginners-handbook/"><u>Playing Pokémon Unite on PC: A Comprehensive Beginner's Handbook</u></a></li>
 </ul></div>
 

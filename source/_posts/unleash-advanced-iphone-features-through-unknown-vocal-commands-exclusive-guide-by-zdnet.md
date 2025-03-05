@@ -1,7 +1,7 @@
 ---
 title: Unleash Advanced iPhone Features Through Unknown Vocal Commands | Exclusive Guide by ZDNet
-date: 2024-11-16T23:15:04.067Z
-updated: 2024-11-18T20:46:29.255Z
+date: 2025-03-04T21:50:58.956Z
+updated: 2025-03-05T19:03:53.720Z
 tags:
   - apple
 categories:
@@ -68,13 +68,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -117,13 +110,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -134,13 +120,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -166,13 +145,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,14 +190,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-make-slow-motion-videos-on-instagram-reels/"><u>[New] How to Make Slow Motion Videos on Instagram Reels</u></a></li>
-<li><a href="https://techtrends.techidaily.com/blue-screen-solution-how-to-correctly-address-error-0x0000005c-on-your-pc/"><u>Blue Screen Solution: How to Correctly Address Error 0X0000005C on Your PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/stop-the-endless-pop-ups-mastering-how-to-fix-cmd-issue-on-windows-10-and-11-13-solutions/"><u>Stop the Endless Pop-Ups: Mastering How to Fix CMD Issue on Windows 10 and 11 (13 Solutions)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-essential-skills-editing-blurring-and-background-removal-for-2024/"><u>The Essential Skills Editing, Blurring, and Background Removal for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-assembling-your-personal-movie-night-projector-screen/"><u>The Ultimate Guide: Assembling Your Personal Movie Night Projector Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-visual-voicemail-solutions-for-smartphones-reviews-and-comparisons/"><u>Top 5 Visual Voicemail Solutions for Smartphones – Reviews & Comparisons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125150499-unbeatable-deal-get-black-tpu-filament-at-a-record-low-of-16kg-perfect-for-your-3d-printer/"><u>Unbeatable Deal: Get Black TPU Filament at a Record Low of $16/Kg – Perfect for Your 3D Printer!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/voice-assistant-face-off-deciding-between-amazons-alexa-or-googles-ai/"><u>Voice Assistant Face-Off: Deciding Between Amazon's Alexa or Google's AI</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-self-assured-vlogging-channeling-youtube-stars-for-2024/"><u>[New] Mastering Self-Assured Vlogging Channeling YouTube Stars for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snappy-photo-assembly-your-quick-google-collages-blueprint/"><u>2024 Approved Snappy Photo Assembly Your Quick Google Collages Blueprint</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-f14-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-troubleshoot-and-resolve-the-windows-10-taskbar-malfunction-a-comprehensive-guide/"><u>How to Troubleshoot and Resolve the Windows 10 Taskbar Malfunction: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-unfreeze-a-computer-in-windows-11/"><u>How to Unfreeze a Computer in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-desktop-imagery-windows-11-screen-capture-guide/"><u>Mastering Desktop Imagery: Windows 11 Screen Capture Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-directx-update-in-windows-111n-a-quick-straightforward-approach/"><u>Mastering DirectX Update in Windows 11/1N - A Quick, Straightforward Approach</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-driver-management-a-user-friendly-guide-for-updating-usb-drivers-in-windows-versions/"><u>Mastering Driver Management: A User-Friendly Guide for Updating USB Drivers in Windows Versions</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-encryption-breakthroughs-a-comprehensive-bitlocker-data-restoration-tutorial/"><u>Mastering Encryption Breakthroughs: A Comprehensive BitLocker Data Restoration Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/setting-up-your-zone-for-top-notch-oculus-vr-experience-for-2024/"><u>Setting Up Your Zone for Top-Notch Oculus VR Experience for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-pc-compatibility-and-crash-problems-in-nba-2k21/"><u>Troubleshooting Guide: Resolving PC Compatibility and Crash Problems in NBA 2K21</u></a></li>
 </ul></div>
 

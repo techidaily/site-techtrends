@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Your Oculus Quest/Quest E2 Profile"
-date: 2024-08-21T17:31:27.462Z
-updated: 2024-08-22T17:31:27.462Z
+date: 2025-02-27T18:04:11.204Z
+updated: 2025-03-05T17:20:42.159Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Setting Up Your Oculus Quest/Quest E2 Profile"
@@ -24,30 +24,17 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 
 1. Record a new video snap in the app by tapping and holding the**record** button. Your video must be less than 10 seconds for the reverse filter to be available.  
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### Note  
 
  You can apply the reverse filter effect only to videos that you've recorded on Snapchat. You won't be able to reverse video snaps from videos you[uploaded to Snapchat from your device](https://www.lifewire.com/upload-saved-photos-or-videos-to-snapchat-4103878) .
 2. **Swipe left** on your video snap preview to browse through the filters until you see three reverse arrows (<<<) appear over your video. It applies to the reverse video filter, which will automatically play your video in reverse as a preview. Any sound in the video will also play in reverse.  
 ![Steps to take to reverse a video on Snapchat with the record button and Reverse Filter icon highlighted](https://www.lifewire.com/thmb/fC-N-GZHtzhS6HfpjU3plsvT7c4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/123Reversesnapchat-21fd401ccb4347e3ab99f6189284d3a6.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip  
 
  The reverse video filter is about the eighth filter when swiping to the left. You can find the reverse filter by swiping right through filters, but that will take you longer to get to it. Some filters let you speed up your video snap (**rabbit** filter) or slow it down (**snail** filter).
 3. Optionally, add more effects (text, stickers, drawings, etc.) to your video snap. Tap**Send To** to send it to friends and/or post it to your stories.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## When to Apply the Reverse Filter on Video Snaps
 
  Reversing your video snaps is a fun way to showcase a series of events backward. This filter is often best applied to action-packed videos.
@@ -83,8 +70,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +77,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-a-step-by-step-guide-turning-viral-soundtracks-into-personal-ringtones/"><u>[Updated] A Step-by-Step Guide Turning Viral Soundtracks Into Personal Ringtones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-video-call-capturing-on-devices/"><u>[Updated] In 2024, The Ultimate Guide to Video Call Capturing on Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722896071641-chromebook-not-responding-here-are-8-repair-tactics/"><u>Chromebook Not Responding? Here Are 8 Repair Tactics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-neo-qled-and-oled-screens-which-offers-superior-picture-quality/"><u>Comparing Neo QLED and OLED Screens: Which Offers Superior Picture Quality?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-our-picks-the-greatest-free-picture-editors-available/"><u>Explore Our Picks: The Greatest FREE Picture Editors Available</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-effective-is-chatgpt-at-tackling-complex-number-calculations/"><u>How Effective Is ChatGPT at Tackling Complex Number Calculations?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-twitch-rooms-the-top-confusions-facing-first-time-viewers/"><u>Navigating Twitch Rooms: The Top Confusions Facing First-Time Viewers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/sports-and-screen-capture-the-best-ways-to-document-the-action-for-2024/"><u>Sports and Screen Capture The Best Ways to Document the Action for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-art-of-revisiting-your-private-snap-history-for-2024/"><u>The Art of Revisiting Your Private Snap History for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-digital-assistance-siri-joins-forces-with-bing-for-a-revolutionary-apple-experience-techvibes/"><u>Transforming Digital Assistance: Siri Joins Forces with Bing for a Revolutionary Apple Experience | TechVibes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wireless-printing-made-simple-setting-up-printer-sharing-on-all-connected-devices/"><u>Wireless Printing Made Simple: Setting up Printer Sharing on All Connected Devices</u></a></li>
+</ul></div>
 

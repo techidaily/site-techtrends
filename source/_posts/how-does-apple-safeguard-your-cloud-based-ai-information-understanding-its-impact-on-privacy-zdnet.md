@@ -1,7 +1,7 @@
 ---
 title: How Does Apple Safeguard Your Cloud-Based AI Information? Understanding Its Impact on Privacy | ZDNet
-date: 2024-11-14T02:31:54.961Z
-updated: 2024-11-19T03:23:54.151Z
+date: 2025-03-01T16:34:05.153Z
+updated: 2025-03-05T18:07:51.419Z
 tags:
   - apple
 categories:
@@ -45,13 +45,6 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
@@ -64,13 +57,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -78,13 +64,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -124,13 +103,6 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Alternatives to consider
 
 [BEST iPHONE ALTERNATIVE iPhone 14 Pro Bargain hunters should check the iPhone 13 Pro. It's a solid mobile device even to this day as the model manages to maintain great performance and fun camera modes not seen on base phones. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN96HVTW%2Fref%3Dasc%5Fdf%5FB0BN96HVTW1725620400000%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C777d0fca-f6cd-443a-8b4c-1451d47db9af%7Cdtp&dtb=1)[BEST ANDROID ALTERNATIVE Samsung Galaxy S24 Plus If you have a little bit more cash to spare, the Galaxy S24 Plus is a great Android alternative. The S24 Plus boasts more memory, a bigger 50MP lens, and its own unique set of AI features. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Smartphone-Unlocked-Android-Titanium%2Fdp%2FB0CMDL3H3V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C777d0fca-f6cd-443a-8b4c-1451d47db9af%7Cdtp&dtb=1)
@@ -165,14 +137,16 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-fast-track-to-zooming-proficiency/"><u>[New] The Fast Track to Zooming Proficiency</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-gamers-eden-record-without-paying-in-24/"><u>[Updated] In 2024, Gamers' Eden Record Without Paying in '24</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-visual-excellence-criteria-for-top-10-smartphones-with-high-resolution-cameras/"><u>2024 Approved Visual Excellence Criteria for Top 10 Smartphones with High-Resolution Cameras</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-ubisoft-connect-failures-expert-tips-and-tricks/"><u>Dealing with Ubisoft Connect Failures: Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-resolve-borderlands-3-stuttering-and-stop-game-lag/"><u>Expert Tips: Resolve Borderlands 3 Stuttering & Stop Game Lag</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximize-deals-with-these-6-essential-coupon-sites/"><u>Maximize Deals with These 6 Essential Coupon Sites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/order-of-heroism-the-definitive-way-to-experience-the-superman-movies-from-start-to-finish/"><u>Order of Heroism: The Definitive Way to Experience the Superman Movies From Start to Finish</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722896229245-top-9-no-cost-languages-you-can-learn-online-today/"><u>Top 9 No-Cost Languages You Can Learn Online Today!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-not-found-errors-with-d3dx-library-files-d3dx939dll/"><u>Troubleshooting Not Found Errors with D3DX Library Files (d3dx9_39.dll)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-costless-webinars-on-youtube-a-handbook-for-2024/"><u>Creating Costless Webinars on YouTube A Handbook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-elevated-permission-error-in-windows-11-10-and-7/"><u>How to Resolve the 'Elevated Permission' Error in Windows 11, 10 and 7</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-rise-and-shine-on-these-overlooked-meme-platforms/"><u>In 2024, Rise and Shine on These Overlooked Meme Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/merging-your-favorite-tunes-a-step-by-step-guide-to-combining-spotify-playlists/"><u>Merging Your Favorite Tunes: A Step-by-Step Guide to Combining Spotify Playlists</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-the-windows-11-control-panel-easily/"><u>Step-by-Step Guide: Accessing the Windows 11 Control Panel Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-easy-way-to-get-started-with-your-brother-printer-installation/"><u>The Easy Way to Get Started with Your Brother Printer Installation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-downloading-and-converting-dvd-films-on-your-windows-10-system/"><u>The Ultimate Guide to Downloading & Converting DVD Films on Your Windows 10 System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-realme-12-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Realme 12 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-solar-powered-outdoor-lanterns-reviews-and-buyers-guide/"><u>Top 5 Solar-Powered Outdoor Lanterns : Reviews and Buyer's Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-high-memory-use-on-windows-11-a-complete-guide/"><u>Troubleshooting High Memory Use on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ate-watchlist-youtubes-greatest-hits-for-2024/"><u>Ultimate Watchlist YouTube's Greatest Hits for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore Apple's New Range: Enhanced 13-Inch and 15-Inch MacBook Air with M3 Chip Launch | Insightful Review & Specs Update From ZDNET"
-date: 2025-02-14T17:42:02.128Z
-updated: 2025-02-16T17:25:49.421Z
+date: 2025-02-26T20:36:50.962Z
+updated: 2025-03-05T18:27:46.549Z
 tags:
   - apple
 categories:
@@ -47,10 +47,6 @@ It's a challenge that Apple seems to have relished, as the new [16-inch MacBook 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Design & features
 
 At first glance, the new MacBook Pro doesn't look dramatically different from its Intel-based predecessor, which was last updated in [late 2019](https://www.zdnet.com/product/apple-macbook-pro-16-inch-2019/). However, closer examination reveals some significant differences, starting with Apple's decision to abandon the unloved Touch Bar. This has been replaced by a more traditional row of physical function keys (now there's innovation for you), including a much larger Escape key, which is a welcome detail. The entire keyboard has also been updated, with "mechanical keys that pro users love" and which do, thankfully, travel well and feel firm when typing. 
@@ -87,10 +83,6 @@ Connectors on the 2021 16-inch MacBook Pro: MagSafe 3, 2x USB-C/Thunderbolt 4, 3
 
 Image: Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Price & options
 
 Needless to say, there's a cost to all these new and improved features. As always, Apple provides three standard configurations in its [online store](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch), with the new 16-inch MacBook Pro starting at $2,499 (£2,399 inc. VAT) with an M1 Pro chip that provides 10 CPU cores and 16 GPU cores, along with 16GB of 'unified' memory that's built into the SoC, and 512GB of solid-state storage. 
@@ -98,10 +90,6 @@ Needless to say, there's a cost to all these new and improved features. As alway
 The next step up simply doubles the storage to 1TB for an additional $200/£200, but we were able to review the top-of-the-range off-the-shelf configuration with the M1 Max chip. The M1 Max has the same 10 CPU cores, but doubles the GPU to 32 cores, and includes 32GB of on-chip RAM and a 1TB SSD for a total price of $3,499 (£3,299 inc. VAT). 
 
 Additional upgrade options allow you to increase the memory to 64GB for a hefty $400/£400, and add up to 8TB of SSD storage (+$2,200/£2,200), for a top price of $6,099 (£5,899 inc. VAT). To be fair, that's not out of line with similar high-end mobile workstations, such as Dell's [Precision 5750](https://www.zdnet.com/article/best-laptop-for-graphic-design/), but it does mean that a maxed-out MacBook Pro really needs to earn its keep. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Performance & battery life
 
@@ -122,10 +110,6 @@ Apple's claim that the new MacBook Pro provides performance that was "previously
 There's battery life to consider too, of course, and this is increasingly starting to look like Apple's ace-in-the-hole for laptops and mobile devices. Using the MacBook's automatic power balancing features, and with the screen brightness set to 50 percent, we were able to stream full-screen video from the BBC iPlayer for 11 hours and 42 minutes. That's unheard-of from a laptop with such a large, high-resolution display, with rivals such as the Dell Precision 5750 only managing just over seven hours. Of course, battery performance will vary when running more demanding graphics and video software, but the new MacBook Pro really does look as though it can offer workstation levels of performance, combined with all-day battery life. 
 
 [Apple 16-inch MacBook Pro $3,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch-space-gray-10-core-cpu-32-core-gpu-1tb%23&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Conclusions
 
@@ -172,17 +156,18 @@ The new 16-inch MacBook Pro is expensive, but the top-end M1 Max chip proves tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-gigglegraphics-visual-humor-studio/"><u>[New] 2024 Approved GiggleGraphics Visual Humor Studio</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-high-precision-display-unveiled-hp-dreamcolor-z32x/"><u>[New] 2024 Approved High Precision Display Unveiled HP DreamColor Z32X</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/converti-gratuitamente-file-wav-in-formato-flac-con-soluzione-online-movevvi/"><u>Converti Gratuitamente File WAV in Formato FLAC Con Soluzione Online - Movevvi</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/dvd-query/"><u>DVDコピーを使わずに「鬼� # Query</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/easy-methods-for-changing-dts-recordings-into-mp3-format/"><u>Easy Methods for Changing DTS Recordings Into MP3 Format</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guffaw-generator-pictorial-mixer-for-2024/"><u>Guffaw Generator Pictorial Mixer for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722904023352-iphone-users-guide-to-preventing-unwanted-calls-from-private-numbers/"><u>IPhone Users Guide to Preventing Unwanted Calls From Private Numbers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionize-your-home-cinema-hitachis-4k-uhd-televisions-combined-with-in-built-roku-for-hassle-free-access-to-content/"><u>Revolutionize Your Home Cinema: Hitachi's 4K UHD Televisions Combined with In-Built Roku for Hassle-Free Access to Content</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/syncopated-screecher-symphony/"><u>Syncopated Screecher Symphony</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722873237636-the-secret-side-of-emojis-uncover-these-incredible-facts-you-never-heard-before/"><u>The Secret Side of Emojis: Uncover These Incredible Facts You Never Heard Before</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-for-horizontalvertical-lines-on-televisions/"><u>Troubleshooting Techniques for Horizontal/Vertical Lines on Televisions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-optimizing-your-viewing-experience-with-expert-super-bowl-entertainment-setups/"><u>Ultimate Guide: Optimizing Your Viewing Experience with Expert Super Bowl Entertainment Setups</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-right-to-appeal-removed-videos-from-facebooks-domain-for-2024/"><u>[New] The Right to Appeal Removed Videos From Facebook's Domain for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-viewer-payouts-for-video-engagement/"><u>[New] Viewer Payouts for Video Engagement</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-vita-video-editor-app-review/"><u>[New] Vita Video Editor App Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-packaging-to-prowess-marketings-unboxed-secrets/"><u>[Updated] Packaging to Prowess Marketing's Unboxed Secrets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-facebook-launching-your-first-phenomenal-giving-post/"><u>2024 Approved Facebook Launching Your First Phenomenal Giving Post</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unveiling-hottest-fifa-football-content-on-youtube/"><u>2024 Approved Unveiling Hottest FIFA Football Content on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-y36i-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo Y36i to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-internet-fairness-with-insights-into-net-neutrality/"><u>Demystifying Internet Fairness with Insights Into Net Neutrality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-infinix-note-30-vip-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Infinix Note 30 VIP to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ios-app-store-vs-google-play-store-a-detailed-comparison-for-developers/"><u>IOS App Store Vs. Google Play Store: A Detailed Comparison for Developers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsungs-latest-innovation-the-galaxy-z-flip-6-key-attributes-expected-release-dates-and-cost-information/"><u>Samsung's Latest Innovation: The Galaxy Z Flip 6 - Key Attributes, Expected Release Dates, and Cost Information</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-teleconferencing-integrating-zoom-meetings-with-your-smart-tv-setup/"><u>Seamless Teleconferencing: Integrating Zoom Meetings with Your Smart TV Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-freelancing-with-chatgpt-discover-these-6-powerful-applications/"><u>Transforming Freelancing with ChatGPT: Discover These 6 Powerful Applications</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Accessories Are Included with a New Nintendo Switch Purchase?
-date: 2025-02-09T20:27:19.082Z
-updated: 2025-02-16T22:46:26.911Z
+date: 2025-03-01T21:34:50.831Z
+updated: 2025-03-05T18:14:32.548Z
 categories:
   - BestProducts
 description: This Article Describes What Accessories Are Included with a New Nintendo Switch Purchase?
@@ -24,10 +24,6 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
 _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
@@ -35,10 +31,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
@@ -66,10 +58,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Play Together With Your Buddy in 'Pokémon Go'
 
  The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
@@ -86,19 +74,11 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
 
@@ -139,17 +119,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/iscovering-2023s-cinematic-hidden-gems/"><u>[New] Discovering 2023'S Cinematic Hidden Gems</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-engagement-mastery-how-to-craft-instagrams-best-puzzles/"><u>[New] Engagement Mastery How to Craft Instagram's Best Puzzles</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-expert-insights-into-crafting-dynamic-youtube-shorts-templates-for-2024/"><u>[New] Expert Insights Into Crafting Dynamic YouTube Shorts Templates for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-guide-overlaying-photos-digitally/"><u>[New] The Ultimate Guide Overlaying Photos Digitally</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/our-viewing-experience-onboarding-av1-in-youtube-for-2024/"><u>Ace Your Viewing Experience Onboarding AV1 in YouTube for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/avoiding-common-driver-incompatibilities-a-guide-to-optimize-your-rainbow-six-extraction-play/"><u>Avoiding Common Driver Incompatibilities: A Guide to Optimize Your Rainbow Six Extraction Play</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-qi2-multi-functional-charger-a-dream-come-true-for-apple-enthusiasts-explored-on-zdnet/"><u>Discover the Ultimate Qi2 Multi-Functional Charger: A Dream Come True for Apple Enthusiasts - Explored on ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-swift-art-of-moving-your-macbook-files-expert-tips-for-hassle-free-transfer-processes/"><u>Master the Swift Art of Moving Your MacBook Files: Expert Tips for Hassle-Free Transfer Processes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-4-apple-devices-with-questionable-value-what-to-avoid-today-insights/"><u>Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upcoming-android-16-details-revealed-free-version-launch-timeline-and-performance-specs/"><u>Upcoming Android 16 Details Revealed: Free Version, Launch Timeline, and Performance Specs</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-animation-tools-for-schools-for-2024/"><u>Updated The Ultimate List of Animation Tools for Schools for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/valorant-trouble-how-to-successfully-initialize-the-vanguard-agent-skin/"><u>Valorant Trouble? How to Successfully Initialize the Vanguard Agent Skin</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unveil-the-power-of-storytelling-in-your-facebook-bio-for-2024/"><u>[Updated] Unveil the Power of Storytelling in Your Facebook Bio for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/affordable-hd-action-cameras-for-extreme-exposure/"><u>Affordable HD Action Cameras for Extreme Exposure</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-iphone-gps-software-picks-for-navigating-with-ease/"><u>Best iPhone GPS Software Picks for Navigating with Ease</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/capturing-moving-images-mirrorless-versus-dslr-for-2024/"><u>Capturing Moving Images Mirrorless Versus DSLR for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compatibility-guide-using-airpods-with-the-nintendo-switch/"><u>Compatibility Guide: Using AirPods with the Nintendo Switch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-advice-elevating-your-nba-live-viewing/"><u>Expert Advice Elevating Your NBA Live Viewing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-wet-weather-prowess-of-iphone-15s-defense-capabilities/"><u>Exploring the Wet Weather Prowess of iPhone 15'S Defense Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-espns-cutting-edge-streaming-option-espnplus-revolutionize-the-viewing-experience/"><u>How Does ESPN's Cutting-Edge Streaming Option, ESPN+, Revolutionize the Viewing Experience?</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-troubleshoot-a-black-screen-issue-on-your-windows-display-tips-from-yl-computing/"><u>How to Troubleshoot a Black Screen Issue on Your Windows Display - Tips From YL Computing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-green-screen-software-for-android-and-ios-free-download-for-2024/"><u>New Top-Rated Green Screen Software for Android and iOS (Free Download) for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-viewing-tips-for-catching-the-latest-samsung-unpacked-showcase/"><u>Online Viewing Tips for Catching the Latest Samsung Unpacked Showcase</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/securing-your-files-in-windows-a-step-by-step-guide-to-setting-passwords-expert-tips-from-yl-computing/"><u>Securing Your Files in Windows: A Step-by-Step Guide to Setting Passwords - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-triumph-of-nintendos-wii-u-understanding-its-success-story/"><u>The Triumph of Nintendo's Wii U: Understanding Its Success Story</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-best-value-gaming-monitors-for-2cu24-from-economical-choices-to-elite-curved-panels-and-synchronized-graphics/"><u>The Ultimate List of Best Value Gaming Monitors for 2Cu24: From Economical Choices to Elite Curved Panels and Synchronized Graphics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-apple-watch-touchscreen/"><u>Troubleshooting Guide: Fixing a Non-Responsive Apple Watch Touchscreen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-dealing-with-launchdll-file-disappearances/"><u>Troubleshooting Tips for Dealing with 'Launch.dll' File Disappearances</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watching-free-films-explore-these-11-must-visit-movie-downloading-websites/"><u>Watching FREE Films? Explore These 11 Must-Visit Movie Downloading Websites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-essential-netgear-password-directory-for-july-2024/"><u>Your Essential NETGEAR Password Directory for July 2024</u></a></li>
 </ul></div>
 

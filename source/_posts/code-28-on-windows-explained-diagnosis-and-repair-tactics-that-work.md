@@ -1,7 +1,7 @@
 ---
 title: "Code 28 on Windows Explained: Diagnosis & Repair Tactics That Work"
-date: 2024-08-26T07:42:39.721Z
-updated: 2024-08-27T07:42:39.721Z
+date: 2025-02-26T16:43:09.456Z
+updated: 2025-03-05T18:25:49.241Z
 categories:
   - BestProducts
 description: "This Article Describes Code 28 on Windows Explained: Diagnosis & Repair Tactics That Work"
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
  It's also possible that the device is not compatible with this version of Windows. You can check the[Windows HCL](https://www.lifewire.com/what-is-the-windows-hardware-compatibility-list-2625914) to be sure.  
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Causes of a Code 28 Error
 
  The Code 28 error is one of several possible [Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) you could see for a piece of hardware. As mentioned above, it's almost always caused by a missing driver for that particular piece of hardware.
@@ -55,11 +52,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 ![Device error Code 28 on Windows 10 desktop](https://www.lifewire.com/thmb/nu2GconMBW2tTuJo6e9kYszSKe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-28-device-manager-error-3d84945a44e0467080dc5a77005500e2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) . If you see the Code 28 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) that you should not troubleshoot as a Device Manager problem.
 
  FAQ
@@ -91,8 +83,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +90,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-fb-live-streaming-to-perfect-mp3-format-2023-converter-for-2024/"><u>[New] FB Live Streaming to Perfect MP3 Format - 2023 Converter for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-speedy-steps-scribbling-down-slides-in-ppt-for-2024/"><u>[New] Speedy Steps Scribbling Down Slides in PPT for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-effortlessly-post-videos-on-youtube-with-our-expert-guide/"><u>[Updated] 2024 Approved Effortlessly Post Videos on YouTube with Our Expert Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-best-budget-switch-emulation-tools/"><u>[Updated] Best Budget Switch Emulation Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-achieve-balance-and-vitality-top-10-premium-yoga-streams/"><u>[Updated] In 2024, Achieve Balance & Vitality - Top 10 Premium Yoga Streams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adobe-memefixer-a-humorous-journey/"><u>2024 Approved Adobe Memefixer A Humorous Journey</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-sonys-newest-virtual-reality-marvel-insights-into-pricing-launch-timeline-and-specs/"><u>Anticipating Sony's Newest Virtual Reality Marvel: Insights Into Pricing, Launch Timeline & Specs!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-browse-instagram-privately-even-if-you-dont-have-an-account/"><u>How to Browse Instagram Privately, Even If You Don’t Have an Account</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigate-the-world-of-video-conferencing/"><u>Navigate the World of Video Conferencing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsungs-cutting-edge-smartphone-lineup-debuts-in-spectacular-showcase/"><u>Samsung's Cutting-Edge Smartphone Lineup Debuts in Spectacular Showcase</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-restoring-your-invisible-wi-fi-connection/"><u>Solutions for Restoring Your Invisible Wi-Fi Connection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-countdown-to-official-desktop-chatgpt-boost-productivity-with-these-premium-free-to-use-alternatives-in-the-meantime/"><u>The Countdown to Official Desktop ChatGPT: Boost Productivity with These Premium, Free-to-Use Alternatives in the Meantime</u></a></li>
+</ul></div>
 

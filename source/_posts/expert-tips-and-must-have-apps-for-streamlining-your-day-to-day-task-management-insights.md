@@ -1,7 +1,7 @@
 ---
 title: Expert Tips & Must-Have Apps for Streamlining Your Day-to-Day Task Management - Insights
-date: 2024-10-26T16:22:01.614Z
-updated: 2024-10-27T17:00:27.667Z
+date: 2025-03-01T20:45:47.299Z
+updated: 2025-03-05T20:02:48.948Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -61,19 +54,6 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
@@ -93,13 +73,6 @@ Actually, scratch that. I no longer take my iPhone to bed with me. Instead, I we
 The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -190,13 +163,6 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)](https://www.zdnet.com/article/why-im-recommending-the-standard-iphone-16-over-the-pro-this-year-and-im-not-alone/)
@@ -205,19 +171,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Rust in Linux now: Progress, pitfalls, and why devs and maintainers need each other](https://www.zdnet.com/article/rust-in-linux-now-progress-pitfalls-and-why-devs-and-maintainers-need-each-other/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -298,16 +251,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-jaunt-vr-unleashed-an-in-depth-look/"><u>[New] In 2024, Jaunt VR Unleashed An In-Depth Look</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-precision-and-savings-combined-top-asmr-microphones-within-reach/"><u>[New] Precision & Savings Combined Top ASMR Microphones Within Reach</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-beginners-guide-to-weekly-virtual-office-hours-for-2024/"><u>[Updated] The Beginner's Guide to Weekly Virtual Office Hours for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/administrators-handbook-altering-password-settings-for-different-accounts-on-windows-systems/"><u>Administrator's Handbook: Altering Password Settings for Different Accounts on Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-successful-strategies-for-navigating-lg-channels/"><u>Decoding Successful Strategies for Navigating LG Channels</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-iphone-enthusiasts-can-join-and-view-shared-albums-with-simple-instructions/"><u>How iPhone Enthusiasts Can Join and View Shared Albums with Simple Instructions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-f3-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Gionee F3 Pro FRP?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/reveal-the-secrets-top-12-ways-to-bring-non-showing-fb-vids-into-view/"><u>Reveal the Secrets Top 12 Ways to Bring Non-Showing FB Vids Into View</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/selecting-prime-meme-blueprints/"><u>Selecting Prime Meme Blueprints</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-d3dx930dll-file-not-found-step-by-step-guide/"><u>Solving the d3dx9_30.dll File Not Found: Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-abilities-with-16-complimentary-sign-language-resources/"><u>Transform Your Abilities with 16 Complimentary Sign Language Resources</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-speedy-snapshot-and-voice-guided-session-creator/"><u>[Updated] Speedy Snapshot & Voice-Guided Session Creator</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-bootable-software-our-top-15-picks-against-viruses/"><u>Best Free Bootable Software: Our Top 15 Picks Against Viruses</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnose-and-repair-the-wlanapidll-not-found-error-effectively/"><u>Diagnose and Repair the 'WLANAPI.DLL Not Found' Error Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-steps-to-correct-haldll-file-not-found-issues-in-windows-xp/"><u>Essential Steps to Correct 'hal.dll' File Not Found Issues in Windows XP</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-into-the-samsung-galaxy-watch-active-your-ally-for-personal-fitness-goals/"><u>Expert Insights Into the Samsung Galaxy Watch Active: Your Ally for Personal Fitness Goals</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/free-download-of-the-latest-pcdj-version-317-plus-exclusive-integration-with-tidal-music-streaming/"><u>Free Download of the Latest PCDJ Version 3.17 + Exclusive Integration with Tidal Music Streaming</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a58-4g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A58 4G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-connection-merging-psvr-technology-with-your-desktop-pc/"><u>Mastering the Connection: Merging PSVR Technology with Your Desktop PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pairing-it-right-your-essential-handbook-for-duets-on-the-popular-app-tiktok/"><u>Pairing It Right: Your Essential Handbook for Duets on the Popular App TikTok</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-legacy-boot-configurations/"><u>Reinstating Legacy Boot Configurations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-from-windows-11-learn-how-to-effectively-restart-your-pc-now/"><u>Unstuck From Windows 11? Learn How to Effectively Restart Your PC Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wanderlust-dreamers-guide-the-66-premier-twitter-accounts-for-amazing-deals-sage-advice-and-unforgettable-adventures/"><u>Wanderlust Dreamers' Guide: The 66 Premier Twitter Accounts for Amazing Deals, Sage Advice & Unforgettable Adventures</u></a></li>
 </ul></div>
 

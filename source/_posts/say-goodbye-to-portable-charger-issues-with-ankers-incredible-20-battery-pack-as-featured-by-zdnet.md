@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Portable Charger Issues with Anker's Incredible $20 Battery Pack, as Featured by ZDNet
-date: 2025-02-16T00:38:55.944Z
-updated: 2025-02-16T18:41:17.992Z
+date: 2025-02-26T20:39:11.513Z
+updated: 2025-03-05T17:37:46.787Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 Lipstick-sized charger
 
@@ -67,10 +63,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Impressive charging power for its size
 
 The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-pro-hands-on-review/) to 68%, according to Anker. In my experience, it charged my Samsung Z Flip 4 from zero to 30% in half an hour. 
@@ -78,10 +70,6 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 **Also:** [**My everyday Anker power bank has a genius feature that makes it irreplaceable**](https://www.zdnet.com/article/my-everyday-anker-power-bank-has-a-genius-feature-that-makes-it-irreplaceable/)
 
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
 
@@ -95,17 +83,9 @@ Sabrina Ortiz/ZDNET
 
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfdc9ef05-43fd-4fe9-9779-fb1c208791b1%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -141,21 +121,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-vlc-vs-mpc-battle-of-the-best-free-video-player/"><u>[New] 2024 Approved VLC Vs. MPC Battle of the Best Free Video Player</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-voice-only-visionaries-vs-youtube-enthusiasts-for-2024/"><u>[New] Voice-Only Visionaries Vs. YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-edge-professional-guide-to-youtube-editing/"><u>[Updated] 2024 Approved Cutting Edge Professional Guide to YouTube Editing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-exclusive-insiders-pick-best-open-world-games/"><u>2024 Approved Exclusive Insider's Pick Best Open World Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-step-by-step-fix-for-nonfunctional-apps-on-samsung-tvs/"><u>A Step-by-Step Fix for Nonfunctional Apps on Samsung TVs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/build-a-custom-vr-device-diy-google-cardboard-guide/"><u>Build a Custom VR Device DIY Google Cardboard Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/captivating-imagery-assemblies-your-lifelong-collection/"><u>Captivating Imagery Assemblies Your Lifelong Collection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciding-on-a-roku-streamer-what-sets-the-roku-express-apart-from-the-original-stick-model/"><u>Deciding on a Roku Streamer: What Sets the Roku Express Apart From the Original Stick Model?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/demystifying-3d-manufacturing-economics-expert-tips-on-computing-production-expenses/"><u>Demystifying 3D Manufacturing Economics: Expert Tips on Computing Production Expenses</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-computers-performance-with-these-26-editor-picked-no-cost-registry-tools/"><u>Enhance Your Computer's Performance with These 26 Editor-Picked, No-Cost Registry Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-apple-watch-series-x-anticipated-features-pricing-insights-and-projected-launch-timeline/"><u>Inside Apple Watch Series X: Anticipated Features, Pricing Insights & Projected Launch Timeline</u></a></li>
-<li><a href="https://some-tips.techidaily.com/locating-your-apps-executable-in-no-time-a-fast-guide-for-windows-10-users/"><u>Locating Your App's Executable in No Time: A Fast Guide for Windows 10 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-clearing-browser-caches-on-all-leading-browsers/"><u>Step-by-Step Guide: Clearing Browser Caches on All Leading Browsers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-a-comprehensive-guide-to-saving-with-a-dell-scholarship-offer/"><u>Unlocking the Secrets: A Comprehensive Guide to Saving with a Dell Scholarship Offer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upcoming-samsung-galaxy-s25-unveiling-the-latest-rumors-on-specs-launch-date-and-pricing/"><u>Upcoming Samsung Galaxy S25 - Unveiling the Latest Rumors on Specs, Launch Date & Pricing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ptimizing-youtube-performance-crafting-perfect-titles-and-tags-for-2024/"><u>[New] Optimizing YouTube Performance Crafting Perfect Titles and Tags for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-translated-subtitles-for-global-igtv-audience/"><u>[New] Translated Subtitles for Global IGTV Audience</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-capture-the-vibes-fast-access-to-tiktok-content/"><u>[Updated] In 2024, Capture the Vibes - Fast Access to TikTok Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-through-sns-hdr-effectiveness-and-hdr-competitors/"><u>[Updated] Navigating Through SNS HDR Effectiveness & HDR Competitors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-urban-pursuit-without-the-need-for-gta/"><u>2024 Approved Urban Pursuit Without the Need for GTA</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-guide-on-utilizing-the-internet-archives-wayback-machine/"><u>A Comprehensive Guide on Utilizing the Internet Archive's Wayback Machine</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-notepad-on-win11-via-ingenious-sage/"><u>Improve Notepad on Win11 via Ingenious Sage</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-vivo-y200e-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo Y200e 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/lightning-links-effective-steps-to-test-network-adapter-latency/"><u>Lightning Links: Effective Steps to Test Network Adapter Latency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-ps5s-charging-functionality-a-guide-for-unresponsive-controllers/"><u>Revive Your PS5's Charging Functionality – A Guide for Unresponsive Controllers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722903690173-samsung-soundbar-woes-heres-how-to-bring-it-back-from-the-dead/"><u>Samsung Soundbar Woes? Here's How to Bring It Back From the Dead!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-dilemma-a-step-by-step-guide-to-rectify-windows-11s-black-screen-problem/"><u>Solving the Dilemma: A Step-by-Step Guide to Rectify Windows 11'S Black Screen Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stream-the-latest-hits-a-guide-to-watching-music-videos-online/"><u>Stream the Latest Hits: A Guide to Watching Music Videos Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-oovoo-and-manycam-friendly-webcam-tools-for-improved-online-communication/"><u>Top OoVoo & ManyCam-Friendly Webcam Tools for Improved Online Communication</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-xbox-virtual-reality-gear-unveiling-release-date-pricing-and-features/"><u>Upcoming Xbox Virtual Reality Gear - Unveiling Release Date, Pricing & Features!</u></a></li>
 </ul></div>
 

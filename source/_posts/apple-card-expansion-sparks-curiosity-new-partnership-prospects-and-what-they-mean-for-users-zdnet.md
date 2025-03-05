@@ -1,7 +1,7 @@
 ---
 title: "Apple Card Expansion Sparks Curiosity: New Partnership Prospects and What They Mean for Users | ZDNET"
-date: 2024-11-17T01:54:28.276Z
-updated: 2024-11-18T21:28:58.558Z
+date: 2025-03-02T18:27:58.525Z
+updated: 2025-03-05T18:11:23.008Z
 tags:
   - apple
 categories:
@@ -60,31 +60,11 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Credit card partnerships:** Including the lucrative Apple and GM partnerships, this segment is part of the $4.5 billion figure.
 * **GreenSky:** A $2.2 billion merchant lending platform, expanding Goldman's footprint in point-of-sale financing.
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The potential acquisition scenarios
 
 * **Complete portfolio acquisition:** This scenario would involve a financial giant like Chase or Bank of America acquiring the entire portfolio, leveraging their extensive consumer banking operations.
 * **Piecemeal acquisition:** Various segments of Goldman's business could appeal to different players, such as regional banks, fintech companies, or specialized credit card issuers.
 * **Tokenization technology:** This is a critical aspect, especially for the Apple Card segment. With strong digital banking capabilities, potential partners like Chase or Citi may be better equipped to integrate or replicate this technology.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The potential new partners
 
@@ -95,25 +75,11 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Bank of America:** Its $480.6 billion in assets and significant technological investments position it as a strong contender for managing the Apple Card and integrating Goldman's broader consumer business. However, it would require extensive strategic planning.
 * **Synchrony Financial:** Per the [Wall Street Journal](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45?mod=djemalertNEWS), the financial services company has expressed interest in taking over Apple Card. Synchrony, [the largest issuer of store credit cards in the US](https://upgradedpoints.com/credit-cards/synchrony-bank-store-credit-cards/), lends to a broad category of consumers, including those with bad credit. The company vied against Goldman during the inception of the Apple credit card program but lost during the bidding process. I tend to feel that Synchrony is a wildcard compared with the giants above, as implementing the technology that Apple Card needs will be a significant challenge.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Customer expectations will remain high
 
 The transition will have significant implications for Apple Card users. Maintaining the card's security, functionality, and user trust is crucial. Apple Card customers are used to excellent tech support and issue resolution, [something that I personally have experienced, especially during the worst of COVID-19 pandemic](https://www.zdnet.com/article/why-i-love-apple-card-in-the-age-of-covid/). Whoever takes over the banking relationship must also provide the [same great backend for Apple's UX in Wallet](https://www.zdnet.com/article/insanely-great-apple-card-is-a-few-features-away-from-conquering-everything/) and great phone support.
 
 Still, I do not expect there to be many real concerns on the part of Apple's customers. Apple is not the sort of company to leave its customers high and dry or to burden them with a shift that would give them less functionality or alter the product's ease of use for the worse. If anything, I expect the situation to improve, such as making it easier for people to apply and get approved -- [an issue that the service has dealt with while under Goldman's stewardship.](https://www.zdnet.com/article/apple-card-issuer-investigated-over-gender-bias-in-credit-algorithm/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## It won't be easy for Apple Card's new partner
 
@@ -157,22 +123,18 @@ The decision to acquire parts or all of Goldman Sachs' consumer business, includ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-recommendations-for-limitless-data-holding/"><u>[Updated] In 2024, Expert Recommendations for Limitless Data Holding</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlocking-google-meets-whiteboard-capabilities-on-diverse-tech-ecosystems/"><u>[Updated] In 2024, Unlocking Google Meet's Whiteboard Capabilities on Diverse Tech Ecosystems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-x9b-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor X9b</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-tiny-powerhouse-on-your-pocket-in-depth-insights-into-the-samsung-galaxy-s10e/"><u>A Tiny Powerhouse on Your Pocket: In-Depth Insights Into the Samsung Galaxy S10e</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-about-samsung-tv-apps-features-functionality-and-tips-for-optimal-use/"><u>All About Samsung TV Apps: Features, Functionality, and Tips for Optimal Use</u></a></li>
-<li><a href="https://techtrends.techidaily.com/aol-email-outage-faqs-identifying-if-the-problem-is-with-your-account-or-network/"><u>AOL Email Outage FAQs: Identifying if the Problem Is with Your Account or Network</u></a></li>
-<li><a href="https://techtrends.techidaily.com/beating-the-0x80070570-glitch-expert-troubleshooting-steps/"><u>Beating the 0X80070570 Glitch: Expert Troubleshooting Steps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/boost-ig-content-three-steps-for-compelling-video-descriptions/"><u>Boost IG Content - Three Steps for Compelling Video Descriptions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/disabling-the-autoplay-feature-in-apple-music-tips-and-tricks/"><u>Disabling the Autoplay Feature in Apple Music - Tips & Tricks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-play-8t-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor Play 8T to Protect Your Individual Information</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-for-streamlining-iphone-video-content/"><u>In 2024, The Ultimate Guide for Streamlining iPhone Video Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-playlist-integration-on-spotify-for-a-seamless-listening-experience/"><u>Mastering the Art of Playlist Integration on Spotify for a Seamless Listening Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-mastering-quantum-hdr-for-2024/"><u>Step by Step Guide to Mastering Quantum HDR for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamlined-setup-connecting-multiple-bluetooth-units-to-a-single-source/"><u>Streamlined Setup: Connecting Multiple Bluetooth Units to a Single Source</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-impact-of-memory-bandwidth-and-delay-on-computer-performance/"><u>Understanding the Impact of Memory Bandwidth & Delay on Computer Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-11-on-screen-keyboard-management-a-quick-how-to/"><u>Windows 11 On-Screen Keyboard Management - A Quick How-To</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ackward-playmanship-a-guide-to-reversed-youtube-videos-for-2024/"><u>[New] Backward Playmanship A Guide to Reversed YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-audio-anomalies-essential-rhythm-altering-tools/"><u>[Updated] In 2024, Audio Anomalies Essential Rhythm Altering Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-personal-vocalization-changing-your-tone-for-stories-and-reels-for-2024/"><u>[Updated] Personal Vocalization Changing Your Tone for Stories & Reels for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-techniques-to-preserve-your-windows-11-and-10-drivers-easily/"><u>Essential Techniques to Preserve Your Windows 11 & 10 Drivers Easily</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267248411-expert-data-recovery-solutions-for-iphones-get-yours-now-and-safeguard-your-photos-videos-and-more/"><u>Expert Data Recovery Solutions for iPhones - Get Yours Now & Safeguard Your Photos, Videos & More!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-it-protocol-tackling-persistent-windows-update-errors/"><u>Fix-It Protocol: Tackling Persistent Windows Update Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-amd-drivers-missing-from-windows-device-manager-comprehensive-guide/"><u>Fixing AMD Drivers Missing From Windows Device Manager – Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-techniques-for-ethically-following-a-phones-digital-trail/"><u>Free Techniques for Ethically Following a Phone's Digital Trail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gaming-at-its-peak-elevating-frame-rates-and-reducing-delays-in-genshin-impact/"><u>Gaming at Its Peak: Elevating Frame Rates and Reducing Delays in Genshin Impact</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-logitech-keyboards-not-detected-on-windows-10/"><u>How to Fix Logitech Keyboards Not Detected on Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transforma-archivos-de-video-3gp-a-imagenes-animadas-gif-gratuito-guia-de-movavi/"><u>Transforma Archivos De Video 3GP a Imágenes Animadas GIF Gratuito - Guía De Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/usbwindows-server-202/"><u>USBドライブでWindows Server 202#を効率よくバックアップするコツと方法</u></a></li>
 </ul></div>
 

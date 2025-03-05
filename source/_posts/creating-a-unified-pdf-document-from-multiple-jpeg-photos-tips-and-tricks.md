@@ -1,7 +1,7 @@
 ---
 title: Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
-date: 2025-02-15T18:49:33.264Z
-updated: 2025-02-17T00:04:52.030Z
+date: 2025-03-02T20:07:09.591Z
+updated: 2025-03-05T19:07:04.496Z
 categories:
   - BestProducts
 description: This Article Describes Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
@@ -42,22 +42,10 @@ Close
 ![Microsoft Print to PDF in Windows 10 Printer dialog](https://www.lifewire.com/thmb/p3IiqiFSFIE5T7z1aC3c8Y9RVnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle49-bc1e4c00c6774f3facef9276808e1a6b.jpg)
 5. Adjust the image quality and choose from the layout options on the right side. Select**Options** if you want to sharpen the image. If your images appear cut off in the preview, uncheck the**Fit picture to frame** box.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Page layout options and Fit picture to frame in Windows 10 Printer dialog](https://www.lifewire.com/thmb/tkUIXck5JLhGBfEsRA02SwVbtNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle50-bcbea8fd36a64719a058a084fad2c4f0.jpg)
 6. Select**Print** , then enter a name for the PDF and choose where you want to save it. Select**Save** to finish.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Print in the Windows 10 Print dialog](https://www.lifewire.com/thmb/2Ve0tNTzgukORg7veZOabgwkyD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle51-bee55e87fe864de785e575acb043f1b2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You now have a PDF file containing all your images you can print or attach to an email.  
 
@@ -71,10 +59,6 @@ Close
 ![Preview in the Finder context menu on Mac](https://www.lifewire.com/thmb/cd431MkhBC0DtgvHDda29AAVxyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle52-7e463ca835a8452a8e6255c8f84e7bc5.jpg)
 2. Click-and-drag the photos in the sidebar to rearrange their order. When you're satisfied, select**File** \>**Print** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![File > Print in the Preview App on Mac](https://www.lifewire.com/thmb/bTVXwB2AO30wNTho1uUG29uMbO0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle53-cdf4bfc9cb524ba29d6066571dc99d05.jpg)
 3. In the**PDF** drop-down menu, choose**Save as PDF** .  
 
@@ -83,10 +67,6 @@ Close
 4. Give the PDF file a name, choose a location to save it to, and select**Save** .  
 
 ![Save in the Mac Printer dialog](https://www.lifewire.com/thmb/FmYdGvQKyHwYA4fZ_QhlEy9pNfw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle55-649384770aa24fadaacad3a10af64d07.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you open the PDF, you can add more images by dragging them into the document. To delete an image, select it > go to the Preview menu > click**Edit** \>**Delete** .
 
@@ -128,17 +108,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-integrating-wirecast-into-your-youtube-livestream-strategy/"><u>[Updated] 2024 Approved Integrating WireCast Into Your YouTube Livestream Strategy</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-path-to-popularity-making-videos-go-viral/"><u>[Updated] The Path to Popularity Making Videos Go Viral</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>[Updated] Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-effective-solutions-for-dealing-with-code-pressing-the-c-key-twice-to-activate-code-completion-or-if-necessary-reinstalling-or-repairing-your-of36/"><u>Expert Tips: Effective Solutions for Dealing with Code Pressing the 'C' Key Twice to Activate Code Completion or, if Necessary, Reinstalling or Repairing Your Office Software From a Trusted Source Can Also Be Effective Solutions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/hear-today-sound-tomorrow-a-look-at-paww-audio-triad/"><u>Hear Today, Sound Tomorrow: A Look at Paww Audio Triad</u></a></li>
-<li><a href="https://fox-links.techidaily.com/leading-the-way-in-high-res-display-technology-for-2024/"><u>Leading the Way in High-Res Display Technology for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-craft-the-ultimate-guide-to-using-the-top-mac-os-document-editing-app-tips-and-tricks-revealed/"><u>Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/next-level-technology-unveiled-discover-the-latest-evolution-in-iphones/"><u>Next-Level Technology Unveiled: Discover the Latest Evolution in iPhones</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/utionize-your-lessons-implementing-youtube-in-the-academic-realm-for-2024/"><u>Revolutionize Your Lessons Implementing YouTube in the Academic Realm for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/snapping-memories-from-your-gameplay-step-by-step-photos-on-ps4/"><u>Snapping Memories From Your Gameplay: Step-by-Step Photos on PS4</u></a></li>
-<li><a href="https://extra-information.techidaily.com/superior-steadicams-for-drone-shooting-precision/"><u>Superior Steadicams for Drone Shooting Precision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/voice-activation-unveiled-windows-11-edition/"><u>Voice Activation Unveiled: Windows 11 Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>[New] Photography Tutorial How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-continuous-media-logging-firms/"><u>[Updated] 2024 Approved Continuous Media Logging Firms</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-proreact-black-dashboard-elite-administrator-template-with-bootstrap-4-by-creative-tim/"><u>1. ProReact Black Dashboard: Elite Administrator Template with Bootstrap 4 by Creative Tim</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unbox-t5-and-explore-its-action-filming-capabilities/"><u>2024 Approved Unbox T5 and Explore Its Action Filming Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-espnplus-for-enthusiasts-an-insight-into-disneys-cutting-edge-streaming-solution/"><u>Decoding ESPN+ for Enthusiasts: An Insight Into Disney's Cutting-Edge Streaming Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-creating-the-perfect-home-theater-setup-for-watching-the-super-bowl-live/"><u>Expert Advice on Creating the Perfect Home Theater Setup for Watching the Super Bowl Live</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-harness-facebook-videos-on-devices-with-new-tool/"><u>In 2024, Harness Facebook Videos on Devices with New Tool</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-navigating-networking-on-linkedin/"><u>In 2024, Navigating Networking on LinkedIn</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-simplifying-avi-gif-conversion-with-filmora-on-windowsmac/"><u>In 2024, Simplifying AVI-GIF Conversion with Filmora on Windows/Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-windows-explorer-with-hidden-pathbar-tricks-revealed/"><u>Navigating Windows Explorer with Hidden Pathbar Tricks Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-access-tackling-onedrive-logins-in-windows/"><u>Reviving Access: Tackling OneDrive Logins in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-chromebook-freezing-issue-a-step-by-step-guide/"><u>Solving the Chromebook Freezing Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-repairing-the-error-when-steamdll-cant-be-located/"><u>Step-by-Step Guide: Repairing the Error When Steam.dll Can't Be Located</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-no-cost-computer-system-optimizers-for-2pc/"><u>The Ultimate List of No-Cost Computer System Optimizers for 2Pc</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-and-tricks-for-seamless-integration-of-nintendo-switch-console-with-your-television-setup/"><u>Tips & Tricks for Seamless Integration of Nintendo Switch Console With Your Television Setup</u></a></li>
 </ul></div>
 
